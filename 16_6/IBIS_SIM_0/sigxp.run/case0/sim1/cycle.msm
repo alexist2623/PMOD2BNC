@@ -1,0 +1,73 @@
+(CycleMeasurements 
+ ("ibis_sim_0.IO3.1" 
+  (BasicData 
+   (vlohi 0.8 ) 
+   (vhilo 2 ) 
+   (tldelay 1e-010 ) 
+   (vinit 3.29998 ) ) 
+  (Cycles 
+   (3 
+    (Fall 
+     (EarliestSwitch 
+      (volt 2 ) 
+      (time 1.41779e-007 ) ) 
+     (FirstSwitch 
+      (volt 0.8 ) 
+      (time 1.42045e-007 ) ) 
+     (MinMaxEvents 
+      (maximum 
+       (volt 0.134494 ) 
+       (time 1.43039e-007 ) ) 
+      (minimum 
+       (volt -0.251981 ) 
+       (time 1.42525e-007 ) ) ) ) 
+    (Rise 
+     (EarliestSwitch 
+      (volt 0.8 ) 
+      (time 1.61479e-007 ) ) 
+     (FirstSwitch 
+      (volt 2 ) 
+      (time 1.61767e-007 ) ) 
+     (MinMaxEvents 
+      (maximum 
+       (volt 3.35421 ) 
+       (time 1.62523e-007 ) ) 
+      (minimum 
+       (volt 3.26025 ) 
+       (time 1.62947e-007 ) ) ) ) ) ) ) 
+ ("ibis_sim_0.IO2.1" 
+  (BasicData 
+   (vlohi 0.8 ) 
+   (vhilo 2 ) 
+   (tldelay 0 ) 
+   (vinit 3.29998 ) ) 
+  (Cycles 
+   (3 
+    (Fall 
+     (EarliestSwitch 
+      (volt 2 ) 
+      (time 1.41745e-007 ) ) 
+     (FirstSwitch 
+      (volt 0.8 ) 
+      (time 1.42082e-007 ) ) 
+     (MinMaxEvents 
+      (maximum 
+       (volt 0.038745 ) 
+       (time 1.43334e-007 ) ) 
+      (minimum 
+       (volt -0.0716203 ) 
+       (time 1.42813e-007 ) ) ) ) 
+    (Rise 
+     (EarliestSwitch 
+      (volt 0.8 ) 
+      (time 1.61375e-007 ) ) 
+     (FirstSwitch 
+      (volt 2 ) 
+      (time 1.61822e-007 ) ) 
+     (MinMaxEvents 
+      (maximum 
+       (volt 3.32178 ) 
+       (time 1.62817e-007 ) ) 
+      (minimum 
+       (volt 3.28331 ) 
+       (time 1.63251e-007 ) ) ) ) ) ) ) ) 
