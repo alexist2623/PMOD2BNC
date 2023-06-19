@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp codebase="http://www.spisim.com/apps/IBIS/" href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>SPISIM_IBIS</title>
+        <vendor>SPISim LLC</vendor>
+        <homepage href="www.spisim.com"/>
+        <description>A free web-based application for IBIS to Spice conversion developed by SPISim.</description>
+        <description kind="short">SPISIM_IBIS</description>
+        <shortcut online="false">
+            <desktop/>
+                <menu submenu="SPISim">
+                <menu submenu="IBIS to Spice Conv."/>
+                </menu>
+        </shortcut>        
+    <icon href="splash_webapp.gif" kind="splash"/>
+<icon href="SPISim_IBIS.png" kind="default"/>
+</information>
+    <!--${JNLP.UPDATE_WEI_DISABLED}-->
+    <update check="always" policy="always"/>
+    <security>
+<all-permissions/>
+</security>
+    <resources>
+        <j2se java-vm-args="-Xmx512M" version="1.8+"/>
+        <jar href="SPISIM_IBIS.jar" main="true" version="2021011101"/>
+        <property name="jnlp.versionEnabled" value="true"/>
+        <!--${JNLP.RESOURCES.JARS_WEI_DISABLED}-->
+        <!--${JNLP.RESOURCES.EXTENSIONS_WEI_DISABLED}-->
+    </resources>
+    <application-desc main-class="spisim_ibis.main.SPISIM_IBIS">
+    </application-desc>
+</jnlp>
