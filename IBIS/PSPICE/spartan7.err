@@ -1,0 +1,7 @@
+STATUS: PSpice Schematics to Capture translator (22.1.0.d001)
+STATUS:  
+STATUS: Translator started at Monday, June 19, 2023 13:13:10
+INFO(ORSCH-1029): Using existing library 'C:\Cadence\SPB_22.1\tools\Capture\Library\PSpice\modeled.etc'.
+INFO(ORSCH-1031): Created new library 'C:\Jeonghyun\GIT\PMOD2BNC\IBIS\PSPICE\spartan7.olb'.
+STATUS: Translator stopped at Monday, June 19, 2023 13:13:14
+STATUS: 0 Error messages, 0 Warning messages

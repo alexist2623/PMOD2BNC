@@ -1,0 +1,127 @@
+(ExpressProject "IBIS_SIM"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "22.1 S003 (4095733)  [3/19/2023]-[06/19/23]")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "C:\Cadence\SPB_22.1\tools\capture\library\pspice\analog.olb"
+        (DisplayName
+           "C:\Cadence\SPB_22.1\tools\capture\library\pspice\analog.olb")
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_22.1\tools\capture\library\pspice\breakout.olb"
+        (DisplayName
+           "C:\Cadence\SPB_22.1\tools\capture\library\pspice\breakout.olb")
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_22.1\tools\capture\library\pspice\source.olb"
+        (DisplayName
+           "C:\Cadence\SPB_22.1\tools\capture\library\pspice\source.olb")
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_22.1\tools\capture\library\pspice\special.olb"
+        (DisplayName
+           "C:\Cadence\SPB_22.1\tools\capture\library\pspice\special.olb")
+        (Type "Schematic Library"))
+      (File "..\ibis\pspice\spartan7.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File "ibis_sim.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "1")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "TRUE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE"))
+  (Folder "Layout")
+  (Folder "Outputs"
+    (File ".\ibis_sim-pspicefiles\schematic1\schematic1.net"
+      (Type "Report")))
+  (Folder "PSpice Resources"
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User))
+    (Folder "Simulation Profiles"
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\ibis_sim-pspicefiles\schematic1\bias.sim"
+        (DisplayName "SCHEMATIC1-bias")
+        (Type "PSpice Profile"))
+      (ActiveProfile ".\ibis_sim-pspicefiles\schematic1\trans.sim")
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\ibis_sim-pspicefiles\schematic1\trans.sim"
+        (DisplayName "SCHEMATIC1-Trans")
+        (Type "PSpice Profile"))))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (SPARTAN7_SSTL15_R_S_HR_TYP
+      (FullPartName "SPARTAN7_SSTL15_R_S_HR_TYP.Normal")
+      (LibraryName "C:\JEONGHYUN\GIT\PMOD2BNC\IBIS\PSPICE\SPARTAN7.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-L
+      (LibraryName "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (SPARTAN7_LVCMOS33_S_12_HR_TYP
+      (FullPartName "SPARTAN7_LVCMOS33_S_12_HR_TYP.Normal")
+      (LibraryName "C:\JEONGHYUN\GIT\PMOD2BNC\IBIS\PSPICE\SPARTAN7.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (VPULSE
+      (FullPartName "VPULSE.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (VDC
+      (FullPartName "VDC.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "..\..\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (L
+      (FullPartName "L.Normal")
+      (LibraryName "..\..\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (VSTIM
+      (FullPartName "VSTIM.Normal")
+      (LibraryName "..\..\LIBRARY\PSPICE\SOURCSTM.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "LIBRARY\PSPICE")
+  (MPSSessionName "alexi")
+  (Folder "Logs")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "C:\Jeonghyun\GIT\PMOD2BNC\22_1\ibis_sim.dsn")
+      (Path "Design Resources" "C:\Jeonghyun\GIT\PMOD2BNC\22_1\ibis_sim.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Select "Design Resources" "Library"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 736"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 639 24 754")
+        (Scroll "0 0")
+        (Zoom "97")
+        (Occurrence "/"))
+      (Path "C:\JEONGHYUN\GIT\PMOD2BNC\22_1\IBIS_SIM.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
