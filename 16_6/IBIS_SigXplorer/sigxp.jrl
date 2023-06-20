@@ -1,0 +1,114 @@
+\t (00:00:16) sigxp 16.6 P002 (v16-6-112D) Windows 32
+\t (00:00:16)     Journal start - Tue Jun 20 15:58:01 2023
+\t (00:00:16)         Host=DESKTOP-KCLED0O User=ece Pid=10928 CPUs=6
+\t (00:00:16) 
+\t (00:00:16) Starting new design...
+\i (00:00:16) trapsize 8160
+\i (00:00:16) trapsize 8160
+\i (00:00:16) trapsize 8160
+   (00:00:16) Already Placed Circuit
+\i (00:00:17) trapsize 19
+\i (00:00:17) sigxp background 
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow sigxp
+\i (00:00:18) zoom out 5509.04 4256.65
+\i (00:00:18) trapsize 39
+\i (00:00:21) signal simulate 
+\i (00:00:25) sigxp background 
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow sigxp
+\i (00:00:28) zoom in 5487.77 4241.41
+\i (00:00:28) trapsize 19
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow sigxp
+\i (00:00:28) zoom in 5489.44 4241.26
+\i (00:00:28) trapsize 10
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow sigxp
+\i (00:00:28) zoom out 5489.67 4241.24
+\i (00:00:28) trapsize 19
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow sigxp
+\i (00:00:29) zoom out 5489.68 4241.24
+\i (00:00:29) trapsize 39
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow sigxp
+\i (00:00:29) zoom in 5490.53 4241.24
+\i (00:00:29) trapsize 19
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow sigxp
+\i (00:00:30) zoom out 5491.16 4241.20
+\i (00:00:30) trapsize 39
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow sigxp
+\i (00:00:31) zoom in 5501.21 4242.05
+\i (00:00:31) trapsize 19
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow sigxp
+\i (00:00:33) zoom out 5502.37 4243.06
+\i (00:00:33) trapsize 39
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow sigxp
+\i (00:00:34) zoom in 5502.38 4243.06
+\i (00:00:34) trapsize 19
+\i (00:00:35) pick grid 5506.95 4243.99
+\t (00:00:35) last pick:  5507.00  4244.00
+\i (00:00:36) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.DESIGN.R2.resistance VALUE
+\i (00:00:39) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.DESIGN.R2.resistance VALUE
+\i (00:00:41) spreadsheet Parameters STORE CIRCUIT.DESIGN.R2.resistance VALUE "0"
+\i (00:00:42) signal simulate 
+\i (00:00:44) sigxp background 
+\i (00:00:48) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.DESIGN.R2.resistance VALUE
+\i (00:00:50) pick grid 5508.03 4243.91
+\t (00:00:50) last pick:  5508.00  4244.00
+\i (00:00:50) pick grid dbl 5508.03 4243.91
+\t (00:00:50) last pick:  5508.00  4244.00
+\i (00:00:51) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.DESIGN.R2.resistance VALUE
+\i (00:00:52) spreadsheet Parameters STORE CIRCUIT.DESIGN.R2.resistance VALUE "10"
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow sigxp
+\i (00:00:54) zoom out 5510.08 4250.41
+\i (00:00:54) trapsize 39
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow sigxp
+\i (00:00:54) zoom out 5510.08 4250.41
+\i (00:00:54) trapsize 77
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow sigxp
+\i (00:00:54) zoom in 5510.09 4250.41
+\i (00:00:54) trapsize 39
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow sigxp
+\i (00:00:55) zoom in 5507.23 4249.09
+\i (00:00:55) trapsize 19
+\i (00:00:56) zoom out 1 
+\i (00:00:56) setwindow sigxp
+\i (00:00:56) zoom out 5506.42 4249.09
+\i (00:00:56) trapsize 39
+\i (00:00:57) prepopup 5478.72 4248.24
+\i (00:00:59) pop dyn_option_select '@:@Add Element...' 
+\i (00:01:01) setwindow form.sxaddpart
+\i (00:01:01) FORM sxaddpart modeltype Termination 
+\i (00:01:02) FORM sxaddpart parts Thevenin 
+\i (00:01:04) setwindow sigxp
+\i (00:01:04) pick grid 5481.20 4244.99
+\t (00:01:04) last pick:  5481.00  4245.00
+\i (00:01:05) setwindow form.sxaddpart
+\i (00:01:05) FORM sxaddpart done  
+\i (00:01:06) setwindow sigxp
+\i (00:01:06) pick grid 5480.89 4245.23
+\t (00:01:06) last pick:  5481.00  4245.00
+\i (00:01:07) pick grid 5497.06 4245.46
+\t (00:01:07) last pick:  5497.00  4245.50
+\i (00:01:08) drag_start grid 5482.90 4250.95
+\i (00:01:09) drag_stop grid 5485.99 4252.11
+\i (00:01:10) drag_start grid 5486.61 4253.12
+\i (00:01:11) drag_stop grid 5486.53 4252.27
+\i (00:01:11) pick grid 5491.72 4242.67
+\t (00:01:11) last pick:  5491.50  4242.50
+\i (00:01:12) signal simulate 
+\i (00:01:13) sigxp background 
+\i (00:01:17) exit 
+\e (00:01:17) Would you like to save the changes made in  IBIS_SIM_0.top
+\i (00:01:18) fillin yes 
+\t (00:01:18)     Journal end - Tue Jun 20 15:59:03 2023
