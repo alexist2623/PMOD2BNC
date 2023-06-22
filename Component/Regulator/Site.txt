@@ -1,0 +1,5 @@
+12V0 -> 5V0
+https://www.mouser.kr/ProductDetail/STMicroelectronics/LD29150DT50R?qs=aAqg3%2FLOD2EnUcor9%2F%252B%2FPQ%3D%3D
+
+12V0 -> 3V3
+https://www.mouser.kr/ProductDetail/STMicroelectronics/LD29150DT33R?qs=M4RLcaOHglr1iYLz8rxZ4g%3D%3D
