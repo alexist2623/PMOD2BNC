@@ -1,0 +1,8 @@
+5V0
+https://www.mouser.kr/ProductDetail/Nexperia/PRTR5V0U2X215?qs=LOCUfHb8d9sDkgY4cRj8Lw%3D%3D
+
+12V0
+https://www.mouser.kr/ProductDetail/Panjit/PE3212M1Q_R1_00001?qs=sPbYRqrBIVl4tc%2Fv9zwDVg%3D%3D
+
+3V3
+https://www.mouser.kr/ProductDetail/Semtech/UCLAMP3301H.TCT?qs=rBWM4%252BvDhIeimYmappCp5Q%3D%3D

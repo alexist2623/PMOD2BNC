@@ -1,0 +1,11 @@
+10u
+https://www.mouser.kr/ProductDetail/Vishay-BC-Components/MAL215375109E3?qs=sGAEpiMZZMsh%252B1woXyUXjzuV3IXCFK6VS7dWNybVuq0%3D
+
+1u
+https://www.mouser.kr/ProductDetail/KYOCERA-AVX/KAM03CT70J105KH?qs=sGAEpiMZZMsh%252B1woXyUXj4AFySyjmNfMDitVWVRU3rA%3D
+
+100n
+https://www.mouser.kr/ProductDetail/ATC-KYOCERA-AVX/550Z104MTT?qs=sGAEpiMZZMsh%252B1woXyUXj5Flmuaiuzip5GCNljeiZ0A%3D
+
+10n
+https://www.mouser.kr/ProductDetail/TAIYO-YUDEN/MAASL063SB7103MFCA01?qs=sGAEpiMZZMsh%252B1woXyUXj3XUfju0vRpjQpE8z53Gdps%3D
