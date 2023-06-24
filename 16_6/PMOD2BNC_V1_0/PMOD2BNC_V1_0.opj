@@ -2,7 +2,64 @@
   (ProjectVersion "19981106")
   (ProjectType "Analog or A/D Mixed Mode")
   (Folder "Design Resources"
-    (Folder "Library")
+    (Folder "Library"
+      (File ".\library\lib_74lvc1g3157gw_125\74lvc1g3157gw_125.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_031-6575_bnc\031_6576.olb"
+        (Type "Schematic Library"))
+      (File
+         ".\library\lib_74lvch2t45dc-q100h_transceiver\74lvch2t45dc_q100h.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_538-71764-0112_pin\71764_0114.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_90131-0123\90131_0123.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_462071104_pwrpin\46207_1104.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_5988260107f_led\5988260107f.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_blm18pg121sn1d\blm18pg121sn1d.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_bss138l_transistor\bss138l.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_ds04-254-2-01bk-smt\ds04_254_2_01bk_smt_tr.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_ds04-254-2-04bk-smt\ds04_254_2_04bk_smt.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_era-8aeb1580v_resistor\era_8aeb1580v.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_ld29150dt33r\ld29150dt33r.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_ld29150dt50r\ld29150dt50r.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_mal215375109e3\mal215375109e3.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_nlvhc1g14dft1g_invertor\nlvhc1g14dft1g.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_ntgd4167ct1g\ntgd4167ct1g.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_ntr3a052pzt1g\ntr3a052pzt1g.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_ntr4101p_transistor\ntr4101pt1g.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_nvr4501nt1g_transistor\nvr4501nt1g.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_prtr5v0u2x_215_5v0esd\prtr5v0u2x_215.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_rn73h2ettd1130a10\rn73h2ettd1130a10.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_rncp1206ftd1k00\rncp1206ftd1k00.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_rncp1206ftd10k0\rncp1206ftd10k0.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_rp73pf2a73r2btdf_resistor\rp73pf2a383kbtdf.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_si8620bc-b-is_isolator\si8620bc_b_is.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_si8650bb-b-is1_isolator\si8650bb_b_is1.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_uclamp3301h_tct_3v3esd\uclamp3301h_tct.olb"
+        (Type "Schematic Library")))
     (NoModify)
     (File ".\pmod2bnc_v1_0.dsn"
       (Type "Schematic Design"))
@@ -18,18 +75,37 @@
     (Folder "Include Files"
       (Sort User)))
   (DefaultLibraryBrowseDirectory "library\PSpice")
-  (PartMRUSelector)
+  (PartMRUSelector
+    (74LVC1G3157GW_125
+      (FullPartName "74LVC1G3157GW_125.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_74LVC1G3157GW_125\74LVC1G3157GW_125.OLB")
+      (DeviceIndex "0"))
+    (74LVCH2T45DC_Q100H
+      (FullPartName "74LVCH2T45DC_Q100H.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_74LVCH2T45DC-Q100H_TRANSCEIVER\74LVCH2T45DC_Q100H.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-L
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (71764_0114
+      (FullPartName "71764_0114.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_538-71764-0112_PIN\71764_0114.OLB")
+      (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
          "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn")
-      (Path "Design Resources"
-         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn" "SCHEMATIC1")
-      (Path "Design Resources"
-         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn"
-         "Design Cache")
-      (Select "Design Resources" "Library"))
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -39,9 +115,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1688 52 512")
-        (Scroll "-11 -2")
-        (Zoom "41")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1688 52 512")
+        (Scroll "-300 0")
+        (Zoom "65")
         (Occurrence "/"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "SCHEMATIC1")
