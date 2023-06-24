@@ -105,7 +105,14 @@
       (Path "Design Resources")
       (Path "Design Resources"
          "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn")
-      (Select "Design Resources"))
+      (Path "Design Resources"
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn"
+         "TRCV_MODULE")
+      (Select "Design Resources"
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn"
+         "TRCV_MODULE" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -115,11 +122,20 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1688 52 512")
-        (Scroll "-300 0")
-        (Zoom "65")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1688 52 512")
+        (Scroll "0 186")
+        (Zoom "102")
         (Occurrence "/"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1447 52 428")
+        (Scroll "-188 0")
+        (Zoom "100"))
+      (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
+      (Schematic "TRCV_MODULE")
       (Page "PAGE1")))
   (MPSSessionName "ece"))
