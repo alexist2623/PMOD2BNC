@@ -3,3 +3,9 @@ https://www.mouser.kr/ProductDetail/TE-Connectivity-Holsworthy/RP73PF2A73R2BTDF?
 
 157.14
 https://www.mouser.kr/ProductDetail/Panasonic/ERA-8AEB1580V?qs=sGAEpiMZZMvdGkrng054t5mej2KPdPuFOBdS9B1w6Xw%3D
+
+1k
+https://www.mouser.kr/ProductDetail/SEI-Stackpole/RNCP1206FTD1K00?qs=FESYatJ8odK%252BUUNH8WSe0A%3D%3D
+
+10k
+https://www.mouser.kr/ProductDetail/SEI-Stackpole/RNCP1206FTD10K0?qs=FESYatJ8odLQ8lJwene6Dg%3D%3D

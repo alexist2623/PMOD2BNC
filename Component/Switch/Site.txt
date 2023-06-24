@@ -1,2 +1,5 @@
 4 SPDT
 https://www.mouser.kr/ProductDetail/CUI-Devices/DS04-254-2-04BK-SMT?qs=wnTfsH77Xs5nLf1eOecRbw%3D%3D
+
+1SPDT
+https://www.mouser.kr/ProductDetail/CUI-Devices/DS04-254-2-01BK-SMT-TR?qs=wnTfsH77Xs4xXRFXKF0ssg%3D%3D
