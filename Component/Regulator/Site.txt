@@ -5,3 +5,18 @@ https://www.mouser.kr/ProductDetail/STMicroelectronics/LD29150DT50R?qs=aAqg3%2FL
 https://www.mouser.kr/ProductDetail/STMicroelectronics/LD29150DT33R?qs=M4RLcaOHglr1iYLz8rxZ4g%3D%3D
 
 All -> https://www.mouser.kr/ProductDetail/STMicroelectronics/LD29150PTR?qs=5TNKx16Kd9E0P%252BMrEzgr8Q%3D%3D
+
+V_REF = 1.23
+V_O = V_REF(1+R_1/R_2)
+
+For 3V3
+R_1/R_2 = 1.68292682927
+R_2/R_1 = 0.59420289855
+
+For 5V0
+R_1/R_2 = 3.06504065041
+R_2/R_1 = 0.32625994694
+
+R_1 = 1k (FIXED)
+3V3 
+5V0
