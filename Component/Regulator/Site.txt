@@ -3,3 +3,5 @@ https://www.mouser.kr/ProductDetail/STMicroelectronics/LD29150DT50R?qs=aAqg3%2FL
 
 12V0 -> 3V3
 https://www.mouser.kr/ProductDetail/STMicroelectronics/LD29150DT33R?qs=M4RLcaOHglr1iYLz8rxZ4g%3D%3D
+
+All -> https://www.mouser.kr/ProductDetail/STMicroelectronics/LD29150PTR?qs=5TNKx16Kd9E0P%252BMrEzgr8Q%3D%3D

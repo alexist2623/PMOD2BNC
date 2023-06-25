@@ -69,6 +69,14 @@
       (File ".\library\lib_pesd4usb3b-tbsx_3v3_esd\pesd4usb3b_tbsx.olb"
         (Type "Schematic Library"))
       (File ".\library\lib_pesd4usb5b-tbrx_5v0esd\pesd4usb5b_tbrx.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_kam03ct70j105kh_1uc\kam03ct70j105kh.olb"
+        (Type "Schematic Library"))
+      (File
+         ".\library\lib_msrlj103sb5104mfna01_100nc\msrlj103sb5104mfna01_100n.olb"
+        (Type "Schematic Library"))
+      (File
+         ".\library\lib_maasl063sb7103mfca01_10nc\maasl063sb7103mfca01_10n.olb"
         (Type "Schematic Library")))
     (NoModify)
     (File ".\pmod2bnc_v1_0.dsn"
@@ -86,21 +94,64 @@
       (Sort User)))
   (DefaultLibraryBrowseDirectory "library\PSpice")
   (PartMRUSelector
-    (PORTBOTH-L
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
     (NLVHC1G14DFT1G
       (FullPartName "NLVHC1G14DFT1G.Normal")
       (LibraryName
          "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_NLVHC1G14DFT1G_INVERTOR\NLVHC1G14DFT1G.OLB")
       (DeviceIndex "0"))
+    (NTR3A052PZT1G
+      (FullPartName "NTR3A052PZT1G.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_NTR3A052PZT1G\NTR3A052PZT1G.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-R
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (LD29150DT50R
+      (FullPartName "LD29150DT50R.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_LD29150DT50R\LD29150DT50R.OLB")
+      (DeviceIndex "0"))
+    (LD29150DT33R
+      (FullPartName "LD29150DT33R.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_LD29150DT33R\LD29150DT33R.OLB")
+      (DeviceIndex "0"))
+    (KAM03CT70J105KH_1u
+      (FullPartName "KAM03CT70J105KH_1u.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_KAM03CT70J105KH_1UC\KAM03CT70J105KH.OLB")
+      (DeviceIndex "0"))
+    (MSRLJ103SB5104MFNA01_100n
+      (FullPartName "MSRLJ103SB5104MFNA01_100n.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_MSRLJ103SB5104MFNA01_100NC\MSRLJ103SB5104MFNA01_100N.OLB")
+      (DeviceIndex "0"))
+    (MAASL063SB7103MFCA01_10n
+      (FullPartName "MAASL063SB7103MFCA01_10n.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_MAASL063SB7103MFCA01_10NC\MAASL063SB7103MFCA01_10N.OLB")
+      (DeviceIndex "0"))
+    (BLM18PG121SN1D
+      (FullPartName "BLM18PG121SN1D.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_BLM18PG121SN1D\BLM18PG121SN1D.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (46207_1104
+      (FullPartName "46207_1104.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_462071104_PWRPIN\46207_1104.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-L
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
     (NVR4501NT1G
       (FullPartName "NVR4501NT1G.Normal")
       (LibraryName
          "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_NVR4501NT1G_TRANSISTOR\NVR4501NT1G.OLB")
-      (DeviceIndex "0"))
-    (PORTBOTH-R
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (PESD4USB5B_TBRX
       (FullPartName "PESD4USB5B_TBRX.Normal")
@@ -146,9 +197,6 @@
     (GND
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
-    (VCC_BAR
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
     (RP73PF2A73R2BTDF
       (FullPartName "RP73PF2A73R2BTDF.Normal")
       (LibraryName
@@ -158,29 +206,6 @@
       (FullPartName "RP73PF2A383KBTDF.Normal")
       (LibraryName
          "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_RP73PF2A73R2BTDF_RESISTOR\RP73PF2A73R2BTDF.OLB")
-      (DeviceIndex "0"))
-    (ERA_8AEB1580V
-      (FullPartName "ERA_8AEB1580V.Normal")
-      (LibraryName
-         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_ERA-8AEB1580V_RESISTOR\ERA_8AEB1580V.OLB")
-      (DeviceIndex "0"))
-    (74LVC1G3157GW_125
-      (FullPartName "74LVC1G3157GW_125.Normal")
-      (LibraryName
-         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_74LVC1G3157GW_125\74LVC1G3157GW_125.OLB")
-      (DeviceIndex "0"))
-    (74LVCH2T45DC_Q100H
-      (FullPartName "74LVCH2T45DC_Q100H.Normal")
-      (LibraryName
-         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_74LVCH2T45DC-Q100H_TRANSCEIVER\74LVCH2T45DC_Q100H.OLB")
-      (DeviceIndex "0"))
-    (0
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (71764_0114
-      (FullPartName "71764_0114.Normal")
-      (LibraryName
-         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_538-71764-0112_PIN\71764_0114.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
@@ -192,15 +217,16 @@
       (Path "Design Resources"
          "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn" "ESD_MODULE")
       (Path "Design Resources"
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn" "POWER")
+      (Path "Design Resources"
          "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn" "TR_MODULE")
       (Path "Design Resources"
          "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn"
          "TRCV_MODULE")
-      (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library"
-         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\library\lib_nlvhc1g14dft1g_invertor\nlvhc1g14dft1g.olb")
-      (Select "Design Resources" "Library"
-         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\library\lib_nlvhc1g14dft1g_invertor\nlvhc1g14dft1g.olb"))
+      (Path "Design Resources"
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn"
+         "Design Cache")
+      (Path "Design Resources" "Library"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -210,8 +236,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1688 52 512")
-        (Scroll "0 211")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1688 52 512")
+        (Scroll "-19 211")
         (Zoom "102")
         (Occurrence "/"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
@@ -221,7 +247,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1447 52 428")
-        (Scroll "-13 182")
+        (Scroll "-13 42")
         (Zoom "136"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "TRCV_MODULE")
@@ -230,7 +256,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 104 1499 104 480")
-        (Scroll "-13 0")
+        (Scroll "-13 98")
         (Zoom "136"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "TR_MODULE")
@@ -243,5 +269,16 @@
         (Zoom "68"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "ESD_MODULE")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 156 1844 156 532")
+        (Scroll "0 0")
+        (Zoom "102"))
+      (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
+      (Schematic "POWER")
       (Page "PAGE1")))
-  (MPSSessionName "ece"))
+  (MPSSessionName "ece")
+  (LastUsedLibraryBrowseDirectory
+     "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\Library\LIB_KAM03CT70J105KH_1uC"))
