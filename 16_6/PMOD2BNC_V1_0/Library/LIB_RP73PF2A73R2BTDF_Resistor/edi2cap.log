@@ -4,11 +4,11 @@ Copyright (c) 1998-2005, Electronic Tools Company
 
 EDIF 2 0 0 to OrCAD Capture Schematic Conversion Program SPB 16.60_1.090 built Aug 29 2012
 
-Started on Sat Jun 24 18:58:25 2023
+Started on Sun Jun 25 11:16:17 2023
 
 Reading config file C:\Cadence\SPB_16.6\tools\capture\EDI2CAP.CFG
 
-Processing EDIF 2 0 0  file C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\Library\LIB_RP73PF2A73R2BTDF_Resistor\RP73PF2A383KBTDF.edf
+Processing EDIF 2 0 0  file C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\Library\LIB_RP73PF2A73R2BTDF_Resistor\RP73PF2A73R2BTDF.edf
 
 This EDIF file has unrecognized origin.
 EDIF 200: Syntax Error: source line 49: A '%' without trailing numbers found!
@@ -24,15 +24,15 @@ EDIF 200 parsing finished
 
 
 Design has no schematics => OrCAD Schematic will not be created
-Library C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_RP73PF2A73R2BTDF_RESISTOR\RP73PF2A383KBTDF.OLB is created
+Library C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_RP73PF2A73R2BTDF_RESISTOR\RP73PF2A73R2BTDF.OLB is created
               Design Unit is equal to 0.01000000 inches
               Calculated pinSpacing is equal to : 1.00000012 inches
               Calculated grid resolution is equal to: 100 Design Units
 Warning: Project is scaled in 0.1 times
 Design file has no schematics
 Converting Unreferenced Symbols from Design libraries
-Writing C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_RP73PF2A73R2BTDF_RESISTOR\RP73PF2A383KBTDF.INI file
-Library C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_RP73PF2A73R2BTDF_RESISTOR\RP73PF2A383KBTDF.OLB is being saved
+Writing C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_RP73PF2A73R2BTDF_RESISTOR\RP73PF2A73R2BTDF.INI file
+Library C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_RP73PF2A73R2BTDF_RESISTOR\RP73PF2A73R2BTDF.OLB is being saved
    ADVICE: If you DON'T LIKE the result:
     Do another orcadwrite run using one of the following sets of OrCAD writer options:
         'Min pin to pin spacing'=0.50000 inch(s), 'Grid'=50 design unit(s), 
@@ -44,7 +44,7 @@ Library C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_RP73PF2A73R2BTDF_RESI
         'Min pin to pin spacing'=0.10000 inch(s), 'Grid'=10 design unit(s), 
              results in 0 hotspots out of grid
 
-Finished on Sat Jun 24 18:58:25 2023
+Finished on Sun Jun 25 11:16:18 2023
 
 
 7 errors detected, 1 warning detected
