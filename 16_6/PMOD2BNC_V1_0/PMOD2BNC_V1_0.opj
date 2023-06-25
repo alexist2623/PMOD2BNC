@@ -61,6 +61,14 @@
       (File ".\library\lib_uclamp3301h_tct_3v3esd\uclamp3301h_tct.olb"
         (Type "Schematic Library"))
       (File ".\library\lib_rp73pf2a73r2btdf_resistor\rp73pf2a73r2btdf.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_pesd3v3s5ud\pesd3v3s5ud_115.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_pesd5v0s5ud\pesd5v0s5ud_115.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_pesd4usb3b-tbsx_3v3_esd\pesd4usb3b_tbsx.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_pesd4usb5b-tbrx_5v0esd\pesd4usb5b_tbrx.olb"
         (Type "Schematic Library")))
     (NoModify)
     (File ".\pmod2bnc_v1_0.dsn"
@@ -78,6 +86,42 @@
       (Sort User)))
   (DefaultLibraryBrowseDirectory "library\PSpice")
   (PartMRUSelector
+    (PORTBOTH-L
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (NLVHC1G14DFT1G
+      (FullPartName "NLVHC1G14DFT1G.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_NLVHC1G14DFT1G_INVERTOR\NLVHC1G14DFT1G.OLB")
+      (DeviceIndex "0"))
+    (NVR4501NT1G
+      (FullPartName "NVR4501NT1G.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_NVR4501NT1G_TRANSISTOR\NVR4501NT1G.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-R
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PESD4USB5B_TBRX
+      (FullPartName "PESD4USB5B_TBRX.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_PESD4USB5B-TBRX_5V0ESD\PESD4USB5B_TBRX.OLB")
+      (DeviceIndex "0"))
+    (PESD4USB3B_TBSX
+      (FullPartName "PESD4USB3B_TBSX.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_PESD4USB3B-TBSX_3V3_ESD\PESD4USB3B_TBSX.OLB")
+      (DeviceIndex "0"))
+    (PESD5V0S5UD_115
+      (FullPartName "PESD5V0S5UD_115.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_PESD5V0S5UD\PESD5V0S5UD_115.OLB")
+      (DeviceIndex "0"))
+    (PESD3V3S5UD_115
+      (FullPartName "PESD3V3S5UD_115.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_PESD3V3S5UD\PESD3V3S5UD_115.OLB")
+      (DeviceIndex "0"))
     (PRTR5V0U2X_215
       (FullPartName "PRTR5V0U2X_215.Normal")
       (LibraryName
@@ -87,14 +131,6 @@
       (FullPartName "UCLAMP3301H_TCT.Normal")
       (LibraryName
          "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_UCLAMP3301H_TCT_3V3ESD\UCLAMP3301H_TCT.OLB")
-      (DeviceIndex "0"))
-    (PORTBOTH-R
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (NVR4501NT1G
-      (FullPartName "NVR4501NT1G.Normal")
-      (LibraryName
-         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_NVR4501NT1G_TRANSISTOR\NVR4501NT1G.OLB")
       (DeviceIndex "0"))
     (NTGD4167CT1G
       (FullPartName "NTGD4167CT1G.Normal")
@@ -112,11 +148,6 @@
       (DeviceIndex "0"))
     (VCC_BAR
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (NLVHC1G14DFT1G
-      (FullPartName "NLVHC1G14DFT1G.Normal")
-      (LibraryName
-         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_NLVHC1G14DFT1G_INVERTOR\NLVHC1G14DFT1G.OLB")
       (DeviceIndex "0"))
     (RP73PF2A73R2BTDF
       (FullPartName "RP73PF2A73R2BTDF.Normal")
@@ -143,9 +174,6 @@
       (LibraryName
          "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_74LVCH2T45DC-Q100H_TRANSCEIVER\74LVCH2T45DC_Q100H.OLB")
       (DeviceIndex "0"))
-    (PORTBOTH-L
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
     (0
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -162,15 +190,17 @@
       (Path "Design Resources"
          "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn" "SCHEMATIC1")
       (Path "Design Resources"
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn" "ESD_MODULE")
+      (Path "Design Resources"
          "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn" "TR_MODULE")
       (Path "Design Resources"
          "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn"
          "TRCV_MODULE")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library"
-         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\library\lib_prtr5v0u2x_215_5v0esd\prtr5v0u2x_215.olb")
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\library\lib_nlvhc1g14dft1g_invertor\nlvhc1g14dft1g.olb")
       (Select "Design Resources" "Library"
-         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\library\lib_prtr5v0u2x_215_5v0esd\prtr5v0u2x_215.olb"))
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\library\lib_nlvhc1g14dft1g_invertor\nlvhc1g14dft1g.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -180,8 +210,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1688 52 512")
-        (Scroll "-19 174")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1688 52 512")
+        (Scroll "0 211")
         (Zoom "102")
         (Occurrence "/"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
@@ -191,18 +221,27 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1447 52 428")
-        (Scroll "-344 0")
-        (Zoom "68"))
+        (Scroll "-13 182")
+        (Zoom "136"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "TRCV_MODULE")
       (Page "PAGE1"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 104 1499 104 480")
-        (Scroll "756 713")
-        (Zoom "272"))
+        (Placement "44 0 1 -1 -1 -8 -31 104 1499 104 480")
+        (Scroll "-13 0")
+        (Zoom "136"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "TR_MODULE")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1740 52 428")
+        (Scroll "-490 0")
+        (Zoom "68"))
+      (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
+      (Schematic "ESD_MODULE")
       (Page "PAGE1")))
   (MPSSessionName "ece"))
