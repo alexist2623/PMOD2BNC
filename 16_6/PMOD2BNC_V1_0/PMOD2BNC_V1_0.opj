@@ -110,8 +110,18 @@
       (Sort User)))
   (DefaultLibraryBrowseDirectory "library\PSpice")
   (PartMRUSelector
+    (031_6576
+      (FullPartName "031_6576.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_031-6575_BNC\031_6576.OLB")
+      (DeviceIndex "0"))
     (PORTBOTH-L
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (DS04_254_2_01BK_SMT_TR
+      (FullPartName "DS04_254_2_01BK_SMT_TR.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_DS04-254-2-01BK-SMT\DS04_254_2_01BK_SMT_TR.OLB")
       (DeviceIndex "0"))
     (TLP7920_D4_TP1_F
       (FullPartName "TLP7920_D4_TP1_F.Normal")
@@ -220,14 +230,6 @@
       (FullPartName "BLM18PG121SN1D.Normal")
       (LibraryName
          "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_BLM18PG121SN1D\BLM18PG121SN1D.OLB")
-      (DeviceIndex "0"))
-    (VCC_BAR
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (46207_1104
-      (FullPartName "46207_1104.Normal")
-      (LibraryName
-         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_462071104_PWRPIN\46207_1104.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
@@ -257,8 +259,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1688 52 512")
-        (Scroll "-19 164")
-        (Zoom "102")
+        (Scroll "1504 269")
+        (Zoom "204")
         (Occurrence "/"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "SCHEMATIC1")
@@ -267,7 +269,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1447 52 428")
-        (Scroll "-13 42")
+        (Scroll "-13 182")
         (Zoom "136"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "TRCV_MODULE")
@@ -275,8 +277,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 104 1499 104 480")
-        (Scroll "-99 0")
+        (Placement "44 0 1 -1 -1 -8 -31 104 1499 104 480")
+        (Scroll "-13 214")
         (Zoom "136"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "TR_MODULE")
@@ -285,7 +287,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1740 52 428")
-        (Scroll "-267 212")
+        (Scroll "-267 209")
         (Zoom "114"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "ESD_MODULE")
@@ -294,7 +296,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 156 1844 156 532")
-        (Scroll "-45 0")
+        (Scroll "-45 50")
         (Zoom "102"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "POWER")
@@ -303,8 +305,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 1395 0 376")
-        (Scroll "-286 0")
-        (Zoom "51"))
+        (Scroll "-7 0")
+        (Zoom "66"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "SW_MODULE")
       (Page "PAGE1")))
