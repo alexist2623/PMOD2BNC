@@ -1,23 +1,18 @@
 (---------------------------------------------------------------------)
 (                                                                     )
-(    CREATE SYMBOL                                                    )
+(    DBDOCTOR                                                         )
 (                                                                     )
 (    Drawing          : 0316576.dra                                   )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Tue Jun 27 00:04:46 2023                      )
+(    Date/Time        : Sat Jun 24 19:32:48 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Create Symbol of type: PACKAGE
-    Directory = C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Library/LIB_031-6575_BNC
-    Name      = 0316576.psm
-    User      = ece
-    Machine   = DESKTOP-KCLED0O
 
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
 
-Create symbol started.
- 
-
-Create symbol completed.
-
+0 warnings, 0 errors detected, 0 errors  fixed.

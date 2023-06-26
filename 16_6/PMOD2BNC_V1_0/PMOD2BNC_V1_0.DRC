@@ -1,0 +1,67 @@
+Date and Time : 06/26/23 23:35:00
+
+--------------------------------------------------
+Checking Schematic: ESD_MODULE
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: TRCV_MODULE
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: SW_MODULE
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: TR_MODULE
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1829): Possible pin type conflict ESD1,5V0_EN  Bidirectional Connected to Output
+                    SCHEMATIC1, PAGE1  (9.60, 2.60) 
+WARNING(ORCAP-1829): Possible pin type conflict ESD2,5V0_EN  Bidirectional Connected to Output
+                    SCHEMATIC1, PAGE1  (9.60, 3.70) 
+ERROR(ORCAP-1628): Possible pin type conflict TRCV2,DIR_TRCV  Output Connected to Output
+                    SCHEMATIC1, PAGE1  (4.40, 3.10) 
+ERROR(ORCAP-1628): Possible pin type conflict TRCV3,DIR_TRCV  Output Connected to Output
+                    SCHEMATIC1, PAGE1  (4.40, 4.00) 
+ERROR(ORCAP-1628): Possible pin type conflict TRCV4,DIR_TRCV  Output Connected to Output
+                    SCHEMATIC1, PAGE1  (4.40, 4.90) 
+ERROR(ORCAP-1628): Possible pin type conflict TRCV1,DIR_TRCV  Output Connected to Output
+                    SCHEMATIC1, PAGE1  (4.40, 2.20) 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: POWER
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets

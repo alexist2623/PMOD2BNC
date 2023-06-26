@@ -1,6 +1,6 @@
 \t (00:00:00) pad_designer 16.6 P001 (v16-6-112A) Windows 32
-\t (00:00:00)     Journal start - Sat Jun 24 19:32:31 2023
-\t (00:00:00)         Host=DESKTOP-KCLED0O User=ece Pid=5984 CPUs=6
+\t (00:00:00)     Journal start - Tue Jun 27 00:04:11 2023
+\t (00:00:00)         Host=DESKTOP-KCLED0O User=ece Pid=11796 CPUs=6
 \t (00:00:00) 
 \i (00:00:00) setwindow form.padedit
 \i (00:00:00) replay padstack2.scr 
@@ -9,69 +9,75 @@
 \i (00:00:00) fillin c301-5_h201.pad 
 \i (00:00:00) FORM padedit units Millimeter 
 \i (00:00:00) FORM padedit units Millimeter 
+\i (00:00:02) fillin yes 
+\w (00:00:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:02) FORM padedit layers 
+\i (00:00:02) FORM padedit layers  
+\i (00:00:02) FORM padedit grid row 1 
+\i (00:00:02) FORM padedit grid row begin_layer 
+\i (00:00:02) FORM padedit geometry Circle 
+\i (00:00:02) FORM padedit geometry Circle 
+\i (00:00:02) FORM padedit width 3.015 
+\i (00:00:02) FORM padedit width 3.015 
+\i (00:00:02) FORM padedit height 3.015 
+\i (00:00:02) FORM padedit height 3.015 
+\i (00:00:02) FORM padedit x_offset 0 
+\i (00:00:02) FORM padedit x_offset 0 
+\i (00:00:02) FORM padedit y_offset 0 
+\i (00:00:02) FORM padedit y_offset 0 
+\i (00:00:02) FORM padedit geometry_th Null 
+\i (00:00:02) FORM padedit geometry_ant Null 
+\i (00:00:02) FORM padedit grid row 2 
+\i (00:00:02) FORM padedit grid row default_internal 
+\i (00:00:02) FORM padedit geometry Circle 
+\i (00:00:02) FORM padedit geometry Circle 
+\i (00:00:02) FORM padedit width 3.015 
+\i (00:00:02) FORM padedit width 3.015 
+\i (00:00:02) FORM padedit height 3.015 
+\i (00:00:02) FORM padedit height 3.015 
+\i (00:00:02) FORM padedit x_offset 0 
+\i (00:00:02) FORM padedit x_offset 0 
+\i (00:00:02) FORM padedit y_offset 0 
+\i (00:00:02) FORM padedit y_offset 0 
+\i (00:00:02) FORM padedit geometry_th Null 
+\i (00:00:02) FORM padedit geometry_ant Null 
+\i (00:00:02) FORM padedit grid row 3 
+\i (00:00:02) FORM padedit grid row end_layer 
+\i (00:00:02) FORM padedit geometry Circle 
+\i (00:00:02) FORM padedit geometry Circle 
+\i (00:00:02) FORM padedit width 3.015 
+\i (00:00:02) FORM padedit width 3.015 
+\i (00:00:02) FORM padedit height 3.015 
+\i (00:00:02) FORM padedit height 3.015 
+\i (00:00:02) FORM padedit x_offset 0 
+\i (00:00:02) FORM padedit x_offset 0 
+\i (00:00:02) FORM padedit y_offset 0 
+\i (00:00:02) FORM padedit y_offset 0 
+\i (00:00:02) FORM padedit geometry_th Null 
+\i (00:00:02) FORM padedit geometry_ant Null 
+\i (00:00:02) FORM padedit parameters 
+\i (00:00:02) FORM padedit parameters  
+\i (00:00:02) FORM padedit through_hole YES 
+\e (00:00:02) Form field label not found
+\i (00:00:02) FORM padedit hole_size_y 2.01 
+\i (00:00:02) FORM padedit hole_size_x 2.01 
+\i (00:00:02) FORM padedit hole_size_x 2.01 
+\i (00:00:02) FORM padedit drill_fig Cross 
+\i (00:00:02) FORM padedit drill_fig Cross 
+\i (00:00:02) FORM padedit characters B 
+\i (00:00:02) FORM padedit characters B 
+\i (00:00:02) FORM padedit drill_width 1.27 
+\i (00:00:02) FORM padedit drill_width 1.27 
+\i (00:00:02) FORM padedit drill_height 1.27 
+\i (00:00:02) FORM padedit drill_height 1.27 
+\i (00:00:02) FORM padedit plating Plated 
+\i (00:00:02) pse_save_as 
+\i (00:00:02) fillin c301-5_h201.Pad 
 \i (00:00:03) fillin yes 
-\w (00:00:03) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (00:00:03) FORM padedit layers 
 \i (00:00:03) FORM padedit layers  
-\i (00:00:03) FORM padedit grid row 1 
-\i (00:00:03) FORM padedit grid row begin_layer 
-\i (00:00:03) FORM padedit geometry Circle 
-\i (00:00:03) FORM padedit geometry Circle 
-\i (00:00:03) FORM padedit width 3.015 
-\i (00:00:03) FORM padedit width 3.015 
-\i (00:00:03) FORM padedit height 3.015 
-\i (00:00:03) FORM padedit height 3.015 
-\i (00:00:03) FORM padedit x_offset 0 
-\i (00:00:03) FORM padedit x_offset 0 
-\i (00:00:03) FORM padedit y_offset 0 
-\i (00:00:03) FORM padedit y_offset 0 
-\i (00:00:03) FORM padedit geometry_th Null 
-\i (00:00:03) FORM padedit geometry_ant Null 
-\i (00:00:03) FORM padedit grid row 2 
-\i (00:00:03) FORM padedit grid row default_internal 
-\i (00:00:03) FORM padedit geometry Circle 
-\i (00:00:03) FORM padedit geometry Circle 
-\i (00:00:03) FORM padedit width 3.015 
-\i (00:00:03) FORM padedit width 3.015 
-\i (00:00:03) FORM padedit height 3.015 
-\i (00:00:03) FORM padedit height 3.015 
-\i (00:00:03) FORM padedit x_offset 0 
-\i (00:00:03) FORM padedit x_offset 0 
-\i (00:00:03) FORM padedit y_offset 0 
-\i (00:00:03) FORM padedit y_offset 0 
-\i (00:00:03) FORM padedit geometry_th Null 
-\i (00:00:03) FORM padedit geometry_ant Null 
-\i (00:00:03) FORM padedit grid row 3 
-\i (00:00:03) FORM padedit grid row end_layer 
-\i (00:00:03) FORM padedit geometry Circle 
-\i (00:00:03) FORM padedit geometry Circle 
-\i (00:00:03) FORM padedit width 3.015 
-\i (00:00:03) FORM padedit width 3.015 
-\i (00:00:03) FORM padedit height 3.015 
-\i (00:00:03) FORM padedit height 3.015 
-\i (00:00:03) FORM padedit x_offset 0 
-\i (00:00:03) FORM padedit x_offset 0 
-\i (00:00:03) FORM padedit y_offset 0 
-\i (00:00:03) FORM padedit y_offset 0 
-\i (00:00:03) FORM padedit geometry_th Null 
-\i (00:00:03) FORM padedit geometry_ant Null 
-\i (00:00:03) FORM padedit parameters 
-\i (00:00:03) FORM padedit parameters  
-\i (00:00:03) FORM padedit through_hole YES 
-\e (00:00:03) Form field label not found
-\i (00:00:03) FORM padedit hole_size_y 2.01 
-\i (00:00:03) FORM padedit hole_size_x 2.01 
-\i (00:00:03) FORM padedit hole_size_x 2.01 
-\i (00:00:03) FORM padedit drill_fig Cross 
-\i (00:00:03) FORM padedit drill_fig Cross 
-\i (00:00:03) FORM padedit characters B 
-\i (00:00:03) FORM padedit characters B 
-\i (00:00:03) FORM padedit drill_width 1.27 
-\i (00:00:03) FORM padedit drill_width 1.27 
-\i (00:00:03) FORM padedit drill_height 1.27 
-\i (00:00:03) FORM padedit drill_height 1.27 
-\i (00:00:03) FORM padedit plating Plated 
-\i (00:00:03) pse_save_as 
-\i (00:00:03) fillin c301-5_h201.Pad 
-\i (00:00:04) pse_exit
-\t (00:00:04)     Journal end - Sat Jun 24 19:32:35 2023
+\i (00:00:05) FORM padedit grid row default_internal 
+\i (00:00:08) FORM padedit grid rpopup default_internal Insert 
+\i (00:00:08) FORM padedit grid row soldermask_top 
+\i (00:00:09) FORM padedit grid row unnamed1 
+\i (00:00:13) pse_exit
+\t (00:00:13)     Journal end - Tue Jun 27 00:04:25 2023
