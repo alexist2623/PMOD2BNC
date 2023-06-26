@@ -15,3 +15,7 @@ https://www.mouser.kr/ProductDetail/TAIYO-YUDEN/MAASL063SB7103MFCA01?qs=sGAEpiMZ
 0.22u
 GC343QD7LP224KX18K
 https://www.mouser.kr/ProductDetail/Murata-Electronics/GC343QD7LP224KX18K?qs=sGAEpiMZZMuMW9TJLBQkXqNEBDC7F1L5uYnq6y6G%252BUw%3D
+
+0.33u
+08053D334KAT2A
+https://www.mouser.kr/ProductDetail/KYOCERA-AVX/08053D334KAT2A?qs=ZsCFEZsLLL1BAr9xD0PWHQ%3D%3D

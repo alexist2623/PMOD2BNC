@@ -7,3 +7,4 @@ https://www.mouser.kr/ProductDetail/onsemi/NTR3A052PZT1G?qs=HXFqYaX1Q2xHBLrt9ome
 CMOS HIGH VGS
 942-IRF7509TRPBF
 https://www.mouser.kr/ProductDetail/Infineon-Technologies/IRF7509TRPBF?qs=9%252BKlkBgLFf2KmwKobz1SpQ%3D%3D
+->https://www.mouser.kr/ProductDetail/onsemi-Fairchild/FDS8958B?qs=2yL51YY%2FFPWppTpsQGrZIA%3D%3D
