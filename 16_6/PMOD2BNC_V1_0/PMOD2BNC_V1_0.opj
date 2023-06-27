@@ -169,7 +169,16 @@
     (Netlist_TAB "0"))
   (Folder "Outputs"
     (File ".\pmod2bnc_v1_0.drc"
-      (Type "Report")))
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
     (Folder "Model Libraries"
@@ -304,21 +313,13 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Outputs")
-      (Select "Design Resources"
-         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn"))
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 200 0 421"))
-      (Tab 0))
-    (Doc
-      (Type "TextFile")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1474 78 454"))
-      (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.drc")
-      (Scroll "124")))
+      (Tab 0)))
   (MPSSessionName "ece")
   (LastUsedLibraryBrowseDirectory
      "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\Library\LIB_MSRLJ103SB5104MFNA01_100nC")

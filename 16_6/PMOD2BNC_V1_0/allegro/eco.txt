@@ -1,0 +1,864 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0.brd              |
+|                                                    Tue Jun 27 16:07:19 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  12V0         pins ADDED TO this new net
+                                 C1.2           C2.2           C3.2           
+                                 C4.2           FB1.2          IC2.3          
+                                 IC26.3         IC27.1         IC27.2         
+                                 IC28.3         LED1.2         S1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  3V3_FPGA     pins ADDED TO this new net
+                                 IC7.5          IC8.1          IC10.5         
+                                 IC11.8         IC12.5         IC13.1         
+                                 IC15.5         IC16.8         IC18.5         
+                                 IC19.1         IC21.5         IC22.8         
+                                 IC29.1         IC29.2         IC29.3         
+                                 IC29.4         IC30.1         IC31.1         
+                                 IC32.1         IC33.1         IC36.5         
+                                 IC37.1         IC39.5         IC40.8         
+                                 J5.9           J5.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_FPGA     pins ADDED TO this new net
+                                 C6.1           C7.1           C8.1           
+                                 C9.1           IC7.2          IC8.4          
+                                 IC10.2         IC11.5         IC12.2         
+                                 IC13.4         IC15.2         IC16.5         
+                                 IC18.2         IC19.4         IC21.2         
+                                 IC22.5         IC30.3         IC30.4         
+                                 IC31.3         IC31.4         IC32.3         
+                                 IC32.4         IC33.3         IC33.4         
+                                 IC36.2         IC37.4         IC39.2         
+                                 IC40.5         J5.11          J5.12          
+                                 R20.1          R21.1          R22.1          
+                                 R23.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_PWR      pins ADDED TO this new net
+                                 C1.1           C2.1           C3.1           
+                                 C4.1           C5.2           C10.1          
+                                 C11.1          C12.1          C13.1          
+                                 C14.1          IC2.1          IC3.3          
+                                 IC4.3          IC5.3          IC6.3          
+                                 IC8.5          IC9.4          IC11.4         
+                                 IC13.5         IC14.4         IC16.4         
+                                 IC17.3         IC19.5         IC20.4         
+                                 IC22.4         IC23.3         IC24.3         
+                                 IC26.1         IC27.5         IC28.1         
+                                 IC30.5         IC30.6         IC31.5         
+                                 IC31.6         IC32.5         IC32.6         
+                                 IC33.5         IC33.6         IC35.3         
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0.brd              |
+|                                                    Tue Jun 27 16:07:19 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 IC37.5         IC38.4         IC40.4         
+                                 J1.1           J1.3           J2.1           
+                                 J2.3           J3.1           J3.3           
+                                 J4.1           J4.3           J6.1           
+                                 J6.2           Q1.2           Q2.2           
+                                 Q3.5           Q4.5           Q5.5           
+                                 Q6.5           Q7.5           Q8.5           
+                                 Q9.5           Q10.2          Q11.2          
+                                 Q12.2          Q13.2          Q14.5          
+                                 R15.1          R16.1          R24.1          
+                                 R25.1          R26.1          R27.1          
+                                 R28.1          R29.1          R30.1          
+                                 R31.1          R32.1          R33.1          
+                                 R34.1          R35.1          R36.1          
+                                 R37.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00459       pins ADDED TO this new net
+                                 D2.3           D2.8           Q10.3          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00484       pins ADDED TO this new net
+                                 IC25.3         IC25.8         Q11.3          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01414       pins ADDED TO this new net
+                                 IC39.3         IC40.6         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01460       pins ADDED TO this new net
+                                 IC36.3         IC40.7         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01560       pins ADDED TO this new net
+                                 IC37.7         IC38.2         IC40.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01576       pins ADDED TO this new net
+                                 IC37.6         IC38.3         IC40.3         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02564       pins ADDED TO this new net
+                                 IC35.4         Q14.3          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02595       pins ADDED TO this new net
+                                 Q14.4          R38.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02615       pins ADDED TO this new net
+                                 Q14.6          R39.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02742       pins ADDED TO this new net
+                                 FB1.1          J6.3           J6.4           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0.brd              |
+|                                                    Tue Jun 27 16:07:19 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N02869       pins ADDED TO this new net
+                                 IC36.4         J5.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02876       pins ADDED TO this new net
+                                 IC39.4         J5.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02883       pins ADDED TO this new net
+                                 IC18.4         J5.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02895       pins ADDED TO this new net
+                                 IC21.4         J5.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02907       pins ADDED TO this new net
+                                 IC12.4         J5.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02919       pins ADDED TO this new net
+                                 IC15.4         J5.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02931       pins ADDED TO this new net
+                                 IC7.4          J5.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02968       pins ADDED TO this new net
+                                 IC10.4         J5.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03044       pins ADDED TO this new net
+                                 C9.2           IC29.8         IC30.2         
+                                 IC36.6         IC39.6         R23.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03056       pins ADDED TO this new net
+                                 C8.2           IC18.6         IC21.6         
+                                 IC29.7         IC31.2         R22.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03071       pins ADDED TO this new net
+                                 C7.2           IC12.6         IC15.6         
+                                 IC29.6         IC32.2         R21.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03083       pins ADDED TO this new net
+                                 C6.2           IC7.6          IC10.6         
+                                 IC29.5         IC33.2         R20.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03095       pins ADDED TO this new net
+                                 IC30.7         IC38.5         LED7.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03107       pins ADDED TO this new net
+                                 IC20.5         IC31.7         LED6.2         
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0.brd              |
+|                                                    Tue Jun 27 16:07:19 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N03119       pins ADDED TO this new net
+                                 IC14.5         IC32.7         LED5.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03131       pins ADDED TO this new net
+                                 IC9.5          IC33.7         LED4.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03320       pins ADDED TO this new net
+                                 IC37.3         IC39.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03332       pins ADDED TO this new net
+                                 IC36.1         IC37.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03351       pins ADDED TO this new net
+                                 D2.1           IC25.1         IC38.7         
+                                 J1.2           R38.1          R39.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03369       pins ADDED TO this new net
+                                 D2.2           IC25.2         IC38.6         
+                                 J1.4           R7.1           R8.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03381       pins ADDED TO this new net
+                                 D2.4           IC20.7         IC25.4         
+                                 J2.2           R5.1           R6.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03410       pins ADDED TO this new net
+                                 D2.5           IC20.6         IC25.5         
+                                 J2.4           R3.1           R4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03422       pins ADDED TO this new net
+                                 D1.1           IC1.1          IC14.7         
+                                 J3.2           R1.1           R2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03434       pins ADDED TO this new net
+                                 D1.2           IC1.2          IC14.6         
+                                 J3.4           R13.1          R14.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03446       pins ADDED TO this new net
+                                 D1.4           IC1.4          IC9.7          
+                                 J4.2           R11.1          R12.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03458       pins ADDED TO this new net
+                                 D1.5           IC1.5          IC9.6          
+                                 J4.4           R9.1           R10.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03470       pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0.brd              |
+|                                                    Tue Jun 27 16:07:19 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 C14.2          IC6.2          IC34.8         
+                                 IC35.2         LED9.2         Q6.1           
+                                 Q14.1          R33.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03492       pins ADDED TO this new net
+                                 C13.2          IC4.2          IC5.2          
+                                 IC34.7         LED11.2        Q4.1           
+                                 Q5.1           R32.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03514       pins ADDED TO this new net
+                                 C12.2          IC3.2          IC24.2         
+                                 IC34.6         LED10.2        Q3.1           
+                                 Q9.1           R31.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03538       pins ADDED TO this new net
+                                 C11.2          IC17.2         IC23.2         
+                                 IC34.5         LED8.2         Q7.1           
+                                 Q8.1           R30.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03748       pins ADDED TO this new net
+                                 C10.2          IC2.2          IC2.4          
+                                 IC26.2         IC26.4         IC28.2         
+                                 IC28.4         LED3.2         Q2.1           
+                                 Q11.1          Q13.1          R24.2          
+                                 S1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04132       pins ADDED TO this new net
+                                 IC6.4          Q6.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04160       pins ADDED TO this new net
+                                 Q6.4           R7.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04180       pins ADDED TO this new net
+                                 Q6.6           R8.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04349       pins ADDED TO this new net
+                                 IC24.4         Q9.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04377       pins ADDED TO this new net
+                                 Q9.4           R13.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04397       pins ADDED TO this new net
+                                 Q9.6           R14.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04832       pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0.brd              |
+|                                                    Tue Jun 27 16:07:19 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 IC27.4         R17.1          R18.2          
+                                 R19.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05449       pins ADDED TO this new net
+                                 IC28.5         IC28.6         IC28.7         
+                                 IC28.8         Q12.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05863       pins ADDED TO this new net
+                                 IC26.5         IC26.6         IC26.7         
+                                 IC26.8         Q10.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05866       pins ADDED TO this new net
+                                 LED1.1         R15.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05972       pins ADDED TO this new net
+                                 LED2.1         R16.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06487       pins ADDED TO this new net
+                                 D1.3           D1.8           Q1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06507       pins ADDED TO this new net
+                                 IC1.3          IC1.8          Q2.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06731       pins ADDED TO this new net
+                                 IC2.5          IC2.6          IC2.7          
+                                 IC2.8          Q1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N07958       pins ADDED TO this new net
+                                 LED3.1         R25.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09508       pins ADDED TO this new net
+                                 LED8.1         R34.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09512       pins ADDED TO this new net
+                                 LED10.1        R35.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09516       pins ADDED TO this new net
+                                 LED11.1        R36.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09520       pins ADDED TO this new net
+                                 LED9.1         R37.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N10946       pins ADDED TO this new net
+                                 LED4.1         R26.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0.brd              |
+|                                                    Tue Jun 27 16:07:19 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N10950       pins ADDED TO this new net
+                                 LED5.1         R27.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N10954       pins ADDED TO this new net
+                                 LED6.1         R28.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N10958       pins ADDED TO this new net
+                                 LED7.1         R29.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N045052      pins ADDED TO this new net
+                                 Q12.3          R18.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N045232      pins ADDED TO this new net
+                                 Q13.3          R19.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03864_TRCV2 pins ADDED TO this new net
+                                 IC21.3         IC22.6         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03864_TRCV3 pins ADDED TO this new net
+                                 IC15.3         IC16.6         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03864_TRCV4 pins ADDED TO this new net
+                                 IC10.3         IC11.6         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03884_TRCV2 pins ADDED TO this new net
+                                 IC18.3         IC22.7         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03884_TRCV3 pins ADDED TO this new net
+                                 IC12.3         IC16.7         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03884_TRCV4 pins ADDED TO this new net
+                                 IC7.3          IC11.7         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03944_TRCV2 pins ADDED TO this new net
+                                 IC19.7         IC20.2         IC22.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03944_TRCV3 pins ADDED TO this new net
+                                 IC13.7         IC14.2         IC16.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03944_TRCV4 pins ADDED TO this new net
+                                 IC8.7          IC9.2          IC11.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03988_TRCV2 pins ADDED TO this new net
+                                 IC19.6         IC20.3         IC22.3         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0.brd              |
+|                                                    Tue Jun 27 16:07:19 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N03988_TRCV3 pins ADDED TO this new net
+                                 IC13.6         IC14.3         IC16.3         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03988_TRCV4 pins ADDED TO this new net
+                                 IC8.6          IC9.3          IC11.3         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04114_TR3   pins ADDED TO this new net
+                                 IC5.4          Q5.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04114_TR4   pins ADDED TO this new net
+                                 IC4.4          Q4.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04114_TR5   pins ADDED TO this new net
+                                 IC3.4          Q3.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04114_TR7   pins ADDED TO this new net
+                                 IC23.4         Q8.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04114_TR8   pins ADDED TO this new net
+                                 IC17.4         Q7.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04142_TR3   pins ADDED TO this new net
+                                 Q5.4           R5.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04142_TR4   pins ADDED TO this new net
+                                 Q4.4           R3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04142_TR5   pins ADDED TO this new net
+                                 Q3.4           R1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04142_TR7   pins ADDED TO this new net
+                                 Q8.4           R11.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04142_TR8   pins ADDED TO this new net
+                                 Q7.4           R9.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04158_TRCV2 pins ADDED TO this new net
+                                 IC19.3         IC21.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04158_TRCV3 pins ADDED TO this new net
+                                 IC13.3         IC15.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04158_TRCV4 pins ADDED TO this new net
+                                 IC8.3          IC10.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0.brd              |
+|                                                    Tue Jun 27 16:07:19 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N04162_TR3   pins ADDED TO this new net
+                                 Q5.6           R6.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04162_TR4   pins ADDED TO this new net
+                                 Q4.6           R4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04162_TR5   pins ADDED TO this new net
+                                 Q3.6           R2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04162_TR7   pins ADDED TO this new net
+                                 Q8.6           R12.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04162_TR8   pins ADDED TO this new net
+                                 Q7.6           R10.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04170_TRCV2 pins ADDED TO this new net
+                                 IC18.1         IC19.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04170_TRCV3 pins ADDED TO this new net
+                                 IC12.1         IC13.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04170_TRCV4 pins ADDED TO this new net
+                                 IC7.1          IC8.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC_PWR      pins ADDED TO this new net
+                                 C5.1           IC3.5          IC4.5          
+                                 IC5.5          IC6.5          IC8.8          
+                                 IC9.1          IC9.8          IC11.1         
+                                 IC13.8         IC14.1         IC14.8         
+                                 IC16.1         IC17.5         IC19.8         
+                                 IC20.1         IC20.8         IC22.1         
+                                 IC23.5         IC24.5         IC27.3         
+                                 IC30.8         IC31.8         IC32.8         
+                                 IC33.8         IC34.1         IC34.2         
+                                 IC34.3         IC34.4         IC35.5         
+                                 IC37.8         IC38.1         IC38.8         
+                                 IC40.1         LED2.2         Q3.2           
+                                 Q4.2           Q5.2           Q6.2           
+                                 Q7.2           Q8.2           Q9.2           
+                                 Q14.2          R17.2          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0.brd              |
+|                                                    Tue Jun 27 16:07:19 2023  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 031_6576_0316576_031_6576
+ 08053D334KAT2A_CAPC2012X140N_08
+ 100NCAP_100NCAP_MAASL063SB7103M
+ 46207_1104_46207-YY_2_04_46207_
+ 5988260107F_LEDC3216X78N_598826
+ 71764_0114_717640112_71764_0114
+ 74LVC1G3157GW_125_74LVC1G3157GW
+ 74LVCH2T45DC_Q100H_74LVCH2T45DC
+ BLM18PG121SN1D_BLM18EG121SH1D_B
+ DS04_254_2_01BK_SMT_TR_DS042542
+ DS04_254_2_04BK_SMT_SOP254P990X
+ ERA_3VEB3240V_ERA3KV__0603__ERA
+ ERA_3VEB5900V_ERA3KV__0603__ERA
+ ERA_8AEB1580V_RESC3216X70N_ERA_
+ FDS8958B_SOIC127P600X175-8N_FDS
+ KAM03CT70J105KH_1U_KAM03CT70J10
+ LD29150PTR_LD29150PTR_LD29150PT
+ MAL215375109E3_CAPAE450X450N_MA
+ MSRLJ103SB5104MFNA01_100N_MSRLJ
+ NLVHC1G14DFT1G_SOT65P210X110-5N
+ NTGD4167CT1G_SOT95P275X110-6N_N
+ NVR4501NT1G_SOT96P237X111-3N_NV
+ PESD4USB3B_TBSX_PESD4USB3BTBSX_
+ PESD4USB5B_TBRX_PESD4USB5BTBRX_
+ RNCP1206FTD10K0_RESC3115X60N_RN
+ RP73PF2A73R2BTDF_RESC2012X65N_R
+ SI8620BC_B_IS_SOIC127P600X175-8
+ TLP7920_D4_TP1_F_DIP762W60P254L
+ TNPU04021K00BZEP00_RESC1005X40N
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0.brd              |
+|                                                    Tue Jun 27 16:07:19 2023  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  MSRLJ103SB5104MFNA01_100N_MSRLJ 
+ C2                  100NCAP_100NCAP_MAASL063SB7103M 
+ C3                  KAM03CT70J105KH_1U_KAM03CT70J10 
+ C4                  08053D334KAT2A_CAPC2012X140N_08 
+ C5                  MAL215375109E3_CAPAE450X450N_MA 
+ C6                  100NCAP_100NCAP_MAASL063SB7103M 
+ C7                  100NCAP_100NCAP_MAASL063SB7103M 
+ C8                  100NCAP_100NCAP_MAASL063SB7103M 
+ C9                  100NCAP_100NCAP_MAASL063SB7103M 
+ C10                 100NCAP_100NCAP_MAASL063SB7103M 
+ C11                 100NCAP_100NCAP_MAASL063SB7103M 
+ C12                 100NCAP_100NCAP_MAASL063SB7103M 
+ C13                 100NCAP_100NCAP_MAASL063SB7103M 
+ C14                 100NCAP_100NCAP_MAASL063SB7103M 
+ D1                  PESD4USB3B_TBSX_PESD4USB3BTBSX_ 
+ D2                  PESD4USB3B_TBSX_PESD4USB3BTBSX_ 
+ FB1                 BLM18PG121SN1D_BLM18EG121SH1D_B 
+ IC1                 PESD4USB5B_TBRX_PESD4USB5BTBRX_ 
+ IC2                 FDS8958B_SOIC127P600X175-8N_FDS 
+ IC3                 NLVHC1G14DFT1G_SOT65P210X110-5N 
+ IC4                 NLVHC1G14DFT1G_SOT65P210X110-5N 
+ IC5                 NLVHC1G14DFT1G_SOT65P210X110-5N 
+ IC6                 NLVHC1G14DFT1G_SOT65P210X110-5N 
+ IC7                 74LVC1G3157GW_125_74LVC1G3157GW 
+ IC8                 SI8620BC_B_IS_SOIC127P600X175-8 
+ IC9                 74LVCH2T45DC_Q100H_74LVCH2T45DC 
+ IC10                74LVC1G3157GW_125_74LVC1G3157GW 
+ IC11                SI8620BC_B_IS_SOIC127P600X175-8 
+ IC12                74LVC1G3157GW_125_74LVC1G3157GW 
+ IC13                SI8620BC_B_IS_SOIC127P600X175-8 
+ IC14                74LVCH2T45DC_Q100H_74LVCH2T45DC 
+ IC15                74LVC1G3157GW_125_74LVC1G3157GW 
+ IC16                SI8620BC_B_IS_SOIC127P600X175-8 
+ IC17                NLVHC1G14DFT1G_SOT65P210X110-5N 
+ IC18                74LVC1G3157GW_125_74LVC1G3157GW 
+ IC19                SI8620BC_B_IS_SOIC127P600X175-8 
+ IC20                74LVCH2T45DC_Q100H_74LVCH2T45DC 
+ IC21                74LVC1G3157GW_125_74LVC1G3157GW 
+ IC22                SI8620BC_B_IS_SOIC127P600X175-8 
+ IC23                NLVHC1G14DFT1G_SOT65P210X110-5N 
+ IC24                NLVHC1G14DFT1G_SOT65P210X110-5N 
+ IC25                PESD4USB5B_TBRX_PESD4USB5BTBRX_ 
+ IC26                FDS8958B_SOIC127P600X175-8N_FDS 
+ IC27                LD29150PTR_LD29150PTR_LD29150PT 
+ IC28                FDS8958B_SOIC127P600X175-8N_FDS 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  12  |
+|------------------------------------------------------------------------------|
+|  C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0.brd              |
+|                                                    Tue Jun 27 16:07:19 2023  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC29                DS04_254_2_04BK_SMT_SOP254P990X 
+ IC30                TLP7920_D4_TP1_F_DIP762W60P254L 
+ IC31                TLP7920_D4_TP1_F_DIP762W60P254L 
+ IC32                TLP7920_D4_TP1_F_DIP762W60P254L 
+ IC33                TLP7920_D4_TP1_F_DIP762W60P254L 
+ IC34                DS04_254_2_04BK_SMT_SOP254P990X 
+ IC35                NLVHC1G14DFT1G_SOT65P210X110-5N 
+ IC36                74LVC1G3157GW_125_74LVC1G3157GW 
+ IC37                SI8620BC_B_IS_SOIC127P600X175-8 
+ IC38                74LVCH2T45DC_Q100H_74LVCH2T45DC 
+ IC39                74LVC1G3157GW_125_74LVC1G3157GW 
+ IC40                SI8620BC_B_IS_SOIC127P600X175-8 
+ J1                  031_6576_0316576_031_6576 
+ J2                  031_6576_0316576_031_6576 
+ J3                  031_6576_0316576_031_6576 
+ J4                  031_6576_0316576_031_6576 
+ J5                  71764_0114_717640112_71764_0114 
+ J6                  46207_1104_46207-YY_2_04_46207_ 
+ LED1                5988260107F_LEDC3216X78N_598826 
+ LED2                5988260107F_LEDC3216X78N_598826 
+ LED3                5988260107F_LEDC3216X78N_598826 
+ LED4                5988260107F_LEDC3216X78N_598826 
+ LED5                5988260107F_LEDC3216X78N_598826 
+ LED6                5988260107F_LEDC3216X78N_598826 
+ LED7                5988260107F_LEDC3216X78N_598826 
+ LED8                5988260107F_LEDC3216X78N_598826 
+ LED9                5988260107F_LEDC3216X78N_598826 
+ LED10               5988260107F_LEDC3216X78N_598826 
+ LED11               5988260107F_LEDC3216X78N_598826 
+ Q1                  NVR4501NT1G_SOT96P237X111-3N_NV 
+ Q2                  NVR4501NT1G_SOT96P237X111-3N_NV 
+ Q3                  NTGD4167CT1G_SOT95P275X110-6N_N 
+ Q4                  NTGD4167CT1G_SOT95P275X110-6N_N 
+ Q5                  NTGD4167CT1G_SOT95P275X110-6N_N 
+ Q6                  NTGD4167CT1G_SOT95P275X110-6N_N 
+ Q7                  NTGD4167CT1G_SOT95P275X110-6N_N 
+ Q8                  NTGD4167CT1G_SOT95P275X110-6N_N 
+ Q9                  NTGD4167CT1G_SOT95P275X110-6N_N 
+ Q10                 NVR4501NT1G_SOT96P237X111-3N_NV 
+ Q11                 NVR4501NT1G_SOT96P237X111-3N_NV 
+ Q12                 NVR4501NT1G_SOT96P237X111-3N_NV 
+ Q13                 NVR4501NT1G_SOT96P237X111-3N_NV 
+ Q14                 NTGD4167CT1G_SOT95P275X110-6N_N 
+ R1                  ERA_8AEB1580V_RESC3216X70N_ERA_ 
+ R2                  RP73PF2A73R2BTDF_RESC2012X65N_R 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  13  |
+|------------------------------------------------------------------------------|
+|  C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0.brd              |
+|                                                    Tue Jun 27 16:07:19 2023  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R3                  ERA_8AEB1580V_RESC3216X70N_ERA_ 
+ R4                  RP73PF2A73R2BTDF_RESC2012X65N_R 
+ R5                  ERA_8AEB1580V_RESC3216X70N_ERA_ 
+ R6                  RP73PF2A73R2BTDF_RESC2012X65N_R 
+ R7                  ERA_8AEB1580V_RESC3216X70N_ERA_ 
+ R8                  RP73PF2A73R2BTDF_RESC2012X65N_R 
+ R9                  ERA_8AEB1580V_RESC3216X70N_ERA_ 
+ R10                 RP73PF2A73R2BTDF_RESC2012X65N_R 
+ R11                 ERA_8AEB1580V_RESC3216X70N_ERA_ 
+ R12                 RP73PF2A73R2BTDF_RESC2012X65N_R 
+ R13                 ERA_8AEB1580V_RESC3216X70N_ERA_ 
+ R14                 RP73PF2A73R2BTDF_RESC2012X65N_R 
+ R15                 RNCP1206FTD10K0_RESC3115X60N_RN 
+ R16                 TNPU04021K00BZEP00_RESC1005X40N 
+ R17                 TNPU04021K00BZEP00_RESC1005X40N 
+ R18                 ERA_3VEB5900V_ERA3KV__0603__ERA 
+ R19                 ERA_3VEB3240V_ERA3KV__0603__ERA 
+ R20                 RNCP1206FTD10K0_RESC3115X60N_RN 
+ R21                 RNCP1206FTD10K0_RESC3115X60N_RN 
+ R22                 RNCP1206FTD10K0_RESC3115X60N_RN 
+ R23                 RNCP1206FTD10K0_RESC3115X60N_RN 
+ R24                 RNCP1206FTD10K0_RESC3115X60N_RN 
+ R25                 RNCP1206FTD10K0_RESC3115X60N_RN 
+ R26                 TNPU04021K00BZEP00_RESC1005X40N 
+ R27                 TNPU04021K00BZEP00_RESC1005X40N 
+ R28                 TNPU04021K00BZEP00_RESC1005X40N 
+ R29                 TNPU04021K00BZEP00_RESC1005X40N 
+ R30                 RNCP1206FTD10K0_RESC3115X60N_RN 
+ R31                 RNCP1206FTD10K0_RESC3115X60N_RN 
+ R32                 RNCP1206FTD10K0_RESC3115X60N_RN 
+ R33                 RNCP1206FTD10K0_RESC3115X60N_RN 
+ R34                 TNPU04021K00BZEP00_RESC1005X40N 
+ R35                 TNPU04021K00BZEP00_RESC1005X40N 
+ R36                 TNPU04021K00BZEP00_RESC1005X40N 
+ R37                 TNPU04021K00BZEP00_RESC1005X40N 
+ R38                 ERA_8AEB1580V_RESC3216X70N_ERA_ 
+ R39                 RP73PF2A73R2BTDF_RESC2012X65N_R 
+ S1                  DS04_254_2_01BK_SMT_TR_DS042542 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  14  |
+|------------------------------------------------------------------------------|
+|  C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0.brd              |
+|                                                    Tue Jun 27 16:07:19 2023  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.1                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C9.2                           PRIM_FILE      .\pstchip.dat
+ C10.2                          PRIM_FILE      .\pstchip.dat
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ C12.2                          PRIM_FILE      .\pstchip.dat
+ C13.2                          PRIM_FILE      .\pstchip.dat
+ C14.2                          PRIM_FILE      .\pstchip.dat
+ D1.10                          PRIM_FILE      .\pstchip.dat
+ D2.10                          PRIM_FILE      .\pstchip.dat
+ FB1.2                          PRIM_FILE      .\pstchip.dat
+ IC1.10                         PRIM_FILE      .\pstchip.dat
+ IC2.3                          PRIM_FILE      .\pstchip.dat
+ IC3.4                          PRIM_FILE      .\pstchip.dat
+ IC4.4                          PRIM_FILE      .\pstchip.dat
+ IC5.4                          PRIM_FILE      .\pstchip.dat
+ IC6.4                          PRIM_FILE      .\pstchip.dat
+ IC7.4                          PRIM_FILE      .\pstchip.dat
+ IC8.8                          PRIM_FILE      .\pstchip.dat
+ IC9.8                          PRIM_FILE      .\pstchip.dat
+ IC10.4                         PRIM_FILE      .\pstchip.dat
+ IC11.8                         PRIM_FILE      .\pstchip.dat
+ IC12.4                         PRIM_FILE      .\pstchip.dat
+ IC13.8                         PRIM_FILE      .\pstchip.dat
+ IC14.8                         PRIM_FILE      .\pstchip.dat
+ IC15.4                         PRIM_FILE      .\pstchip.dat
+ IC16.8                         PRIM_FILE      .\pstchip.dat
+ IC17.4                         PRIM_FILE      .\pstchip.dat
+ IC18.4                         PRIM_FILE      .\pstchip.dat
+ IC19.8                         PRIM_FILE      .\pstchip.dat
+ IC20.8                         PRIM_FILE      .\pstchip.dat
+ IC21.4                         PRIM_FILE      .\pstchip.dat
+ IC22.8                         PRIM_FILE      .\pstchip.dat
+ IC23.4                         PRIM_FILE      .\pstchip.dat
+ IC24.4                         PRIM_FILE      .\pstchip.dat
+ IC25.10                        PRIM_FILE      .\pstchip.dat
+ IC26.3                         PRIM_FILE      .\pstchip.dat
+ IC27.3                         PRIM_FILE      .\pstchip.dat
+ IC28.3                         PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  15  |
+|------------------------------------------------------------------------------|
+|  C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0.brd              |
+|                                                    Tue Jun 27 16:07:19 2023  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC29.8                         PRIM_FILE      .\pstchip.dat
+ IC30.7                         PRIM_FILE      .\pstchip.dat
+ IC31.7                         PRIM_FILE      .\pstchip.dat
+ IC32.7                         PRIM_FILE      .\pstchip.dat
+ IC33.7                         PRIM_FILE      .\pstchip.dat
+ IC34.8                         PRIM_FILE      .\pstchip.dat
+ IC35.4                         PRIM_FILE      .\pstchip.dat
+ IC36.4                         PRIM_FILE      .\pstchip.dat
+ IC37.8                         PRIM_FILE      .\pstchip.dat
+ IC38.8                         PRIM_FILE      .\pstchip.dat
+ IC39.4                         PRIM_FILE      .\pstchip.dat
+ IC40.8                         PRIM_FILE      .\pstchip.dat
+ J1.MH2                         PRIM_FILE      .\pstchip.dat
+ J2.MH2                         PRIM_FILE      .\pstchip.dat
+ J3.MH2                         PRIM_FILE      .\pstchip.dat
+ J4.MH2                         PRIM_FILE      .\pstchip.dat
+ J5.9                           PRIM_FILE      .\pstchip.dat
+ J6.4                           PRIM_FILE      .\pstchip.dat
+ LED1.1                         PRIM_FILE      .\pstchip.dat
+ LED2.1                         PRIM_FILE      .\pstchip.dat
+ LED3.1                         PRIM_FILE      .\pstchip.dat
+ LED4.1                         PRIM_FILE      .\pstchip.dat
+ LED5.1                         PRIM_FILE      .\pstchip.dat
+ LED6.1                         PRIM_FILE      .\pstchip.dat
+ LED7.1                         PRIM_FILE      .\pstchip.dat
+ LED8.1                         PRIM_FILE      .\pstchip.dat
+ LED9.1                         PRIM_FILE      .\pstchip.dat
+ LED10.1                        PRIM_FILE      .\pstchip.dat
+ LED11.1                        PRIM_FILE      .\pstchip.dat
+ Q1.2                           PRIM_FILE      .\pstchip.dat
+ Q2.2                           PRIM_FILE      .\pstchip.dat
+ Q3.2                           PRIM_FILE      .\pstchip.dat
+ Q4.2                           PRIM_FILE      .\pstchip.dat
+ Q5.2                           PRIM_FILE      .\pstchip.dat
+ Q6.2                           PRIM_FILE      .\pstchip.dat
+ Q7.2                           PRIM_FILE      .\pstchip.dat
+ Q8.2                           PRIM_FILE      .\pstchip.dat
+ Q9.2                           PRIM_FILE      .\pstchip.dat
+ Q10.2                          PRIM_FILE      .\pstchip.dat
+ Q11.2                          PRIM_FILE      .\pstchip.dat
+ Q12.2                          PRIM_FILE      .\pstchip.dat
+ Q13.2                          PRIM_FILE      .\pstchip.dat
+ Q14.2                          PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  16  |
+|------------------------------------------------------------------------------|
+|  C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0.brd              |
+|                                                    Tue Jun 27 16:07:19 2023  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R14.2                          PRIM_FILE      .\pstchip.dat
+ R15.2                          PRIM_FILE      .\pstchip.dat
+ R16.2                          PRIM_FILE      .\pstchip.dat
+ R17.2                          PRIM_FILE      .\pstchip.dat
+ R18.2                          PRIM_FILE      .\pstchip.dat
+ R19.2                          PRIM_FILE      .\pstchip.dat
+ R20.2                          PRIM_FILE      .\pstchip.dat
+ R21.2                          PRIM_FILE      .\pstchip.dat
+ R22.2                          PRIM_FILE      .\pstchip.dat
+ R23.2                          PRIM_FILE      .\pstchip.dat
+ R24.2                          PRIM_FILE      .\pstchip.dat
+ R25.2                          PRIM_FILE      .\pstchip.dat
+ R26.2                          PRIM_FILE      .\pstchip.dat
+ R27.2                          PRIM_FILE      .\pstchip.dat
+ R28.2                          PRIM_FILE      .\pstchip.dat
+ R29.2                          PRIM_FILE      .\pstchip.dat
+ R30.2                          PRIM_FILE      .\pstchip.dat
+ R31.2                          PRIM_FILE      .\pstchip.dat
+ R32.2                          PRIM_FILE      .\pstchip.dat
+ R33.2                          PRIM_FILE      .\pstchip.dat
+ R34.2                          PRIM_FILE      .\pstchip.dat
+ R35.2                          PRIM_FILE      .\pstchip.dat
+ R36.2                          PRIM_FILE      .\pstchip.dat
+ R37.2                          PRIM_FILE      .\pstchip.dat
+ R38.2                          PRIM_FILE      .\pstchip.dat
+ R39.2                          PRIM_FILE      .\pstchip.dat
+ S1.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  792                                            |
+|------------------------------------------------------------------------------|

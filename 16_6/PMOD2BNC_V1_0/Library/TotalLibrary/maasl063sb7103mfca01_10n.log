@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : MAASL063SB7103MFCA01_10n.dra                  )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Jun 27 15:30:44 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Library/LIB_MAASL063SB7103MFCA01_10n
+    Name      = maasl063sb7103mfca01_10n.psm
+    User      = ece
+    Machine   = DESKTOP-KCLED0O
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

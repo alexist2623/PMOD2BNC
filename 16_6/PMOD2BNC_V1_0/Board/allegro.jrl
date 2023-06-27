@@ -1,0 +1,20 @@
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Tue Jun 27 17:04:54 2023
+\t (00:00:02)         Host=DESKTOP-KCLED0O User=ece Pid=20876 CPUs=6
+\t (00:00:02) 
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 1623
+\i (00:00:06) trapsize 1551
+\i (00:00:06) trapsize 1636
+\i (00:00:07) trapsize 1182
+\i (00:00:07) trapsize 1182
+\i (00:00:07) generaledit 
+\i (00:00:09) open 
+\i (00:00:33) fillin "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\Library\LIB_DS04-254-2-01BK-SMT\DS04254201BKSMTTR.dra"
+\i (00:00:33) cd "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\Library\LIB_DS04-254-2-01BK-SMT"
+\t (00:00:33) Opening existing design...
+\i (00:00:33) trapsize 173
+\i (00:00:33) trapsize 166
+\i (00:00:33) trapsize 173
+\i (00:00:34) trapsize 173
+\t (00:00:34)     Journal end - Tue Jun 27 17:05:25 2023
