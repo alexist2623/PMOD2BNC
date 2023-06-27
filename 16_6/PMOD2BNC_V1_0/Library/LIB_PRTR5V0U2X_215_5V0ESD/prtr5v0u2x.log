@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : PRTR5V0U2X.dra                                )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Jun 27 12:05:04 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Library/LIB_PRTR5V0U2X_215_5V0ESD
+    Name      = prtr5v0u2x.psm
+    User      = ece
+    Machine   = DESKTOP-KCLED0O
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
