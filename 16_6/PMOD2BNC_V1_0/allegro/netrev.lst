@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : PMOD2BNC_V1_0.brd                             )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Tue Jun 27 16:07:19 2023                      )
+(    Date/Time        : Wed Jun 28 00:30:07 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -21,12 +21,12 @@ BOARD_DIRECTORY 'C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board';
 OLD_BOARD_NAME 'C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0.brd';
 NEW_BOARD_NAME 'C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0.brd';
 
-CmdLine: netrev.exe -y 1 -n -i C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\allegro C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\Board\PMOD2BNC_V1_0 C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\Board\PMOD2BNC_V1_0
+CmdLine: netrev.exe -y 1 -n -i C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\allegro C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\Board\PMOD2BNC_V1_0.brd C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\Board\PMOD2BNC_V1_0.brd
 
 ------ Preparing to read pst files ------
 
 Starting to read C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/allegro/pstchip.dat 
-   Finished reading C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/allegro/pstchip.dat (00:00:00.05)
+   Finished reading C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/allegro/pstchip.dat (00:00:00.04)
 Starting to read C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/allegro/pstxprt.dat 
    Finished reading C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/allegro/pstxprt.dat (00:00:00.00)
 Starting to read C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/allegro/pstxnet.dat 
@@ -34,124 +34,6 @@ Starting to read C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/allegro/pstxnet.dat
 
 ------ Oversights/Warnings/Errors ------
 
-
-#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'MSRLJ103SB5104MFNA01_100N' for device 'MSRLJ103SB5104MFNA01_100N_MSRLJ' not found in PSMPATH or must be "dbdoctor"ed.
-
-#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol '100NCAP' for device '100NCAP_100NCAP_MAASL063SB7103M' not found in PSMPATH or must be "dbdoctor"ed.
-
-#3   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'KAM03CT70J105KH_1U' for device 'KAM03CT70J105KH_1U_KAM03CT70J10' not found in PSMPATH or must be "dbdoctor"ed.
-
-#4   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'CAPC2012X140N' for device '08053D334KAT2A_CAPC2012X140N_08' not found in PSMPATH or must be "dbdoctor"ed.
-
-#5   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'CAPAE450X450N' for device 'MAL215375109E3_CAPAE450X450N_MA' not found in PSMPATH or must be "dbdoctor"ed.
-
-#6   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'PESD4USB3BTBSX' for device 'PESD4USB3B_TBSX_PESD4USB3BTBSX_' not found in PSMPATH or must be "dbdoctor"ed.
-
-#7   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'BLM18EG121SH1D' for device 'BLM18PG121SN1D_BLM18EG121SH1D_B' not found in PSMPATH or must be "dbdoctor"ed.
-
-#8   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'PESD4USB5BTBRX' for device 'PESD4USB5B_TBRX_PESD4USB5BTBRX_' not found in PSMPATH or must be "dbdoctor"ed.
-
-#9   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol '74LVC1G3157GW125' for device '74LVC1G3157GW_125_74LVC1G3157GW' not found in PSMPATH or must be "dbdoctor"ed.
-
-#10  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'SOIC127P600X175-8N' for device 'SI8620BC_B_IS_SOIC127P600X175-8' not found in PSMPATH or must be "dbdoctor"ed.
-
-#11  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol '74LVCH2T45DCQ100H' for device '74LVCH2T45DC_Q100H_74LVCH2T45DC' not found in PSMPATH or must be "dbdoctor"ed.
-
-#12  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'SOT65P210X110-5N' for device 'NLVHC1G14DFT1G_SOT65P210X110-5N' not found in PSMPATH or must be "dbdoctor"ed.
-
-#13  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'SOIC127P600X175-8N' for device 'FDS8958B_SOIC127P600X175-8N_FDS' not found in PSMPATH or must be "dbdoctor"ed.
-
-#14  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'LD29150PTR' for device 'LD29150PTR_LD29150PTR_LD29150PT' not found in PSMPATH or must be "dbdoctor"ed.
-
-#15  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'SOP254P990X430-8N' for device 'DS04_254_2_04BK_SMT_SOP254P990X' not found in PSMPATH or must be "dbdoctor"ed.
-
-#16  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'DIP762W60P254L966H485Q8N' for device 'TLP7920_D4_TP1_F_DIP762W60P254L' not found in PSMPATH or must be "dbdoctor"ed.
-
-    Alternatively, the JEDEC_TYPE is not defined for the device in the pstchip.dat.
-
-#17  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol '0316576' for device '031_6576_0316576_031_6576' not found in PSMPATH or must be "dbdoctor"ed.
-
-#18  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol '717640112' for device '71764_0114_717640112_71764_0114' not found in PSMPATH or must be "dbdoctor"ed.
-
-#19  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol '46207-YY_2_04' for device '46207_1104_46207-YY_2_04_46207_' not found in PSMPATH or must be "dbdoctor"ed.
-
-#20  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'LEDC3216X78N' for device '5988260107F_LEDC3216X78N_598826' not found in PSMPATH or must be "dbdoctor"ed.
-
-#21  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'SOT96P237X111-3N' for device 'NVR4501NT1G_SOT96P237X111-3N_NV' not found in PSMPATH or must be "dbdoctor"ed.
-
-#22  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'SOT95P275X110-6N' for device 'NTGD4167CT1G_SOT95P275X110-6N_N' not found in PSMPATH or must be "dbdoctor"ed.
-
-#23  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'RESC3216X70N' for device 'ERA_8AEB1580V_RESC3216X70N_ERA_' not found in PSMPATH or must be "dbdoctor"ed.
-
-#24  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'RESC2012X65N' for device 'RP73PF2A73R2BTDF_RESC2012X65N_R' not found in PSMPATH or must be "dbdoctor"ed.
-
-#25  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'RESC3115X60N' for device 'RNCP1206FTD10K0_RESC3115X60N_RN' not found in PSMPATH or must be "dbdoctor"ed.
-
-#26  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'RESC1005X40N' for device 'TNPU04021K00BZEP00_RESC1005X40N' not found in PSMPATH or must be "dbdoctor"ed.
-
-#27  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'ERA3KV__0603_' for device 'ERA_3VEB5900V_ERA3KV__0603__ERA' not found in PSMPATH or must be "dbdoctor"ed.
-
-#28  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'ERA3KV__0603_' for device 'ERA_3VEB3240V_ERA3KV__0603__ERA' not found in PSMPATH or must be "dbdoctor"ed.
-
-#29  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'DS04254201BKSMTTR' for device 'DS04_254_2_01BK_SMT_TR_DS042542' not found in PSMPATH or must be "dbdoctor"ed.
 
 ------ Library Paths ------
 MODULEPATH =  . 
@@ -164,6 +46,7 @@ PSMPATH =  .
            C:/Cadence/SPB_16.6/share/local/pcb/symbols 
            C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
            C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Library/TotalLibrary 
 
 PADPATH =  . 
            symbols 
@@ -174,12 +57,13 @@ PADPATH =  .
            C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
            C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Library/LIB_KAM03CT70J105KH_1uC 
            C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Library/LIB_100nCAP 
+           C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Library/TotalLibrary 
 
 
 ------ Summary Statistics ------
 
 
-netrev run on Jun 27 16:07:19 2023
+netrev run on Jun 28 0:30:07 2023
    DESIGN NAME : 'PMOD2BNC_V1_0'
    PACKAGING ON Sep 10 2012 04:46:09
 
@@ -202,8 +86,8 @@ netrev run on Jun 27 16:07:19 2023
 
  No error detected
  No oversight detected
- 29 warnings detected
+ No warning detected
 
-cpu time      0:00:59
+cpu time      0:01:00
 elapsed time  0:00:00
 

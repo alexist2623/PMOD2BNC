@@ -1,4 +1,4 @@
-Date and Time : 06/27/23 16:03:38
+Date and Time : 06/28/23 00:29:28
 
 --------------------------------------------------
 Checking Schematic: TR_MODULE6
@@ -81,10 +81,10 @@ Checking For Unconnected Bus Nets
 Checking Schematic: SCHEMATIC1
 --------------------------------------------------
 Checking Electrical Rules 
-WARNING(ORCAP-1829): Possible pin type conflict SWITCH1,5V0_EN  Output Connected to Bidirectional
-                    SCHEMATIC1, PAGE1  (1.60, 1.10) 
 WARNING(ORCAP-1829): Possible pin type conflict ESD1,5V0_EN  Bidirectional Connected to Output
                     SCHEMATIC1, PAGE1  (9.60, 2.60) 
+WARNING(ORCAP-1829): Possible pin type conflict ESD2,5V0_EN  Bidirectional Connected to Output
+                    SCHEMATIC1, PAGE1  (9.60, 3.70) 
 
 Checking For Unconnected Bus Nets
 
