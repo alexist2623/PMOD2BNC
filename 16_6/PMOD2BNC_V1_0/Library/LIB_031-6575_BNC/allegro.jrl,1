@@ -1,582 +1,891 @@
 \t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:02)     Journal start - Sat Jun 24 19:32:38 2023
-\t (00:00:02)         Host=DESKTOP-KCLED0O User=ece Pid=11104 CPUs=6
+\t (00:00:02)     Journal start - Tue Jun 27 23:46:44 2023
+\t (00:00:02)         Host=DESKTOP-KCLED0O User=ece Pid=12476 CPUs=6
 \t (00:00:02) 
-\t (00:00:03) Starting new design...
-\i (00:00:03) trapsize 943
-\i (00:00:03) trapsize 919
-\i (00:00:03) trapsize 948
-\i (00:00:04) trapsize 974
-\i (00:00:04) trapsize 775
-\i (00:00:04) trapsize 1526
-\i (00:00:04) replay footprint.scr 
-\i (00:00:04) Version 14# 
-\e (00:00:04) Version mismatch: Script=14# Allegro=16.6
-\i (00:00:04) setwindow pcb 
-\i (00:00:04) new 
-\i (00:00:04) newdrawfillin 0316576.dra 'Package Symbol' 
-\t (00:00:04) Starting new design...
-\i (00:00:04) trapsize 775
-\i (00:00:04) trapsize 756
-\i (00:00:05) trapsize 775
-\i (00:00:05) trapsize 1526
-\i (00:00:05) trapsize 1526
-\i (00:00:05) prmed 
-\i (00:00:05) setwindow Form.prmedit 
-\i (00:00:05) FORM prmedit design 
-\i (00:00:05) FORM prmedit type Package 
-\i (00:00:05) FORM prmedit units Millimeter 
-\e (00:00:05) Change may cause round-off; run dbcheck.
-\i (00:00:05) FORM prmedit size Other 
-\i (00:00:05) FORM prmedit accuracy 2 
-\e (00:00:05) Change may cause round-off; run dbcheck.
-\i (00:00:05) FORM prmedit width 2711 
-\i (00:00:05) FORM prmedit height 2436 
-\i (00:00:05) FORM prmedit apply 
-\w (00:00:05) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (00:00:05) trapsize 388
-\t (00:00:05) Performing DRC...
-\t (00:00:05) No DRC errors detected.
-\i (00:00:06) FORM prmedit x -1095.5 
-\i (00:00:06) FORM prmedit y -1245.5 
-\i (00:00:06) FORM prmedit apply 
-\i (00:00:06) trapsize 388
-\i (00:00:06) FORM prmedit lock_mode Line 
-\i (00:00:06) FORM prmedit lock_direction Off 
-\i (00:00:06) FORM prmedit apply 
-\i (00:00:06) FORM prmedit done 
-\i (00:00:06) setwindow pcb 
-\i (00:00:06) Status 
-\i (00:00:06) setwindow Form.Status 
-\i (00:00:06) FORM status lock_direction Off 
-\e (00:00:06) Form field label not found
-\i (00:00:06) FORM status lock_mode line 
-\e (00:00:06) Form field label not found
-\i (00:00:06) FORM status symbol_mirror NO 
-\e (00:00:06) Form field label not found
-\i (00:00:06) FORM status drawing_size 
-\e (00:00:06) Form field label not found
-\i (00:00:06) FORM status done 
-\i (00:00:06) setwindow pcb 
-\i (00:00:06) zoom center 
-\t (00:00:06) Pick center for the new display.
-\i (00:00:06) pick 0.0 0.0 
-\t (00:00:06) last pick:  0.00  0.00
-\i (00:00:06) define subclass 
-\i (00:00:06) setwindow Form.subclass 
-\i (00:00:06) FORM subclass PACKAGE_GEOMETRY pick 
-\i (00:00:06) setwindow Form.subclass_nonetch 
-\i (00:00:06) FORM subclass_nonetch name ASSEMBLY_TOP 
-\i (00:00:06) setwindow Form.subclass 
-\i (00:00:06) FORM subclass PACKAGE_GEOMETRY pick 
-\i (00:00:06) setwindow Form.subclass_nonetch 
-\i (00:00:06) FORM subclass_nonetch name SILKSCREEN_TOP 
-\i (00:00:06) setwindow Form.subclass 
-\i (00:00:06) FORM subclass PIN pick 
-\e (00:00:06) Form field label not found
-\i (00:00:06) setwindow Form.subclass_nonetch 
-\i (00:00:06) FORM subclass_nonetch name PASTEMASK_TOP 
-\i (00:00:06) setwindow Form.subclass 
-\i (00:00:06) FORM subclass PIN pick 
-\e (00:00:06) Form field label not found
-\i (00:00:06) setwindow Form.subclass_nonetch 
-\i (00:00:06) FORM subclass_nonetch name SOLDERMASK_TOP 
-\i (00:00:06) setwindow Form.subclass 
-\i (00:00:06) FORM subclass PACKAGE_GEOMETRY pick 
-\i (00:00:06) setwindow Form.subclass_nonetch 
-\i (00:00:06) FORM subclass_nonetch name PLACE_BOUND_TOP 
-\i (00:00:06) setwindow Form.subclass 
-\i (00:00:06) FORM subclass PACKAGE_GEOMETRY pick 
-\i (00:00:06) setwindow Form.subclass_nonetch 
-\i (00:00:06) FORM subclass_nonetch name PLACE_BOUND_BOTTOM 
-\i (00:00:06) setwindow Form.subclass 
-\i (00:00:06) FORM subclass PIN pick 
-\e (00:00:06) Form field label not found
-\i (00:00:06) setwindow Form.subclass_nonetch 
-\i (00:00:06) FORM subclass_nonetch name SOLDERMASK_BOTTOM 
-\i (00:00:06) setwindow Form.subclass 
-\i (00:00:06) FORM subclass PIN pick 
-\e (00:00:06) Form field label not found
-\i (00:00:06) setwindow Form.subclass_nonetch 
-\i (00:00:06) FORM subclass_nonetch name PASTEMASK_BOTTOM 
-\i (00:00:06) setwindow Form.subclass 
-\i (00:00:06) FORM subclass PACKAGE_GEOMETRY pick 
-\i (00:00:06) setwindow Form.subclass_nonetch 
-\i (00:00:06) FORM subclass_nonetch name SILKSCREEN_BOTTOM 
-\i (00:00:06) setwindow Form.subclass 
-\i (00:00:06) FORM subclass PACKAGE_GEOMETRY pick 
-\i (00:00:06) setwindow Form.subclass_nonetch 
-\i (00:00:06) FORM subclass_nonetch name ASSEMBLY_BOTTOM 
-\i (00:00:06) setwindow Form.subclass 
-\i (00:00:06) FORM subclass BOARD_GEOMETRY pick 
-\i (00:00:06) setwindow Form.subclass_nonetch 
-\i (00:00:06) FORM subclass_nonetch name DIMENSION 
-\i (00:00:06) setwindow Form.subclass 
-\i (00:00:06) FORM subclass BOARD_GEOMETRY pick 
-\i (00:00:06) setwindow Form.subclass_nonetch 
-\i (00:00:06) FORM subclass_nonetch name OUTLINE 
-\i (00:00:06) setwindow Form.subclass 
-\i (00:00:06) FORM subclass PACKAGE_GEOMETRY pick 
-\i (00:00:06) setwindow Form.subclass_nonetch 
-\i (00:00:06) FORM subclass_nonetch name ASSEMBLY_TOP 
-\i (00:00:06) setwindow Form.subclass 
-\i (00:00:06) FORM subclass PACKAGE_GEOMETRY pick 
-\i (00:00:06) setwindow Form.subclass_nonetch 
-\i (00:00:06) FORM subclass_nonetch name PLACE_BOUND_TOP 
-\i (00:00:06) setwindow Form.subclass 
-\i (00:00:06) FORM subclass PACKAGE_GEOMETRY pick 
-\i (00:00:06) setwindow Form.subclass_nonetch 
-\i (00:00:06) FORM subclass_nonetch name PLACE_BOUND_BOTTOM 
-\i (00:00:06) setwindow Form.subclass 
-\i (00:00:06) FORM subclass MANUFACTURING pick 
-\i (00:00:06) setwindow Form.subclass_nonetch 
-\i (00:00:06) FORM subclass_nonetch name NO_PROBE_TOP 
-\i (00:00:06) setwindow Form.subclass 
-\i (00:00:06) FORM subclass MANUFACTURING pick 
-\i (00:00:06) setwindow Form.subclass_nonetch 
-\i (00:00:06) FORM subclass_nonetch name NO_PROBE_BOTTOM 
-\i (00:00:06) setwindow Form.subclass 
-\i (00:00:06) FORM subclass PACKAGE_GEOMETRY pick 
-\i (00:00:06) setwindow Form.subclass_nonetch 
-\i (00:00:06) FORM subclass_nonetch name CONTACT_AREA 
-\i (00:00:06) setwindow Form.subclass 
-\i (00:00:06) FORM subclass PACKAGE_GEOMETRY pick 
-\i (00:00:06) setwindow Form.subclass_nonetch 
-\i (00:00:06) FORM subclass_nonetch name CUTOUTSLOTS 
-\i (00:00:06) setwindow Form.subclass 
-\i (00:00:06) FORM subclass PACKAGE_GEOMETRY pick 
-\i (00:00:06) setwindow Form.subclass_nonetch 
-\i (00:00:06) FORM subclass_nonetch name DIEBONDPADS 
-\i (00:00:06) setwindow Form.subclass 
-\i (00:00:06) FORM subclass PACKAGE_GEOMETRY pick 
-\i (00:00:06) setwindow Form.subclass_nonetch 
-\i (00:00:06) FORM subclass_nonetch name WIREBONDS 
-\i (00:00:06) FORM subclass done 
-\i (00:00:06) Add Pin 
-\i (00:00:06) setwindow Form.mini 
-\i (00:00:06) FORM mini offsetx 0.00 
-\i (00:00:06) FORM mini offsety 0.00 
-\i (00:00:06) FORM mini rotate_pin 0 
-\i (00:00:06) Add Pin 
-\t (00:00:06) Exiting from Add Pin.
-\i (00:00:06) setwindow Form.mini 
-\i (00:00:06) FORM mini pad_name c144-6_h89 
-\w (00:00:06) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:00:06) Using 'C144-6_H89.pad'.
-\i (00:00:06) setwindow Form.mini 
-\i (00:00:06) FORM mini next_pin_number 1 
-\i (00:00:06) setwindow pcb 
-\i (00:00:06) pick 0 0 
-\t (00:00:06) last pick:  0.00  0.00
-\t (00:00:06) Using 'C144-6_H89.pad'.
-\i (00:00:06) done 
-\t (00:00:06) Exiting from Add Pin.
-\i (00:00:06) Add Pin 
-\t (00:00:07) Using 'C144-6_H89.pad'.
-\i (00:00:07) setwindow Form.mini 
-\i (00:00:07) FORM mini offsetx 0.00 
-\i (00:00:07) FORM mini offsety 0.00 
-\i (00:00:07) FORM mini rotate_pin 0 
-\i (00:00:07) Add Pin 
-\t (00:00:07) Exiting from Add Pin.
-\t (00:00:07) Using 'C144-6_H89.pad'.
-\i (00:00:07) setwindow Form.mini 
-\i (00:00:07) FORM mini pad_name c144-6_h89 
-\t (00:00:07) Using 'C144-6_H89.pad'.
-\i (00:00:07) setwindow Form.mini 
-\i (00:00:07) FORM mini next_pin_number 2 
-\i (00:00:07) setwindow pcb 
-\i (00:00:07) pick 0 -2.54 
-\t (00:00:07) last pick:  0.00  -2.54
-\t (00:00:07) Using 'C144-6_H89.pad'.
-\i (00:00:07) done 
-\t (00:00:07) Exiting from Add Pin.
-\i (00:00:07) Add Pin 
-\t (00:00:07) Using 'C144-6_H89.pad'.
-\i (00:00:07) setwindow Form.mini 
-\i (00:00:07) FORM mini offsetx 0.00 
-\i (00:00:07) FORM mini offsety 0.00 
-\i (00:00:07) FORM mini rotate_pin 0 
-\i (00:00:07) Add Pin 
-\t (00:00:07) Exiting from Add Pin.
-\t (00:00:07) Using 'C144-6_H89.pad'.
-\i (00:00:07) setwindow Form.mini 
-\i (00:00:07) FORM mini pad_name c144-6_h89 
-\t (00:00:07) Using 'C144-6_H89.pad'.
-\i (00:00:07) setwindow Form.mini 
-\i (00:00:07) FORM mini next_pin_number 3 
-\i (00:00:07) setwindow pcb 
-\i (00:00:07) pick 0 -5.08 
-\t (00:00:07) last pick:  0.00  -5.08
-\t (00:00:07) Using 'C144-6_H89.pad'.
-\i (00:00:07) done 
-\t (00:00:07) Exiting from Add Pin.
-\i (00:00:07) Add Pin 
-\t (00:00:07) Using 'C144-6_H89.pad'.
-\i (00:00:07) setwindow Form.mini 
-\i (00:00:07) FORM mini offsetx 0.00 
-\i (00:00:07) FORM mini offsety 0.00 
-\i (00:00:07) FORM mini rotate_pin 0 
-\i (00:00:07) Add Pin 
-\t (00:00:07) Exiting from Add Pin.
-\t (00:00:07) Using 'C144-6_H89.pad'.
-\i (00:00:07) setwindow Form.mini 
-\i (00:00:07) FORM mini pad_name c144-6_h89 
-\t (00:00:07) Using 'C144-6_H89.pad'.
-\i (00:00:07) setwindow Form.mini 
-\i (00:00:07) FORM mini next_pin_number 4 
-\i (00:00:07) setwindow pcb 
-\i (00:00:07) pick 2.54 -2.54 
-\t (00:00:07) last pick:  2.54  -2.54
-\t (00:00:07) Using 'C144-6_H89.pad'.
-\i (00:00:07) done 
-\t (00:00:07) Exiting from Add Pin.
-\i (00:00:07) Add Pin 
-\t (00:00:08) Using 'C144-6_H89.pad'.
-\i (00:00:08) setwindow Form.mini 
-\i (00:00:08) FORM mini offsetx 0.00 
-\i (00:00:08) FORM mini offsety 0.00 
-\i (00:00:08) FORM mini rotate_pin 0 
-\i (00:00:08) Add Pin 
-\t (00:00:08) Exiting from Add Pin.
-\t (00:00:08) Using 'C144-6_H89.pad'.
-\i (00:00:08) setwindow Form.mini 
-\i (00:00:08) FORM mini pad_name c301-5_h201 
-\w (00:00:08) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:00:08) Using 'C301-5_H201.pad'.
-\i (00:00:08) setwindow Form.mini 
-\i (00:00:08) FORM mini next_pin_number MH1 
-\i (00:00:08) setwindow pcb 
-\i (00:00:08) pick 8.89 -7.62 
-\t (00:00:08) last pick:  8.89  -7.62
-\t (00:00:08) Using 'C301-5_H201.pad'.
-\i (00:00:08) done 
-\t (00:00:08) Exiting from Add Pin.
-\i (00:00:08) Add Pin 
-\t (00:00:08) Using 'C301-5_H201.pad'.
-\i (00:00:08) setwindow Form.mini 
-\i (00:00:08) FORM mini offsetx 0.00 
-\i (00:00:08) FORM mini offsety 0.00 
-\i (00:00:08) FORM mini rotate_pin 0 
-\i (00:00:08) Add Pin 
-\t (00:00:08) Exiting from Add Pin.
-\t (00:00:08) Using 'C301-5_H201.pad'.
-\i (00:00:08) setwindow Form.mini 
-\i (00:00:08) FORM mini pad_name c301-5_h201 
-\t (00:00:08) Using 'C301-5_H201.pad'.
-\i (00:00:08) setwindow Form.mini 
-\i (00:00:08) FORM mini next_pin_number MH2 
-\i (00:00:08) setwindow pcb 
-\i (00:00:08) pick 8.89 2.54 
-\t (00:00:08) last pick:  8.89  2.54
-\t (00:00:08) Using 'C301-5_H201.pad'.
-\i (00:00:08) done 
-\t (00:00:08) Exiting from Add Pin.
-\i (00:00:08) setwindow pcb 
-\i (00:00:08) Label refdes 
-\t (00:00:08) Pick text location.
-\i (00:00:08) setwindow Form.mini 
-\i (00:00:08) FORM mini class REF DES 
-\i (00:00:08) FORM mini subclass SILKSCREEN_TOP 
-\i (00:00:08) FORM mini text_block 3 
-\i (00:00:08) FORM mini text_justification Center 
-\i (00:00:08) FORM mini angle 0 
-\i (00:00:08) FORM mini mirror NO 
-\i (00:00:08) setwindow pcb 
-\i (00:00:08) pick 17.050 -2.540 
-\t (00:00:08) last pick:  17.05  -2.54
-\t (00:00:08) Enter text string.
-\i (00:00:08) Text J* 
-\i (00:00:08) done 
-\i (00:00:08) Add Line 
-\i (00:00:08) setwindow FORM.mini 
-\i (00:00:08) FORM mini class PACKAGE GEOMETRY 
-\i (00:00:08) FORM mini subclass ASSEMBLY_TOP 
-\i (00:00:08) setwindow FORM.mini 
-\i (00:00:08) FORM mini line_width 0.2 
-\i (00:00:08) FORM mini lock_direction Off 
-\i (00:00:08) setwindow pcb 
-\i (00:00:08) pick -1.05 4.66 
-\t (00:00:08) last pick:  -1.05  4.66
-\i (00:00:08) pick 14.45 4.66 
-\t (00:00:08) last pick:  14.45  4.66
-\i (00:00:08) done 
-\i (00:00:08) Add Line 
-\i (00:00:08) setwindow FORM.mini 
-\i (00:00:08) FORM mini class PACKAGE GEOMETRY 
-\i (00:00:08) FORM mini subclass ASSEMBLY_TOP 
-\i (00:00:08) setwindow FORM.mini 
-\i (00:00:08) FORM mini line_width 0.2 
-\i (00:00:08) FORM mini lock_direction Off 
-\i (00:00:08) setwindow pcb 
-\i (00:00:08) pick 14.45 4.66 
-\t (00:00:08) last pick:  14.45  4.66
-\i (00:00:08) pick 14.45 -9.74 
-\t (00:00:08) last pick:  14.45  -9.74
-\i (00:00:08) done 
-\i (00:00:09) Add Line 
-\i (00:00:09) setwindow FORM.mini 
-\i (00:00:09) FORM mini class PACKAGE GEOMETRY 
-\i (00:00:09) FORM mini subclass ASSEMBLY_TOP 
-\i (00:00:09) setwindow FORM.mini 
-\i (00:00:09) FORM mini line_width 0.2 
-\i (00:00:09) FORM mini lock_direction Off 
-\i (00:00:09) setwindow pcb 
-\i (00:00:09) pick 14.45 -9.74 
-\t (00:00:09) last pick:  14.45  -9.74
-\i (00:00:09) pick -1.05 -9.74 
-\t (00:00:09) last pick:  -1.05  -9.74
-\i (00:00:09) done 
-\i (00:00:09) Add Line 
-\i (00:00:09) setwindow FORM.mini 
-\i (00:00:09) FORM mini class PACKAGE GEOMETRY 
-\i (00:00:09) FORM mini subclass ASSEMBLY_TOP 
-\i (00:00:09) setwindow FORM.mini 
-\i (00:00:09) FORM mini line_width 0.2 
-\i (00:00:09) FORM mini lock_direction Off 
-\i (00:00:09) setwindow pcb 
-\i (00:00:09) pick -1.05 -9.74 
-\t (00:00:09) last pick:  -1.05  -9.74
-\i (00:00:09) pick -1.05 4.66 
-\t (00:00:09) last pick:  -1.05  4.66
-\i (00:00:09) done 
-\i (00:00:09) Add Line 
-\i (00:00:09) setwindow FORM.mini 
-\i (00:00:09) FORM mini class PACKAGE GEOMETRY 
-\i (00:00:09) FORM mini subclass ASSEMBLY_TOP 
-\i (00:00:09) setwindow FORM.mini 
-\i (00:00:09) FORM mini line_width 0.2 
-\i (00:00:09) FORM mini lock_direction Off 
-\i (00:00:09) setwindow pcb 
-\i (00:00:09) pick 14.45 3.81 
-\t (00:00:09) last pick:  14.45  3.81
-\i (00:00:09) pick 35.15 3.81 
-\t (00:00:09) last pick:  35.15  3.81
-\i (00:00:09) done 
-\i (00:00:09) Add Line 
-\i (00:00:09) setwindow FORM.mini 
-\i (00:00:09) FORM mini class PACKAGE GEOMETRY 
-\i (00:00:09) FORM mini subclass ASSEMBLY_TOP 
-\i (00:00:09) setwindow FORM.mini 
-\i (00:00:09) FORM mini line_width 0.2 
-\i (00:00:09) FORM mini lock_direction Off 
-\i (00:00:09) setwindow pcb 
-\i (00:00:09) pick 35.15 3.81 
-\t (00:00:09) last pick:  35.15  3.81
-\i (00:00:09) pick 35.15 -8.89 
-\t (00:00:09) last pick:  35.15  -8.89
-\i (00:00:09) done 
-\i (00:00:09) Add Line 
-\i (00:00:09) setwindow FORM.mini 
-\i (00:00:09) FORM mini class PACKAGE GEOMETRY 
-\i (00:00:09) FORM mini subclass ASSEMBLY_TOP 
-\i (00:00:09) setwindow FORM.mini 
-\i (00:00:09) FORM mini line_width 0.2 
-\i (00:00:09) FORM mini lock_direction Off 
-\i (00:00:09) setwindow pcb 
-\i (00:00:09) pick 35.15 -8.89 
-\t (00:00:09) last pick:  35.15  -8.89
-\i (00:00:09) pick 14.45 -8.89 
-\t (00:00:09) last pick:  14.45  -8.89
-\i (00:00:09) done 
-\i (00:00:09) Add Line 
-\i (00:00:09) setwindow FORM.mini 
-\i (00:00:09) FORM mini class PACKAGE GEOMETRY 
-\i (00:00:09) FORM mini subclass ASSEMBLY_TOP 
-\i (00:00:09) setwindow FORM.mini 
-\i (00:00:09) FORM mini line_width 0.2 
-\i (00:00:09) FORM mini lock_direction Off 
-\i (00:00:09) setwindow pcb 
-\i (00:00:09) pick 14.45 -8.89 
-\t (00:00:09) last pick:  14.45  -8.89
-\i (00:00:09) pick 14.45 3.81 
-\t (00:00:09) last pick:  14.45  3.81
-\i (00:00:09) done 
-\i (00:00:09) Add Line 
-\i (00:00:10) setwindow FORM.mini 
-\i (00:00:10) FORM mini class PACKAGE GEOMETRY 
-\i (00:00:10) FORM mini subclass PLACE_BOUND_TOP 
-\i (00:00:10) setwindow FORM.mini 
-\i (00:00:10) FORM mini line_width 0.1 
-\i (00:00:10) FORM mini lock_direction Off 
-\i (00:00:10) setwindow pcb 
-\i (00:00:10) pick -2.05 5.66 
-\t (00:00:10) last pick:  -2.05  5.66
-\i (00:00:10) pick 36.15 5.66 
-\t (00:00:10) last pick:  36.15  5.66
-\i (00:00:10) done 
-\i (00:00:10) Add Line 
-\i (00:00:10) setwindow FORM.mini 
-\i (00:00:10) FORM mini class PACKAGE GEOMETRY 
-\i (00:00:10) FORM mini subclass PLACE_BOUND_TOP 
-\i (00:00:10) setwindow FORM.mini 
-\i (00:00:10) FORM mini line_width 0.1 
-\i (00:00:10) FORM mini lock_direction Off 
-\i (00:00:10) setwindow pcb 
-\i (00:00:10) pick 36.15 5.66 
-\t (00:00:10) last pick:  36.15  5.66
-\i (00:00:10) pick 36.15 -10.74 
-\t (00:00:10) last pick:  36.15  -10.74
-\i (00:00:10) done 
-\i (00:00:10) Add Line 
-\i (00:00:10) setwindow FORM.mini 
-\i (00:00:10) FORM mini class PACKAGE GEOMETRY 
-\i (00:00:10) FORM mini subclass PLACE_BOUND_TOP 
-\i (00:00:10) setwindow FORM.mini 
-\i (00:00:10) FORM mini line_width 0.1 
-\i (00:00:10) FORM mini lock_direction Off 
-\i (00:00:10) setwindow pcb 
-\i (00:00:10) pick 36.15 -10.74 
-\t (00:00:10) last pick:  36.15  -10.74
-\i (00:00:10) pick -2.05 -10.74 
-\t (00:00:10) last pick:  -2.05  -10.74
-\i (00:00:10) done 
-\i (00:00:10) Add Line 
-\i (00:00:10) setwindow FORM.mini 
-\i (00:00:10) FORM mini class PACKAGE GEOMETRY 
-\i (00:00:10) FORM mini subclass PLACE_BOUND_TOP 
-\i (00:00:10) setwindow FORM.mini 
-\i (00:00:10) FORM mini line_width 0.1 
-\i (00:00:10) FORM mini lock_direction Off 
-\i (00:00:10) setwindow pcb 
-\i (00:00:10) pick -2.05 -10.74 
-\t (00:00:10) last pick:  -2.05  -10.74
-\i (00:00:10) pick -2.05 5.66 
-\t (00:00:10) last pick:  -2.05  5.66
-\i (00:00:10) done 
-\i (00:00:10) Add Line 
-\i (00:00:10) setwindow FORM.mini 
-\i (00:00:10) FORM mini class PACKAGE GEOMETRY 
-\i (00:00:10) FORM mini subclass SILKSCREEN_TOP 
-\i (00:00:10) setwindow FORM.mini 
-\i (00:00:10) FORM mini line_width 0.1 
-\i (00:00:10) FORM mini lock_direction Off 
-\i (00:00:10) setwindow pcb 
-\i (00:00:10) pick -1.05 -6.54 
-\t (00:00:10) last pick:  -1.05  -6.54
-\i (00:00:10) pick -1.05 -9.74 
-\t (00:00:10) last pick:  -1.05  -9.74
-\i (00:00:10) done 
-\i (00:00:10) Add Line 
-\i (00:00:10) setwindow FORM.mini 
-\i (00:00:10) FORM mini class PACKAGE GEOMETRY 
-\i (00:00:10) FORM mini subclass SILKSCREEN_TOP 
-\i (00:00:10) setwindow FORM.mini 
-\i (00:00:10) FORM mini line_width 0.1 
-\i (00:00:10) FORM mini lock_direction Off 
-\i (00:00:10) setwindow pcb 
-\i (00:00:10) pick -1.05 -9.74 
-\t (00:00:10) last pick:  -1.05  -9.74
-\i (00:00:10) pick 14.45 -9.74 
-\t (00:00:10) last pick:  14.45  -9.74
-\i (00:00:10) done 
-\i (00:00:10) Add Line 
-\i (00:00:10) setwindow FORM.mini 
-\i (00:00:10) FORM mini class PACKAGE GEOMETRY 
-\i (00:00:10) FORM mini subclass SILKSCREEN_TOP 
-\i (00:00:10) setwindow FORM.mini 
-\i (00:00:10) FORM mini line_width 0.1 
-\i (00:00:10) FORM mini lock_direction Off 
-\i (00:00:10) setwindow pcb 
-\i (00:00:10) pick 14.45 -9.74 
-\t (00:00:10) last pick:  14.45  -9.74
-\i (00:00:10) pick 14.45 4.66 
-\t (00:00:10) last pick:  14.45  4.66
-\i (00:00:10) done 
-\i (00:00:10) Add Line 
-\i (00:00:11) setwindow FORM.mini 
-\i (00:00:11) FORM mini class PACKAGE GEOMETRY 
-\i (00:00:11) FORM mini subclass SILKSCREEN_TOP 
-\i (00:00:11) setwindow FORM.mini 
-\i (00:00:11) FORM mini line_width 0.1 
-\i (00:00:11) FORM mini lock_direction Off 
-\i (00:00:11) setwindow pcb 
-\i (00:00:11) pick 14.45 4.66 
-\t (00:00:11) last pick:  14.45  4.66
-\i (00:00:11) pick -1.05 4.66 
-\t (00:00:11) last pick:  -1.05  4.66
-\i (00:00:11) done 
-\i (00:00:11) Add Line 
-\i (00:00:11) setwindow FORM.mini 
-\i (00:00:11) FORM mini class PACKAGE GEOMETRY 
-\i (00:00:11) FORM mini subclass SILKSCREEN_TOP 
-\i (00:00:11) setwindow FORM.mini 
-\i (00:00:11) FORM mini line_width 0.1 
-\i (00:00:11) FORM mini lock_direction Off 
-\i (00:00:11) setwindow pcb 
-\i (00:00:11) pick -1.05 4.66 
-\t (00:00:11) last pick:  -1.05  4.66
-\i (00:00:11) pick -1.05 1.46 
-\t (00:00:11) last pick:  -1.05  1.46
-\i (00:00:11) done 
-\i (00:00:11) Create Symbol 
-\i (00:00:11) fillin 0316576 
-\t (00:00:11) Creating package symbol 'C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Library/LIB_031-6575_BNC/0316576.psm'.
-\t (00:00:11) Starting Create symbol...
-\i (00:00:11) setwindow pcb 
-\i (00:00:11) trapsize 503 
-\i (00:00:11) dbdoctor 
-\i (00:00:11) setwindow Form.dbdoctor_allegro 
-\i (00:00:11) FORM dbdoctor_allegro drc YES 
-\i (00:00:11) FORM dbdoctor_allegro shapes YES 
-\i (00:00:11) FORM dbdoctor_allegro execute 
-\t (00:00:11) Dbdoctor in progress - please wait.
-\t (00:00:11) Checking db records
-\t (00:00:11)     checking for orphans...
-\w (00:00:13) Dml model SPARTAN7 is duplicated 2 times in libraries
-         ..\..\..\..\..\..\spartan7\spartan7\spartan7.dml ..\..\..\..\IBIS\PSPICE\spartan7.dml.
-\w (00:00:13) Dml model SPARTAN7_PKG is duplicated 2 times in libraries
-         ..\..\..\..\..\..\spartan7\spartan7\spartan7.dml ..\..\..\..\IBIS\PSPICE\spartan7.dml.
-\t (00:00:13)     Checked 100 percent
-\t (00:00:13) Regenerating DRC
-\t (00:00:13)   Original DRC errors: 0
-\t (00:00:13) Performing DRC...
-\t (00:00:13) No DRC errors detected.
-\t (00:00:13)   Updated DRC errors:  0
-\t (00:00:13) Done dbdoctor.
-\t (00:00:13) Dbdoctor completed.
-\i (00:00:13) setwindow pcb 
-\i (00:00:13) save_as 
-\i (00:00:13) fillin 0316576 
-\t (00:00:14) Symbol '0316576.psm' created.
-\i (00:00:14) setwindow pcb 
-\i (00:00:14) trapsize 388
-\i (00:00:14) generaledit 
-\i (00:00:19) setwindow text
-\i (00:00:19) close 
-\i (00:00:22) setwindow pcb
-\i (00:00:22) zoom in 1 
-\i (00:00:22) setwindow pcb
-\i (00:00:22) zoom in 79.07 11.24
-\i (00:00:22) trapsize 194
-\i (00:00:22) zoom in 1 
-\i (00:00:22) setwindow pcb
-\i (00:00:22) zoom in 79.07 11.24
-\i (00:00:22) trapsize 97
-\i (00:00:22) zoom in 1 
-\i (00:00:22) setwindow pcb
-\i (00:00:22) zoom in 79.07 11.24
-\i (00:00:22) trapsize 48
-\i (00:00:23) zoom out 1 
-\i (00:00:23) setwindow pcb
-\i (00:00:23) zoom out 78.49 10.18
-\i (00:00:23) trapsize 97
-\i (00:00:23) prepopup 46.71 6.10
-\i (00:00:24) drag_start grid 39.15 22.96
-\i (00:00:24) drag_stop 50.98 22.38
-\i (00:00:24) drag_start grid 37.99 21.99
-\i (00:00:24) drag_stop 98.65 32.26
-\i (00:00:25) pick grid 59.70 7.46
-\t (00:00:25) last pick:  60.96  7.62
-\i (00:00:25) pick grid 57.56 7.65
-\t (00:00:25) last pick:  58.42  7.62
-\i (00:00:26) save 
-\i (00:00:29) fillin no 
-\i (00:00:31) fillin "menu_cancel"
-\i (00:00:31) generaledit 
-\i (00:00:31) save 
-\i (00:00:32) fillin yes 
-\t (00:00:33) Symbol '0316576.psm' created.
-\i (00:00:33) generaledit 
-\i (00:00:34) exit 
-\t (00:00:35)     Journal end - Sat Jun 24 19:33:11 2023
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Database opened: C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Library/LIB_031-6575_BNC/0316576.dra
+\i (00:00:06) trapsize 12
+\i (00:00:06) trapsize 10
+\i (00:00:06) trapsize 10
+\i (00:00:07) generaledit 
+\i (00:00:36) pick grid 26.65 -3.22
+\t (00:00:36) last pick:  25.40  -2.54
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 26.65 -3.22
+\i (00:00:37) trapsize 21
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 26.66 -3.22
+\i (00:00:37) trapsize 42
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 26.65 -3.21
+\i (00:00:37) trapsize 83
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 26.65 -3.22
+\i (00:00:37) trapsize 166
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 26.66 -3.21
+\i (00:00:38) trapsize 333
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 26.65 -3.21
+\i (00:00:38) trapsize 665
+\i (00:00:39) zoom in 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in 558.60 -3.22
+\i (00:00:39) trapsize 333
+\i (00:00:39) zoom in 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in 558.60 -3.21
+\i (00:00:39) trapsize 166
+\i (00:00:40) zoom out 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 216.94 -2.55
+\i (00:00:40) trapsize 333
+\i (00:00:40) zoom out 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 233.56 -5.87
+\i (00:00:40) trapsize 665
+\i (00:00:41) zoom in 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in -1.34 -9.86
+\i (00:00:41) trapsize 333
+\i (00:00:41) zoom in 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in 19.95 4.78
+\i (00:00:41) trapsize 166
+\i (00:00:41) zoom in 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in 19.95 4.78
+\i (00:00:41) trapsize 83
+\i (00:00:42) zoom in 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 20.78 -0.04
+\i (00:00:42) trapsize 42
+\i (00:00:42) zoom in 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 20.61 -1.87
+\i (00:00:42) trapsize 21
+\i (00:00:43) pick grid 35.41 -2.82
+\t (00:00:43) last pick:  35.56  -2.54
+\i (00:00:44) prepopup 35.41 -2.82
+\i (00:00:46) pick grid 35.25 -1.65
+\t (00:00:46) last pick:  35.56  -2.54
+\i (00:00:47) move 
+\t (00:00:47) No valid items selected for the current operation, exiting.
+\i (00:00:47) ipick_to_gridunit +1 
+\e (00:00:47) No command active
+\i (00:00:47) trapsize 21
+\i (00:00:47) generaledit 
+\i (00:00:47) move 
+\t (00:00:47) No valid items selected for the current operation, exiting.
+\i (00:00:47) ipick_to_gridunit +1 
+\e (00:00:47) No command active
+\i (00:00:47) trapsize 21
+\i (00:00:47) generaledit 
+\i (00:00:48) move 
+\t (00:00:48) No valid items selected for the current operation, exiting.
+\i (00:00:48) ipick_to_gridunit +1 
+\e (00:00:48) No command active
+\i (00:00:48) trapsize 21
+\i (00:00:48) generaledit 
+\i (00:00:48) move 
+\t (00:00:48) No valid items selected for the current operation, exiting.
+\i (00:00:48) ipick_to_gridunit +1 
+\e (00:00:48) No command active
+\i (00:00:48) trapsize 21
+\i (00:00:48) generaledit 
+\i (00:00:49) move 
+\t (00:00:49) No valid items selected for the current operation, exiting.
+\i (00:00:49) ipick_to_gridunit +1 
+\e (00:00:49) No command active
+\i (00:00:49) trapsize 21
+\i (00:00:49) generaledit 
+\i (00:00:49) move 
+\t (00:00:49) No valid items selected for the current operation, exiting.
+\i (00:00:49) ipick_to_gridunit +1 
+\e (00:00:49) No command active
+\i (00:00:49) trapsize 21
+\i (00:00:49) generaledit 
+\i (00:00:50) move 
+\t (00:00:50) No valid items selected for the current operation, exiting.
+\i (00:00:50) ipick_to_gridunit -1 
+\e (00:00:50) No command active
+\i (00:00:50) trapsize 21
+\i (00:00:50) generaledit 
+\i (00:00:50) move 
+\t (00:00:50) No valid items selected for the current operation, exiting.
+\i (00:00:50) ipick_to_gridunit -1 
+\e (00:00:50) No command active
+\i (00:00:50) trapsize 21
+\i (00:00:50) generaledit 
+\i (00:00:50) move 
+\t (00:00:50) No valid items selected for the current operation, exiting.
+\i (00:00:50) ipick_to_gridunit -1 
+\e (00:00:50) No command active
+\i (00:00:50) trapsize 21
+\i (00:00:50) generaledit 
+\i (00:00:51) move 
+\t (00:00:51) No valid items selected for the current operation, exiting.
+\i (00:00:51) ipick_to_gridunit -1 
+\e (00:00:51) No command active
+\i (00:00:51) trapsize 21
+\i (00:00:51) generaledit 
+\i (00:00:51) move 
+\t (00:00:51) No valid items selected for the current operation, exiting.
+\i (00:00:51) ipick_to_gridunit -1 
+\e (00:00:51) No command active
+\i (00:00:51) trapsize 21
+\i (00:00:51) move 
+\t (00:00:51) No valid items selected for the current operation, exiting.
+\i (00:00:51) ipick_to_gridunit -1 
+\e (00:00:51) No command active
+\i (00:00:51) trapsize 21
+\i (00:00:51) move 
+\t (00:00:51) No valid items selected for the current operation, exiting.
+\i (00:00:51) ipick_to_gridunit -1 
+\e (00:00:51) No command active
+\i (00:00:51) trapsize 21
+\i (00:00:51) move 
+\t (00:00:51) No valid items selected for the current operation, exiting.
+\i (00:00:52) ipick_to_gridunit -1 
+\e (00:00:52) No command active
+\i (00:00:52) trapsize 21
+\i (00:00:52) move 
+\t (00:00:52) No valid items selected for the current operation, exiting.
+\i (00:00:52) ipick_to_gridunit -1 
+\e (00:00:52) No command active
+\i (00:00:52) trapsize 21
+\i (00:00:52) move 
+\t (00:00:52) No valid items selected for the current operation, exiting.
+\i (00:00:52) ipick_to_gridunit -1 
+\e (00:00:52) No command active
+\i (00:00:52) trapsize 21
+\i (00:00:52) move 
+\t (00:00:52) No valid items selected for the current operation, exiting.
+\i (00:00:52) ipick_to_gridunit -1 
+\e (00:00:52) No command active
+\i (00:00:52) trapsize 21
+\i (00:00:52) move 
+\t (00:00:52) No valid items selected for the current operation, exiting.
+\i (00:00:52) ipick_to_gridunit -1 
+\e (00:00:52) No command active
+\i (00:00:52) trapsize 21
+\i (00:00:52) generaledit 
+\i (00:01:49) pick grid 45.35 -1.65
+\t (00:01:49) last pick:  45.72  -2.54
+\i (00:01:51) pick grid 20.86 3.67
+\t (00:01:51) last pick:  20.32  2.54
+\e (00:01:51) Command not found: ~E
+\e (00:01:52) Command not found: ~E
+\e (00:01:53) Command not found: ~E
+\i (00:01:55) pick grid 14.75 -2.03
+\t (00:01:55) last pick:  15.24  -2.54
+\i (00:01:56) pick grid 18.41 3.83
+\t (00:01:56) last pick:  17.78  5.08
+\i (00:01:56) pick grid dbl 18.41 3.83
+\t (00:01:56) last pick:  17.78  5.08
+\i (00:01:56) pick grid 18.41 3.83
+\t (00:01:56) last pick:  17.78  5.08
+\i (00:01:57) pick grid dbl 18.41 3.83
+\t (00:01:57) last pick:  17.78  5.08
+\i (00:01:58) prepopup 24.23 3.75
+\i (00:02:06) pop dyn_option_select '@:@Show element' 
+\i (00:02:06) show element 
+\i (00:02:06) generaledit 
+\i (00:02:12) setwindow text
+\i (00:02:12) close 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) drag_start grid 35.25 3.79
+\i (00:02:15) slide 
+\t (00:02:15) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:02:15) No valid items selected for the current operation, exiting.
+\i (00:02:15) generaledit 
+\i (00:02:15) drag_stop grid 31.46 1.34
+\i (00:02:20) pick grid 35.17 3.83
+\t (00:02:20) last pick:  35.56  5.08
+\i (00:02:25) pick 0 0 
+\t (00:02:25) last pick:  0.00  0.00
+\i (00:02:28) pick grid 2.15 2.55
+\t (00:02:28) last pick:  2.54  2.54
+\i (00:02:29) pick grid 0.36 0.30
+\t (00:02:29) last pick:  0.00  0.00
+\i (00:02:30) pick grid 0.11 -2.99
+\t (00:02:30) last pick:  0.00  -2.54
+\i (00:02:32) pick 1 0 
+\t (00:02:32) last pick:  1.00  0.00
+\i (00:02:34) pick 3 0 
+\t (00:02:34) last pick:  3.00  0.00
+\i (00:02:37) pick 0 0 
+\t (00:02:37) last pick:  0.00  0.00
+\i (00:02:38) pick grid 6.89 -3.19
+\t (00:02:38) last pick:  7.62  -2.54
+\i (00:02:50) shape edit boundary 
+\i (00:02:52) pick grid 35.25 0.42
+\t (00:02:52) last pick:  35.56  0.00
+\i (00:02:53) drag_start grid 22.73 4.04
+\i (00:02:53) drag_stop grid 25.85 2.38
+\i (00:02:54) drag_start grid 23.52 4.46
+\i (00:02:54) drag_stop grid 27.14 0.88
+\i (00:02:55) shape edit boundary 
+\i (00:02:56) drag_start grid 35.04 1.26
+\i (00:02:56) drag_stop grid 34.67 0.18
+\i (00:02:57) pick grid 35.04 0.09
+\t (00:02:57) last pick:  35.56  0.00
+\i (00:02:57) pick grid 35.08 -0.66
+\t (00:02:57) last pick:  35.56  0.00
+\i (00:02:57) pick grid 36.12 -1.24
+\t (00:02:57) last pick:  35.56  0.00
+\i (00:02:58) pick grid 36.25 -1.45
+\t (00:02:58) last pick:  35.56  -2.54
+\i (00:02:58) pick grid dbl 36.25 -1.45
+\t (00:02:58) last pick:  35.56  -2.54
+\i (00:03:03) shape select 
+\i (00:03:04) pick grid 35.29 0.84
+\t (00:03:04) last pick:  35.56  0.00
+\i (00:03:05) pick grid 35.17 0.84
+\t (00:03:05) last pick:  35.56  0.00
+\i (00:03:05) pick grid dbl 35.17 0.84
+\t (00:03:05) last pick:  35.56  0.00
+\i (00:03:05) pick grid 35.71 2.13
+\t (00:03:05) last pick:  35.56  2.54
+\i (00:03:05) pick grid 36.50 2.21
+\t (00:03:05) last pick:  35.56  2.54
+\i (00:03:06) pick grid dbl 36.50 2.21
+\t (00:03:06) last pick:  35.56  2.54
+\i (00:03:06) pick grid 36.33 2.17
+\t (00:03:06) last pick:  35.56  2.54
+\i (00:03:06) pick grid dbl 36.33 2.17
+\t (00:03:06) last pick:  35.56  2.54
+\i (00:03:08) prepopup 0.11 12.61
+\i (00:03:09) cancel 
+\i (00:03:09) generaledit 
+\i (00:05:57) pick grid -4.75 10.70
+\t (00:05:57) last pick:  -5.08  10.16
+\i (00:05:59) add rect 
+\i (00:06:02) pick grid -2.09 5.79
+\t (00:06:02) last pick:  -2.54  5.08
+\e (00:06:12) Command not found: SEsc
+\i (00:06:21) pick grid 14.04 -10.14
+\t (00:06:21) last pick:  15.24  -10.16
+\i (00:06:26) pick grid 15.29 -10.80
+\t (00:06:26) last pick:  15.24  -10.16
+\i (00:06:29) pick grid 15.29 -10.80
+\t (00:06:29) last pick:  15.24  -10.16
+\i (00:06:31) pick grid 15.12 -11.55
+\t (00:06:31) last pick:  15.24  -12.70
+\e (00:06:35) Command not found: SEsc
+\i (00:06:36) prepopup 26.68 9.37
+\i (00:06:37) cancel 
+\i (00:06:38) generaledit 
+\i (00:06:42) pick grid -3.92 7.91
+\t (00:06:42) last pick:  -5.08  7.62
+\i (00:06:44) pick grid -1.97 5.71
+\t (00:06:44) last pick:  -2.54  5.08
+\i (00:06:46) pick grid -2.14 5.71
+\t (00:06:46) last pick:  -2.54  5.08
+\i (00:06:52) pick grid 15.54 -11.80
+\t (00:06:52) last pick:  15.24  -12.70
+\i (00:06:56) pick grid -1.01 4.67
+\t (00:06:56) last pick:  0.00  5.08
+\i (00:06:58) pick grid -2.01 5.71
+\t (00:06:58) last pick:  -2.54  5.08
+\i (00:07:02) pick grid -0.97 4.71
+\t (00:07:02) last pick:  0.00  5.08
+\i (00:07:04) pick grid 15.37 -10.76
+\t (00:07:04) last pick:  15.24  -10.16
+\i (00:07:08) pick grid -2.09 -10.68
+\t (00:07:08) last pick:  -2.54  -10.16
+\i (00:07:13) add rect 
+\i (00:07:25) pick -2.54 5.08 
+\t (00:07:25) last pick:  -2.54  5.08
+\i (00:07:37) prepopup 0.40 9.24
+\i (00:07:38) cancel 
+\i (00:07:38) generaledit 
+\i (00:07:47) prmed 
+\i (00:07:51) setwindow form.prmedit
+\i (00:07:51) FORM prmedit design  
+\i (00:07:56) FORM prmedit display  
+\i (00:08:02) FORM prmedit cancel  
+\i (00:08:02) setwindow pcb
+\i (00:08:02) generaledit 
+\i (00:08:04) define grid 
+\t (00:08:04) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:08:05) generaledit 
+\i (00:08:09) setwindow form.grid
+\i (00:08:09) FORM grid non_etch non_etch_x_grids 0.01 
+\i (00:08:12) FORM grid non_etch non_etch_y_grids 0.01 
+\i (00:08:12) FORM grid done  
+\i (00:08:16) setwindow pcb
+\i (00:08:16) pick grid -2.05 5.83
+\t (00:08:16) last pick:  -2.05  5.83
+\i (00:08:19) zoom out 
+\i (00:08:19) setwindow pcb
+\i (00:08:19) zoom out -2.97 5.83
+\i (00:08:19) trapsize 42
+\i (00:08:20) zoom in 
+\i (00:08:20) setwindow pcb
+\i (00:08:20) zoom in -0.22 4.42
+\i (00:08:20) trapsize 21
+\i (00:08:20) zoom in 
+\i (00:08:20) setwindow pcb
+\i (00:08:20) zoom in -0.21 4.42
+\i (00:08:20) trapsize 10
+\i (00:08:20) zoom in 
+\i (00:08:20) setwindow pcb
+\i (00:08:20) zoom in -1.98 5.55
+\i (00:08:20) trapsize 5
+\i (00:08:21) zoom in 
+\i (00:08:21) setwindow pcb
+\i (00:08:21) zoom in -2.03 5.71
+\i (00:08:21) trapsize 3
+\i (00:08:21) zoom in 
+\i (00:08:21) setwindow pcb
+\i (00:08:21) zoom in -2.04 5.72
+\i (00:08:21) trapsize 1
+\i (00:08:23) pick grid -2.05 5.66
+\t (00:08:23) last pick:  -2.05  5.66
+\i (00:08:23) pick grid -2.05 5.66
+\t (00:08:23) last pick:  -2.05  5.66
+\i (00:08:26) pick grid -2.05 5.66
+\t (00:08:26) last pick:  -2.05  5.66
+\i (00:08:28) pick grid -2.05 5.67
+\t (00:08:28) last pick:  -2.05  5.67
+\i (00:08:29) pick grid -2.05 5.67
+\t (00:08:29) last pick:  -2.05  5.67
+\i (00:08:30) pick grid -2.05 5.67
+\t (00:08:30) last pick:  -2.05  5.67
+\i (00:08:38) zoom out 1 
+\i (00:08:38) setwindow pcb
+\i (00:08:38) zoom out 0.96 5.22
+\i (00:08:38) trapsize 3
+\i (00:08:38) zoom out 1 
+\i (00:08:38) setwindow pcb
+\i (00:08:38) zoom out 0.95 5.21
+\i (00:08:38) trapsize 5
+\i (00:08:38) zoom out 1 
+\i (00:08:38) setwindow pcb
+\i (00:08:38) zoom out 0.95 5.22
+\i (00:08:38) trapsize 10
+\i (00:08:38) zoom out 1 
+\i (00:08:38) setwindow pcb
+\i (00:08:38) zoom out 0.96 5.24
+\i (00:08:38) trapsize 21
+\i (00:08:38) zoom out 1 
+\i (00:08:38) setwindow pcb
+\i (00:08:38) zoom out 0.97 5.24
+\i (00:08:38) trapsize 42
+\i (00:08:38) zoom out 1 
+\i (00:08:38) setwindow pcb
+\i (00:08:38) zoom out 0.97 5.24
+\i (00:08:38) trapsize 83
+\i (00:08:38) zoom out 1 
+\i (00:08:38) setwindow pcb
+\i (00:08:38) zoom out 0.96 5.24
+\i (00:08:38) trapsize 167
+\i (00:08:39) zoom out 1 
+\i (00:08:39) setwindow pcb
+\i (00:08:39) zoom out 0.97 5.23
+\i (00:08:39) trapsize 334
+\i (00:08:39) zoom out 1 
+\i (00:08:39) setwindow pcb
+\i (00:08:39) zoom out 0.96 5.24
+\i (00:08:39) trapsize 667
+\i (00:08:39) zoom out 1 
+\i (00:08:39) setwindow pcb
+\i (00:08:39) zoom out 500.44 5.23
+\i (00:08:39) trapsize 1334
+\i (00:08:39) zoom out 1 
+\i (00:08:39) setwindow pcb
+\i (00:08:39) zoom out 2096.39 5.24
+\i (00:08:39) trapsize 1517
+\i (00:08:40) zoom in 
+\i (00:08:40) setwindow pcb
+\i (00:08:40) zoom in 111.88 -53.29
+\i (00:08:40) trapsize 758
+\i (00:08:40) zoom in 
+\i (00:08:40) setwindow pcb
+\i (00:08:40) zoom in -491.81 -53.28
+\i (00:08:40) trapsize 379
+\i (00:08:40) zoom in 
+\i (00:08:40) setwindow pcb
+\i (00:08:40) zoom in -491.80 -53.28
+\i (00:08:40) trapsize 190
+\i (00:08:42) zoom in 
+\i (00:08:42) setwindow pcb
+\i (00:08:42) zoom in 38.33 -8.91
+\i (00:08:42) trapsize 95
+\i (00:08:42) zoom in 
+\i (00:08:42) setwindow pcb
+\i (00:08:42) zoom in 36.63 -8.90
+\i (00:08:42) trapsize 47
+\i (00:08:43) zoom in 
+\i (00:08:43) setwindow pcb
+\i (00:08:43) zoom in 18.33 -6.63
+\i (00:08:43) trapsize 24
+\i (00:08:43) zoom in 
+\i (00:08:43) setwindow pcb
+\i (00:08:43) zoom in 17.34 -6.63
+\i (00:08:43) trapsize 12
+\i (00:08:43) zoom in 
+\i (00:08:43) setwindow pcb
+\i (00:08:43) zoom in 17.17 -6.72
+\i (00:08:43) trapsize 6
+\i (00:08:46) pick grid 15.28 -10.73
+\t (00:08:46) last pick:  15.28  -10.73
+\i (00:08:52) pick grid 14.39 -9.71
+\t (00:08:52) last pick:  14.39  -9.71
+\i (00:09:03) add rect 
+\i (00:09:10) pick -2.05 5.67 
+\t (00:09:10) last pick:  -2.05  5.67
+\e (00:10:04) Command not found: xi 14.39 -10.74
+\i (00:11:35) roam y -96 
+\i (00:11:35) roam y -96
+\i (00:11:35) roam y 96 
+\i (00:11:35) roam y 96
+\i (00:11:41) pick 14.39 -10.74 
+\t (00:11:41) last pick:  14.39  -10.74
+\i (00:11:45) prepopup 5.46 -7.86
+\i (00:11:46) done 
+\i (00:11:46) generaledit 
+\i (00:11:48) zoom out 1 
+\i (00:11:48) setwindow pcb
+\i (00:11:48) zoom out 15.82 -10.83
+\i (00:11:48) trapsize 12
+\i (00:11:48) zoom out 1 
+\i (00:11:48) setwindow pcb
+\i (00:11:48) zoom out 15.83 -10.83
+\i (00:11:48) trapsize 24
+\i (00:11:48) zoom out 1 
+\i (00:11:48) setwindow pcb
+\i (00:11:48) zoom out 15.83 -10.93
+\i (00:11:48) trapsize 47
+\i (00:11:48) zoom out 1 
+\i (00:11:48) setwindow pcb
+\i (00:11:48) zoom out 15.83 -10.93
+\i (00:11:48) trapsize 95
+\i (00:11:50) zoom in 
+\i (00:11:50) setwindow pcb
+\i (00:11:50) zoom in 28.16 -6.95
+\i (00:11:50) trapsize 47
+\i (00:11:50) zoom in 
+\i (00:11:50) setwindow pcb
+\i (00:11:50) zoom in 25.60 -6.95
+\i (00:11:50) trapsize 24
+\i (00:11:51) zoom in 
+\i (00:11:51) setwindow pcb
+\i (00:11:51) zoom in 25.60 -6.95
+\i (00:11:51) trapsize 12
+\i (00:11:53) pick grid 14.48 4.43
+\t (00:11:53) last pick:  14.48  4.43
+\i (00:11:54) pick grid 14.48 4.43
+\t (00:11:54) last pick:  14.48  4.43
+\i (00:12:02) pick grid 14.46 4.64
+\t (00:12:02) last pick:  14.46  4.64
+\i (00:12:23) pick grid 19.89 -6.23
+\t (00:12:23) last pick:  19.89  -6.23
+\i (00:12:23) undo 
+\i (00:12:23) trapsize 6
+\i (00:12:24) generaledit 
+\i (00:12:26) add rect 
+\i (00:12:29) pick -2.05 5.67 
+\t (00:12:29) last pick:  -2.05  5.67
+\i (00:12:39) pick 14.46 -10.74 
+\t (00:12:39) last pick:  14.46  -10.74
+\i (00:12:42) prepopup 3.09 -5.97
+\i (00:12:42) done 
+\i (00:12:43) generaledit 
+\i (00:12:44) pick grid 15.34 -10.77
+\t (00:12:44) last pick:  15.34  -10.77
+\i (00:12:44) prepopup 15.35 -10.74
+\i (00:12:45) pop dyn_option_select @:@Delete 
+\i (00:12:45) delete 
+\i (00:12:45) generaledit 
+\i (00:12:45) zoom out 1 
+\i (00:12:45) setwindow pcb
+\i (00:12:45) zoom out 15.08 -10.90
+\i (00:12:45) trapsize 12
+\i (00:12:45) zoom out 1 
+\i (00:12:45) setwindow pcb
+\i (00:12:45) zoom out 15.08 -10.91
+\i (00:12:45) trapsize 24
+\i (00:12:47) pick grid -1.99 -8.82
+\t (00:12:47) last pick:  -1.99  -8.82
+\i (00:12:48) prepopup -1.99 -8.86
+\i (00:12:50) pop dyn_option_select @:@Delete 
+\i (00:12:50) delete 
+\i (00:12:50) generaledit 
+\i (00:12:52) pick grid 19.24 5.78
+\t (00:12:52) last pick:  19.24  5.78
+\i (00:12:52) prepopup 19.24 5.78
+\i (00:12:53) pop dyn_option_select @:@Delete 
+\i (00:12:53) delete 
+\i (00:12:53) generaledit 
+\i (00:12:54) pick grid 36.16 3.74
+\t (00:12:54) last pick:  36.16  3.74
+\i (00:12:54) prepopup 36.16 3.74
+\i (00:12:55) pop dyn_option_select @:@Delete 
+\i (00:12:55) delete 
+\i (00:12:55) generaledit 
+\i (00:12:56) pick grid 22.65 3.74
+\t (00:12:56) last pick:  22.65  3.74
+\i (00:12:56) prepopup 22.65 3.74
+\i (00:12:57) pop dyn_option_select @:@Delete 
+\i (00:12:57) delete 
+\i (00:12:57) generaledit 
+\i (00:12:58) pick grid 35.17 0.00
+\t (00:12:58) last pick:  35.17  0.00
+\i (00:12:58) prepopup 35.17 0.00
+\i (00:12:59) pop dyn_option_select @:@Delete 
+\i (00:12:59) delete 
+\i (00:12:59) generaledit 
+\i (00:12:59) pick grid 28.63 -8.63
+\t (00:12:59) last pick:  28.63  -8.63
+\i (00:13:00) prepopup 28.63 -8.63
+\i (00:13:01) pop dyn_option_select @:@Delete 
+\i (00:13:01) delete 
+\i (00:13:01) generaledit 
+\i (00:13:02) pick grid 14.41 -5.45
+\t (00:13:02) last pick:  14.41  -5.45
+\i (00:13:02) pick grid 14.60 -5.55
+\t (00:13:02) last pick:  14.60  -5.55
+\i (00:13:03) pick grid 14.69 -5.55
+\t (00:13:03) last pick:  14.69  -5.55
+\i (00:13:06) zoom in 
+\i (00:13:06) setwindow pcb
+\i (00:13:06) zoom in 16.82 -4.22
+\i (00:13:06) trapsize 12
+\i (00:13:06) zoom in 
+\i (00:13:06) setwindow pcb
+\i (00:13:06) zoom in 15.68 -4.12
+\i (00:13:06) trapsize 6
+\i (00:13:07) zoom out 
+\i (00:13:07) setwindow pcb
+\i (00:13:07) zoom out 15.60 -6.00
+\i (00:13:07) trapsize 12
+\i (00:13:09) pick grid 14.57 -8.79
+\t (00:13:09) last pick:  14.57  -8.79
+\i (00:13:10) prepopup 14.57 -8.79
+\i (00:13:11) pop dyn_option_select @:@Delete 
+\i (00:13:11) delete 
+\i (00:13:11) generaledit 
+\i (00:13:16) undo 
+\i (00:13:16) trapsize 12
+\i (00:13:16) generaledit 
+\i (00:13:16) pick grid 16.98 -6.85
+\t (00:13:16) last pick:  16.98  -6.85
+\i (00:13:18) drag_start grid 13.05 4.15
+\i (00:13:18) drag_stop 18.07 -9.01
+\i (00:13:20) pick grid 18.22 -6.28
+\t (00:13:20) last pick:  18.22  -6.28
+\i (00:13:21) roam y 96 
+\i (00:13:21) roam y 96
+\i (00:13:21) roam y 96 
+\i (00:13:21) roam y 96
+\i (00:13:22) roam y -96 
+\i (00:13:22) roam y -96
+\i (00:13:26) drag_start grid 15.28 3.89
+\i (00:13:27) drag_stop 13.97 -4.42
+\i (00:13:27) pick grid 16.30 0.77
+\t (00:13:27) last pick:  16.30  0.77
+\i (00:13:29) pick grid 14.42 -10.61
+\t (00:13:29) last pick:  14.42  -10.61
+\i (00:13:30) pick grid -5.08 0.29
+\t (00:13:30) last pick:  -5.08  0.29
+\i (00:13:31) pick grid -2.05 3.80
+\t (00:13:31) last pick:  -2.05  3.80
+\i (00:13:31) prepopup -2.05 3.80
+\i (00:13:44) pick grid 21.65 0.13
+\t (00:13:44) last pick:  21.65  0.13
+\i (00:13:44) pick grid 11.82 4.58
+\t (00:13:44) last pick:  11.82  4.58
+\i (00:13:44) prepopup 11.82 4.58
+\i (00:13:47) pick grid 7.77 -0.68
+\t (00:13:47) last pick:  7.77  -0.68
+\i (00:13:48) pick grid 11.15 4.77
+\t (00:13:48) last pick:  11.15  4.77
+\i (00:13:48) pick grid dbl 11.15 4.77
+\t (00:13:48) last pick:  11.15  4.77
+\i (00:13:48) pick grid 11.22 4.56
+\t (00:13:48) last pick:  11.22  4.56
+\i (00:13:57) pick grid -3.73 -1.53
+\t (00:13:57) last pick:  -3.73  -1.53
+\i (00:13:58) pick grid -2.05 -1.20
+\t (00:13:58) last pick:  -2.05  -1.20
+\i (00:13:58) prepopup -2.05 -1.20
+\i (00:14:10) pop dyn_option_select 'Selection set@:@Select by Polygon' 
+\i (00:14:11) pick grid -0.93 -7.88
+\t (00:14:11) last pick:  -0.93  -7.88
+\i (00:14:14) pick grid 4.35 -6.11
+\t (00:14:14) last pick:  4.35  -6.11
+\i (00:14:14) pick grid 5.75 -8.07
+\t (00:14:14) last pick:  5.75  -8.07
+\i (00:14:14) pick grid 2.69 -7.65
+\t (00:14:14) last pick:  2.69  -7.65
+\i (00:14:14) pick grid 4.57 -4.73
+\t (00:14:14) last pick:  4.57  -4.73
+\i (00:14:15) drag_start grid 6.20 -5.66
+\i (00:14:15) drag_stop grid 7.24 -6.15
+\i (00:14:15) drag_start grid 6.77 -7.15
+\i (00:14:15) drag_stop grid 5.63 -8.29
+\i (00:14:15) pick grid 5.54 -8.67
+\t (00:14:15) last pick:  5.54  -8.67
+\i (00:14:16) prepopup 5.77 -7.43
+\i (00:14:17) cancel 
+\i (00:14:19) prepopup -4.70 -4.76
+\i (00:14:21) pick grid -1.69 -4.00
+\t (00:14:21) last pick:  -1.69  -4.00
+\i (00:14:21) pick grid -2.16 -4.05
+\t (00:14:21) last pick:  -2.16  -4.05
+\i (00:14:22) prepopup -2.16 -4.05
+\i (00:14:30) pop dyn_option_select 'Application Mode@:@General Edit' 
+\i (00:14:30) generaledit 
+\i (00:14:32) drag_start grid -2.07 -7.86
+\i (00:14:32) move 
+\t (00:14:32) last pick:  -2.07  -7.86
+\t (00:14:32) Element has no origin, using pick.
+\t (00:14:32) Pick new location for the element(s).
+\i (00:14:32) drag_stop grid -4.37 -8.33
+\i (00:14:32) generaledit 
+\i (00:14:34) undo 
+\i (00:14:34) trapsize 12
+\i (00:14:34) generaledit 
+\i (00:14:34) undo 
+\i (00:14:34) trapsize 24
+\i (00:14:34) generaledit 
+\i (00:14:35) undo 
+\i (00:14:35) trapsize 24
+\i (00:14:36) generaledit 
+\i (00:14:36) undo 
+\i (00:14:36) trapsize 24
+\i (00:14:36) generaledit 
+\i (00:14:37) prepopup 23.27 3.79
+\i (00:14:43) pop dyn_option_select 'Application Mode@:@General Edit' 
+\i (00:14:43) generaledit 
+\i (00:14:43) drag_start grid 21.00 3.84
+\i (00:14:43) slide 
+\t (00:14:44) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:14:44) No valid items selected for the current operation, exiting.
+\i (00:14:44) generaledit 
+\i (00:14:44) drag_stop grid 21.90 -2.28
+\i (00:14:44) drag_start grid 22.80 3.89
+\i (00:14:44) slide 
+\t (00:14:44) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:14:45) No valid items selected for the current operation, exiting.
+\i (00:14:45) generaledit 
+\i (00:14:45) drag_stop grid 24.46 -4.41
+\i (00:14:45) prepopup 24.27 3.98
+\i (00:14:47) pick grid 22.09 0.09
+\t (00:14:47) last pick:  22.09  0.09
+\e (00:14:47) Command not found: ~SZ
+\i (00:14:48) pick grid 22.51 3.84
+\t (00:14:48) last pick:  22.51  3.84
+\i (00:14:48) prepopup 22.51 3.84
+\i (00:14:49) pick grid 20.24 1.52
+\t (00:14:49) last pick:  20.24  1.52
+\i (00:14:50) drag_start grid 36.26 5.17
+\i (00:14:52) drag_stop 14.17 -8.96
+\i (00:14:52) pick grid 23.08 -0.57
+\t (00:14:52) last pick:  23.08  -0.57
+\i (00:14:55) pick grid 14.41 2.89
+\t (00:14:55) last pick:  14.41  2.89
+\i (00:14:57) prepopup 14.41 2.89
+\i (00:14:59) pop dyn_option_select @:@Delete 
+\i (00:14:59) delete 
+\i (00:14:59) generaledit 
+\i (00:15:01) zoom in 
+\i (00:15:01) setwindow pcb
+\i (00:15:01) zoom in 17.06 0.66
+\i (00:15:01) trapsize 12
+\i (00:15:01) zoom in 
+\i (00:15:01) setwindow pcb
+\i (00:15:01) zoom in 15.54 2.25
+\i (00:15:01) trapsize 6
+\i (00:15:03) undo 
+\i (00:15:03) trapsize 24
+\i (00:15:03) generaledit 
+\i (00:15:04) pick grid 17.77 0.99
+\t (00:15:04) last pick:  17.77  0.99
+\i (00:15:05) zoom in 
+\i (00:15:05) setwindow pcb
+\i (00:15:05) zoom in 17.25 1.37
+\i (00:15:05) trapsize 12
+\i (00:15:05) zoom in 
+\i (00:15:05) setwindow pcb
+\i (00:15:05) zoom in 16.47 1.85
+\i (00:15:05) trapsize 6
+\i (00:15:14) drag_start grid 14.97 3.94
+\i (00:15:14) slide 
+\t (00:15:14) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Assembly_Top"
+\t (00:15:14) No valid items selected for the current operation, exiting.
+\i (00:15:14) drag_stop grid 15.43 3.50
+\i (00:15:14) generaledit 
+\i (00:15:15) prepopup 15.58 3.83
+\i (00:15:16) pop dyn_option_select @:@Delete 
+\i (00:15:16) delete 
+\i (00:15:16) generaledit 
+\i (00:15:16) zoom out 1 
+\i (00:15:16) setwindow pcb
+\i (00:15:16) zoom out 16.92 0.63
+\i (00:15:16) trapsize 12
+\i (00:15:16) zoom out 1 
+\i (00:15:16) setwindow pcb
+\i (00:15:16) zoom out 16.92 0.64
+\i (00:15:16) trapsize 24
+\i (00:15:17) prepopup 17.26 -8.85
+\i (00:15:18) pop dyn_option_select @:@Delete 
+\i (00:15:18) delete 
+\i (00:15:18) generaledit 
+\i (00:15:19) prepopup 35.08 1.01
+\i (00:15:20) pop dyn_option_select @:@Delete 
+\i (00:15:20) delete 
+\i (00:15:20) generaledit 
+\i (00:15:22) pick grid 12.28 5.80
+\t (00:15:22) last pick:  12.28  5.80
+\i (00:15:22) pick grid dbl 12.28 5.80
+\t (00:15:22) last pick:  12.28  5.80
+\i (00:15:22) pick grid 12.28 5.80
+\t (00:15:22) last pick:  12.28  5.80
+\i (00:15:22) pick grid dbl 12.28 5.80
+\t (00:15:22) last pick:  12.28  5.80
+\i (00:15:23) prepopup 12.28 5.80
+\i (00:15:26) pick grid -0.99 -1.22
+\t (00:15:26) last pick:  -0.99  -1.22
+\i (00:15:27) prepopup -1.08 -1.22
+\i (00:15:29) pick grid -2.03 -1.31
+\t (00:15:29) last pick:  -2.03  -1.31
+\i (00:15:29) prepopup -2.22 -1.31
+\i (00:15:33) pick grid 4.13 2.38
+\t (00:15:33) last pick:  4.13  2.38
+\i (00:15:34) pick grid -1.98 2.48
+\t (00:15:34) last pick:  -1.98  2.48
+\i (00:15:35) prepopup -1.98 2.48
+\i (00:15:36) pick grid -0.89 3.24
+\t (00:15:36) last pick:  -0.89  3.24
+\i (00:15:36) pick grid dbl -0.89 3.24
+\t (00:15:36) last pick:  -0.89  3.24
+\i (00:15:37) pick grid -0.89 3.24
+\t (00:15:37) last pick:  -0.89  3.24
+\i (00:15:37) prepopup -0.89 3.24
+\i (00:15:46) pop dyn_option_select 'Quick Utilities@:@Design Parameters...' 
+\i (00:15:46) prmed 
+\i (00:15:49) setwindow form.prmedit
+\i (00:15:49) FORM prmedit design  
+\i (00:15:50) FORM prmedit text  
+\i (00:15:50) FORM prmedit shapes  
+\i (00:15:52) FORM prmedit route  
+\i (00:15:52) FORM prmedit display  
+\i (00:15:54) FORM prmedit cancel  
+\i (00:15:54) setwindow pcb
+\i (00:15:54) generaledit 
+\i (00:15:55) pick grid -2.03 3.76
+\t (00:15:55) last pick:  -2.03  3.76
+\i (00:15:56) prepopup -2.03 3.76
+\i (00:15:57) pop dyn_option_select 'Quick Utilities@:@Design Parameters...' 
+\i (00:15:57) prmed 
+\i (00:16:00) setwindow form.prmedit
+\i (00:16:00) FORM prmedit cancel  
+\i (00:16:00) setwindow pcb
+\i (00:16:00) generaledit 
+\i (00:16:01) prepopup -2.03 2.29
+\i (00:16:02) pick grid -9.42 4.99
+\t (00:16:02) last pick:  -9.42  4.99
+\i (00:16:03) pick grid -1.89 5.75
+\t (00:16:03) last pick:  -1.89  5.75
+\e (00:17:25) Command not found: Del
+\i (00:17:26) pick grid 2.57 8.21
+\t (00:17:26) last pick:  2.57  8.21
+\i (00:17:27) pick grid 0.58 5.56
+\t (00:17:27) last pick:  0.58  5.56
+\i (00:17:27) prepopup 0.67 5.89
+\i (00:17:33) pop dyn_option_select @:@Fix 
+\i (00:17:33) fix 
+\i (00:17:33) generaledit 
+\i (00:17:34) prepopup 0.58 5.65
+\i (00:17:36) pop dyn_option_select @:@Unfix 
+\i (00:17:36) unfix 
+\i (00:17:36) generaledit 
+\i (00:17:37) pick grid 1.62 5.84
+\t (00:17:37) last pick:  1.62  5.84
+\i (00:17:37) prepopup 1.62 5.84
+\i (00:17:46) pop dyn_option_select 'Quick Utilities@:@Undo' 
+\i (00:17:46) undo 
+\i (00:17:46) trapsize 24
+\i (00:17:46) generaledit 
+\e (00:17:47) Command not found: Del
+\e (00:17:48) Command not found: Del
+\e (00:17:48) Command not found: Del
+\i (00:17:48) pick grid 11.19 5.70
+\t (00:17:48) last pick:  11.19  5.70
+\e (00:17:49) Command not found: Del
+\i (00:17:49) pick grid dbl 11.19 5.70
+\t (00:17:49) last pick:  11.19  5.70
+\i (00:17:51) delete 
+\t (00:17:51) Selected item not valid for current operation, ignored: Rectangle "Package Geometry/Silkscreen_Top"
+\t (00:17:51) No valid items selected for the current operation, exiting.
+\i (00:17:51) generaledit 
+\i (00:17:52) pick grid -0.47 5.89
+\t (00:17:52) last pick:  -0.47  5.89
+\i (00:17:54) delete 
+\t (00:17:54) Selected item not valid for current operation, ignored: Rectangle "Package Geometry/Silkscreen_Top"
+\t (00:17:54) No valid items selected for the current operation, exiting.
+\i (00:17:54) generaledit 
+\i (00:17:54) delete 
+\t (00:17:54) Selected item not valid for current operation, ignored: Rectangle "Package Geometry/Silkscreen_Top"
+\t (00:17:54) No valid items selected for the current operation, exiting.
+\i (00:17:54) generaledit 
+\i (00:17:55) delete 
+\t (00:17:55) Selected item not valid for current operation, ignored: Rectangle "Package Geometry/Silkscreen_Top"
+\t (00:17:55) No valid items selected for the current operation, exiting.
+\i (00:17:55) generaledit 
+\i (00:17:56) pick grid -15.30 5.65
+\t (00:17:56) last pick:  -15.30  5.65
+\i (00:17:57) undo 
+\i (00:17:57) trapsize 24
+\i (00:17:57) generaledit 
+\i (00:17:57) undo 
+\i (00:17:57) trapsize 24
+\i (00:17:57) generaledit 
+\i (00:17:57) undo 
+\i (00:17:58) trapsize 24
+\i (00:17:58) generaledit 
+\i (00:17:58) undo 
+\i (00:17:58) trapsize 24
+\i (00:17:58) generaledit 
+\i (00:17:58) undo 
+\i (00:17:58) trapsize 24
+\i (00:17:58) generaledit 
+\i (00:17:58) undo 
+\i (00:17:58) generaledit 
+\i (00:17:58) undo 
+\i (00:17:58) generaledit 
+\i (00:17:59) undo 
+\i (00:17:59) undo 
+\i (00:17:59) generaledit 
+\i (00:17:59) undo 
+\i (00:17:59) generaledit 
+\i (00:17:59) undo 
+\i (00:17:59) generaledit 
+\i (00:17:59) undo 
+\i (00:17:59) generaledit 
+\i (00:17:59) undo 
+\i (00:17:59) generaledit 
+\i (00:18:00) undo 
+\i (00:18:00) undo 
+\i (00:18:00) generaledit 
+\i (00:18:00) undo 
+\i (00:18:00) generaledit 
+\i (00:18:00) undo 
+\i (00:18:00) generaledit 
+\i (00:18:00) undo 
+\i (00:18:00) generaledit 
+\i (00:18:00) undo 
+\i (00:18:00) generaledit 
+\i (00:18:01) exit 
+\e (00:18:01) Do you want to save the changes you made to 0316576.dra?
+\i (00:18:02) fillin no 
+\t (00:18:03)     Journal end - Wed Jun 28 00:04:44 2023

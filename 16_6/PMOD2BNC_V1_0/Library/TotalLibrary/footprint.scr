@@ -2,7 +2,7 @@
 Version 14#
 setwindow pcb
 new
-newdrawfillin "DS04254201BKSMTTR.dra" "Package Symbol"
+newdrawfillin "HDRRA14W64P254_2X7_1778X229X864P.dra" "Package Symbol"
 prmed
 setwindow Form.prmedit
 FORM prmedit design
@@ -120,27 +120,183 @@ Add Pin
 setwindow Form.mini
 FORM mini offsetx 0.00
 FORM mini offsety 0.00
-FORM mini rotate_pin 180
+FORM mini rotate_pin 0
 Add Pin
 setwindow Form.mini
-FORM mini pad_name r150_110
+FORM mini pad_name s165_h110
 setwindow Form.mini
 FORM mini next_pin_number 1
 setwindow pcb
-pick 0 -4.45
+pick 0 0
 done
 Add Pin
 setwindow Form.mini
 FORM mini offsetx 0.00
 FORM mini offsety 0.00
-FORM mini rotate_pin 180
+FORM mini rotate_pin 0
 Add Pin
 setwindow Form.mini
-FORM mini pad_name r150_110
+FORM mini pad_name c165_h110
 setwindow Form.mini
 FORM mini next_pin_number 2
 setwindow pcb
-pick 0 4.45
+pick 0 2.54
+done
+Add Pin
+setwindow Form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+Add Pin
+setwindow Form.mini
+FORM mini pad_name c165_h110
+setwindow Form.mini
+FORM mini next_pin_number 3
+setwindow pcb
+pick 2.54 0
+done
+Add Pin
+setwindow Form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+Add Pin
+setwindow Form.mini
+FORM mini pad_name c165_h110
+setwindow Form.mini
+FORM mini next_pin_number 4
+setwindow pcb
+pick 2.54 2.54
+done
+Add Pin
+setwindow Form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+Add Pin
+setwindow Form.mini
+FORM mini pad_name c165_h110
+setwindow Form.mini
+FORM mini next_pin_number 5
+setwindow pcb
+pick 5.08 0
+done
+Add Pin
+setwindow Form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+Add Pin
+setwindow Form.mini
+FORM mini pad_name c165_h110
+setwindow Form.mini
+FORM mini next_pin_number 6
+setwindow pcb
+pick 5.08 2.54
+done
+Add Pin
+setwindow Form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+Add Pin
+setwindow Form.mini
+FORM mini pad_name c165_h110
+setwindow Form.mini
+FORM mini next_pin_number 7
+setwindow pcb
+pick 7.62 0
+done
+Add Pin
+setwindow Form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+Add Pin
+setwindow Form.mini
+FORM mini pad_name c165_h110
+setwindow Form.mini
+FORM mini next_pin_number 8
+setwindow pcb
+pick 7.62 2.54
+done
+Add Pin
+setwindow Form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+Add Pin
+setwindow Form.mini
+FORM mini pad_name c165_h110
+setwindow Form.mini
+FORM mini next_pin_number 9
+setwindow pcb
+pick 10.16 0
+done
+Add Pin
+setwindow Form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+Add Pin
+setwindow Form.mini
+FORM mini pad_name c165_h110
+setwindow Form.mini
+FORM mini next_pin_number 10
+setwindow pcb
+pick 10.16 2.54
+done
+Add Pin
+setwindow Form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+Add Pin
+setwindow Form.mini
+FORM mini pad_name c165_h110
+setwindow Form.mini
+FORM mini next_pin_number 11
+setwindow pcb
+pick 12.7 0
+done
+Add Pin
+setwindow Form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+Add Pin
+setwindow Form.mini
+FORM mini pad_name c165_h110
+setwindow Form.mini
+FORM mini next_pin_number 12
+setwindow pcb
+pick 12.7 2.54
+done
+Add Pin
+setwindow Form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+Add Pin
+setwindow Form.mini
+FORM mini pad_name c165_h110
+setwindow Form.mini
+FORM mini next_pin_number 13
+setwindow pcb
+pick 15.24 0
+done
+Add Pin
+setwindow Form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+Add Pin
+setwindow Form.mini
+FORM mini pad_name c165_h110
+setwindow Form.mini
+FORM mini next_pin_number 14
+setwindow pcb
+pick 15.24 2.54
 done
 setwindow pcb
 Label refdes
@@ -152,32 +308,52 @@ FORM mini text_justification Center
 FORM mini angle 0
 FORM mini mirror NO
 setwindow pcb
-pick 0.000 0.000
-Text S*
+pick 0 0
+Text J*
 done
-Add rarc
+Add Line
 setwindow FORM.mini
 FORM mini class PACKAGE GEOMETRY
-FORM mini subclass SILKSCREEN_TOP
+FORM mini subclass PLACE_BOUND_TOP
 setwindow FORM.mini
-FORM mini line_width 0.1
+FORM mini line_width 0.05
 FORM mini lock_direction Off
 setwindow pcb
-pick 2.6367796834847E-16 -5.65
-pick 0.050000000000001 -5.65
-angle -180
+pick -1.52 -1.325
+pick 16.76 -1.325
 done
-Add rarc
+Add Line
 setwindow FORM.mini
 FORM mini class PACKAGE GEOMETRY
-FORM mini subclass SILKSCREEN_TOP
+FORM mini subclass PLACE_BOUND_TOP
 setwindow FORM.mini
-FORM mini line_width 0.1
+FORM mini line_width 0.05
 FORM mini lock_direction Off
 setwindow pcb
-pick 2.6367796834847E-16 -5.65
-pick 0.050000000000001 -5.65
-angle -180
+pick 16.76 -1.325
+pick 16.76 13.79
+done
+Add Line
+setwindow FORM.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass PLACE_BOUND_TOP
+setwindow FORM.mini
+FORM mini line_width 0.05
+FORM mini lock_direction Off
+setwindow pcb
+pick 16.76 13.79
+pick -1.52 13.79
+done
+Add Line
+setwindow FORM.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass PLACE_BOUND_TOP
+setwindow FORM.mini
+FORM mini line_width 0.05
+FORM mini lock_direction Off
+setwindow pcb
+pick -1.52 13.79
+pick -1.52 -1.325
 done
 Add Line
 setwindow FORM.mini
@@ -187,8 +363,8 @@ setwindow FORM.mini
 FORM mini line_width 0.1
 FORM mini lock_direction Off
 setwindow pcb
-pick -1.77 3.1
-pick 1.77 3.1
+pick -1.27 5.15
+pick -1.27 7.44
 done
 Add Line
 setwindow FORM.mini
@@ -198,8 +374,8 @@ setwindow FORM.mini
 FORM mini line_width 0.1
 FORM mini lock_direction Off
 setwindow pcb
-pick 1.77 3.1
-pick 1.77 -3.1
+pick -1.27 7.44
+pick 16.51 7.44
 done
 Add Line
 setwindow FORM.mini
@@ -209,8 +385,8 @@ setwindow FORM.mini
 FORM mini line_width 0.1
 FORM mini lock_direction Off
 setwindow pcb
-pick 1.77 -3.1
-pick -1.77 -3.1
+pick 16.51 7.44
+pick 16.51 5.15
 done
 Add Line
 setwindow FORM.mini
@@ -220,8 +396,8 @@ setwindow FORM.mini
 FORM mini line_width 0.1
 FORM mini lock_direction Off
 setwindow pcb
-pick -1.77 -3.1
-pick -1.77 3.1
+pick 16.51 5.15
+pick -1.27 5.15
 done
 Add Line
 setwindow FORM.mini
@@ -231,8 +407,8 @@ setwindow FORM.mini
 FORM mini line_width 0.2
 FORM mini lock_direction Off
 setwindow pcb
-pick -1.77 3.1
-pick 1.77 3.1
+pick -1.27 0
+pick -1.27 7.44
 done
 Add Line
 setwindow FORM.mini
@@ -242,8 +418,8 @@ setwindow FORM.mini
 FORM mini line_width 0.2
 FORM mini lock_direction Off
 setwindow pcb
-pick 1.77 3.1
-pick 1.77 -3.1
+pick -1.27 7.44
+pick 16.51 7.44
 done
 Add Line
 setwindow FORM.mini
@@ -253,8 +429,8 @@ setwindow FORM.mini
 FORM mini line_width 0.2
 FORM mini lock_direction Off
 setwindow pcb
-pick 1.77 -3.1
-pick -1.77 -3.1
+pick 16.51 7.44
+pick 16.51 5.15
 done
 Add Line
 setwindow FORM.mini
@@ -264,77 +440,77 @@ setwindow FORM.mini
 FORM mini line_width 0.2
 FORM mini lock_direction Off
 setwindow pcb
-pick -1.77 -3.1
-pick -1.77 3.1
-done
-Add Line
-setwindow FORM.mini
-FORM mini class PACKAGE GEOMETRY
-FORM mini subclass PLACE_BOUND_TOP
-setwindow FORM.mini
-FORM mini line_width 0.1
-FORM mini lock_direction Off
-setwindow pcb
-pick -2.77 6.2
-pick 2.77 6.2
-done
-Add Line
-setwindow FORM.mini
-FORM mini class PACKAGE GEOMETRY
-FORM mini subclass PLACE_BOUND_TOP
-setwindow FORM.mini
-FORM mini line_width 0.1
-FORM mini lock_direction Off
-setwindow pcb
-pick 2.77 6.2
-pick 2.77 -6.2
-done
-Add Line
-setwindow FORM.mini
-FORM mini class PACKAGE GEOMETRY
-FORM mini subclass PLACE_BOUND_TOP
-setwindow FORM.mini
-FORM mini line_width 0.1
-FORM mini lock_direction Off
-setwindow pcb
-pick 2.77 -6.2
-pick -2.77 -6.2
-done
-Add Line
-setwindow FORM.mini
-FORM mini class PACKAGE GEOMETRY
-FORM mini subclass PLACE_BOUND_TOP
-setwindow FORM.mini
-FORM mini line_width 0.1
-FORM mini lock_direction Off
-setwindow pcb
-pick -2.77 -6.2
-pick -2.77 6.2
+pick 0 7.44
+pick 0 13.54
 done
 Add Line
 setwindow FORM.mini
 FORM mini class PACKAGE GEOMETRY
 FORM mini subclass SILKSCREEN_TOP
 setwindow FORM.mini
-FORM mini line_width 0.1
+FORM mini line_width 0.2
 FORM mini lock_direction Off
 setwindow pcb
-pick 0 -5.6
-pick 0 -5.6
+pick 2.54 7.44
+pick 2.54 13.54
 done
 Add Line
 setwindow FORM.mini
 FORM mini class PACKAGE GEOMETRY
 FORM mini subclass SILKSCREEN_TOP
 setwindow FORM.mini
-FORM mini line_width 0.1
+FORM mini line_width 0.2
 FORM mini lock_direction Off
 setwindow pcb
-pick 0 -5.7
-pick 0 -5.7
+pick 5.08 7.44
+pick 5.08 13.54
+done
+Add Line
+setwindow FORM.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass SILKSCREEN_TOP
+setwindow FORM.mini
+FORM mini line_width 0.2
+FORM mini lock_direction Off
+setwindow pcb
+pick 7.62 7.44
+pick 7.62 13.54
+done
+Add Line
+setwindow FORM.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass SILKSCREEN_TOP
+setwindow FORM.mini
+FORM mini line_width 0.2
+FORM mini lock_direction Off
+setwindow pcb
+pick 10.16 7.44
+pick 10.16 13.54
+done
+Add Line
+setwindow FORM.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass SILKSCREEN_TOP
+setwindow FORM.mini
+FORM mini line_width 0.2
+FORM mini lock_direction Off
+setwindow pcb
+pick 12.7 7.44
+pick 12.7 13.54
+done
+Add Line
+setwindow FORM.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass SILKSCREEN_TOP
+setwindow FORM.mini
+FORM mini line_width 0.2
+FORM mini lock_direction Off
+setwindow pcb
+pick 15.24 7.44
+pick 15.24 13.54
 done
 Create Symbol
-fillin "DS04254201BKSMTTR"
+fillin "HDRRA14W64P254_2X7_1778X229X864P"
 setwindow pcb
 trapsize 503
 dbdoctor
@@ -344,6 +520,6 @@ FORM dbdoctor_allegro shapes YES
 FORM dbdoctor_allegro execute
 setwindow pcb
 save_as
-fillin "DS04254201BKSMTTR"
+fillin "HDRRA14W64P254_2X7_1778X229X864P"
 setwindow pcb
 #exit
