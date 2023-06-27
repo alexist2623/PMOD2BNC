@@ -1,0 +1,120 @@
+\t (00:07:09) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:07:09)     Journal start - Tue Jun 27 15:23:39 2023
+\t (00:07:09)         Host=DESKTOP-KCLED0O User=ece Pid=11632 CPUs=6
+\t (00:07:09) 
+\t (00:07:09) Starting new design...
+\i (00:07:09) trapsize 567
+\i (00:07:09) trapsize 567
+\i (00:07:09) package symbol wizard 
+\i (00:07:09) generaledit 
+\i (00:07:12) setwindow form.sym_wizard
+\i (00:07:12) FORM sym_wizard wiz_next  
+\i (00:07:13) FORM sym_wizard load_template  
+\t (00:07:13) Opening existing design...
+\t (00:07:13) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (00:07:13) setwindow pcb
+\i (00:07:13) trapsize 248
+\d (00:07:13) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:07:14) setwindow form.sym_wizard
+\i (00:07:14) FORM sym_wizard wiz_next  
+\i (00:07:16) FORM sym_wizard pack_units Millimeter 
+\i (00:07:17) FORM sym_wizard pack_units_create Millimeter 
+\i (00:07:19) FORM sym_wizard pack_precision 4 
+\i (00:07:20) FORM sym_wizard pack_precision_create 4 
+\i (00:07:20) FORM sym_wizard ref_des C* 
+\i (00:07:21) FORM sym_wizard wiz_next  
+\i (00:07:24) FORM sym_wizard wiz_back  
+\i (00:07:24) FORM sym_wizard wiz_back  
+\i (00:07:25) FORM sym_wizard wiz_back  
+\i (00:07:26) FORM sym_wizard rca_smd YES 
+\i (00:07:27) FORM sym_wizard wiz_next  
+\i (00:07:28) FORM sym_wizard load_template  
+\i (00:07:31) fillin no 
+\i (00:07:33) FORM sym_wizard wiz_next  
+\i (00:07:35) FORM sym_wizard wiz_next  
+\i (00:09:54) FORM sym_wizard smd_discrete_e1 0.4200 
+\i (00:10:00) FORM sym_wizard smd_discrete_width 0.2400 
+\i (00:10:04) FORM sym_wizard smd_discrete_len 0.3000 
+\i (00:10:04) FORM sym_wizard wiz_next  
+\i (00:10:06) FORM sym_wizard default_pad_browse  
+\i (00:10:12) fillin "Kam03ct70j105kh"
+\i (00:10:13) FORM sym_wizard wiz_next  
+\i (00:10:14) FORM sym_wizard wiz_next  
+\i (00:10:14) FORM sym_wizard wiz_finish  
+\t (00:10:14) Grids are drawn 10.1600, 10.1600 apart for enhanced viewability.
+\i (00:10:14) setwindow pcb
+\i (00:10:14) trapsize 62928
+\t (00:10:14) Performing DRC...
+\t (00:10:14) No DRC errors detected.
+\i (00:10:14) trapsize 62928
+\i (00:10:14) trapsize 7678
+\i (00:10:14) trapsize 512
+\i (00:10:14) trapsize 512
+\i (00:10:15) fillin yes 
+\i (00:10:16) fillin yes 
+\t (00:10:16) Creating package symbol 'C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Library/LIB_KAM03CT70J105KH_1uC/kam03ct70j105kh_1u.psm'.
+\t (00:10:16) Starting Create symbol...
+\i (00:10:17) generaledit 
+\i (00:10:18) zoom out 1 
+\i (00:10:18) setwindow pcb
+\i (00:10:18) zoom out 0.4269 -0.1586
+\i (00:10:18) trapsize 565
+\i (00:10:18) zoom out 1 
+\i (00:10:18) setwindow pcb
+\i (00:10:18) zoom out -0.1026 -0.5243
+\i (00:10:18) trapsize 565
+\i (00:10:19) zoom out 1 
+\i (00:10:19) setwindow pcb
+\i (00:10:19) zoom out 0.2475 -0.5243
+\i (00:10:19) trapsize 565
+\i (00:10:19) zoom out 1 
+\i (00:10:19) setwindow pcb
+\i (00:10:19) zoom out 0.2475 -0.5243
+\i (00:10:19) trapsize 565
+\i (00:10:19) zoom out 1 
+\i (00:10:19) setwindow pcb
+\i (00:10:19) zoom out 0.2475 -0.5243
+\i (00:10:19) trapsize 565
+\i (00:10:19) zoom out 1 
+\i (00:10:19) setwindow pcb
+\i (00:10:19) zoom out 0.2475 -0.5243
+\i (00:10:19) trapsize 565
+\i (00:10:20) zoom out 1 
+\i (00:10:20) setwindow pcb
+\i (00:10:20) zoom out 0.2475 -0.5243
+\i (00:10:20) trapsize 565
+\i (00:10:20) zoom out 1 
+\i (00:10:20) setwindow pcb
+\i (00:10:20) zoom out 0.2475 -0.5243
+\i (00:10:20) trapsize 565
+\i (00:10:20) zoom out 1 
+\i (00:10:20) setwindow pcb
+\i (00:10:20) zoom out 0.2475 -0.5243
+\i (00:10:20) trapsize 565
+\i (00:10:20) zoom out 1 
+\i (00:10:20) setwindow pcb
+\i (00:10:20) zoom out 0.2475 -0.5243
+\i (00:10:20) trapsize 565
+\i (00:10:20) zoom out 1 
+\i (00:10:20) setwindow pcb
+\i (00:10:20) zoom out 0.2249 -0.5130
+\i (00:10:20) trapsize 565
+\i (00:10:20) zoom out 1 
+\i (00:10:20) setwindow pcb
+\i (00:10:20) zoom out 0.2249 -0.5130
+\i (00:10:20) trapsize 565
+\i (00:10:23) zoom fit 
+\i (00:10:23) trapsize 190
+\i (00:10:25) pick grid -0.3401 1.1950
+\t (00:10:25) last pick:  0.0000  0.0000
+\i (00:10:25) prepopup -0.3401 1.1950
+\i (00:10:27) pop dyn_option_select @:@Delete 
+\i (00:10:27) delete 
+\i (00:10:27) generaledit 
+\i (00:10:28) save 
+\i (00:10:29) fillin yes 
+\t (00:10:30) Symbol 'kam03ct70j105kh_1u.psm' created.
+\i (00:10:30) generaledit 
+\i (00:13:06) new 
+\i (00:13:21) newdrawfillin "MAASL063SB7103MFCA01_10n.dra" "Package Symbol (Wizard)"
+\t (00:13:21)     Journal end - Tue Jun 27 15:29:51 2023

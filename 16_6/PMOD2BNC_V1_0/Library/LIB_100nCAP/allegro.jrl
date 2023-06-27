@@ -1,0 +1,219 @@
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Tue Jun 27 15:16:32 2023
+\t (00:00:02)         Host=DESKTOP-KCLED0O User=ece Pid=11632 CPUs=6
+\t (00:00:02) 
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 1623
+\i (00:00:06) trapsize 1551
+\i (00:00:06) trapsize 1636
+\i (00:00:06) trapsize 1182
+\i (00:00:06) trapsize 1182
+\i (00:00:07) generaledit 
+\i (00:00:09) new 
+\i (00:00:26) newdrawfillin "100nCAP.dra" "Package Symbol (Wizard)"
+\t (00:00:26) Starting new design...
+\i (00:00:26) trapsize 1182
+\i (00:00:26) trapsize 1138
+\i (00:00:26) trapsize 1182
+\i (00:00:27) trapsize 1182
+\i (00:00:27) trapsize 1182
+\i (00:00:27) package symbol wizard 
+\i (00:00:27) generaledit 
+   (00:00:29) Loading cmds.cxt 
+   (00:00:29) Loading axlcore.cxt 
+\i (00:00:29) setwindow form.sym_wizard
+\i (00:00:29) FORM sym_wizard rca_smd YES 
+\i (00:00:30) FORM sym_wizard wiz_next  
+\i (00:00:31) FORM sym_wizard load_template  
+\t (00:00:31) Opening existing design...
+\t (00:00:31) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (00:00:31) setwindow pcb
+\i (00:00:31) trapsize 248
+\d (00:00:31) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:00:32) setwindow form.sym_wizard
+\i (00:00:32) FORM sym_wizard wiz_next  
+\i (00:00:34) FORM sym_wizard pack_units Millimeter 
+\i (00:00:35) FORM sym_wizard pack_units_create Millimeter 
+\i (00:00:36) FORM sym_wizard pack_precision 4 
+\i (00:00:37) FORM sym_wizard pack_precision_create 4 
+\i (00:00:38) FORM sym_wizard ref_des C* 
+\i (00:00:38) FORM sym_wizard wiz_next  
+\i (00:00:41) FORM sym_wizard smd_discrete_e1 0.3400 
+\i (00:00:42) FORM sym_wizard smd_discrete_width 0.1800 
+\i (00:00:45) FORM sym_wizard smd_discrete_len 1.0000 
+\i (00:00:51) FORM sym_wizard smd_discrete_width 0.1600 
+\i (00:00:58) FORM sym_wizard wiz_next  
+\i (00:00:59) FORM sym_wizard default_pad_browse  
+\i (00:01:01) fillin "100Ncap"
+\i (00:01:02) FORM sym_wizard wiz_next  
+\i (00:01:02) FORM sym_wizard wiz_next  
+\i (00:01:03) FORM sym_wizard wiz_finish  
+\t (00:01:03) Grids are drawn 10.1600, 10.1600 apart for enhanced viewability.
+\i (00:01:03) setwindow pcb
+\i (00:01:03) trapsize 62928
+\t (00:01:03) Performing DRC...
+\t (00:01:03) No DRC errors detected.
+\i (00:01:03) trapsize 62928
+\i (00:01:03) trapsize 7678
+\i (00:01:03) trapsize 512
+\i (00:01:03) trapsize 512
+\t (00:01:03) Creating package symbol 'C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Library/LIB_100nCAP/100ncap.psm'.
+\t (00:01:03) Starting Create symbol...
+\i (00:01:03) generaledit 
+\i (00:01:06) zoom out 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom out 0.7352 -0.8729
+\i (00:01:06) trapsize 567
+\i (00:01:06) zoom out 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom out 0.2087 -1.4494
+\i (00:01:06) trapsize 567
+\i (00:01:06) zoom out 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom out 0.2087 -1.4494
+\i (00:01:06) trapsize 567
+\i (00:01:06) zoom out 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom out 0.2087 -1.4494
+\i (00:01:06) trapsize 567
+\i (00:01:07) zoom out 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom out 0.2087 -1.4494
+\i (00:01:07) trapsize 567
+\i (00:01:07) zoom out 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom out 0.2087 -1.4494
+\i (00:01:07) trapsize 567
+\i (00:01:07) zoom out 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom out 0.2087 -1.4494
+\i (00:01:07) trapsize 567
+\i (00:01:07) zoom out 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom out 0.2087 -1.4494
+\i (00:01:07) trapsize 567
+\i (00:01:09) pick grid -0.6197 -0.4168
+\t (00:01:09) last pick:  0.0000  0.0000
+\i (00:01:11) pick grid -0.5743 1.2059
+\t (00:01:11) last pick:  0.0000  0.0000
+\i (00:01:11) prepopup -0.5743 1.2059
+\i (00:01:13) pop dyn_option_select @:@Delete 
+\i (00:01:13) delete 
+\i (00:01:13) generaledit 
+\i (00:01:23) zoom fit 
+\i (00:01:23) trapsize 179
+\i (00:01:36) move 
+\t (00:01:37) Select element(s) to move.
+\i (00:01:38) pick grid 0.5827 0.0189
+\t (00:01:38) last pick:  0.0000  0.0000
+\t (00:01:38) last pick:  0.1700  0.0000
+\t (00:01:38) Pick new location for the element(s).
+\i (00:01:39) zoom out 1 
+\i (00:01:39) setwindow pcb
+\i (00:01:39) zoom out 0.9763 0.5448
+\i (00:01:39) trapsize 358
+\i (00:01:39) zoom out 1 
+\i (00:01:39) setwindow pcb
+\i (00:01:39) zoom out 0.9763 0.5448
+\i (00:01:39) trapsize 567
+\i (00:01:40) pick grid 1.2641 -0.6551
+\t (00:01:40) last pick:  0.0000  0.0000
+\i (00:01:41) zoom out 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom out 0.8328 -0.9728
+\i (00:01:41) trapsize 567
+\i (00:01:41) zoom out 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom out 0.8328 -0.9728
+\i (00:01:41) trapsize 567
+\i (00:01:42) pick grid -0.6764 0.0144
+\t (00:01:42) last pick:  0.0000  0.0000
+\t (00:01:42) last pick:  0.0000  0.0000
+\t (00:01:42) Element has no origin, using pick.
+\t (00:01:42) Pick new location for the element(s).
+\i (00:01:43) pick grid -1.3119 -0.0877
+\t (00:01:43) last pick:  -2.5400  0.0000
+\i (00:01:44) pick grid -0.5743 -0.3373
+\t (00:01:44) last pick:  0.0000  0.0000
+\t (00:01:44) last pick:  0.0000  0.0000
+\t (00:01:44) Element has no origin, using pick.
+\t (00:01:44) Pick new location for the element(s).
+\i (00:01:45) pick grid 1.2867 -0.3146
+\t (00:01:45) last pick:  2.5400  0.0000
+\i (00:01:48) pick grid -0.7104 -0.0083
+\t (00:01:48) last pick:  0.0000  0.0000
+\t (00:01:48) last pick:  -0.1700  0.0000
+\t (00:01:48) Pick new location for the element(s).
+\i (00:01:49) pick grid -1.2892 -0.1558
+\t (00:01:49) last pick:  -2.5400  0.0000
+\i (00:01:50) pick grid -0.3133 -0.0423
+\t (00:01:50) last pick:  0.0000  0.0000
+\t (00:01:50) last pick:  0.0000  0.0000
+\t (00:01:50) Pick new location for the element(s).
+\i (00:01:51) pick grid 1.3208 -0.2125
+\t (00:01:51) last pick:  2.5400  0.0000
+\i (00:02:14) prepopup -2.2424 0.3322
+\i (00:02:19) pick grid 1.2981 -1.6423
+\t (00:02:19) last pick:  2.5400  -2.5400
+\i (00:02:27) new 
+\e (00:02:27) Do you want to save the changes you made to C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Library/LIB_100nCAP/100nCAP.dra?
+\i (00:02:28) fillin no 
+\i (00:02:40) newdrawfillin "100nCAP.dra" "Package Symbol (Wizard)"
+\t (00:02:40) Starting new design...
+\i (00:02:40) trapsize 567
+\i (00:02:40) trapsize 567
+\i (00:02:40) package symbol wizard 
+\i (00:02:41) generaledit 
+\i (00:02:42) setwindow form.sym_wizard
+\i (00:02:42) FORM sym_wizard rca_smd YES 
+\i (00:02:43) FORM sym_wizard wiz_next  
+\i (00:02:44) FORM sym_wizard use_custom_template YES 
+\i (00:02:45) FORM sym_wizard load_template  
+\i (00:02:45) fillin confirm
+\i (00:02:46) FORM sym_wizard no_custom_template YES 
+\i (00:02:47) FORM sym_wizard load_template  
+\t (00:02:47) Opening existing design...
+\t (00:02:47) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (00:02:47) setwindow pcb
+\i (00:02:47) trapsize 248
+\d (00:02:47) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:02:48) setwindow form.sym_wizard
+\i (00:02:48) FORM sym_wizard wiz_next  
+\i (00:02:50) FORM sym_wizard pack_units Millimeter 
+\i (00:02:52) FORM sym_wizard pack_units_create Millimeter 
+\i (00:02:53) FORM sym_wizard pack_precision 4 
+\i (00:02:54) FORM sym_wizard pack_precision_create 4 
+\i (00:02:55) FORM sym_wizard ref_des C* 
+\i (00:02:56) FORM sym_wizard wiz_next  
+\i (00:03:06) FORM sym_wizard smd_discrete_e1 0.3400 
+\i (00:03:08) FORM sym_wizard smd_discrete_width 0.1600 
+\i (00:03:11) FORM sym_wizard smd_discrete_len 1.0000 
+\i (00:03:11) FORM sym_wizard wiz_next  
+\i (00:05:29) FORM sym_wizard default_pad_browse  
+\i (00:05:31) fillin "100Ncap"
+\i (00:05:32) FORM sym_wizard wiz_next  
+\i (00:05:33) FORM sym_wizard wiz_next  
+\i (00:05:34) FORM sym_wizard wiz_finish  
+\t (00:05:34) Grids are drawn 10.1600, 10.1600 apart for enhanced viewability.
+\i (00:05:34) setwindow pcb
+\i (00:05:34) trapsize 62928
+\t (00:05:34) Performing DRC...
+\t (00:05:34) No DRC errors detected.
+\i (00:05:34) trapsize 62928
+\i (00:05:34) trapsize 7678
+\i (00:05:34) trapsize 512
+\i (00:05:34) trapsize 512
+\i (00:05:36) fillin yes 
+\i (00:05:37) fillin yes 
+\t (00:05:37) Creating package symbol 'C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Library/LIB_100nCAP/100ncap.psm'.
+\t (00:05:37) Starting Create symbol...
+\i (00:05:38) generaledit 
+\i (00:05:40) zoom fit 
+\i (00:05:40) trapsize 191
+\i (00:05:49) save 
+\i (00:05:50) fillin yes 
+\t (00:05:50) Symbol '100ncap.psm' created.
+\i (00:05:50) generaledit 
+\i (00:05:56) new 
+\i (00:07:09) newdrawfillin "KAM03CT70J105KH_1u.dra" "Package Symbol (Wizard)"
+\t (00:07:09)     Journal end - Tue Jun 27 15:23:39 2023

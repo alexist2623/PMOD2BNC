@@ -1,0 +1,17 @@
+{ Using PSTWRITER 16.6.0 d001Jun-27-2023 at 15:36:02 }
+
+#1 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package 100nCAP , C2: POWER, PAGE1 (4.40, 1.20). All pins should be numbered.
+#2 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package 100nCAP , C2: POWER, PAGE1 (4.40, 1.20). All pins should be numbered.
+#3 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package MAASL063SB7103MFCA01_10n , C3: POWER, PAGE1 (5.00, 1.20). All pins should be numbered.
+#4 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package MAASL063SB7103MFCA01_10n , C3: POWER, PAGE1 (5.00, 1.20). All pins should be numbered.
+#5 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package 100nCAP , C6: SW_MODULE, PAGE1 (6.80, 7.50). All pins should be numbered.
+#6 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package 100nCAP , C6: SW_MODULE, PAGE1 (6.80, 7.50). All pins should be numbered.
+#7 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package 100nCAP , C7: SW_MODULE, PAGE1 (5.90, 7.60). All pins should be numbered.
+#8 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package 100nCAP , C7: SW_MODULE, PAGE1 (5.90, 7.60). All pins should be numbered.
+#9 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package 100nCAP , C8: SW_MODULE, PAGE1 (4.00, 7.80). All pins should be numbered.
+#10 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package 100nCAP , C8: SW_MODULE, PAGE1 (4.00, 7.80). All pins should be numbered.
+#11 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package 100nCAP , C9: SW_MODULE, PAGE1 (5.00, 7.70). All pins should be numbered.
+#12 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package 100nCAP , C9: SW_MODULE, PAGE1 (5.00, 7.70). All pins should be numbered.
+#13 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package KAM03CT70J105KH_1u , C1: POWER, PAGE1 (3.60, 1.20). All pins should be numbered.
+#14 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package KAM03CT70J105KH_1u , C1: POWER, PAGE1 (3.60, 1.20). All pins should be numbered.
+#15 ERROR(ORCAP-36018): Aborting Netlisting... Please correct the above errors and retry.

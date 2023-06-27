@@ -2,16 +2,16 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : KAM03CT70J105KH_1u.dra                        )
+(    Drawing          : 100nCAP.dra                                   )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Tue Jun 27 15:27:00 2023                      )
+(    Date/Time        : Tue Jun 27 15:22:21 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Library/LIB_KAM03CT70J105KH_1uC
-    Name      = kam03ct70j105kh_1u.psm
+    Directory = C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Library/LIB_100nCAP
+    Name      = 100ncap.psm
     User      = ece
     Machine   = DESKTOP-KCLED0O
 

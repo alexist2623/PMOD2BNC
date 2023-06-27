@@ -1,0 +1,215 @@
+\t (00:00:25) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:25)     Journal start - Tue Jun 27 14:17:54 2023
+\t (00:00:25)         Host=DESKTOP-KCLED0O User=ece Pid=8084 CPUs=6
+\t (00:00:25) 
+\d (00:00:25) Database opened: C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Library/LIB_MSRLJ103SB5104MFNA01_100nC/MSRLJ103SB5104MFNA01_100n.dra
+\i (00:00:25) generaledit 
+\i (00:00:28) pick grid -0.5870 1.2350
+\t (00:00:28) last pick:  0.0000  0.0000
+\e (00:00:28) Command not found: Del
+\i (00:00:29) prepopup -0.5769 1.2553
+\i (00:00:31) pop dyn_option_select @:@Delete 
+\i (00:00:31) delete 
+\i (00:00:31) generaledit 
+\i (00:01:07) save 
+\i (00:01:08) fillin yes 
+\t (00:01:08) Symbol 'msrlj103sb5104mfna01_100n.psm' created.
+\i (00:01:08) generaledit 
+\i (00:04:04) zoom out 1 
+\i (00:04:04) setwindow pcb
+\i (00:04:04) zoom out -0.8716 -0.0251
+\i (00:04:04) trapsize 508
+\i (00:04:04) zoom out 1 
+\i (00:04:04) setwindow pcb
+\i (00:04:04) zoom out -0.8716 -0.0251
+\i (00:04:04) trapsize 508
+\i (00:04:04) zoom out 1 
+\i (00:04:04) setwindow pcb
+\i (00:04:04) zoom out -0.8716 -0.0251
+\i (00:04:04) trapsize 508
+\i (00:04:04) zoom out 1 
+\i (00:04:04) setwindow pcb
+\i (00:04:04) zoom out -0.8716 -0.0251
+\i (00:04:04) trapsize 508
+\i (00:04:04) zoom out 1 
+\i (00:04:04) setwindow pcb
+\i (00:04:04) zoom out -0.8106 -0.0556
+\i (00:04:04) trapsize 508
+\i (00:04:04) zoom out 1 
+\i (00:04:05) setwindow pcb
+\i (00:04:05) zoom out -0.8106 -0.0556
+\i (00:04:05) trapsize 508
+\i (00:04:14) add pin 
+\i (00:04:21) save 
+\t (00:04:21) Exiting from Add Pin.
+\i (00:04:23) fillin yes 
+\t (00:04:24) Symbol 'msrlj103sb5104mfna01_100n.psm' created.
+\i (00:04:24) generaledit 
+\i (00:04:42) pick grid 1.4555 -1.5189
+\t (00:04:42) last pick:  2.5400  -2.5400
+\i (00:04:44) pick grid 1.4555 -1.5189
+\t (00:04:44) last pick:  2.5400  -2.5400
+\i (00:04:46) zoom out 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out -0.2517 -0.3503
+\i (00:04:46) trapsize 508
+\i (00:04:46) zoom out 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out -0.2619 -0.3605
+\i (00:04:46) trapsize 508
+\i (00:04:46) zoom out 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out -0.2619 -0.3605
+\i (00:04:46) trapsize 508
+\i (00:04:46) zoom out 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out -0.2619 -0.3605
+\i (00:04:46) trapsize 508
+\i (00:04:46) zoom out 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out -0.2619 -0.3605
+\i (00:04:46) trapsize 508
+\i (00:04:49) zoom points 
+\t (00:04:49) Pick 1st corner of the new window.
+\i (00:04:50) zoom fit 
+\i (00:04:50) trapsize 171
+\i (00:04:52) save 
+\i (00:04:53) fillin yes 
+\t (00:04:54) Symbol 'msrlj103sb5104mfna01_100n.psm' created.
+\i (00:04:54) generaledit 
+\i (00:09:19) pick grid -0.1289 0.3004
+\t (00:09:19) last pick:  0.0000  0.0000
+\i (00:09:22) pick grid 0.2748 0.2730
+\t (00:09:22) last pick:  0.0000  0.0000
+\i (00:09:29) 3d_viewer 
+\i (00:09:30) setwindow pcb3D
+\i (00:09:30) trapsize 171
+\i (00:09:30) setwindow pcb
+\i (00:09:30) generaledit 
+\i (00:09:35) pick grid 3.1313 0.6596
+\t (00:09:35) last pick:  2.5400  0.0000
+\i (00:09:38) 3d_viewer 
+\i (00:09:38) setwindow pcb3D
+\i (00:09:38) trapsize 171
+\i (00:09:38) setwindow pcb
+\i (00:09:38) generaledit 
+\i (00:10:08) color192 
+\i (00:10:08) setwindow cvf.dialog
+\i (00:10:08) cvf layer_mode
+\i (00:10:08) setwindow pcb
+\i (00:10:08) generaledit 
+\i (00:10:11) setwindow cvf.dialog
+\i (00:10:11) cvf cancel
+\i (00:10:15) setwindow pcb
+\i (00:10:15) add pin 
+\i (00:13:14) pick grid 4.2191 0.2628
+\t (00:13:14) last pick:  5.0800  0.0000
+\e (00:13:14) ERROR(SPMHAP-2): No padstack specified.
+\i (00:13:15) undo 
+\t (00:13:15) Exiting from Add Pin.
+\i (00:13:15) undo 
+\i (00:13:15) generaledit 
+\i (00:13:15) undo 
+\i (00:13:15) generaledit 
+\i (00:13:15) undo 
+\i (00:13:16) generaledit 
+\i (00:13:16) undo 
+\i (00:13:16) generaledit 
+\i (00:13:16) undo 
+\i (00:13:16) generaledit 
+\i (00:13:16) undo 
+\i (00:13:16) generaledit 
+\i (00:13:16) undo 
+\i (00:13:16) generaledit 
+\i (00:13:16) undo 
+\i (00:13:16) generaledit 
+\i (00:13:16) undo 
+\i (00:13:17) generaledit 
+\i (00:13:17) undo 
+\i (00:13:17) generaledit 
+\i (00:13:17) undo 
+\i (00:13:17) undo 
+\i (00:13:17) undo 
+\i (00:13:17) undo 
+\i (00:13:17) undo 
+\i (00:13:17) undo 
+\i (00:13:17) undo 
+\i (00:13:17) undo 
+\i (00:13:18) undo 
+\i (00:13:18) undo 
+\i (00:13:18) undo 
+\i (00:13:18) undo 
+\i (00:13:18) undo 
+\i (00:13:18) undo 
+\i (00:13:18) undo 
+\i (00:13:18) undo 
+\i (00:13:18) undo 
+\i (00:13:18) undo 
+\i (00:13:18) undo 
+\i (00:13:18) undo 
+\i (00:13:18) undo 
+\i (00:13:18) undo 
+\i (00:13:18) undo 
+\i (00:13:18) undo 
+\i (00:13:18) undo 
+\i (00:13:18) undo 
+\i (00:13:18) undo 
+\i (00:13:18) undo 
+\i (00:13:19) undo 
+\i (00:13:19) undo 
+\i (00:13:19) undo 
+\i (00:13:19) undo 
+\i (00:13:19) undo 
+\i (00:13:19) undo 
+\i (00:13:19) undo 
+\i (00:13:19) undo 
+\i (00:13:19) undo 
+\i (00:13:19) undo 
+\i (00:13:19) undo 
+\i (00:13:19) undo 
+\i (00:13:19) generaledit 
+\i (00:13:20) undo 
+\i (00:13:20) generaledit 
+\i (00:13:20) undo 
+\i (00:13:20) generaledit 
+\i (00:13:20) undo 
+\i (00:13:20) generaledit 
+\i (00:13:20) undo 
+\i (00:13:20) generaledit 
+\i (00:13:20) undo 
+\i (00:13:20) generaledit 
+\i (00:13:20) undo 
+\i (00:13:21) generaledit 
+\i (00:13:21) undo 
+\i (00:13:21) undo 
+\i (00:13:21) undo 
+\i (00:13:21) undo 
+\i (00:13:21) undo 
+\i (00:13:21) undo 
+\i (00:13:21) undo 
+\i (00:13:21) undo 
+\i (00:13:21) undo 
+\i (00:13:21) undo 
+\i (00:13:21) undo 
+\i (00:13:22) undo 
+\i (00:13:22) undo 
+\i (00:13:22) undo 
+\i (00:13:22) undo 
+\i (00:13:22) undo 
+\i (00:13:22) undo 
+\i (00:13:22) undo 
+\i (00:13:22) undo 
+\i (00:13:22) undo 
+\i (00:13:22) undo 
+\i (00:13:22) generaledit 
+\i (00:13:22) undo 
+\i (00:13:22) generaledit 
+\i (00:13:22) undo 
+\i (00:13:22) generaledit 
+\i (00:13:23) save 
+\i (00:13:38) fillin no 
+\i (00:13:45) fillin "100nCAP.dra"
+\t (00:13:45) Symbol '100ncap.psm' created.
+\i (00:13:45) generaledit 
+\i (00:18:56) exit 
+\t (00:18:56)     Journal end - Tue Jun 27 14:36:25 2023

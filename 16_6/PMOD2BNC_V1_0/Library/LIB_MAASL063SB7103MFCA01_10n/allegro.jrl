@@ -1,159 +1,31 @@
-\t (00:49:39) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:49:39)     Journal start - Tue Jun 27 13:22:04 2023
-\t (00:49:39)         Host=DESKTOP-KCLED0O User=ece Pid=17600 CPUs=6
-\t (00:49:39) 
-\t (00:49:39) Starting new design...
-\i (00:49:39) trapsize 563
-\i (00:49:39) trapsize 563
-\i (00:49:39) package symbol wizard 
-\i (00:49:39) generaledit 
-\i (00:49:40) setwindow form.sym_wizard
-\i (00:49:40) FORM sym_wizard rca_smd YES 
-\i (00:49:41) FORM sym_wizard wiz_next  
-\i (00:49:43) FORM sym_wizard load_template  
-\t (00:49:43) Opening existing design...
-\t (00:49:43) Grids are drawn 400, 400 apart for enhanced viewability.
-\i (00:49:43) setwindow pcb
-\i (00:49:43) trapsize 247
-\d (00:49:43) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/template/sym_template.dra
-\i (00:49:43) setwindow form.sym_wizard
-\i (00:49:43) FORM sym_wizard wiz_next  
-\i (00:49:46) FORM sym_wizard pack_units Millimeter 
-\i (00:49:48) FORM sym_wizard pack_units_create Millimeter 
-\i (00:49:49) FORM sym_wizard pack_precision 4 
-\i (00:49:50) FORM sym_wizard pack_precision_create 4 
-\i (00:49:51) FORM sym_wizard ref_des C* 
-\i (00:49:52) FORM sym_wizard wiz_next  
-\i (00:50:39) FORM sym_wizard smd_discrete_len 0.3000 
-\i (00:50:43) FORM sym_wizard smd_discrete_width 0.3000 
-\i (00:50:52) FORM sym_wizard smd_discrete_e1 0.4500 
-\i (00:50:52) FORM sym_wizard wiz_next  
-\i (00:53:13) FORM sym_wizard default_pad_browse  
-\i (00:53:16) fillin "menu_cancel"
-\i (00:53:23) setwindow pcb
-\i (00:53:23) enved 
-\i (00:53:24) generaledit 
-\e (00:53:24) ERROR(SPMHDB-20): Buffer not initialized.
-\i (00:53:29) setwindow form.prfedit
-\i (00:53:29) FORM prfedit padpath  
-\i (00:53:51) FORM prfedit apply  
-\i (00:53:53) setwindow form.sym_wizard
-\i (00:53:53) FORM sym_wizard default_pad_browse  
-\i (00:53:54) fillin "menu_cancel"
-\i (00:53:55) setwindow form.prfedit
-\i (00:53:55) FORM prfedit padpath  
-\i (00:54:01) setwindow form.sym_wizard
-\i (00:54:01) FORM sym_wizard default_pad_browse  
-\i (00:54:03) fillin "menu_cancel"
-\i (00:54:04) FORM sym_wizard wiz_back  
-\i (00:54:07) FORM sym_wizard wiz_next  
-\i (00:54:08) FORM sym_wizard wiz_back  
-\i (00:54:13) FORM sym_wizard wiz_next  
-\i (00:54:15) FORM sym_wizard default_pad_browse  
-\i (00:54:28) fillin "Maasl063sb7103mfca01"
-\i (00:54:29) FORM sym_wizard wiz_next  
-\i (00:54:32) FORM sym_wizard wiz_back  
-\i (00:54:35) FORM sym_wizard wiz_next  
-\i (00:54:36) FORM sym_wizard wiz_next  
-\i (00:54:37) FORM sym_wizard wiz_finish  
-\t (00:54:37) Grids are drawn 10.1600, 10.1600 apart for enhanced viewability.
-\i (00:54:37) setwindow pcb
-\i (00:54:37) trapsize 62787
-\t (00:54:37) Performing DRC...
-\t (00:54:37) No DRC errors detected.
-\i (00:54:37) trapsize 62888
-\i (00:54:37) trapsize 474
-\i (00:54:37) trapsize 200
-\i (00:54:37) trapsize 200
-\t (00:54:37) Creating package symbol 'C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Library/LIB_MAASL063SB7103MFCA01_10n/maasl063sb7103mfca01_10n.psm'.
-\t (00:54:37) Starting Create symbol...
-\i (00:54:37) generaledit 
-\i (00:54:40) pick grid -0.3491 1.1887
-\t (00:54:40) last pick:  0.0000  0.0000
-\i (00:54:40) prepopup -0.3491 1.1887
-\i (00:54:43) pop dyn_option_select @:@Delete 
-\i (00:54:43) delete 
-\i (00:54:43) generaledit 
-\i (00:55:37) pick grid -0.2492 -0.0099
-\t (00:55:37) last pick:  0.0000  0.0000
-\i (00:55:39) pick grid 0.3422 -0.1578
-\t (00:55:39) last pick:  0.0000  0.0000
-\i (00:55:41) pick grid -0.0654 -0.0659
-\t (00:55:41) last pick:  0.0000  0.0000
-\i (00:55:42) pick grid -0.0174 -0.1058
-\t (00:55:42) last pick:  0.0000  0.0000
-\i (00:56:20) setwindow form.prfedit
-\i (00:56:20) FORM prfedit cancel  
-\i (00:56:21) setwindow pcb
-\i (00:56:21) slide 
-\t (00:56:21) Selected item not valid for current operation, ignored: Pin "Maasl063sb7103mfca01, 2"
-\t (00:56:21) No valid items selected for the current operation, exiting.
-\i (00:56:21) generaledit 
-\i (00:56:23) add pin 
-\i (00:56:26) pick grid -0.2851 0.1419
-\t (00:56:26) last pick:  0.0000  0.0000
-\e (00:56:26) ERROR(SPMHAP-2): No padstack specified.
-\i (00:56:28) pick grid 0.2303 -0.0019
-\t (00:56:28) last pick:  0.0000  0.0000
-\e (00:56:28) ERROR(SPMHAP-2): No padstack specified.
-\i (00:56:31) pick grid -0.1972 -0.0059
-\t (00:56:31) last pick:  0.0000  0.0000
-\e (00:56:31) ERROR(SPMHAP-2): No padstack specified.
-\i (00:56:31) pick grid -0.0933 -0.0499
-\t (00:56:31) last pick:  0.0000  0.0000
-\e (00:56:31) ERROR(SPMHAP-2): No padstack specified.
-\i (00:56:32) pick grid 0.0225 -0.0259
-\t (00:56:32) last pick:  0.0000  0.0000
-\e (00:56:32) ERROR(SPMHAP-2): No padstack specified.
-\i (00:56:36) pick grid -0.1253 0.7812
-\t (00:56:36) last pick:  0.0000  0.0000
-\e (00:56:36) ERROR(SPMHAP-2): No padstack specified.
-\e (00:56:37) Command not found: SEsc
-\i (00:56:46) trapsize 199
-\i (00:57:01) add rect 
-\t (00:57:01) Exiting from Add Pin.
-\i (00:57:27) pick -0.3 -0.3 
-\t (00:57:27) last pick:  -0.3000  -0.3000
-\i (00:57:35) ipick 1.3 1.3 
-\t (00:57:35) last pick:  1.0000  1.0000
-\i (00:57:36) undo 
-\i (00:57:36) trapsize 199
-\i (00:57:36) generaledit 
-\i (00:57:42) add rect 
-\i (00:58:17) trapsize 96
-\i (00:58:48) pick grid 0.8262 -0.3590
-\t (00:58:48) last pick:  0.0000  0.0000
-\i (00:58:51) pick grid 1.2529 -0.6338
-\t (00:58:51) last pick:  0.0000  0.0000
-\i (00:58:54) pick grid -1.0902 -0.1398
-\t (00:58:54) last pick:  0.0000  0.0000
-\i (00:58:55) prepopup -1.1978 -0.0072
-\i (00:58:57) pick grid -1.2651 -0.0245
-\t (00:58:57) last pick:  0.0000  0.0000
-\i (00:58:57) prepopup -1.0440 -0.1379
-\i (00:58:59) cancel 
-\i (00:58:59) generaledit 
-\i (00:59:00) zoom out 1 
-\i (00:59:00) setwindow pcb
-\i (00:59:00) zoom out -0.8672 -0.2398
-\i (00:59:00) trapsize 192
-\i (00:59:00) zoom out 1 
-\i (00:59:00) setwindow pcb
-\i (00:59:00) zoom out -0.8672 -0.0854
-\i (00:59:00) trapsize 356
-\i (00:59:01) zoom out 1 
-\i (00:59:01) setwindow pcb
-\i (00:59:01) zoom out -2.8897 1.8189
-\i (00:59:01) trapsize 356
-\i (00:59:01) zoom out 1 
-\i (00:59:01) setwindow pcb
-\i (00:59:01) zoom out -2.8897 1.8189
-\i (00:59:01) trapsize 356
-\i (00:59:03) zoom fit 
-\i (00:59:03) trapsize 118
-\i (00:59:54) save 
-\i (00:59:55) fillin yes 
-\t (00:59:55) Symbol 'maasl063sb7103mfca01_10n.psm' created.
-\i (00:59:56) generaledit 
-\i (01:00:13) exit 
-\t (01:00:13)     Journal end - Tue Jun 27 13:32:38 2023
+\t (00:00:03) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:03)     Journal start - Tue Jun 27 15:44:01 2023
+\t (00:00:03)         Host=DESKTOP-KCLED0O User=ece Pid=20540 CPUs=6
+\t (00:00:03) 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Database opened: C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Library/LIB_MAASL063SB7103MFCA01_10n/MAASL063SB7103MFCA01_10n.dra
+\i (00:00:07) trapsize 199
+\i (00:00:07) trapsize 190
+\i (00:00:07) trapsize 200
+\i (00:00:07) trapsize 145
+\i (00:00:07) trapsize 145
+\i (00:00:08) generaledit 
+\i (00:00:10) pick grid 0.2413 0.0580
+\t (00:00:10) last pick:  0.0000  0.0000
+\i (00:00:11) prepopup 0.2413 0.0580
+\i (00:00:21) pop dyn_option_select 'Quick Utilities@:@Design Parameters...' 
+\i (00:00:21) prmed 
+\i (00:00:25) setwindow form.prmedit
+\i (00:00:25) FORM prmedit route  
+\i (00:00:29) FORM prmedit ee_treelist  Slide 
+\i (00:00:30) FORM prmedit cancel  
+\i (00:00:31) setwindow pcb
+\i (00:00:31) generaledit 
+\i (00:00:32) pick grid 0.1863 0.0551
+\t (00:00:32) last pick:  0.0000  0.0000
+\i (00:00:38) pick grid -0.2543 0.0203
+\t (00:00:38) last pick:  0.0000  0.0000
+\i (00:00:42) pick grid 0.2442 0.0290
+\t (00:00:42) last pick:  0.0000  0.0000
+\i (00:00:46) exit 
+\t (00:00:46)     Journal end - Tue Jun 27 15:44:44 2023
