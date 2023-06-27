@@ -1,0 +1,23 @@
+#Allegro PCB Router v16-6-112 made 2012/09/12 at 23:00:45
+#Host 
+#ROUTING STATUS <<< C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board\PMOD2BNC_V1_0.dsn >>>
+Start  Time: Report Time: Tue Jun 27 17:40:37 2023
+
+Nets         =      105   Connections         =      403
+Current Wire =        0   Reroute wires       =      380
+Completion   =    0.00%   Unconnections       =      403
+| ROUTING HISTORY ================================================================
+|     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+|   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+|----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+| Route    |  1|   173|    31|   0|  144|  131|    0|   0|  0|  0:00:01|  0:00:01|
+| Route    |  2|    45|     4|   0|  144|  160|    0|   0| 75|  0:00:01|  0:00:02|
+| Route    |  3|    17|     0|   0|  144|  175|    0|   0| 65|  0:00:01|  0:00:03|
+| Route    |  4|     1|     0|   0|  144|  186|    0|   0| 94|  0:00:00|  0:00:03|
+| Route    |  5|     0|     0|   0|  144|  185|    0|   0|100|  0:00:00|  0:00:03|
+| Route    |  6|     0|     0|   0|  144|  185|    0|   0|  0|  0:00:01|  0:00:04|
+| Clean    |  7|     0|     0|   0|  144|  161|    0|   0|   |  0:00:00|  0:00:04|
+| Clean    |  8|     0|     0|   0|  144|  160|    0|   0|   |  0:00:01|  0:00:05|
+| Delete   |  8|     0|     0|   0|  403|    0|    0|   0|   |  0:00:00|  0:00:05|
+| Read Rte |  8|     0|     0|   0|  403|    0|    0|   0|   |  0:00:00|  0:00:05|
+| Conflicts between polygon wires and fixed objects:   0
