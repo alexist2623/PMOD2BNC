@@ -307,13 +307,13 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 421"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 421"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1688 52 512")
-        (Scroll "0 609")
+        (Scroll "1504 324")
         (Zoom "204")
         (Occurrence "/"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
@@ -323,7 +323,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1447 52 428")
-        (Scroll "-13 56")
+        (Scroll "-13 98")
         (Zoom "136"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "TRCV_MODULE")
@@ -332,7 +332,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 104 1499 104 480")
-        (Scroll "-13 56")
+        (Scroll "-13 0")
         (Zoom "136"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "TR_MODULE")
@@ -341,7 +341,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1740 52 428")
-        (Scroll "-267 22")
+        (Scroll "-267 242")
         (Zoom "114"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "ESD_MODULE")
@@ -349,8 +349,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 156 1844 156 532")
-        (Scroll "0 3")
+        (Placement "44 0 1 -1 -1 -8 -31 156 1844 156 532")
+        (Scroll "-45 0")
         (Zoom "102"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "POWER")
@@ -359,8 +359,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 1395 0 376")
-        (Scroll "-7 126")
-        (Zoom "66"))
+        (Scroll "454 132")
+        (Zoom "264"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "SW_MODULE")
       (Page "PAGE1")))

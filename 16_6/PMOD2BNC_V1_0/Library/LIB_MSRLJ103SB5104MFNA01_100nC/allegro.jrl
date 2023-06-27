@@ -1,0 +1,401 @@
+\t (00:00:57) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:57)     Journal start - Tue Jun 27 12:33:22 2023
+\t (00:00:57)         Host=DESKTOP-KCLED0O User=ece Pid=17600 CPUs=6
+\t (00:00:57) 
+\t (00:00:57) Starting new design...
+\i (00:00:57) trapsize 1517
+\i (00:00:57) trapsize 1517
+\i (00:00:57) package symbol wizard 
+\i (00:00:57) generaledit 
+   (00:00:59) Loading cmds.cxt 
+   (00:00:59) Loading axlcore.cxt 
+\i (00:00:59) setwindow form.sym_wizard
+\i (00:00:59) FORM sym_wizard rca_smd YES 
+\i (00:01:01) FORM sym_wizard wiz_next  
+\i (00:02:53) setwindow pcb
+\i (00:02:53) trapsize 1523
+\i (00:02:58) setwindow form.sym_wizard
+\i (00:02:58) FORM sym_wizard load_template  
+\t (00:02:58) Opening existing design...
+\t (00:02:58) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (00:02:58) setwindow pcb
+\i (00:02:58) trapsize 247
+\d (00:02:58) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:03:01) setwindow form.sym_wizard
+\i (00:03:01) FORM sym_wizard wiz_next  
+\i (00:03:17) FORM sym_wizard pack_precision 3 
+\i (00:03:19) FORM sym_wizard pack_precision_create 3 
+\i (00:03:36) FORM sym_wizard ref_des C* 
+\i (00:03:38) FORM sym_wizard wiz_next  
+\i (00:04:52) FORM sym_wizard smd_discrete_len 1.000 
+\i (00:05:12) FORM sym_wizard smd_discrete_e1 0.340 
+\i (00:05:58) FORM sym_wizard smd_discrete_width 0.160 
+\i (00:06:05) FORM sym_wizard wiz_next  
+\i (00:07:07) FORM sym_wizard default_pad_browse  
+\i (00:07:39) fillin "menu_cancel"
+\i (00:07:39) FORM sym_wizard pin1_pad_browse  
+\i (00:07:54) fillin "menu_cancel"
+\i (00:10:55) FORM sym_wizard wiz_back  
+\i (00:10:56) FORM sym_wizard wiz_back  
+\i (00:10:59) FORM sym_wizard pack_units Millimeter 
+\i (00:11:00) FORM sym_wizard pack_units_create Millimeter 
+\i (00:11:02) FORM sym_wizard pack_precision 3 
+\i (00:11:03) FORM sym_wizard pack_precision_create 3 
+\i (00:11:04) FORM sym_wizard wiz_next  
+\i (00:11:28) FORM sym_wizard smd_discrete_len 1.000 
+\i (00:11:53) FORM sym_wizard smd_discrete_width 0.340 
+\i (00:11:59) FORM sym_wizard smd_discrete_e1 0.340 
+\i (00:12:14) FORM sym_wizard smd_discrete_width 0.160 
+\i (00:12:19) FORM sym_wizard wiz_next  
+\i (00:15:55) FORM sym_wizard wiz_back  
+\i (00:15:57) FORM sym_wizard wiz_back  
+\i (00:15:59) FORM sym_wizard pack_precision 4 
+\i (00:16:00) FORM sym_wizard pack_precision_create 4 
+\i (00:16:00) FORM sym_wizard wiz_next  
+\i (00:16:02) FORM sym_wizard wiz_next  
+\i (00:16:47) FORM sym_wizard wiz_back  
+\i (00:34:38) FORM sym_wizard wiz_next  
+\i (00:34:39) FORM sym_wizard default_pad_browse  
+\i (00:34:56) fillin "Msrlj103sb5104mfna01"
+\i (00:34:57) FORM sym_wizard wiz_next  
+\i (00:35:06) FORM sym_wizard wiz_next  
+\i (00:35:08) FORM sym_wizard wiz_finish  
+\t (00:35:08) Grids are drawn 10.1600, 10.1600 apart for enhanced viewability.
+\i (00:35:08) setwindow pcb
+\i (00:35:08) trapsize 62787
+\t (00:35:08) Performing DRC...
+\t (00:35:08) No DRC errors detected.
+\i (00:35:08) trapsize 62787
+\i (00:35:08) trapsize 7592
+\i (00:35:08) trapsize 506
+\i (00:35:08) trapsize 506
+\t (00:35:08) Creating package symbol 'C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Library/LIB_MSRLJ103SB5104MFNA01_100nC/msrlj103sb5104mfna01_100n.psm'.
+\t (00:35:08) Starting Create symbol...
+\i (00:35:08) generaledit 
+\i (00:35:10) zoom out 1 
+\i (00:35:10) setwindow pcb
+\i (00:35:10) zoom out -0.1517 -0.3929
+\i (00:35:10) trapsize 566
+\i (00:35:10) zoom out 1 
+\i (00:35:10) setwindow pcb
+\i (00:35:10) zoom out -0.8322 -0.9598
+\i (00:35:10) trapsize 566
+\i (00:35:10) zoom out 1 
+\i (00:35:10) setwindow pcb
+\i (00:35:10) zoom out -0.8322 -0.9598
+\i (00:35:10) trapsize 566
+\i (00:35:10) zoom out 1 
+\i (00:35:10) setwindow pcb
+\i (00:35:10) zoom out -0.8322 -0.9598
+\i (00:35:10) trapsize 566
+\i (00:35:10) zoom in 1 
+\i (00:35:10) setwindow pcb
+\i (00:35:10) zoom in -0.1641 -0.5409
+\i (00:35:10) trapsize 283
+\i (00:35:10) zoom out 1 
+\i (00:35:10) setwindow pcb
+\i (00:35:10) zoom out -0.1188 -0.5013
+\i (00:35:10) trapsize 566
+\i (00:35:10) zoom out 1 
+\i (00:35:10) setwindow pcb
+\i (00:35:10) zoom out -0.0622 -0.4503
+\i (00:35:10) trapsize 566
+\i (00:35:10) zoom out 1 
+\i (00:35:10) setwindow pcb
+\i (00:35:10) zoom out -0.0622 -0.4503
+\i (00:35:10) trapsize 566
+\i (00:35:11) zoom out 1 
+\i (00:35:11) setwindow pcb
+\i (00:35:11) zoom out -0.0622 -0.4503
+\i (00:35:11) trapsize 566
+\i (00:35:11) zoom out 1 
+\i (00:35:11) setwindow pcb
+\i (00:35:11) zoom out -0.0622 -0.4503
+\i (00:35:11) trapsize 566
+\i (00:35:11) zoom out 1 
+\i (00:35:11) setwindow pcb
+\i (00:35:11) zoom out -0.0622 -0.4503
+\i (00:35:11) trapsize 566
+\i (00:35:11) zoom out 1 
+\i (00:35:11) setwindow pcb
+\i (00:35:11) zoom out -0.0622 -0.4503
+\i (00:35:11) trapsize 566
+\i (00:35:11) zoom out 1 
+\i (00:35:11) setwindow pcb
+\i (00:35:11) zoom out -0.0622 -0.4503
+\i (00:35:11) trapsize 566
+\i (00:35:11) zoom out 1 
+\i (00:35:11) setwindow pcb
+\i (00:35:11) zoom out -0.0622 -0.4503
+\i (00:35:11) trapsize 566
+\i (00:35:38) zoom out 1 
+\i (00:35:38) setwindow pcb
+\i (00:35:38) zoom out -0.1302 -0.2578
+\i (00:35:38) trapsize 566
+\i (00:35:38) zoom out 1 
+\i (00:35:38) setwindow pcb
+\i (00:35:38) zoom out -0.1302 -0.2578
+\i (00:35:38) trapsize 566
+\i (00:35:41) zoom fit 
+\i (00:35:41) trapsize 190
+\i (00:35:43) pick grid -0.1401 -0.1406
+\t (00:35:43) last pick:  0.0000  0.0000
+\i (00:35:45) pick grid 0.2064 -0.1025
+\t (00:35:45) last pick:  0.0000  0.0000
+\i (00:35:50) pick grid 0.3588 -0.1558
+\t (00:35:50) last pick:  0.0000  0.0000
+\i (00:35:51) zoom out 1 
+\i (00:35:51) setwindow pcb
+\i (00:35:51) zoom out 0.6101 -0.3957
+\i (00:35:51) trapsize 381
+\i (00:35:51) zoom out 1 
+\i (00:35:51) setwindow pcb
+\i (00:35:51) zoom out 0.6101 -0.6869
+\i (00:35:51) trapsize 566
+\i (00:35:52) zoom out 1 
+\i (00:35:52) setwindow pcb
+\i (00:35:52) zoom out 0.3793 -2.7600
+\i (00:35:52) trapsize 566
+\i (00:35:52) zoom out 1 
+\i (00:35:52) setwindow pcb
+\i (00:35:52) zoom out 0.3793 -2.7600
+\i (00:35:52) trapsize 566
+\i (00:35:52) zoom out 1 
+\i (00:35:52) setwindow pcb
+\i (00:35:52) zoom out 0.2435 -2.2618
+\i (00:35:52) trapsize 566
+\i (00:35:52) zoom out 1 
+\i (00:35:52) setwindow pcb
+\i (00:35:52) zoom out 0.2435 -2.2618
+\i (00:35:52) trapsize 566
+\i (00:35:53) zoom out 1 
+\i (00:35:53) setwindow pcb
+\i (00:35:53) zoom out 0.0057 -1.9788
+\i (00:35:53) trapsize 566
+\i (00:35:53) zoom out 1 
+\i (00:35:53) setwindow pcb
+\i (00:35:53) zoom out 0.0057 -1.9788
+\i (00:35:53) trapsize 566
+\i (00:35:54) save 
+\i (00:35:58) fillin no 
+\i (00:36:10) fillin "MSRLJ103SB5104MFNA01.dra"
+\t (00:36:11) Symbol 'msrlj103sb5104mfna01.psm' created.
+\i (00:36:11) generaledit 
+\i (00:36:36) save 
+\i (00:36:37) fillin yes 
+\t (00:36:37) Symbol 'msrlj103sb5104mfna01.psm' created.
+\i (00:36:37) generaledit 
+\i (00:37:31) new 
+\i (00:37:35) newdrawfillin "KAM03CT70J105KH_1u.dra" "Package Symbol (Wizard)"
+\t (00:37:35) Starting new design...
+\i (00:37:35) trapsize 566
+\i (00:37:35) trapsize 566
+\i (00:37:36) package symbol wizard 
+\i (00:37:36) generaledit 
+\i (00:37:38) setwindow form.sym_wizard
+\i (00:37:38) FORM sym_wizard rca_smd YES 
+\i (00:37:41) FORM sym_wizard wiz_next  
+\i (00:37:59) FORM sym_wizard wiz_next  
+\i (00:38:00) fillin confirm
+\i (00:38:01) FORM sym_wizard load_template  
+\t (00:38:01) Opening existing design...
+\t (00:38:01) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (00:38:01) setwindow pcb
+\i (00:38:01) trapsize 247
+\d (00:38:01) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:38:02) setwindow form.sym_wizard
+\i (00:38:02) FORM sym_wizard wiz_next  
+\i (00:38:05) FORM sym_wizard pack_units Millimeter 
+\i (00:38:07) FORM sym_wizard pack_units_create Millimeter 
+\i (00:38:09) FORM sym_wizard pack_precision 4 
+\i (00:38:10) FORM sym_wizard pack_precision_create 4 
+\i (00:38:12) FORM sym_wizard ref_des C* 
+\i (00:38:12) FORM sym_wizard wiz_next  
+\i (00:39:01) FORM sym_wizard smd_discrete_width 0.2400 
+\i (00:39:06) FORM sym_wizard smd_discrete_len 0.3000 
+\i (00:39:19) FORM sym_wizard smd_discrete_e1 0.4200 
+\i (00:39:48) FORM sym_wizard wiz_next  
+\i (00:43:11) FORM sym_wizard default_pad_browse  
+\i (00:43:36) fillin "menu_cancel"
+\i (00:43:37) FORM sym_wizard default_pad_browse  
+\i (00:44:11) fillin "menu_cancel"
+\i (00:44:12) FORM sym_wizard default_pad_browse  
+\i (00:44:55) fillin "menu_cancel"
+\i (00:44:55) FORM sym_wizard wiz_back  
+\i (00:44:57) FORM sym_wizard wiz_next  
+\i (00:44:58) FORM sym_wizard default_pad_browse  
+\i (00:45:06) fillin "menu_cancel"
+\i (00:45:07) setwindow pcb
+\i (00:45:07) enved 
+\i (00:45:08) generaledit 
+\e (00:45:08) ERROR(SPMHDB-20): Buffer not initialized.
+\i (00:45:13) setwindow form.prfedit
+\i (00:45:13) FORM prfedit treelist  Library Paths 
+\i (00:45:15) FORM prfedit padpath  
+\i (00:45:28) setwindow form.sym_wizard
+\i (00:45:28) FORM sym_wizard default_pad_browse  
+\i (00:45:31) fillin "menu_cancel"
+\i (00:45:36) setwindow form.prfedit
+\i (00:45:36) FORM prfedit padpath  
+\i (00:45:47) FORM prfedit apply  
+\i (00:45:47) FORM prfedit done  
+\i (00:45:48) setwindow form.sym_wizard
+\i (00:45:48) FORM sym_wizard default_pad_browse  
+\i (00:45:57) fillin "Kam03ct70j105kh"
+\i (00:45:58) FORM sym_wizard wiz_next  
+\i (00:45:59) FORM sym_wizard wiz_next  
+\i (00:46:00) FORM sym_wizard wiz_finish  
+\t (00:46:00) Grids are drawn 10.1600, 10.1600 apart for enhanced viewability.
+\i (00:46:00) setwindow pcb
+\i (00:46:00) trapsize 62787
+\t (00:46:00) Performing DRC...
+\t (00:46:00) No DRC errors detected.
+\i (00:46:00) trapsize 62881
+\i (00:46:00) trapsize 474
+\i (00:46:00) trapsize 200
+\i (00:46:00) trapsize 200
+\t (00:46:00) Creating package symbol 'C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Library/LIB_MSRLJ103SB5104MFNA01_100nC/kam03ct70j105kh_1u.psm'.
+\t (00:46:00) Starting Create symbol...
+\i (00:46:00) generaledit 
+\i (00:46:02) zoom out 1 
+\i (00:46:02) setwindow pcb
+\i (00:46:02) zoom out -0.0333 -0.1218
+\i (00:46:02) trapsize 400
+\i (00:46:02) zoom out 1 
+\i (00:46:02) setwindow pcb
+\i (00:46:02) zoom out -0.0333 -0.5563
+\i (00:46:02) trapsize 563
+\i (00:46:03) zoom out 1 
+\i (00:46:03) setwindow pcb
+\i (00:46:03) zoom out -1.2392 -2.1945
+\i (00:46:03) trapsize 563
+\i (00:46:03) zoom out 1 
+\i (00:46:03) setwindow pcb
+\i (00:46:03) zoom out -1.2392 -2.1945
+\i (00:46:03) trapsize 563
+\i (00:46:03) zoom out 1 
+\i (00:46:03) setwindow pcb
+\i (00:46:03) zoom out -1.0477 -1.7325
+\i (00:46:03) trapsize 563
+\i (00:46:03) zoom out 1 
+\i (00:46:03) setwindow pcb
+\i (00:46:03) zoom out -1.0477 -1.7325
+\i (00:46:03) trapsize 563
+\i (00:46:04) zoom out 1 
+\i (00:46:04) setwindow pcb
+\i (00:46:04) zoom out -0.3828 -0.5719
+\i (00:46:04) trapsize 563
+\i (00:46:04) zoom out 1 
+\i (00:46:04) setwindow pcb
+\i (00:46:04) zoom out -0.3828 -0.5719
+\i (00:46:04) trapsize 563
+\i (00:46:04) zoom out 1 
+\i (00:46:04) setwindow pcb
+\i (00:46:04) zoom out -0.3828 -0.5719
+\i (00:46:04) trapsize 563
+\i (00:46:04) zoom out 1 
+\i (00:46:04) setwindow pcb
+\i (00:46:04) zoom out -0.3828 -0.5719
+\i (00:46:04) trapsize 563
+\i (00:46:04) zoom out 1 
+\i (00:46:04) setwindow pcb
+\i (00:46:04) zoom out -0.1011 -0.4930
+\i (00:46:04) trapsize 563
+\i (00:46:04) zoom out 1 
+\i (00:46:05) setwindow pcb
+\i (00:46:05) zoom out -0.1011 -0.4930
+\i (00:46:05) trapsize 563
+\i (00:46:05) zoom out 1 
+\i (00:46:05) setwindow pcb
+\i (00:46:05) zoom out -0.1011 -0.4930
+\i (00:46:05) trapsize 563
+\i (00:46:05) zoom out 1 
+\i (00:46:05) setwindow pcb
+\i (00:46:05) zoom out -0.1011 -0.4930
+\i (00:46:05) trapsize 563
+\i (00:46:05) zoom out 1 
+\i (00:46:05) setwindow pcb
+\i (00:46:05) zoom out -0.1011 -0.4930
+\i (00:46:05) trapsize 563
+\i (00:46:05) zoom out 1 
+\i (00:46:05) setwindow pcb
+\i (00:46:05) zoom out -0.1011 -0.4930
+\i (00:46:05) trapsize 563
+\i (00:46:05) zoom out 1 
+\i (00:46:05) setwindow pcb
+\i (00:46:05) zoom out -0.1011 -0.4930
+\i (00:46:05) trapsize 563
+\i (00:46:05) zoom out 1 
+\i (00:46:05) setwindow pcb
+\i (00:46:05) zoom out -0.1011 -0.4930
+\i (00:46:05) trapsize 563
+\i (00:46:09) zoom fit 
+\i (00:46:09) trapsize 189
+\i (00:46:10) zoom out 1 
+\i (00:46:10) setwindow pcb
+\i (00:46:10) zoom out -0.3115 0.9109
+\i (00:46:10) trapsize 379
+\i (00:46:10) zoom out 1 
+\i (00:46:10) setwindow pcb
+\i (00:46:10) zoom out -0.3116 -0.0048
+\i (00:46:10) trapsize 563
+\i (00:46:10) zoom out 1 
+\i (00:46:10) setwindow pcb
+\i (00:46:10) zoom out -1.9942 -1.6536
+\i (00:46:10) trapsize 563
+\i (00:46:10) zoom out 1 
+\i (00:46:10) setwindow pcb
+\i (00:46:10) zoom out -1.9942 -1.6536
+\i (00:46:10) trapsize 563
+\i (00:46:12) zoom fit 
+\i (00:46:12) trapsize 189
+\i (00:46:14) pick grid -0.4783 1.2557
+\t (00:46:14) last pick:  0.0000  0.0000
+\e (00:46:15) Command not found: Del
+\e (00:46:16) Command not found: Del
+\e (00:46:17) Command not found: Del
+\i (00:46:18) pick grid -0.4631 1.2406
+\t (00:46:18) last pick:  0.0000  0.0000
+\i (00:46:19) pick grid -0.4518 1.2444
+\t (00:46:19) last pick:  0.0000  0.0000
+\i (00:46:21) pick grid 0.6207 1.4642
+\t (00:46:21) last pick:  0.0000  2.5400
+\i (00:46:22) prepopup 0.6207 1.4642
+\i (00:46:24) pop dyn_option_select @:@Delete 
+\i (00:46:24) delete 
+\i (00:46:24) generaledit 
+\i (00:46:26) drag_start grid 0.7496 0.5395
+\i (00:46:26) move 
+\t (00:46:26) last pick:  0.0000  0.0000
+\t (00:46:26) Pick new location for the element(s).
+\i (00:46:26) drag_stop grid 0.7306 0.6873
+\i (00:46:26) generaledit 
+\i (00:46:27) prepopup 0.7003 0.4447
+\i (00:46:29) pop dyn_option_select @:@Move 
+\i (00:46:29) move 
+\t (00:46:29) last pick:  0.0000  0.0000
+\t (00:46:29) last pick:  0.0000  0.0000
+\t (00:46:29) Pick new location for the element(s).
+\i (00:46:30) pick grid 0.8292 0.3007
+\t (00:46:30) last pick:  0.0000  0.0000
+\i (00:46:31) generaledit 
+\i (00:46:33) pick grid 0.6435 0.4296
+\t (00:46:33) last pick:  0.0000  0.0000
+\i (00:46:34) pick grid 0.6662 0.4447
+\t (00:46:34) last pick:  0.0000  0.0000
+\i (00:46:42) save 
+\i (00:46:43) fillin yes 
+\t (00:46:44) Symbol 'kam03ct70j105kh_1u.psm' created.
+\i (00:46:44) generaledit 
+\i (00:47:49) save 
+\i (00:47:51) fillin yes 
+\t (00:47:51) Symbol 'kam03ct70j105kh_1u.psm' created.
+\i (00:47:51) generaledit 
+\i (00:48:17) save_as 
+\i (00:48:31) fillin "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\Library\LIB_KAM03CT70J105KH_1uC\KAM03CT70J105KH_1u.dra"
+\i (00:48:31) cd "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\Library\LIB_KAM03CT70J105KH_1uC"
+\t (00:48:32) Symbol 'kam03ct70j105kh_1u.psm' created.
+\i (00:48:32) generaledit 
+\i (00:49:19) new 
+\i (00:49:39) newdrawfillin "MAASL063SB7103MFCA01_10n.dra" "Package Symbol (Wizard)"
+\t (00:49:39)     Journal end - Tue Jun 27 13:22:04 2023

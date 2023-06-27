@@ -1,0 +1,40 @@
+\t (00:00:00) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (00:00:00)     Journal start - Tue Jun 27 13:13:01 2023
+\t (00:00:00)         Host=DESKTOP-KCLED0O User=ece Pid=12232 CPUs=6
+\t (00:00:00) 
+\i (00:00:03) setwindow form.padedit
+\i (00:00:03) FORM padedit units Millimeter 
+\i (00:00:04) fillin yes 
+\w (00:00:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:06) FORM padedit layers  
+\i (00:00:08) FORM padedit single YES 
+\i (00:00:13) FORM padedit geometry Rectangle 
+\i (00:00:26) FORM padedit width 0.3 
+\i (00:00:29) FORM padedit height 0.18 
+\i (00:00:36) FORM padedit width_th 0.8 
+\i (00:00:40) FORM padedit height_th 0.68 
+\i (00:00:42) FORM padedit geometry_th Rectangle 
+\i (00:00:44) FORM padedit geometry_ant Rectangle 
+\i (00:00:45) FORM padedit crossbox YES 
+\i (00:00:51) FORM padedit width_th 0.8 
+\i (00:00:54) FORM padedit height_th 0.68 
+\i (00:00:59) FORM padedit width_ant 0.8 
+\i (00:01:02) FORM padedit height_ant 0.68 
+\i (00:01:02) FORM padedit grid row soldermask_top 
+\i (00:01:04) FORM padedit grid row begin_layer 
+\i (00:01:05) FORM padedit grid row soldermask_top 
+\i (00:01:09) FORM padedit geometry Rectangle 
+\i (00:01:15) FORM padedit width 0.5 
+\i (00:01:15) FORM padedit grid row begin_layer 
+\i (00:01:16) FORM padedit grid row soldermask_top 
+\i (00:01:21) FORM padedit height 0.4 
+\i (00:01:23) FORM padedit grid row soldermask_bottom 
+\i (00:01:38) FORM padedit grid row soldermask_top 
+\i (00:01:39) FORM padedit grid row pastemask_top 
+\i (00:01:40) FORM padedit geometry Rectangle 
+\i (00:01:42) FORM padedit width 0.5 
+\i (00:01:45) FORM padedit height 0.4 
+\i (00:01:50) pse_save_as 
+\i (00:02:32) fillin "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\Library\LIB_KAM03CT70J105KH_1uC\KAM03CT70J105KH.pad"
+\i (00:02:34) pse_exit
+\t (00:02:34)     Journal end - Tue Jun 27 13:15:35 2023
