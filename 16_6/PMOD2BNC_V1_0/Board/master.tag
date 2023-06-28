@@ -1,1 +1,1 @@
-PMOD2BNC_V1_0.brd
+PMOD2BNC_V1_0_1.brd

@@ -95,6 +95,8 @@
       (File ".\library\lib_tlp7920_d4-tp1_f_iso\tlp7920_d4_tp1_f.olb"
         (Type "Schematic Library"))
       (File ".\library\lib_100ncap\100ncap.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_pesd12vs1ua\pesd12vs1ua_115.olb"
         (Type "Schematic Library")))
     (NoModify)
     (File ".\pmod2bnc_v1_0.dsn"
@@ -155,7 +157,7 @@
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "TRUE")
     ("Allegro Netlist Output Board File"
-       "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\Board\PMOD2BNC_V1_0.brd")
+       "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\Board\PMOD2BNC_V1_0_1.brd")
     ("Allegro Netlist Remove Etch" "FALSE")
     ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
     ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
@@ -189,6 +191,16 @@
       (Sort User)))
   (DefaultLibraryBrowseDirectory "library\PSpice")
   (PartMRUSelector
+    (PESD12VS1UA_115
+      (FullPartName "PESD12VS1UA_115.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_PESD12VS1UA\PESD12VS1UA_115.OLB")
+      (DeviceIndex "0"))
+    (100nCAP
+      (FullPartName "100nCAP.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_100NCAP\100NCAP.OLB")
+      (DeviceIndex "0"))
     (MSRLJ103SB5104MFNA01_100n
       (FullPartName "MSRLJ103SB5104MFNA01_100n.Normal")
       (LibraryName
@@ -198,11 +210,6 @@
       (FullPartName "KAM03CT70J105KH_1u.Normal")
       (LibraryName
          "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_KAM03CT70J105KH_1UC\KAM03CT70J105KH.OLB")
-      (DeviceIndex "0"))
-    (100nCAP
-      (FullPartName "100nCAP.Normal")
-      (LibraryName
-         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_100NCAP\100NCAP.OLB")
       (DeviceIndex "0"))
     (031_6576
       (FullPartName "031_6576.Normal")
@@ -304,29 +311,35 @@
       (FullPartName "LD29150DT33R.Normal")
       (LibraryName
          "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_LD29150DT33R\LD29150DT33R.OLB")
-      (DeviceIndex "0"))
-    (MAASL063SB7103MFCA01_10n
-      (FullPartName "MAASL063SB7103MFCA01_10n.Normal")
-      (LibraryName
-         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_MAASL063SB7103MFCA01_10NC\MAASL063SB7103MFCA01_10N.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn")
+      (Path "Design Resources"
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn" "SCHEMATIC1")
       (Path "Outputs")
       (Select "Design Resources"
-         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn"))
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn" "SCHEMATIC1"
+         "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 421"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 421"))
       (Tab 0))
+    (Doc
+      (Type "TextFile")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1474 78 454"))
+      (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.drc")
+      (Scroll "118"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1740 52 428")
-        (Scroll "-60 140")
+        (Placement "44 0 1 -1 -1 -8 -31 0 1396 0 376")
+        (Scroll "0 120")
         (Zoom "100")
         (Occurrence "/"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
@@ -335,29 +348,43 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1766 78 454")
-        (Scroll "-335 0")
+        (Placement "44 2 3 -1 -1 -8 -31 26 1422 26 402")
+        (Scroll "-275 74")
         (Zoom "100")
-        (Occurrence "/ESD1"))
+        (Occurrence "/TRCV1"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
-      (Schematic "ESD_MODULE1")
+      (Schematic "TRCV_MODULE1")
       (Page "PAGE1"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1792 104 480")
-        (Scroll "-335 0")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1448 52 428")
+        (Scroll "-189 0")
         (Zoom "100")
-        (Occurrence "/ESD2"))
+        (Occurrence "/TRCV2"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
-      (Schematic "ESD_MODULE2")
+      (Schematic "TRCV_MODULE2")
       (Page "PAGE1"))
     (Doc
-      (Type "TextFile")
+      (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1818 130 506"))
-      (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.drc")
-      (Scroll "117")))
+        (Placement "44 0 1 -1 -1 -8 -31 78 1474 78 454")
+        (Scroll "-189 85")
+        (Zoom "100")
+        (Occurrence "/TRCV3"))
+      (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
+      (Schematic "TRCV_MODULE3")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1500 104 480")
+        (Scroll "-189 0")
+        (Zoom "100")
+        (Occurrence "/TRCV4"))
+      (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
+      (Schematic "TRCV_MODULE4")
+      (Page "PAGE1")))
   (MPSSessionName "ece")
   (LastUsedLibraryBrowseDirectory
      "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\Library\LIB_MSRLJ103SB5104MFNA01_100nC")
