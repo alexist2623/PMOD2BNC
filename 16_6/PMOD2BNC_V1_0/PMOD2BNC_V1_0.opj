@@ -97,6 +97,12 @@
       (File ".\library\lib_100ncap\100ncap.olb"
         (Type "Schematic Library"))
       (File ".\library\lib_pesd12vs1ua\pesd12vs1ua_115.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_c0402c103k3rac7411_10n\c0402c103k3rac7411.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_c0603c104m3ractm_100n\c0603c104m3ractm.olb"
+        (Type "Schematic Library"))
+      (File ".\library\lib_c0603c105k4rac_1u\c0603c105k4rac.olb"
         (Type "Schematic Library")))
     (NoModify)
     (File ".\pmod2bnc_v1_0.dsn"
@@ -157,7 +163,7 @@
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "TRUE")
     ("Allegro Netlist Output Board File"
-       "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\Board\PMOD2BNC_V1_0_1.brd")
+       "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\Board\PMOD2BNC_V1_0_2.brd")
     ("Allegro Netlist Remove Etch" "FALSE")
     ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
     ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
@@ -191,6 +197,21 @@
       (Sort User)))
   (DefaultLibraryBrowseDirectory "library\PSpice")
   (PartMRUSelector
+    (C0402C103K3RAC7411
+      (FullPartName "C0402C103K3RAC7411.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_C0402C103K3RAC7411_10N\C0402C103K3RAC7411.OLB")
+      (DeviceIndex "0"))
+    (C0603C104M3RACTM
+      (FullPartName "C0603C104M3RACTM.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_C0603C104M3RACTM_100N\C0603C104M3RACTM.OLB")
+      (DeviceIndex "0"))
+    (C0603C105K4RAC
+      (FullPartName "C0603C105K4RAC.Normal")
+      (LibraryName
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_C0603C105K4RAC_1U\C0603C105K4RAC.OLB")
+      (DeviceIndex "0"))
     (PESD12VS1UA_115
       (FullPartName "PESD12VS1UA_115.Normal")
       (LibraryName
@@ -298,92 +319,30 @@
       (FullPartName "NTR3A052PZT1G.Normal")
       (LibraryName
          "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_NTR3A052PZT1G\NTR3A052PZT1G.OLB")
-      (DeviceIndex "0"))
-    (PORTBOTH-R
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (LD29150DT50R
-      (FullPartName "LD29150DT50R.Normal")
-      (LibraryName
-         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_LD29150DT50R\LD29150DT50R.OLB")
-      (DeviceIndex "0"))
-    (LD29150DT33R
-      (FullPartName "LD29150DT33R.Normal")
-      (LibraryName
-         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\LIBRARY\LIB_LD29150DT33R\LD29150DT33R.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
          "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn")
-      (Path "Design Resources"
-         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn" "SCHEMATIC1")
       (Path "Outputs")
       (Select "Design Resources"
-         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn" "SCHEMATIC1"
-         "PAGE1"))
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 421"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 421"))
       (Tab 0))
-    (Doc
-      (Type "TextFile")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1474 78 454"))
-      (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.drc")
-      (Scroll "118"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 1396 0 376")
-        (Scroll "0 120")
+        (Scroll "0 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 26 1422 26 402")
-        (Scroll "-275 74")
-        (Zoom "100")
-        (Occurrence "/TRCV1"))
-      (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
-      (Schematic "TRCV_MODULE1")
-      (Page "PAGE1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1448 52 428")
-        (Scroll "-189 0")
-        (Zoom "100")
-        (Occurrence "/TRCV2"))
-      (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
-      (Schematic "TRCV_MODULE2")
-      (Page "PAGE1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1474 78 454")
-        (Scroll "-189 85")
-        (Zoom "100")
-        (Occurrence "/TRCV3"))
-      (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
-      (Schematic "TRCV_MODULE3")
-      (Page "PAGE1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1500 104 480")
-        (Scroll "-189 0")
-        (Zoom "100")
-        (Occurrence "/TRCV4"))
-      (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
-      (Schematic "TRCV_MODULE4")
       (Page "PAGE1")))
   (MPSSessionName "ece")
   (LastUsedLibraryBrowseDirectory

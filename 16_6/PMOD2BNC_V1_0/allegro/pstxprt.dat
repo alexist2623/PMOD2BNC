@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001Jun-28-2023 at 17:17:40 }
+{ Using PSTWRITER 16.6.0 d001Jun-29-2023 at 01:23:25 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='PMOD2BNC_V1_0';
@@ -8,177 +8,207 @@ DIRECTIVES
 END_DIRECTIVES;
 
 PART_NAME
- C1 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C1 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV4@PMOD2BNC_V1_0.TRCV_MODULE4(SCH_1):INS4873@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):ins4873@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):page1_ins4873@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV4@PMOD2BNC_V1_0.TRCV_MODULE4(SCH_1):INS6673@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):ins6673@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):page1_ins6673@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C10 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C10 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV3@PMOD2BNC_V1_0.TRCV_MODULE3(SCH_1):INS5944@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):ins5944@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):page1_ins5944@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV3@PMOD2BNC_V1_0.TRCV_MODULE3(SCH_1):INS6736@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):ins6736@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):page1_ins6736@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C11 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C11 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV3@PMOD2BNC_V1_0.TRCV_MODULE3(SCH_1):INS5960@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):ins5960@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):page1_ins5960@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV3@PMOD2BNC_V1_0.TRCV_MODULE3(SCH_1):INS6849@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):ins6849@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):page1_ins6849@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C12 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C12 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV3@PMOD2BNC_V1_0.TRCV_MODULE3(SCH_1):INS5396@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):ins5396@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):page1_ins5396@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV3@PMOD2BNC_V1_0.TRCV_MODULE3(SCH_1):INS6812@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):ins6812@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):page1_ins6812@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C13 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C13 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV3@PMOD2BNC_V1_0.TRCV_MODULE3(SCH_1):INS5412@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):ins5412@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):page1_ins5412@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV3@PMOD2BNC_V1_0.TRCV_MODULE3(SCH_1):INS6991@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):ins6991@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):page1_ins6991@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C14 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C14 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV3@PMOD2BNC_V1_0.TRCV_MODULE3(SCH_1):INS5186@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):ins5186@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):page1_ins5186@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV3@PMOD2BNC_V1_0.TRCV_MODULE3(SCH_1):INS6949@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):ins6949@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):page1_ins6949@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C15 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C15 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV2@PMOD2BNC_V1_0.TRCV_MODULE2(SCH_1):INS4873@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):ins4873@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):page1_ins4873@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV3@PMOD2BNC_V1_0.TRCV_MODULE3(SCH_1):INS6907@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):ins6907@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):page1_ins6907@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C16 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C16 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV2@PMOD2BNC_V1_0.TRCV_MODULE2(SCH_1):INS4889@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):ins4889@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):page1_ins4889@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV3@PMOD2BNC_V1_0.TRCV_MODULE3(SCH_1):INS6865@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):ins6865@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):page1_ins6865@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C17 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C17 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV2@PMOD2BNC_V1_0.TRCV_MODULE2(SCH_1):INS5944@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):ins5944@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):page1_ins5944@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV2@PMOD2BNC_V1_0.TRCV_MODULE2(SCH_1):INS6671@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):ins6671@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):page1_ins6671@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C18 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C18 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV2@PMOD2BNC_V1_0.TRCV_MODULE2(SCH_1):INS5960@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):ins5960@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):page1_ins5960@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV2@PMOD2BNC_V1_0.TRCV_MODULE2(SCH_1):INS6634@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):ins6634@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):page1_ins6634@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C19 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C19 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV2@PMOD2BNC_V1_0.TRCV_MODULE2(SCH_1):INS5396@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):ins5396@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):page1_ins5396@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV2@PMOD2BNC_V1_0.TRCV_MODULE2(SCH_1):INS6745@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):ins6745@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):page1_ins6745@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C2 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C2 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV4@PMOD2BNC_V1_0.TRCV_MODULE4(SCH_1):INS4889@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):ins4889@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):page1_ins4889@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV4@PMOD2BNC_V1_0.TRCV_MODULE4(SCH_1):INS6636@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):ins6636@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):page1_ins6636@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C20 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C20 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV2@PMOD2BNC_V1_0.TRCV_MODULE2(SCH_1):INS5412@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):ins5412@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):page1_ins5412@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV2@PMOD2BNC_V1_0.TRCV_MODULE2(SCH_1):INS6708@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):ins6708@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):page1_ins6708@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C21 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C21 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV2@PMOD2BNC_V1_0.TRCV_MODULE2(SCH_1):INS5141@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):ins5141@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):page1_ins5141@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV2@PMOD2BNC_V1_0.TRCV_MODULE2(SCH_1):INS6887@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):ins6887@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):page1_ins6887@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C22 'MSRLJ103SB5104MFNA01_100N_MSRLJ':;
+ C22 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):PWR@PMOD2BNC_V1_0.POWER(SCH_1):INS8444@MSRLJ103SB5104MFNA01_100N.MSRLJ103SB5104MFNA01_100N.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):pwr@pmod2bnc_v1_0.power(sch_1):ins8444@msrlj103sb5104mfna01_100n.\msrlj103sb5104mfna01_100n.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_pwr@pmod2bnc_v1_0.power(sch_1):page3_ins8444@msrlj103sb5104mfna01_100n.\msrlj103sb5104mfna01_100n.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV2@PMOD2BNC_V1_0.TRCV_MODULE2(SCH_1):INS6845@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):ins6845@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):page1_ins6845@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C23 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C23 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):PWR@PMOD2BNC_V1_0.POWER(SCH_1):INS8117@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):pwr@pmod2bnc_v1_0.power(sch_1):ins8117@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_pwr@pmod2bnc_v1_0.power(sch_1):page3_ins8117@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV2@PMOD2BNC_V1_0.TRCV_MODULE2(SCH_1):INS6803@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):ins6803@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):page1_ins6803@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C24 'KAM03CT70J105KH_1U_KAM03CT70J10':;
+ C24 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):PWR@PMOD2BNC_V1_0.POWER(SCH_1):INS8356@KAM03CT70J105KH.KAM03CT70J105KH_1U.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):pwr@pmod2bnc_v1_0.power(sch_1):ins8356@kam03ct70j105kh.\kam03ct70j105kh_1u.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_pwr@pmod2bnc_v1_0.power(sch_1):page3_ins8356@kam03ct70j105kh.\kam03ct70j105kh_1u.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV2@PMOD2BNC_V1_0.TRCV_MODULE2(SCH_1):INS6761@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):ins6761@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv2@pmod2bnc_v1_0.trcv_module2(sch_1):page1_ins6761@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C25 '08053D334KAT2A_CAPC2012X140N_08':;
+ C25 'C0402C103K3RAC7411_C0402_C0402C':;
+
+SECTION_NUMBER 1
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):PWR@PMOD2BNC_V1_0.POWER(SCH_1):INS9898@C0402C103K3RAC7411.C0402C103K3RAC7411.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):pwr@pmod2bnc_v1_0.power(sch_1):ins9898@c0402c103k3rac7411.\c0402c103k3rac7411.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_pwr@pmod2bnc_v1_0.power(sch_1):page3_ins9898@c0402c103k3rac7411.\c0402c103k3rac7411.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'C0603C104M3RACTM_C0603_C0603C10':;
+
+SECTION_NUMBER 1
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):PWR@PMOD2BNC_V1_0.POWER(SCH_1):INS9923@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):pwr@pmod2bnc_v1_0.power(sch_1):ins9923@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_pwr@pmod2bnc_v1_0.power(sch_1):page3_ins9923@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'C0603C105K4RAC_CAPC1608X90N_C06':;
+
+SECTION_NUMBER 1
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):PWR@PMOD2BNC_V1_0.POWER(SCH_1):INS9948@C0603C105K4RAC.C0603C105K4RAC.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):pwr@pmod2bnc_v1_0.power(sch_1):ins9948@c0603c105k4rac.\c0603c105k4rac.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_pwr@pmod2bnc_v1_0.power(sch_1):page3_ins9948@c0603c105k4rac.\c0603c105k4rac.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 '08053D334KAT2A_CAPC2012X140N_08':;
 
 SECTION_NUMBER 1
  '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):PWR@PMOD2BNC_V1_0.POWER(SCH_1):INS5677@08053D334KAT2A.08053D334KAT2A.NORMAL(CHIPS)':
@@ -188,7 +218,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C26 'MAL215375109E3_CAPAE450X450N_MA':;
+ C29 'MAL215375109E3_CAPAE450X450N_MA':;
 
 SECTION_NUMBER 1
  '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):PWR@PMOD2BNC_V1_0.POWER(SCH_1):INS5610@MAL215375109E3.MAL215375109E3.NORMAL(CHIPS)':
@@ -198,232 +228,242 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C27 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C3 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS17207@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins17207@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins17207@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV4@PMOD2BNC_V1_0.TRCV_MODULE4(SCH_1):INS6979@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):ins6979@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):page1_ins6979@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C28 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C30 'C0402C103K3RAC7411_C0402_C0402C':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS17273@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins17273@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins17273@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS19977@C0402C103K3RAC7411.C0402C103K3RAC7411.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins19977@c0402c103k3rac7411.\c0402c103k3rac7411.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins19977@c0402c103k3rac7411.\c0402c103k3rac7411.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C29 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C31 'C0402C103K3RAC7411_C0402_C0402C':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS17339@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins17339@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins17339@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS19811@C0402C103K3RAC7411.C0402C103K3RAC7411.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins19811@c0402c103k3rac7411.\c0402c103k3rac7411.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins19811@c0402c103k3rac7411.\c0402c103k3rac7411.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C3 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C32 'C0402C103K3RAC7411_C0402_C0402C':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV4@PMOD2BNC_V1_0.TRCV_MODULE4(SCH_1):INS5944@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):ins5944@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):page1_ins5944@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS19869@C0402C103K3RAC7411.C0402C103K3RAC7411.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins19869@c0402c103k3rac7411.\c0402c103k3rac7411.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins19869@c0402c103k3rac7411.\c0402c103k3rac7411.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C30 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C33 'C0402C103K3RAC7411_C0402_C0402C':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS17405@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins17405@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins17405@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS19923@C0402C103K3RAC7411.C0402C103K3RAC7411.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins19923@c0402c103k3rac7411.\c0402c103k3rac7411.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins19923@c0402c103k3rac7411.\c0402c103k3rac7411.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C31 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C34 'C0402C103K3RAC7411_C0402_C0402C':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS17480@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins17480@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins17480@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS20184@C0402C103K3RAC7411.C0402C103K3RAC7411.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins20184@c0402c103k3rac7411.\c0402c103k3rac7411.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins20184@c0402c103k3rac7411.\c0402c103k3rac7411.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C32 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C35 'C0402C103K3RAC7411_C0402_C0402C':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS16818@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins16818@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins16818@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS20894@C0402C103K3RAC7411.C0402C103K3RAC7411.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins20894@c0402c103k3rac7411.\c0402c103k3rac7411.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins20894@c0402c103k3rac7411.\c0402c103k3rac7411.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C33 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C36 'C0402C103K3RAC7411_C0402_C0402C':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS16916@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins16916@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins16916@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS20720@C0402C103K3RAC7411.C0402C103K3RAC7411.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins20720@c0402c103k3rac7411.\c0402c103k3rac7411.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins20720@c0402c103k3rac7411.\c0402c103k3rac7411.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C34 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C37 'C0402C103K3RAC7411_C0402_C0402C':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS17013@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins17013@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins17013@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS20808@C0402C103K3RAC7411.C0402C103K3RAC7411.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins20808@c0402c103k3rac7411.\c0402c103k3rac7411.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins20808@c0402c103k3rac7411.\c0402c103k3rac7411.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C35 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C38 'C0402C103K3RAC7411_C0402_C0402C':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS17110@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins17110@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins17110@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS20632@C0402C103K3RAC7411.C0402C103K3RAC7411.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins20632@c0402c103k3rac7411.\c0402c103k3rac7411.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins20632@c0402c103k3rac7411.\c0402c103k3rac7411.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C36 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C39 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV1@PMOD2BNC_V1_0.TRCV_MODULE1(SCH_1):INS4421@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):ins4421@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):page6_ins4421@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV1@PMOD2BNC_V1_0.TRCV_MODULE1(SCH_1):INS6378@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):ins6378@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):page6_ins6378@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C37 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C4 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV1@PMOD2BNC_V1_0.TRCV_MODULE1(SCH_1):INS4549@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):ins4549@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):page6_ins4549@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV4@PMOD2BNC_V1_0.TRCV_MODULE4(SCH_1):INS6710@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):ins6710@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):page1_ins6710@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C38 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C40 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV1@PMOD2BNC_V1_0.TRCV_MODULE1(SCH_1):INS5784@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):ins5784@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):page6_ins5784@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV1@PMOD2BNC_V1_0.TRCV_MODULE1(SCH_1):INS6339@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):ins6339@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):page6_ins6339@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C39 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C41 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV1@PMOD2BNC_V1_0.TRCV_MODULE1(SCH_1):INS5810@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):ins5810@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):page6_ins5810@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV1@PMOD2BNC_V1_0.TRCV_MODULE1(SCH_1):INS6454@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):ins6454@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):page6_ins6454@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C4 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C42 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV4@PMOD2BNC_V1_0.TRCV_MODULE4(SCH_1):INS5960@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):ins5960@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):page1_ins5960@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV1@PMOD2BNC_V1_0.TRCV_MODULE1(SCH_1):INS6415@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):ins6415@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):page6_ins6415@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C40 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C43 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV1@PMOD2BNC_V1_0.TRCV_MODULE1(SCH_1):INS5216@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):ins5216@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):page6_ins5216@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV1@PMOD2BNC_V1_0.TRCV_MODULE1(SCH_1):INS6784@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):ins6784@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):page6_ins6784@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C41 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C44 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV1@PMOD2BNC_V1_0.TRCV_MODULE1(SCH_1):INS5242@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):ins5242@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):page6_ins5242@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV1@PMOD2BNC_V1_0.TRCV_MODULE1(SCH_1):INS6742@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):ins6742@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):page6_ins6742@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C42 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C45 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV1@PMOD2BNC_V1_0.TRCV_MODULE1(SCH_1):INS4820@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):ins4820@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):page6_ins4820@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV1@PMOD2BNC_V1_0.TRCV_MODULE1(SCH_1):INS6700@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):ins6700@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):page6_ins6700@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C5 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C46 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV4@PMOD2BNC_V1_0.TRCV_MODULE4(SCH_1):INS5396@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):ins5396@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):page1_ins5396@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV1@PMOD2BNC_V1_0.TRCV_MODULE1(SCH_1):INS6470@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):ins6470@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv1@pmod2bnc_v1_0.trcv_module1(sch_1):page6_ins6470@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C6 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C5 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV4@PMOD2BNC_V1_0.TRCV_MODULE4(SCH_1):INS5412@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):ins5412@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):page1_ins5412@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV4@PMOD2BNC_V1_0.TRCV_MODULE4(SCH_1):INS6873@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):ins6873@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):page1_ins6873@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C7 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C6 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV4@PMOD2BNC_V1_0.TRCV_MODULE4(SCH_1):INS5186@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):ins5186@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):page1_ins5186@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV4@PMOD2BNC_V1_0.TRCV_MODULE4(SCH_1):INS6831@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):ins6831@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):page1_ins6831@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C8 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C7 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV3@PMOD2BNC_V1_0.TRCV_MODULE3(SCH_1):INS4873@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):ins4873@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):page1_ins4873@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV4@PMOD2BNC_V1_0.TRCV_MODULE4(SCH_1):INS6789@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):ins6789@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):page1_ins6789@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C9 '100NCAP_100NCAP_MAASL063SB7103M':;
+ C8 'C0603C104M3RACTM_C0603_C0603C10':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV3@PMOD2BNC_V1_0.TRCV_MODULE3(SCH_1):INS4889@100NCAP.100NCAP.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):ins4889@\100ncap\.\100ncap.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):page1_ins4889@\100ncap\.\100ncap.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV4@PMOD2BNC_V1_0.TRCV_MODULE4(SCH_1):INS6747@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):ins6747@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv4@pmod2bnc_v1_0.trcv_module4(sch_1):page1_ins6747@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'C0603C104M3RACTM_C0603_C0603C10':;
+
+SECTION_NUMBER 1
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):TRCV3@PMOD2BNC_V1_0.TRCV_MODULE3(SCH_1):INS6775@C0603C104M3RACTM.C0603C104M3RACTM.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):ins6775@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_trcv3@pmod2bnc_v1_0.trcv_module3(sch_1):page1_ins6775@c0603c104m3ractm.\c0603c104m3ractm.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -941,9 +981,9 @@ PART_NAME
  LED10 '5988260107F_LEDC3216X78N_598826':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS9454@5988260107F.5988260107F.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins9454@\5988260107f\.\5988260107f.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins9454@\5988260107f\.\5988260107f.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS9422@5988260107F.5988260107F.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins9422@\5988260107f\.\5988260107f.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins9422@\5988260107f\.\5988260107f.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -951,9 +991,9 @@ PART_NAME
  LED11 '5988260107F_LEDC3216X78N_598826':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS9358@5988260107F.5988260107F.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins9358@\5988260107f\.\5988260107f.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins9358@\5988260107f\.\5988260107f.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS9454@5988260107F.5988260107F.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins9454@\5988260107f\.\5988260107f.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins9454@\5988260107f\.\5988260107f.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -1021,9 +1061,9 @@ PART_NAME
  LED8 '5988260107F_LEDC3216X78N_598826':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS9390@5988260107F.5988260107F.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins9390@\5988260107f\.\5988260107f.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins9390@\5988260107f\.\5988260107f.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS9358@5988260107F.5988260107F.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins9358@\5988260107f\.\5988260107f.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins9358@\5988260107f\.\5988260107f.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -1031,9 +1071,9 @@ PART_NAME
  LED9 '5988260107F_LEDC3216X78N_598826':;
 
 SECTION_NUMBER 1
- '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS9422@5988260107F.5988260107F.NORMAL(CHIPS)':
- C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins9422@\5988260107f\.\5988260107f.normal\(chips)',
- P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins9422@\5988260107f\.\5988260107f.normal\(chips)',
+ '@PMOD2BNC_V1_0.SCHEMATIC1(SCH_1):SWITCH@PMOD2BNC_V1_0.SW_MODULE(SCH_1):INS9390@5988260107F.5988260107F.NORMAL(CHIPS)':
+ C_PATH='@pmod2bnc_v1_0.schematic1(sch_1):switch@pmod2bnc_v1_0.sw_module(sch_1):ins9390@\5988260107f\.\5988260107f.normal\(chips)',
+ P_PATH='@pmod2bnc_v1_0.schematic1(sch_1):page1_switch@pmod2bnc_v1_0.sw_module(sch_1):page4_ins9390@\5988260107f\.\5988260107f.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

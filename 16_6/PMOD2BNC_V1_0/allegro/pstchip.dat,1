@@ -1,5 +1,80 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Jun-27-2023 at 14:35:16}
+{ Using PSTWRITER 16.6.0 d001Jun-27-2023 at 16:07:18}
+primitive 'MSRLJ103SB5104MFNA01_100N_MSRLJ';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='MSRLJ103SB5104MFNA01_100n';
+    JEDEC_TYPE='MSRLJ103SB5104MFNA01_100n';
+    VALUE='MSRLJ103SB5104MFNA01_100n';
+  end_body;
+end_primitive;
+primitive '100NCAP_100NCAP_MAASL063SB7103M';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='100nCAP';
+    JEDEC_TYPE='100nCAP';
+    VALUE='MAASL063SB7103MFCA01';
+  end_body;
+end_primitive;
+primitive 'KAM03CT70J105KH_1U_KAM03CT70J10';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='KAM03CT70J105KH_1u';
+    JEDEC_TYPE='KAM03CT70J105KH_1u';
+    VALUE='KAM03CT70J105KH_1u';
+  end_body;
+end_primitive;
+primitive '08053D334KAT2A_CAPC2012X140N_08';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='08053D334KAT2A';
+    JEDEC_TYPE='CAPC2012X140N';
+    VALUE='08053D334KAT2A';
+  end_body;
+end_primitive;
+primitive 'MAL215375109E3_CAPAE450X450N_MA';
+  pin
+    'P':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'M':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='MAL215375109E3';
+    JEDEC_TYPE='CAPAE450X450N';
+    VALUE='MAL215375109E3';
+  end_body;
+end_primitive;
 primitive 'PESD4USB3B_TBSX_PESD4USB3BTBSX_';
   pin
     'CH1':
@@ -37,6 +112,21 @@ primitive 'PESD4USB3B_TBSX_PESD4USB3BTBSX_';
     PART_NAME='PESD4USB3B_TBSX';
     JEDEC_TYPE='PESD4USB3BTBSX';
     VALUE='PESD4USB3B_TBSX';
+  end_body;
+end_primitive;
+primitive 'BLM18PG121SN1D_BLM18EG121SH1D_B';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='BLM18PG121SN1D';
+    JEDEC_TYPE='BLM18EG121SH1D';
+    VALUE='BLM18PG121SN1D';
   end_body;
 end_primitive;
 primitive 'PESD4USB5B_TBRX_PESD4USB5BTBRX_';
@@ -228,6 +318,30 @@ primitive 'FDS8958B_SOIC127P600X175-8N_FDS';
     VALUE='FDS8958B';
   end_body;
 end_primitive;
+primitive 'LD29150PTR_LD29150PTR_LD29150PT';
+  pin
+    'INH':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'INPUT':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'OUTPUT':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'ADJ':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'GND':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LD29150PTR';
+    JEDEC_TYPE='LD29150PTR';
+    VALUE='LD29150PTR';
+  end_body;
+end_primitive;
 primitive 'DS04_254_2_04BK_SMT_SOP254P990X';
   pin
     'COM_1':
@@ -366,6 +480,27 @@ primitive '71764_0114_717640112_71764_0114';
     VALUE='71764_0114';
   end_body;
 end_primitive;
+primitive '46207_1104_46207-YY_2_04_46207_';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='46207_1104';
+    JEDEC_TYPE='46207-YY_2_04';
+    VALUE='46207_1104';
+  end_body;
+end_primitive;
 primitive '5988260107F_LEDC3216X78N_598826';
   pin
     'K':
@@ -484,6 +619,36 @@ primitive 'TNPU04021K00BZEP00_RESC1005X40N';
     PART_NAME='TNPU04021K00BZEP00';
     JEDEC_TYPE='RESC1005X40N';
     VALUE='TNPU04021K00BZEP00';
+  end_body;
+end_primitive;
+primitive 'ERA_3VEB5900V_ERA3KV__0603__ERA';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='ERA_3VEB5900V';
+    JEDEC_TYPE='ERA3KV__0603_';
+    VALUE='ERA_3VEB5900V';
+  end_body;
+end_primitive;
+primitive 'ERA_3VEB3240V_ERA3KV__0603__ERA';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='ERA_3VEB3240V';
+    JEDEC_TYPE='ERA3KV__0603_';
+    VALUE='ERA_3VEB3240V';
   end_body;
 end_primitive;
 primitive 'DS04_254_2_01BK_SMT_TR_DS042542';
