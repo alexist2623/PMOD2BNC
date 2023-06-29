@@ -1,0 +1,41 @@
+INFO: Loaded existing interconnect file 'C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\Board\interconn.iml'
+INFO: Loaded existing interconnect file 'C:\Cadence\SPB_16.6\share\pcb\signal\cds_interconn.iml'
+INFO: Finished loading SigNoise interconnect libraries
+INFO: Field Solver bem2d for STL_0S_1R_1
+INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaaj01728.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_2
+INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaak01728.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_3
+INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaal01728.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_4
+INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaam01728.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_5
+INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaan01728.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_6
+INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaao01728.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_7
+INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaap01728.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_8
+INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaaq01728.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_9
+INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaar01728.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_10
+INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaas01728.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_11
+INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaat01728.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_12
+INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaau01728.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_13
+INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaav01728.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_14
+INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaaw01728.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_15
+INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaax01728.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_16
+INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaay01728.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_17
+INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaaz01728.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_18
+INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaba01728.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_19
+INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaabb01728.in" 0.00127
