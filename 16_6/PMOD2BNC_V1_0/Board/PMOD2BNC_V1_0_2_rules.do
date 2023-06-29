@@ -1,20 +1,14 @@
-# Cadence Design Systems, Inc.
-# Allegro PCB Router Automatic Router
-# Allegro PCB Router v16-6-112 made 2012/09/12 at 23:00:45
-# Running on host 
-# 
-#            Command Line Parameters
-#            -----------------------
-# Design File Name : C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board\PMOD2BNC_V1_0_2.dsn
-# Initialization options:
-#   -do pasde.do
-# Status File Name : C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board\monitor.sts
-# Use Colormap In Design File.
-#
-#
-#
-#
-# do $/PMOD2BNC_V1_0_2_rules.do
+# start of do file
+
+################################################################################
+# LAYERSET DEFINITIONS                                                         #
+################################################################################
+
+################################################################################
+# CLEARANCE RULES                                                              #
+################################################################################
+# rule assignments for PCB clearances                                          #
+################################################################################
 rule PCB (width 0.127)
 rule PCB (clearance 0.127 (type buried_via_gap))
 rule PCB (clearance 0.127 (type wire_wire))
@@ -38,6 +32,7 @@ rule PCB (clearance 0 (type area_area))
 rule PCB (clearance 0 (type area_pin))
 rule PCB (clearance 0 (type area_via))
 rule PCB (clearance 0 (type area_test))
+
 rule PCB (clearance 0.127 (type microvia_microvia))
 set microvia_microvia on
 rule PCB (clearance 0.127 (type microvia_thrupin))
@@ -98,6 +93,16 @@ rule PCB (clearance 0 (type mhole_mhole))
 set mhole_mhole off
 rule PCB (clearance 0.127 (type bbvia_bondpad))
 set bbvia_bondpad on
+
+################################################################################
+# rule assignments for net clearances                                          #
+################################################################################
+
+################################################################################
+# SAMENET CLEARANCE RULES                                                      #
+################################################################################
+# rule assignments for PCB clearances                                          #
+################################################################################
 rule PCB (clearance -1 same_net (type wire_wire))
 rule PCB (clearance -1 same_net (type wire_smd))
 rule PCB (clearance -1 same_net (type wire_pin))
@@ -119,6 +124,7 @@ rule PCB (clearance 0 same_net (type area_area))
 rule PCB (clearance 0 same_net (type area_pin))
 rule PCB (clearance 0 same_net (type area_via))
 rule PCB (clearance 0 same_net (type area_test))
+
 rule PCB (clearance 0.127 same_net (type microvia_microvia))
 set microvia_microvia same_net off
 rule PCB (clearance 0.127 same_net (type microvia_thrupin))
@@ -167,16 +173,78 @@ rule PCB (clearance 0.127 same_net (type bbvia_testvia))
 set bbvia_testvia same_net off
 rule PCB (clearance 0.127 same_net (type bbvia_bondpad))
 set bbvia_bondpad same_net off
+
+################################################################################
+# rule assignments for net clearances                                          #
+################################################################################
+
+################################################################################
+# WIRING RULES                                                                 #
+################################################################################
+
+################################################################################
+# rule assignments for pcb wiring                                              #
+################################################################################
 rule pcb (tjunction on)(junction_type all)
 rule pcb (staggered_via on (min_gap 0.127))
+
+################################################################################
+# rule assignments for layer wiring                                            #
+################################################################################
+
+################################################################################
+# rule assignments for net wiring                                              #
+################################################################################
+################################################################################
+# VIA_AT_SMD RULES                                                            #
+################################################################################
 rule pcb (via_at_smd off)
 rule PCB (turn_under_pad off)
+
+################################################################################
+# PROPERTIES                                                                   #
+################################################################################
+
+################################################################################
+# TIMING RULES                                                                 #
+################################################################################
+
+################################################################################
+# rule assignments for layer timing                                            #
+################################################################################
 rule layer TOP (restricted_layer_length_factor 1)
 rule layer BOTTOM (restricted_layer_length_factor 1)
-defkey (q ) (write session C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0_2.ses;quit)
-quit)
-write colormap _notify.std
-measure 6.8 -78.675 6.8 -78.675
-measure -20.803 -66.6035 -20.803 -66.6035
-measure 3.9 -34.89 -47.1 -55.55
-quit -c
+
+################################################################################
+# Shielding RULES                                                              #
+################################################################################
+
+################################################################################
+# NOISE RULES                                                                  #
+################################################################################
+
+################################################################################
+# rule assignments for net noise                                               #
+################################################################################
+
+################################################################################
+# XTALK RULES                                                                  #
+################################################################################
+
+################################################################################
+# rule assignments for net xtalk                                               #
+################################################################################
+
+################################################################################
+# Diff Pair RULES                                                              #
+################################################################################
+
+################################################################################
+# rule assignments for class diff pair                                         #
+################################################################################
+
+################################################################################
+# rule assignments for group diff pair                                         #
+################################################################################
+
+# end of do file
