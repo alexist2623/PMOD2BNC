@@ -1,670 +1,649 @@
-\t (00:00:03) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:03)     Journal start - Thu Jun 29 17:27:39 2023
-\t (00:00:03)         Host=DESKTOP-KCLED0O User=ece Pid=1264 CPUs=6
-\t (00:00:03) 
-\t (00:00:06) Opening existing design...
-\d (00:00:06) Database opened: C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0_2.brd
-\i (00:00:06) trapsize 73
-\i (00:00:06) trapsize 71
-\i (00:00:07) trapsize 73
-\i (00:00:07) trapsize 63
-\i (00:00:07) trapsize 63
-\i (00:00:08) generaledit 
-\i (00:00:09) add connect 
-\t (00:00:10) Pick first element.
-\i (00:00:10) pick grid -29.777 -59.626
-\t (00:00:10) last pick:  -30.000  -60.000
-\t (00:00:10) last pick:  -30.000  -60.000
-\i (00:00:12) cancel 
-\i (00:00:13) generaledit 
-\i (00:00:13) roam y 96 
-\i (00:00:13) roam y 96
-\i (00:00:13) roam y 96 
-\i (00:00:13) roam y 96
-\i (00:00:13) roam x 96 
-\i (00:00:13) roam x 96
-\i (00:00:14) roam x 96 
-\i (00:00:14) roam x 96
-\i (00:00:14) roam y -96 
-\i (00:00:14) roam y -96
-\i (00:00:14) roam x 96 
-\i (00:00:14) roam x 96
+\t (00:00:06) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:06)     Journal start - Thu Jun 29 17:35:21 2023
+\t (00:00:06)         Host=DESKTOP-KCLED0O User=ece Pid=10536 CPUs=6
+\t (00:00:06) 
+\t (00:00:10) Opening existing design...
+\d (00:00:10) Database opened: C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0_2.brd
+\i (00:00:10) trapsize 73
+\i (00:00:10) trapsize 71
+\i (00:00:10) trapsize 73
+\i (00:00:10) trapsize 63
+\i (00:00:10) trapsize 63
+\i (00:00:11) generaledit 
 \i (00:00:14) roam y 96 
 \i (00:00:14) roam y 96
-\i (00:00:14) roam x 96 
-\i (00:00:14) roam x 96
 \i (00:00:14) roam y 96 
 \i (00:00:14) roam y 96
-\i (00:00:15) roam x 96 
-\i (00:00:15) roam x 96
+\i (00:00:14) roam y 96 
+\i (00:00:14) roam y 96
+\i (00:00:14) roam y 96 
+\i (00:00:14) roam y 96
+\i (00:00:14) roam y 96 
+\i (00:00:14) roam y 96
 \i (00:00:15) roam y 96 
 \i (00:00:15) roam y 96
-\i (00:00:15) roam y 96 
-\i (00:00:15) roam y 96
-\i (00:00:15) roam y 96 
-\i (00:00:15) roam y 96
-\i (00:00:16) zoom in 
-\i (00:00:16) setwindow pcb
-\i (00:00:16) zoom in -22.477 -68.179
-\i (00:00:16) trapsize 32
-\i (00:00:16) zoom out 
-\i (00:00:16) setwindow pcb
-\i (00:00:16) zoom out -22.477 -68.223
-\i (00:00:16) trapsize 63
-\i (00:00:16) zoom out 
-\i (00:00:16) setwindow pcb
-\i (00:00:16) zoom out -22.477 -68.224
-\i (00:00:16) trapsize 127
-\i (00:00:18) drag_start grid -29.942 -62.175
-\i (00:00:18) roam y 32
-\i (00:00:18) roam y 80
-\i (00:00:18) roam y 96
-\i (00:00:18) roam y 96
-\i (00:00:18) roam y 96
-\i (00:00:18) roam y 96
-\i (00:00:18) roam y 96
-\i (00:00:18) roam y 16
-\i (00:00:19) drag_stop -20.351 -84.164
-\i (00:00:20) roam y -96 
-\i (00:00:20) roam y -96
-\i (00:00:20) roam y -96 
-\i (00:00:20) roam y -96
-\i (00:00:20) roam y -96 
-\i (00:00:20) roam y -96
-\i (00:00:20) roam y -96 
-\i (00:00:20) roam y -96
-\i (00:00:20) roam y -96 
-\i (00:00:20) roam y -96
-\i (00:00:21) roam y -96 
-\i (00:00:21) roam y -96
-\i (00:00:21) roam y -96 
-\i (00:00:21) roam y -96
-\i (00:00:21) pick grid -26.880 -62.375
-\t (00:00:21) last pick:  -27.000  -62.000
-\i (00:00:26) setwindow form.find
-\i (00:00:26) FORM find all_off  
-\i (00:00:34) FORM find pins YES 
-\i (00:00:36) FORM find vias YES 
-\i (00:00:37) FORM find clines YES 
-\i (00:00:40) setwindow pcb
-\i (00:00:40) drag_start grid -30.778 -60.908
-\i (00:00:41) drag_stop -22.654 -79.558
-\i (00:00:43) pick grid tgl -22.047 -73.131
-\t (00:00:43) last pick:  -22.000  -73.000
-\i (00:00:44) pick grid tgl -19.491 -66.601
-\t (00:00:44) last pick:  -19.000  -67.000
-\i (00:00:49) setwindow form.find
-\i (00:00:49) FORM find pins NO 
-\i (00:00:50) setwindow pcb
-\i (00:00:50) pick grid -30.626 -61.211
-\t (00:00:50) last pick:  -31.000  -61.000
-\i (00:00:51) drag_start grid -31.132 -60.857
-\i (00:00:52) drag_stop -19.491 -78.850
-\i (00:00:55) prepopup -23.818 -68.854
-\i (00:00:57) pop dyn_option_select @:@Copy 
-\i (00:00:57) copy 
-\i (00:01:00) move 
-\i (00:01:01) ipick_to_gridunit -1 
-\t (00:01:01) last pick:  -21.000  -79.000
-\t (00:01:01) Element has no origin, using pick.
-\t (00:01:01) Element has no origin, using pick.
-\t (00:01:01) Element has no origin, using pick.
-\t (00:01:01) Element has no origin, using pick.
-\t (00:01:01) Element has no origin, using pick.
-\t (00:01:01) Element has no origin, using pick.
-\t (00:01:01) Element has no origin, using pick.
-\t (00:01:01) Element has no origin, using pick.
-\t (00:01:01) Element has no origin, using pick.
-\t (00:01:01) Element has no origin, using pick.
-\t (00:01:01) Element has no origin, using pick.
-\t (00:01:01) Pick new location for the element(s).
-\i (00:01:01) trapsize 127
-\i (00:01:01) move 
-\i (00:01:01) ipick_to_gridunit -1 
-\t (00:01:01) last pick:  -22.000  -79.000
-\t (00:01:01) Element has no origin, using pick.
-\t (00:01:01) Element has no origin, using pick.
-\t (00:01:01) Element has no origin, using pick.
-\t (00:01:01) Element has no origin, using pick.
-\t (00:01:01) Element has no origin, using pick.
-\t (00:01:01) Element has no origin, using pick.
-\t (00:01:01) Element has no origin, using pick.
-\t (00:01:01) Element has no origin, using pick.
-\t (00:01:01) Element has no origin, using pick.
-\t (00:01:01) Element has no origin, using pick.
-\t (00:01:01) Element has no origin, using pick.
-\t (00:01:01) Pick new location for the element(s).
-\i (00:01:01) trapsize 127
-\i (00:01:02) move 
-\i (00:01:02) ipick_to_gridunit 0 -1 
-\t (00:01:02) last pick:  -22.000  -80.000
-\t (00:01:02) Element has no origin, using pick.
-\t (00:01:02) Element has no origin, using pick.
-\t (00:01:02) Element has no origin, using pick.
-\t (00:01:02) Element has no origin, using pick.
-\t (00:01:02) Element has no origin, using pick.
-\t (00:01:02) Element has no origin, using pick.
-\t (00:01:02) Element has no origin, using pick.
-\t (00:01:02) Element has no origin, using pick.
-\t (00:01:02) Element has no origin, using pick.
-\t (00:01:02) Element has no origin, using pick.
-\t (00:01:02) Element has no origin, using pick.
-\t (00:01:02) Pick new location for the element(s).
-\i (00:01:02) trapsize 127
-\i (00:01:02) move 
-\i (00:01:03) ipick_to_gridunit +1 
-\t (00:01:03) last pick:  -21.000  -80.000
-\t (00:01:03) Element has no origin, using pick.
-\t (00:01:03) Element has no origin, using pick.
-\t (00:01:03) Element has no origin, using pick.
-\t (00:01:03) Element has no origin, using pick.
-\t (00:01:03) Element has no origin, using pick.
-\t (00:01:03) Element has no origin, using pick.
-\t (00:01:03) Element has no origin, using pick.
-\t (00:01:03) Element has no origin, using pick.
-\t (00:01:03) Element has no origin, using pick.
-\t (00:01:03) Element has no origin, using pick.
-\t (00:01:03) Element has no origin, using pick.
-\t (00:01:03) Pick new location for the element(s).
-\i (00:01:03) trapsize 127
-\i (00:01:05) prepopup -24.324 -78.698
-\i (00:01:06) cancel 
-\i (00:01:06) generaledit 
-\i (00:01:09) prepopup -23.540 -68.601
-\i (00:01:11) pop dyn_option_select @:@Copy 
-\i (00:01:11) copy 
-\i (00:01:11) roam x -96 
-\i (00:01:11) roam x -96
-\i (00:01:11) roam x -96 
-\i (00:01:11) roam x -96
-\i (00:01:12) roam x -96 
-\i (00:01:12) roam x -96
-\i (00:01:12) roam x -96 
-\i (00:01:12) roam x -96
-\i (00:01:12) roam x -96 
-\i (00:01:12) roam x -96
-\i (00:01:12) roam x -96 
-\i (00:01:12) roam x -96
-\i (00:01:12) roam x -96 
-\i (00:01:12) roam x -96
-\i (00:01:12) roam x -96 
-\i (00:01:12) roam x -96
-\i (00:01:13) roam x -96 
-\i (00:01:13) roam x -96
-\i (00:01:13) roam x -96 
-\i (00:01:13) roam x -96
-\i (00:01:13) roam x -96 
-\i (00:01:13) roam x -96
-\i (00:01:13) roam x -96 
-\i (00:01:13) roam x -96
-\i (00:01:20) define grid 
-\t (00:01:20) Spacing fields allow simple equations to aid calculations; prefix with =
-\i (00:01:23) setwindow form.grid
-\i (00:01:23) FORM grid done  
-\i (00:01:34) setwindow pcb
-\i (00:01:34) grid toggle 
-\i (00:01:34) grid toggle 
-\i (00:01:35) zoom in 
-\i (00:01:35) setwindow pcb
-\i (00:01:35) zoom in -65.614 -68.474
-\i (00:01:35) trapsize 63
-\i (00:01:36) zoom out 
-\i (00:01:36) setwindow pcb
-\i (00:01:36) zoom out -65.171 -68.335
-\i (00:01:36) trapsize 127
-\i (00:01:42) define grid 
-\t (00:01:42) Spacing fields allow simple equations to aid calculations; prefix with =
-\i (00:01:44) setwindow form.grid
-\i (00:01:44) FORM grid display NO 
-\i (00:01:45) FORM grid done  
-\i (00:01:51) setwindow pcb
-\i (00:01:51) define grid 
-\t (00:01:51) Spacing fields allow simple equations to aid calculations; prefix with =
-\i (00:01:54) setwindow form.grid
-\i (00:01:54) FORM grid display YES 
-\i (00:01:55) FORM grid done  
-\i (00:02:00) setwindow pcb
-\i (00:02:00) define grid 
-\t (00:02:00) Spacing fields allow simple equations to aid calculations; prefix with =
-\i (00:02:05) setwindow form.grid
-\i (00:02:05) FORM grid non_etch non_etch_x_grids 0.5 
-\i (00:02:09) FORM grid non_etch non_etch_y_grids 0.5 
-\i (00:02:09) FORM grid done  
-\i (00:02:14) setwindow pcb
-\i (00:02:14) define grid 
-\t (00:02:14) Spacing fields allow simple equations to aid calculations; prefix with =
-\i (00:02:19) setwindow form.grid
-\i (00:02:19) FORM grid non_etch non_etch_x_grids 0.635 
-\i (00:02:22) FORM grid non_etch non_etch_y_grids 0.635 
-\i (00:02:22) FORM grid done  
-\i (00:02:24) setwindow pcb
-\i (00:02:24) prepopup -48.673 -68.031
-\i (00:02:25) cancel 
-\i (00:02:25) generaledit 
-\i (00:02:26) pick grid -49.078 -68.689
-\t (00:02:26) last pick:  -49.000  -69.000
-\i (00:02:29) placementedit 
-\i (00:02:31) generaledit 
-\i (00:02:33) roam x 96 
-\i (00:02:33) roam x 96
-\i (00:02:34) roam x 96 
-\i (00:02:34) roam x 96
-\i (00:02:34) roam x 96 
-\i (00:02:34) roam x 96
-\i (00:02:34) roam x 96 
-\i (00:02:34) roam x 96
-\i (00:02:34) roam x 96 
-\i (00:02:34) roam x 96
-\i (00:02:34) roam x 96 
-\i (00:02:34) roam x 96
-\i (00:02:34) roam x 96 
-\i (00:02:34) roam x 96
-\i (00:02:34) roam x 96 
-\i (00:02:34) roam x 96
-\i (00:02:34) roam x 96 
-\i (00:02:34) roam x 96
-\i (00:02:35) roam x 96 
-\i (00:02:35) roam x 96
-\i (00:02:35) roam x 96 
-\i (00:02:35) roam x 96
-\i (00:02:36) drag_start grid -31.299 -60.793
-\i (00:02:37) drag_stop -21.910 -79.115
-\i (00:02:39) pick grid tgl -19.759 -66.487
-\t (00:02:39) last pick:  -19.685  -66.675
-\i (00:02:40) prepopup -19.759 -66.487
-\i (00:02:41) pop dyn_option_select @:@Copy 
-\i (00:02:41) copy 
-\i (00:02:41) roam x -96 
-\i (00:02:41) roam x -96
-\i (00:02:42) roam x -96 
-\i (00:02:42) roam x -96
-\i (00:02:42) roam x -96 
-\i (00:02:42) roam x -96
-\i (00:02:42) roam x -96 
-\i (00:02:42) roam x -96
-\i (00:02:42) roam x -96 
-\i (00:02:42) roam x -96
-\i (00:02:42) roam x -96 
-\i (00:02:42) roam x -96
-\i (00:02:42) roam x -96 
-\i (00:02:42) roam x -96
-\i (00:02:43) roam x -96 
-\i (00:02:43) roam x -96
-\i (00:02:43) roam x -96 
-\i (00:02:43) roam x -96
-\i (00:02:43) roam x -96 
-\i (00:02:43) roam x -96
-\i (00:02:43) roam x -96 
-\i (00:02:43) roam x -96
-\i (00:02:43) roam x -96 
-\i (00:02:43) roam x -96
-\i (00:02:43) roam x -96 
-\i (00:02:43) roam x -96
-\i (00:02:43) roam x -96 
-\i (00:02:43) roam x -96
-\i (00:02:48) zoom in 
-\i (00:02:48) setwindow pcb
-\i (00:02:48) zoom in -61.818 -66.437
-\i (00:02:48) trapsize 63
-\i (00:02:56) prepopup -61.705 -66.791
-\i (00:02:57) cancel 
-\i (00:02:57) generaledit 
-\i (00:02:58) placementedit 
-\i (00:02:59) generaledit 
-\i (00:03:01) placementedit 
-\i (00:03:03) pick grid -69.524 -65.766
-\t (00:03:03) last pick:  -69.215  -66.040
-\i (00:03:03) move 
-\t (00:03:03) last pick:  -70.000  -65.000
-\t (00:03:03) Moving D1 / PESD4USB3B_TBSX_PESD4USB3BTBSX_ / PESD4USB3BTBSX.
-\t (00:03:03) Pick new location for the element(s).
-\i (00:03:08) cancel 
-\i (00:03:08) placementedit 
-\i (00:03:08) roam y -96 
-\i (00:03:08) roam y -96
-\i (00:03:08) roam y -96 
-\i (00:03:08) roam y -96
-\i (00:03:09) roam y -96 
-\i (00:03:09) roam y -96
-\i (00:03:09) roam y -96 
-\i (00:03:09) roam y -96
-\i (00:03:09) roam y -96 
-\i (00:03:09) roam y -96
-\i (00:03:09) roam y -96 
-\i (00:03:09) roam y -96
-\i (00:03:09) roam y -96 
-\i (00:03:09) roam y -96
-\i (00:03:09) roam x 96 
-\i (00:03:09) roam x 96
-\i (00:03:10) roam x 96 
-\i (00:03:10) roam x 96
-\i (00:03:10) roam x 96 
-\i (00:03:10) roam x 96
-\i (00:03:10) roam x 96 
-\i (00:03:10) roam x 96
-\i (00:03:10) roam x 96 
-\i (00:03:10) roam x 96
-\i (00:03:10) roam x 96 
-\i (00:03:10) roam x 96
-\i (00:03:10) roam x 96 
-\i (00:03:10) roam x 96
-\i (00:03:10) roam x 96 
-\i (00:03:10) roam x 96
-\i (00:03:10) roam x 96 
-\i (00:03:10) roam x 96
-\i (00:03:10) roam x 96 
-\i (00:03:10) roam x 96
-\i (00:03:10) roam x 96 
-\i (00:03:10) roam x 96
-\i (00:03:10) roam x 96 
-\i (00:03:10) roam x 96
-\i (00:03:10) roam x 96 
-\i (00:03:10) roam x 96
-\i (00:03:10) roam x 96 
-\i (00:03:10) roam x 96
-\i (00:03:10) roam x 96 
-\i (00:03:10) roam x 96
-\i (00:03:10) roam x 96 
-\i (00:03:10) roam x 96
-\i (00:03:10) roam x 96 
-\i (00:03:10) roam x 96
-\i (00:03:10) roam x 96 
-\i (00:03:10) roam x 96
-\i (00:03:10) roam x 96 
-\i (00:03:10) roam x 96
-\i (00:03:11) roam x 96 
-\i (00:03:11) roam x 96
-\i (00:03:11) roam x 96 
-\i (00:03:11) roam x 96
-\i (00:03:11) roam x 96 
-\i (00:03:11) roam x 96
-\i (00:03:11) roam x 96 
-\i (00:03:11) roam x 96
-\i (00:03:11) roam x 96 
-\i (00:03:11) roam x 96
-\i (00:03:11) roam x 96 
-\i (00:03:11) roam x 96
-\i (00:03:12) roam x 96 
-\i (00:03:12) roam x 96
-\i (00:03:12) roam x 96 
-\i (00:03:12) roam x 96
-\i (00:03:12) roam x 96 
-\i (00:03:12) roam x 96
-\i (00:03:12) roam x 96 
-\i (00:03:12) roam x 96
-\i (00:03:12) roam x 96 
-\i (00:03:12) roam x 96
-\i (00:03:13) roam x 96 
-\i (00:03:13) roam x 96
-\i (00:03:13) roam x 96 
-\i (00:03:13) roam x 96
-\i (00:03:14) roam x 96 
-\i (00:03:14) roam x 96
-\i (00:03:14) roam y 96 
-\i (00:03:14) roam y 96
-\i (00:03:14) roam y 96 
-\i (00:03:14) roam y 96
-\i (00:03:14) roam y 96 
-\i (00:03:14) roam y 96
-\i (00:03:15) roam y 96 
-\i (00:03:15) roam y 96
-\i (00:03:15) roam y 96 
-\i (00:03:15) roam y 96
-\i (00:03:21) roam y 96 
-\i (00:03:21) roam y 96
-\i (00:03:21) roam y 96 
-\i (00:03:21) roam y 96
-\i (00:03:27) generaledit 
-\i (00:03:29) pick grid -17.124 -66.674
-\t (00:03:29) last pick:  -17.145  -66.675
-\i (00:03:33) pick grid -17.175 -66.573
-\t (00:03:33) last pick:  -17.145  -66.675
-\i (00:03:40) zoom out 1 
-\i (00:03:40) setwindow pcb
-\i (00:03:40) zoom out -22.843 -67.370
-\i (00:03:40) trapsize 127
-\i (00:03:40) zoom out 1 
-\i (00:03:40) setwindow pcb
-\i (00:03:40) zoom out -22.844 -67.369
-\i (00:03:40) trapsize 253
-\i (00:03:40) roam x -96 
-\i (00:03:40) roam x -96
-\i (00:03:41) roam x -96 
-\i (00:03:41) roam x -96
-\i (00:03:41) roam x -96 
-\i (00:03:41) roam x -96
-\i (00:03:41) roam x -96 
-\i (00:03:41) roam x -96
-\i (00:03:41) roam x -96 
-\i (00:03:41) roam x -96
-\i (00:05:50) placementedit 
-\i (00:05:51) pick grid -15.886 -59.626
-\t (00:05:51) last pick:  -15.875  -59.690
-\i (00:05:51) move 
-\t (00:05:51) last pick:  -15.240  -59.690
-\t (00:05:51) Moving R39 / RP73PF2A73R2BTDF_RESC2012X65N_R / RESC2012X65N.
-\t (00:05:51) Pick new location for the element(s).
-\i (00:05:56) cancel 
-\i (00:05:56) placementedit 
-\i (00:06:00) zoom in 
-\i (00:06:00) setwindow pcb
-\i (00:06:00) zoom in -16.140 -66.610
-\i (00:06:00) trapsize 127
-\i (00:06:03) generaledit 
-\i (00:06:04) pick grid -23.301 -66.508
-\t (00:06:04) last pick:  -23.495  -66.675
-\i (00:06:05) prepopup -23.301 -66.508
-\i (00:06:06) pop dyn_option_select @:@Copy 
-\i (00:06:06) copy 
-\i (00:06:12) cancel 
-\i (00:06:12) generaledit 
-\i (00:06:13) drag_start grid -31.348 -60.941
-\i (00:06:13) roam y 32
-\i (00:06:14) roam y 112
-\i (00:06:14) roam y 176
-\i (00:06:14) roam y 176
-\i (00:06:14) roam y 176
-\i (00:06:14) roam y 80
-\i (00:06:14) drag_stop -19.834 -90.667
-\i (00:06:16) roam y -96 
-\i (00:06:16) roam y -96
-\i (00:06:16) roam y -96 
-\i (00:06:16) roam y -96
-\i (00:06:16) roam y -96 
-\i (00:06:16) roam y -96
-\i (00:06:16) roam y -96 
-\i (00:06:16) roam y -96
-\i (00:06:16) roam y -96 
-\i (00:06:16) roam y -96
-\i (00:06:17) roam y -96 
-\i (00:06:17) roam y -96
-\i (00:06:17) roam y -96 
-\i (00:06:17) roam y -96
-\i (00:06:17) roam y -96 
-\i (00:06:17) roam y -96
-\i (00:06:20) prepopup -25.022 -66.551
-\i (00:06:21) pop dyn_option_select @:@Copy 
-\i (00:06:21) copy 
-\i (00:06:27) cancel 
-\i (00:06:27) generaledit 
-\i (00:06:28) pick grid -27.603 -62.173
-\t (00:06:28) last pick:  -27.305  -62.230
-\i (00:06:30) drag_start grid -29.729 -62.071
-\i (00:06:32) drag_stop -19.733 -69.891
-\i (00:06:34) prepopup -23.301 -66.424
-\i (00:06:35) pop dyn_option_select @:@Copy 
-\i (00:06:35) copy 
-\i (00:06:40) cancel 
-\i (00:06:40) generaledit 
-\i (00:06:41) pick grid -26.135 -62.451
-\t (00:06:41) last pick:  -26.035  -62.230
-\i (00:06:44) drag_start grid -29.931 -62.502
-\i (00:06:45) drag_stop -25.427 -66.297
-\i (00:06:46) prepopup -26.920 -65.462
-\i (00:06:47) pop dyn_option_select @:@Copy 
-\i (00:06:47) copy 
-\i (00:06:51) cancel 
-\i (00:06:51) generaledit 
-\i (00:06:52) prepopup -27.072 -65.437
-\i (00:06:56) pick grid -27.325 -62.805
-\t (00:06:56) last pick:  -27.305  -62.865
-\i (00:06:57) drag_start grid -30.994 -60.781
-\i (00:06:59) drag_stop -21.276 -76.268
-\i (00:07:00) prepopup -25.528 -66.601
-\i (00:07:06) pop dyn_option_select '@:@Add to group' 
-\i (00:07:06) group add 
-\i (00:07:10) setwindow form.groups_create
-\i (00:07:10) FORM groups_create cancel  
-\i (00:07:10) setwindow pcb
-\i (00:07:10) generaledit 
-\i (00:07:15) prepopup -26.970 -67.538
-\i (00:07:17) pop dyn_option_select @:@Copy 
-\i (00:07:17) copy 
-\i (00:07:17) roam x -96 
-\i (00:07:17) roam x -96
-\i (00:07:18) roam x -96 
-\i (00:07:18) roam x -96
-\i (00:07:18) roam x -96 
-\i (00:07:18) roam x -96
-\i (00:07:18) roam x -96 
-\i (00:07:18) roam x -96
-\i (00:07:18) roam x -96 
-\i (00:07:18) roam x -96
-\i (00:07:18) roam x -96 
-\i (00:07:18) roam x -96
-\i (00:07:18) roam x -96 
-\i (00:07:19) roam x -96
-\i (00:07:19) roam x -96 
-\i (00:07:19) roam x -96
-\i (00:07:19) roam x -96 
-\i (00:07:19) roam x -96
-\i (00:07:19) roam x -96 
-\i (00:07:19) roam x -96
-\i (00:07:19) roam x 96 
-\i (00:07:19) roam x 96
-\i (00:07:20) roam x 96 
-\i (00:07:20) roam x 96
-\i (00:07:20) roam x 96 
-\i (00:07:20) roam x 96
-\i (00:07:20) roam x 96 
-\i (00:07:20) roam x 96
-\i (00:07:21) roam x -96 
-\i (00:07:21) roam x -96
-\i (00:07:21) roam x -96 
-\i (00:07:21) roam x -96
-\i (00:07:21) roam x -96 
-\i (00:07:21) roam x -96
-\i (00:07:21) roam x -96 
-\i (00:07:21) roam x -96
-\i (00:07:21) roam x -96 
-\i (00:07:21) roam x -96
-\i (00:07:22) roam x -96 
-\i (00:07:22) roam x -96
-\i (00:07:26) pick grid -64.906 -67.613
-\t (00:07:26) last pick:  -64.770  -67.310
-\i (00:07:27) roam x -96 
-\i (00:07:27) roam x -96
-\i (00:07:28) move 
-\i (00:07:28) ipick_to_gridunit -1 
-\t (00:07:28) last pick:  -65.405  -67.310
-\t (00:07:28) Element has no origin, using pick.
-\t (00:07:28) Element has no origin, using pick.
-\t (00:07:28) Element has no origin, using pick.
-\t (00:07:28) Element has no origin, using pick.
-\t (00:07:28) Element has no origin, using pick.
-\t (00:07:28) Element has no origin, using pick.
-\t (00:07:28) Element has no origin, using pick.
-\t (00:07:28) Element has no origin, using pick.
-\t (00:07:28) Element has no origin, using pick.
-\t (00:07:28) Element has no origin, using pick.
-\t (00:07:28) Element has no origin, using pick.
-\t (00:07:28) Pick new location for the element(s).
-\i (00:07:28) trapsize 127
-\i (00:07:28) move 
-\i (00:07:28) ipick_to_gridunit -1 
-\t (00:07:28) last pick:  -66.040  -67.310
-\t (00:07:28) Element has no origin, using pick.
-\t (00:07:28) Element has no origin, using pick.
-\t (00:07:28) Element has no origin, using pick.
-\t (00:07:28) Element has no origin, using pick.
-\t (00:07:28) Element has no origin, using pick.
-\t (00:07:28) Element has no origin, using pick.
-\t (00:07:28) Element has no origin, using pick.
-\t (00:07:28) Element has no origin, using pick.
-\t (00:07:28) Element has no origin, using pick.
-\t (00:07:28) Element has no origin, using pick.
-\t (00:07:28) Element has no origin, using pick.
-\t (00:07:28) Pick new location for the element(s).
-\i (00:07:28) trapsize 127
-\i (00:07:29) move 
-\i (00:07:29) ipick_to_gridunit -1 
-\t (00:07:29) last pick:  -66.675  -67.310
-\t (00:07:29) Element has no origin, using pick.
-\t (00:07:29) Element has no origin, using pick.
-\t (00:07:29) Element has no origin, using pick.
-\t (00:07:29) Element has no origin, using pick.
-\t (00:07:29) Element has no origin, using pick.
-\t (00:07:29) Element has no origin, using pick.
-\t (00:07:29) Element has no origin, using pick.
-\t (00:07:29) Element has no origin, using pick.
-\t (00:07:29) Element has no origin, using pick.
-\t (00:07:29) Element has no origin, using pick.
-\t (00:07:29) Element has no origin, using pick.
-\t (00:07:29) Pick new location for the element(s).
-\i (00:07:29) trapsize 127
-\i (00:07:29) move 
-\i (00:07:29) ipick_to_gridunit -1 
-\t (00:07:29) last pick:  -67.310  -67.310
-\t (00:07:29) Element has no origin, using pick.
-\t (00:07:29) Element has no origin, using pick.
-\t (00:07:29) Element has no origin, using pick.
-\t (00:07:29) Element has no origin, using pick.
-\t (00:07:29) Element has no origin, using pick.
-\t (00:07:29) Element has no origin, using pick.
-\t (00:07:29) Element has no origin, using pick.
-\t (00:07:29) Element has no origin, using pick.
-\t (00:07:29) Element has no origin, using pick.
-\t (00:07:29) Element has no origin, using pick.
-\t (00:07:29) Element has no origin, using pick.
-\t (00:07:29) Pick new location for the element(s).
-\i (00:07:29) trapsize 127
-\i (00:07:30) roam x 96 
-\i (00:07:30) roam x 96
-\i (00:07:31) roam x 96 
-\i (00:07:31) roam x 96
-\i (00:07:31) roam x 96 
-\i (00:07:31) roam x 96
-\i (00:07:31) roam x 96 
-\i (00:07:31) roam x 96
-\i (00:07:31) roam x 96 
-\i (00:07:31) roam x 96
-\i (00:07:31) roam x 96 
-\i (00:07:31) roam x 96
-\i (00:07:31) roam x 96 
-\i (00:07:31) roam x 96
-\i (00:07:32) roam x 96 
-\i (00:07:32) roam x 96
-\i (00:07:32) roam x 96 
-\i (00:07:32) roam x 96
-\i (00:07:32) roam x 96 
-\i (00:07:32) roam x 96
-\i (00:07:32) roam x 96 
-\i (00:07:32) roam x 96
-\i (00:07:32) roam x 96 
-\i (00:07:32) roam x 96
-\i (00:07:32) roam x 96 
-\i (00:07:32) roam x 96
-\i (00:07:32) roam x 96 
-\i (00:07:32) roam x 96
-\i (00:07:32) roam x 96 
-\i (00:07:32) roam x 96
-\i (00:07:32) roam x 96 
-\i (00:07:32) roam x 96
-\i (00:07:33) roam y 96 
-\i (00:07:33) roam y 96
-\i (00:07:33) roam y 96 
-\i (00:07:33) roam y 96
-\i (00:07:34) exit 
-\e (00:07:34) Do you want to save the changes you made to PMOD2BNC_V1_0_2.brd?
-\i (00:07:35) fillin no 
-\t (00:07:36)     Journal end - Thu Jun 29 17:35:12 2023
+\i (00:00:16) roam y -96 
+\i (00:00:16) roam y -96
+\i (00:00:16) roam y -96 
+\i (00:00:16) roam y -96
+\i (00:00:24) generaledit 
+\i (00:00:27) setwindow form.find
+\i (00:00:27) FORM find all_off  
+\i (00:00:29) FORM find clines YES 
+\i (00:00:29) FORM find vias YES 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) drag_start grid -27.841 -62.612
+\i (00:00:35) drag_stop -27.019 -63.042
+\i (00:00:36) drag_start grid -25.159 -66.054
+\i (00:00:37) drag_stop -27.120 -65.231
+\i (00:00:39) prepopup -26.918 -65.332
+\i (00:00:39) pop dyn_option_select @:@Copy 
+\i (00:00:40) copy 
+\i (00:00:41) prepopup -26.766 -65.408
+\i (00:00:49) cancel 
+\i (00:00:49) generaledit 
+\i (00:00:51) pick grid -26.829 -62.840
+\t (00:00:51) last pick:  -26.670  -62.865
+\i (00:00:52) pick grid -25.298 -66.598
+\t (00:00:52) last pick:  -25.400  -66.675
+\i (00:00:53) prepopup -25.298 -66.598
+\i (00:00:54) pop dyn_option_select @:@Copy 
+\i (00:00:54) copy 
+\i (00:00:56) prepopup -25.867 -66.370
+\i (00:00:57) cancel 
+\i (00:00:57) generaledit 
+\i (00:00:58) prepopup -25.096 -66.534
+\i (00:01:07) 3d_viewer 
+\i (00:01:07) setwindow pcb3D
+\i (00:01:07) trapsize 63
+\i (00:01:07) setwindow pcb
+\i (00:01:07) generaledit 
+\i (00:01:11) pick grid -25.336 -63.510
+\t (00:01:11) last pick:  -25.400  -63.500
+\i (00:01:12) 3d_viewer 
+\i (00:01:12) setwindow pcb3D
+\i (00:01:12) trapsize 63
+\i (00:01:12) setwindow pcb
+\i (00:01:12) generaledit 
+\i (00:02:01) setwindow pcb3D
+\i (00:02:01) view3d top 
+\i (00:02:04) view3d bottom 
+\i (00:02:21) setwindow pcb
+\i (00:02:21) zoom out 
+\i (00:02:21) setwindow pcb
+\i (00:02:21) zoom out -26.842 -66.598
+\i (00:02:21) trapsize 127
+\i (00:04:36) drag_start grid -29.954 -61.536
+\i (00:04:36) drag_stop -28.638 -62.776
+\i (00:04:38) drag_start grid -29.119 -61.232
+\i (00:04:38) drag_stop -25.931 -67.053
+\i (00:05:16) drag_start grid -31.220 -60.625
+\i (00:05:17) roam y 16
+\i (00:05:17) roam y 32
+\i (00:05:17) roam y 48
+\i (00:05:17) roam y 64
+\i (00:05:17) roam y 64
+\i (00:05:17) roam y 80
+\i (00:05:17) roam y 80
+\i (00:05:17) roam y 64
+\i (00:05:18) drag_stop -20.515 -76.040
+\i (00:05:19) roam y -96 
+\i (00:05:19) roam y -96
+\i (00:05:19) roam y -96 
+\i (00:05:19) roam y -96
+\i (00:05:20) roam y -96 
+\i (00:05:20) roam y -96
+\i (00:05:21) prepopup -22.615 -67.664
+\i (00:05:23) pop dyn_option_select @:@Copy 
+\i (00:05:23) copy 
+\i (00:05:24) roam x -96 
+\i (00:05:24) roam x -96
+\i (00:05:24) roam x -96 
+\i (00:05:24) roam x -96
+\i (00:05:24) roam x -96 
+\i (00:05:24) roam x -96
+\i (00:05:24) roam x -96 
+\i (00:05:24) roam x -96
+\i (00:05:25) roam x -96 
+\i (00:05:25) roam x -96
+\i (00:05:25) roam x -96 
+\i (00:05:25) roam x -96
+\i (00:05:26) roam x -96 
+\i (00:05:26) roam x -96
+\i (00:05:26) roam x -96 
+\i (00:05:26) roam x -96
+\i (00:05:26) roam x -96 
+\i (00:05:26) roam x -96
+\i (00:05:31) pick grid -64.501 -67.639
+\t (00:05:31) last pick:  -64.770  -67.945
+\i (00:05:34) prepopup -63.691 -77.331
+\i (00:05:35) done 
+\i (00:05:35) generaledit 
+\i (00:05:35) roam y -96 
+\i (00:05:35) roam y -96
+\i (00:05:37) drag_start grid -73.409 -60.984
+\i (00:05:37) drag_stop -61.009 -78.192
+\i (00:05:42) ipick 1 
+\t (00:05:42) last pick:  -60.009  -78.192
+\i (00:05:45) drag_start grid -73.383 -60.528
+\i (00:05:45) roam y 16
+\i (00:05:46) roam y 16
+\i (00:05:46) roam y 16
+\i (00:05:46) roam y 16
+\i (00:05:47) drag_stop -60.098 -77.154
+\i (00:05:53) ipick 1 0 
+\t (00:05:53) last pick:  -59.098  -77.154
+\i (00:06:22) drag_start grid -71.764 -62.577
+\i (00:06:23) drag_stop -59.389 -80.848
+\i (00:06:29) pick 100 100 
+\t (00:06:29) last pick:  100.000  100.000
+\w (00:06:29) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:06:41) pick -100 -100 
+\t (00:06:41) last pick:  -100.000  -100.000
+\i (00:06:47) drag_start grid -73.409 -61.641
+\i (00:06:47) drag_stop -60.553 -79.229
+\e (00:06:51) Command not found: cmd
+\i (00:06:53) helpcmd 
+\i (00:07:02) setwindow form.helpcmd
+\i (00:07:02) FORM helpcmd done  
+\i (00:07:05) setwindow pcb
+\i (00:07:05) roam y 96 
+\i (00:07:05) roam y 96
+\i (00:07:05) roam y 96 
+\i (00:07:05) roam y 96
+\i (00:07:12) helpcmd 
+\e (00:07:17) Invalid character
+\i (00:07:18) help move 
+\i (00:07:20) help move 
+\i (00:07:20) help move 
+\i (00:07:22) setwindow form.helpcmd
+\i (00:07:22) FORM helpcmd done  
+\i (00:08:38) setwindow pcb
+\i (00:08:38) move 
+\i (00:08:48) pick -200 -200 
+\t (00:08:48) last pick:  -200.000  -200.000
+\t (00:08:48) Element has no origin, using pick.
+\t (00:08:48) Element has no origin, using pick.
+\t (00:08:48) Element has no origin, using pick.
+\t (00:08:48) Element has no origin, using pick.
+\t (00:08:48) Element has no origin, using pick.
+\t (00:08:48) Element has no origin, using pick.
+\t (00:08:48) Element has no origin, using pick.
+\t (00:08:48) Element has no origin, using pick.
+\t (00:08:48) Element has no origin, using pick.
+\t (00:08:48) Pick new location for the element(s).
+\i (00:08:52) zoom fit 
+\i (00:08:52) trapsize 503
+\i (00:09:05) zoom in 
+\i (00:09:05) setwindow pcb
+\i (00:09:05) zoom in -74.501 -68.727
+\i (00:09:05) trapsize 252
+\i (00:09:06) zoom in 
+\i (00:09:06) setwindow pcb
+\i (00:09:06) zoom in -74.501 -68.727
+\i (00:09:06) trapsize 126
+\i (00:09:09) zoom fit 
+\i (00:09:09) trapsize 503
+\i (00:09:16) pick 0 0 
+\t (00:09:16) last pick:  0.000  0.000
+\e (00:09:16) ERROR(SPMHA1-78): Via is outside of the extents.
+\i (00:09:21) undo 
+\i (00:09:21) trapsize 127
+\i (00:09:22) generaledit 
+\i (00:09:24) roam y -96 
+\i (00:09:24) roam y -96
+\i (00:09:24) roam y -96 
+\i (00:09:24) roam y -96
+\i (00:09:24) roam y -96 
+\i (00:09:24) roam y -96
+\i (00:09:31) move 
+\i (00:09:34) ipick 1 0 
+\t (00:09:34) last pick:  1.000  0.000
+\t (00:09:34) Element has no origin, using pick.
+\t (00:09:34) Element has no origin, using pick.
+\t (00:09:34) Element has no origin, using pick.
+\t (00:09:34) Element has no origin, using pick.
+\t (00:09:34) Element has no origin, using pick.
+\t (00:09:34) Element has no origin, using pick.
+\t (00:09:34) Element has no origin, using pick.
+\t (00:09:34) Element has no origin, using pick.
+\t (00:09:34) Element has no origin, using pick.
+\t (00:09:34) Pick new location for the element(s).
+\i (00:09:40) ipick 1 0 
+\t (00:09:40) last pick:  2.000  0.000
+\i (00:09:40) generaledit 
+\i (00:09:56) pick grid -60.857 -60.781
+\t (00:09:56) last pick:  -60.960  -60.960
+\i (00:10:00) pick grid -59.516 -66.551
+\t (00:10:00) last pick:  -59.690  -66.675
+\i (00:10:04) pick grid -58.756 -66.804
+\t (00:10:04) last pick:  -59.055  -66.675
+\i (00:11:04) drag_start grid -73.814 -59.414
+\i (00:11:05) drag_stop -57.339 -78.217
+\i (00:11:09) move 
+\i (00:11:15) ipick -0.635 0 
+\t (00:11:15) last pick:  -57.974  -78.217
+\t (00:11:15) Element has no origin, using pick.
+\t (00:11:15) Element has no origin, using pick.
+\t (00:11:15) Element has no origin, using pick.
+\t (00:11:15) Element has no origin, using pick.
+\t (00:11:15) Element has no origin, using pick.
+\t (00:11:15) Element has no origin, using pick.
+\t (00:11:15) Element has no origin, using pick.
+\t (00:11:15) Element has no origin, using pick.
+\t (00:11:15) Element has no origin, using pick.
+\t (00:11:15) Pick new location for the element(s).
+\i (00:11:22) ipick 0 0 
+\t (00:11:22) last pick:  -57.974  -78.217
+\i (00:11:22) generaledit 
+\i (00:11:25) move 
+\i (00:11:34) ipick 0.635 0 
+\t (00:11:34) last pick:  -57.339  -78.217
+\t (00:11:34) Element has no origin, using pick.
+\t (00:11:34) Element has no origin, using pick.
+\t (00:11:34) Element has no origin, using pick.
+\t (00:11:34) Element has no origin, using pick.
+\t (00:11:34) Element has no origin, using pick.
+\t (00:11:34) Element has no origin, using pick.
+\t (00:11:34) Element has no origin, using pick.
+\t (00:11:34) Element has no origin, using pick.
+\t (00:11:34) Pick new location for the element(s).
+\i (00:11:42) ipick 0.635 0 
+\t (00:11:42) last pick:  -56.704  -78.217
+\i (00:11:42) generaledit 
+\i (00:11:49) move 
+\i (00:12:05) ipick -0.3 0 
+\t (00:12:05) last pick:  -57.004  -78.217
+\t (00:12:05) Element has no origin, using pick.
+\t (00:12:05) Element has no origin, using pick.
+\t (00:12:05) Element has no origin, using pick.
+\t (00:12:05) Element has no origin, using pick.
+\t (00:12:05) Element has no origin, using pick.
+\t (00:12:05) Element has no origin, using pick.
+\t (00:12:05) Element has no origin, using pick.
+\t (00:12:05) Pick new location for the element(s).
+\i (00:12:07) ipick 0 0 
+\t (00:12:07) last pick:  -57.004  -78.217
+\i (00:12:07) generaledit 
+\i (00:12:17) move 
+\i (00:12:25) pick -57.004 -78.217 
+\t (00:12:25) last pick:  -57.004  -78.217
+\t (00:12:25) Element has no origin, using pick.
+\t (00:12:25) Element has no origin, using pick.
+\t (00:12:25) Element has no origin, using pick.
+\t (00:12:25) Element has no origin, using pick.
+\t (00:12:25) Element has no origin, using pick.
+\t (00:12:25) Element has no origin, using pick.
+\t (00:12:25) Element has no origin, using pick.
+\t (00:12:25) Pick new location for the element(s).
+\i (00:12:39) ipick -1 0 
+\t (00:12:39) last pick:  -58.004  -78.217
+\i (00:12:39) generaledit 
+\i (00:12:48) move 
+\i (00:12:50) ipick 0 0 
+\t (00:12:50) last pick:  -58.004  -78.217
+\t (00:12:50) Element has no origin, using pick.
+\t (00:12:50) Element has no origin, using pick.
+\t (00:12:50) Element has no origin, using pick.
+\t (00:12:50) Element has no origin, using pick.
+\t (00:12:50) Element has no origin, using pick.
+\t (00:12:50) Element has no origin, using pick.
+\t (00:12:50) Element has no origin, using pick.
+\t (00:12:50) Pick new location for the element(s).
+\i (00:12:58) ipick -1 0 
+\t (00:12:58) last pick:  -59.004  -78.217
+\i (00:12:58) generaledit 
+\i (00:13:00) pick grid -65.437 -59.895
+\t (00:13:00) last pick:  -65.405  -59.690
+\i (00:13:01) undo 
+\i (00:13:01) trapsize 127
+\i (00:13:01) generaledit 
+\i (00:13:02) undo 
+\i (00:13:02) trapsize 127
+\i (00:13:02) generaledit 
+\i (00:13:02) undo 
+\i (00:13:02) trapsize 127
+\i (00:13:02) generaledit 
+\i (00:13:03) undo 
+\i (00:13:03) trapsize 127
+\i (00:13:03) generaledit 
+\i (00:13:03) undo 
+\i (00:13:03) trapsize 127
+\i (00:13:04) generaledit 
+\i (00:13:04) undo 
+\i (00:13:04) trapsize 127
+\i (00:13:04) generaledit 
+\i (00:13:05) undo 
+\i (00:13:05) trapsize 127
+\i (00:13:05) generaledit 
+\i (00:13:08) prepopup -23.299 -66.525
+\i (00:13:10) pop dyn_option_select @:@Copy 
+\i (00:13:10) copy 
+\i (00:13:16) roam x -96 
+\i (00:13:16) roam x -96
+\i (00:13:17) roam x -96 
+\i (00:13:17) roam x -96
+\i (00:13:17) roam x -96 
+\i (00:13:17) roam x -96
+\i (00:13:17) roam x -96 
+\i (00:13:17) roam x -96
+\i (00:13:17) roam x -96 
+\i (00:13:17) roam x -96
+\i (00:13:17) roam x -96 
+\i (00:13:17) roam x -96
+\i (00:13:17) roam x -96 
+\i (00:13:17) roam x -96
+\i (00:13:17) roam x -96 
+\i (00:13:17) roam x -96
+\i (00:13:17) roam x -96 
+\i (00:13:17) roam x -96
+\i (00:13:17) roam x -96 
+\i (00:13:17) roam x -96
+\i (00:13:18) roam x -96 
+\i (00:13:18) roam x -96
+\i (00:13:21) pick grid -65.108 -66.449
+\t (00:13:21) last pick:  -65.405  -66.675
+\i (00:13:25) prepopup -64.046 -69.132
+\i (00:13:26) done 
+\i (00:13:26) generaledit 
+\i (00:13:27) pick grid -66.905 -66.753
+\t (00:13:27) last pick:  -66.675  -66.675
+\i (00:13:27) pick grid -67.057 -67.993
+\t (00:13:27) last pick:  -67.310  -67.945
+\i (00:13:30) roam y 96 
+\i (00:13:30) roam y 96
+\i (00:13:30) roam y 96 
+\i (00:13:30) roam y 96
+\i (00:13:35) zoom out 1 
+\i (00:13:35) setwindow pcb
+\i (00:13:35) zoom out -65.260 -75.964
+\i (00:13:35) trapsize 253
+\i (00:13:35) zoom out 1 
+\i (00:13:35) setwindow pcb
+\i (00:13:35) zoom out -65.261 -75.965
+\i (00:13:35) trapsize 506
+\i (00:13:37) zoom out 1 
+\i (00:13:37) setwindow pcb
+\i (00:13:37) zoom out -61.110 -64.121
+\t (00:13:37) Grids are drawn 2.540, 2.540 apart for enhanced viewability.
+\i (00:13:37) trapsize 1012
+\i (00:13:37) zoom out 1 
+\i (00:13:37) setwindow pcb
+\i (00:13:37) zoom out -61.110 -64.121
+\i (00:13:37) trapsize 2025
+\i (00:13:41) move 
+\t (00:13:41) Select element(s) to move.
+\i (00:13:42) zoom in 
+\i (00:13:42) setwindow pcb
+\i (00:13:42) zoom in -68.028 -45.496
+\i (00:13:42) trapsize 1012
+\i (00:13:42) zoom in 
+\i (00:13:42) setwindow pcb
+\i (00:13:42) zoom in -66.206 -44.078
+\i (00:13:42) trapsize 506
+\i (00:13:43) zoom in 
+\i (00:13:43) setwindow pcb
+\i (00:13:43) zoom in -71.166 -49.848
+\i (00:13:43) trapsize 253
+\i (00:13:44) zoom in 
+\i (00:13:44) setwindow pcb
+\i (00:13:44) zoom in -69.749 -60.274
+\i (00:13:44) trapsize 127
+\i (00:13:44) roam y 96 
+\i (00:13:44) roam y 96
+\i (00:13:45) roam y 96 
+\i (00:13:45) roam y 96
+\i (00:13:45) roam y 96 
+\i (00:13:45) roam y 96
+\i (00:13:45) roam y 96 
+\i (00:13:45) roam y 96
+\i (00:13:49) ipick 0 0 
+\t (00:13:49) last pick:  -67.310  -67.945
+\t (00:13:49) last pick:  -57.000  -64.000
+\t (00:13:49) Moving J3 / 031_6576_0316576_031_6576 / 0316576.
+\t (00:13:49) Pick new location for the element(s).
+\i (00:13:53) cancel 
+\i (00:13:54) generaledit 
+\i (00:13:55) pick grid -72.481 -60.350
+\t (00:13:55) last pick:  -72.390  -60.325
+\i (00:13:55) drag_start grid -75.392 -60.122
+\i (00:13:56) roam y 16
+\i (00:13:56) roam y 16
+\i (00:13:56) roam y 32
+\i (00:13:56) roam y 32
+\i (00:13:56) roam y 32
+\i (00:13:56) roam y 32
+\i (00:13:56) roam y 32
+\i (00:13:57) drag_stop -56.311 -79.102
+\i (00:13:58) roam y -96 
+\i (00:13:58) roam y -96
+\i (00:13:58) roam y -96 
+\i (00:13:58) roam y -96
+\i (00:14:04) move 
+\i (00:14:06) ipick 0 0 
+\t (00:14:06) last pick:  -56.311  -79.102
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Element has no origin, using pick.
+\t (00:14:06) Pick new location for the element(s).
+\i (00:14:23) ipick 0.3125 0 
+\t (00:14:23) last pick:  -55.999  -79.102
+\i (00:14:23) generaledit 
+\i (00:14:26) move 
+\i (00:14:30) ipick 0 0 
+\t (00:14:30) last pick:  -55.999  -79.102
+\t (00:14:30) Element has no origin, using pick.
+\t (00:14:30) Element has no origin, using pick.
+\t (00:14:30) Element has no origin, using pick.
+\t (00:14:30) Element has no origin, using pick.
+\t (00:14:30) Element has no origin, using pick.
+\t (00:14:30) Element has no origin, using pick.
+\t (00:14:30) Element has no origin, using pick.
+\t (00:14:30) Element has no origin, using pick.
+\t (00:14:30) Pick new location for the element(s).
+\i (00:14:34) ipick 0 0.01 
+\t (00:14:34) last pick:  -55.999  -79.092
+\i (00:14:35) generaledit 
+\i (00:14:36) move 
+\i (00:14:40) undo 
+\i (00:14:40) trapsize 127
+\i (00:14:41) generaledit 
+\i (00:14:41) undo 
+\i (00:14:41) trapsize 127
+\i (00:14:41) generaledit 
+\i (00:14:41) undo 
+\i (00:14:41) trapsize 127
+\i (00:14:42) generaledit 
+\i (00:14:42) undo 
+\i (00:14:42) trapsize 2025
+\i (00:14:43) generaledit 
+\i (00:14:45) zoom out 
+\i (00:14:45) setwindow pcb
+\i (00:14:45) zoom out -78.960 -68.980
+\t (00:14:45) Grids are drawn 10.160, 10.160 apart for enhanced viewability.
+\i (00:14:45) trapsize 3479
+\i (00:14:46) zoom in 
+\i (00:14:46) setwindow pcb
+\i (00:14:46) zoom in -62.285 -71.332
+\t (00:14:46) Grids are drawn 2.540, 2.540 apart for enhanced viewability.
+\i (00:14:46) trapsize 1740
+\i (00:14:46) zoom in 
+\i (00:14:46) setwindow pcb
+\i (00:14:46) zoom in -65.068 -70.636
+\i (00:14:46) trapsize 870
+\i (00:14:46) zoom in 
+\i (00:14:46) setwindow pcb
+\i (00:14:46) zoom in -66.982 -71.854
+\i (00:14:46) trapsize 435
+\i (00:14:46) zoom in 
+\i (00:14:46) setwindow pcb
+\i (00:14:46) zoom in -68.199 -72.810
+\i (00:14:46) trapsize 217
+\i (00:14:46) zoom in 
+\i (00:14:46) setwindow pcb
+\i (00:14:46) zoom in -68.765 -73.115
+\i (00:14:46) trapsize 109
+\i (00:14:47) roam y -96 
+\i (00:14:47) roam y -96
+\i (00:14:47) roam y -96 
+\i (00:14:47) roam y -96
+\i (00:14:48) roam y -96 
+\i (00:14:48) roam y -96
+\i (00:14:49) roam y -96 
+\i (00:14:49) roam y -96
+\i (00:14:50) drag_start grid -75.332 -61.003
+\i (00:14:50) roam y 16
+\i (00:14:51) roam y 32
+\i (00:14:51) roam y 48
+\i (00:14:51) roam y 48
+\i (00:14:51) roam y 48
+\i (00:14:51) drag_stop -55.499 -76.074
+\i (00:14:55) move 
+\i (00:15:00) ipick 0 0 
+\t (00:15:00) last pick:  -55.499  -76.074
+\t (00:15:00) Element has no origin, using pick.
+\t (00:15:00) Element has no origin, using pick.
+\t (00:15:00) Element has no origin, using pick.
+\t (00:15:00) Element has no origin, using pick.
+\t (00:15:00) Element has no origin, using pick.
+\t (00:15:00) Element has no origin, using pick.
+\t (00:15:00) Element has no origin, using pick.
+\t (00:15:00) Element has no origin, using pick.
+\t (00:15:00) Element has no origin, using pick.
+\t (00:15:00) Pick new location for the element(s).
+\i (00:15:13) ipick 0.01 0.01 
+\t (00:15:13) last pick:  -55.489  -76.064
+\i (00:15:13) generaledit 
+\i (00:15:19) move 
+\i (00:15:23) ipick 0 0 
+\t (00:15:23) last pick:  -55.489  -76.064
+\t (00:15:23) Element has no origin, using pick.
+\t (00:15:23) Element has no origin, using pick.
+\t (00:15:23) Element has no origin, using pick.
+\t (00:15:23) Element has no origin, using pick.
+\t (00:15:23) Element has no origin, using pick.
+\t (00:15:23) Element has no origin, using pick.
+\t (00:15:23) Element has no origin, using pick.
+\t (00:15:23) Element has no origin, using pick.
+\t (00:15:23) Pick new location for the element(s).
+\i (00:15:27) prepopup -61.741 -75.726
+\i (00:15:28) cancel 
+\i (00:15:28) generaledit 
+\i (00:15:29) undo 
+\i (00:15:29) trapsize 109
+\i (00:15:29) generaledit 
+\i (00:15:30) undo 
+\i (00:15:30) trapsize 109
+\i (00:15:30) generaledit 
+\i (00:15:32) roam y -96 
+\i (00:15:32) roam y -96
+\i (00:15:33) roam y -96 
+\i (00:15:33) roam y -96
+\i (00:15:34) undo 
+\i (00:15:34) trapsize 127
+\i (00:15:34) generaledit 
+\i (00:15:35) prepopup -24.564 -69.562
+\i (00:15:37) pop dyn_option_select @:@Copy 
+\i (00:15:37) copy 
+\i (00:15:37) roam x -96 
+\i (00:15:37) roam x -96
+\i (00:15:37) roam x -96 
+\i (00:15:37) roam x -96
+\i (00:15:37) roam x -96 
+\i (00:15:37) roam x -96
+\i (00:15:37) roam x -96 
+\i (00:15:37) roam x -96
+\i (00:15:38) roam x -96 
+\i (00:15:38) roam x -96
+\i (00:15:38) roam x -96 
+\i (00:15:38) roam x -96
+\i (00:15:38) roam x -96 
+\i (00:15:38) roam x -96
+\i (00:15:38) roam x -96 
+\i (00:15:38) roam x -96
+\i (00:15:38) roam x -96 
+\i (00:15:38) roam x -96
+\i (00:15:38) roam x -96 
+\i (00:15:38) roam x -96
+\i (00:15:38) roam x -96 
+\i (00:15:38) roam x -96
+\i (00:15:38) roam x -96 
+\i (00:15:38) roam x -96
+\i (00:15:38) roam x -96 
+\i (00:15:38) roam x -96
+\i (00:15:38) roam x -96 
+\i (00:15:38) roam x -96
+\i (00:15:38) roam x -96 
+\i (00:15:38) roam x -96
+\i (00:15:39) roam x -96 
+\i (00:15:39) roam x -96
+\i (00:15:39) roam x -96 
+\i (00:15:39) roam x -96
+\i (00:15:39) roam x 96 
+\i (00:15:39) roam x 96
+\i (00:15:44) pick grid -66.374 -69.714
+\t (00:15:44) last pick:  -66.675  -69.850
+\i (00:15:44) prepopup -66.601 -69.689
+\i (00:15:45) done 
+\i (00:15:46) generaledit 
+\i (00:15:47) drag_start grid -74.016 -62.476
+\i (00:15:48) drag_stop -56.960 -77.027
+\i (00:16:02) move 
+\i (00:16:12) ipick 0 0 
+\t (00:16:12) last pick:  -56.960  -77.027
+\t (00:16:12) Element has no origin, using pick.
+\t (00:16:12) Element has no origin, using pick.
+\t (00:16:12) Element has no origin, using pick.
+\t (00:16:12) Element has no origin, using pick.
+\t (00:16:12) Element has no origin, using pick.
+\t (00:16:12) Element has no origin, using pick.
+\t (00:16:12) Element has no origin, using pick.
+\t (00:16:12) Element has no origin, using pick.
+\t (00:16:12) Element has no origin, using pick.
+\t (00:16:12) Pick new location for the element(s).
+\i (00:16:16) ipick 0.2 0.2 
+\t (00:16:16) last pick:  -56.760  -76.827
+\i (00:16:16) generaledit 
+\i (00:16:28) zoom in 
+\i (00:16:28) setwindow pcb
+\i (00:16:28) zoom in -66.601 -78.445
+\i (00:16:28) trapsize 63
+\i (00:16:28) zoom in 
+\i (00:16:28) setwindow pcb
+\i (00:16:28) zoom in -66.602 -78.445
+\i (00:16:28) trapsize 32
+\i (00:16:30) grid toggle 
+\i (00:16:30) generaledit 
+\i (00:16:32) grid toggle 
+\i (00:16:32) generaledit 
+\i (00:16:33) zoom out 
+\i (00:16:33) setwindow pcb
+\i (00:16:33) zoom out -66.601 -78.444
+\i (00:16:33) trapsize 63
+\i (00:16:33) zoom in 
+\i (00:16:33) setwindow pcb
+\i (00:16:33) zoom in -66.602 -78.445
+\i (00:16:33) trapsize 32
+\i (00:16:45) move 
+\i (00:16:47) ipick 0 0 
+\t (00:16:47) last pick:  -56.760  -76.827
+\t (00:16:47) Element has no origin, using pick.
+\t (00:16:47) Element has no origin, using pick.
+\t (00:16:47) Element has no origin, using pick.
+\t (00:16:47) Element has no origin, using pick.
+\t (00:16:47) Element has no origin, using pick.
+\t (00:16:47) Element has no origin, using pick.
+\t (00:16:47) Element has no origin, using pick.
+\t (00:16:47) Element has no origin, using pick.
+\t (00:16:47) Pick new location for the element(s).
+\i (00:16:57) move -0.05 -0.05 
+\i (00:17:12) exit 
+\e (00:17:12) Do you want to save the changes you made to PMOD2BNC_V1_0_2.brd?
+\i (00:17:13) fillin no 
+\t (00:17:14)     Journal end - Thu Jun 29 17:52:28 2023
