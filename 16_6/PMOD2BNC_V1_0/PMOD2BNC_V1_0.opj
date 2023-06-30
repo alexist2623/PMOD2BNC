@@ -341,7 +341,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 1396 0 376")
-        (Scroll "162 70")
+        (Scroll "162 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
@@ -350,62 +350,22 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 856 130 497")
-        (Scroll "0 0")
+        (Placement "44 2 3 -1 -1 -8 -31 26 752 26 393")
+        (Scroll "456 162")
         (Zoom "100")
-        (Occurrence "/TR1"))
+        (Occurrence "/SWITCH1"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
-      (Schematic "TR_MODULE1")
-      (Page "PAGE1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 882 156 523")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/TR2"))
-      (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
-      (Schematic "TR_MODULE2")
-      (Page "PAGE1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 726 0 367")
-        (Scroll "0 60")
-        (Zoom "100")
-        (Occurrence "/TRCV1"))
-      (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
-      (Schematic "TRCV_MODULE1")
-      (Page "PAGE1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 752 26 393")
-        (Scroll "10 0")
-        (Zoom "100")
-        (Occurrence "/TR3"))
-      (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
-      (Schematic "TR_MODULE3")
+      (Schematic "SW_MODULE")
       (Page "PAGE1"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 778 52 419")
         (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/TR4"))
+        (Zoom "200")
+        (Occurrence "/PWR1"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
-      (Schematic "TR_MODULE4")
-      (Page "PAGE1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 804 78 445")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/TRCV2"))
-      (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
-      (Schematic "TRCV_MODULE2")
+      (Schematic "POWER")
       (Page "PAGE1")))
   (MPSSessionName "ece")
   (LastUsedLibraryBrowseDirectory
