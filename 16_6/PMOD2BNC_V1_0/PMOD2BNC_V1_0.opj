@@ -327,9 +327,11 @@
          "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn")
       (Path "Design Resources"
          "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn" "SW_MODULE")
       (Path "Outputs")
       (Select "Design Resources"
-         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn" "SCHEMATIC1"
+         "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\pmod2bnc_v1_0.dsn" "SW_MODULE"
          "PAGE1"))
     (HierarchyView)
     (Doc
@@ -341,7 +343,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 1396 0 376")
-        (Scroll "162 0")
+        (Scroll "0 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
@@ -350,9 +352,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 26 752 26 393")
-        (Scroll "456 162")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -8 -31 26 752 26 393")
+        (Scroll "0 0")
+        (Zoom "196")
         (Occurrence "/SWITCH1"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "SW_MODULE")
@@ -360,9 +362,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 778 52 419")
-        (Scroll "0 0")
-        (Zoom "200")
+        (Placement "44 2 3 -1 -1 -8 -31 52 778 52 419")
+        (Scroll "16 0")
+        (Zoom "204")
         (Occurrence "/PWR1"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "POWER")
