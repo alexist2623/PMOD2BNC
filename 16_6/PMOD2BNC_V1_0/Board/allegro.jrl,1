@@ -1,3482 +1,3316 @@
 \t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:02)     Journal start - Mon Jul 03 16:21:43 2023
-\t (00:00:02)         Host=DESKTOP-KCLED0O User=ece Pid=15536 CPUs=6
+\t (00:00:02)     Journal start - Tue Jul 04 09:43:18 2023
+\t (00:00:02)         Host=DESKTOP-KCLED0O User=ece Pid=6888 CPUs=6
 \t (00:00:02) 
-\t (00:00:05) Opening existing design...
-\d (00:00:05) Database opened: C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0_2.brd
-\i (00:00:05) trapsize 36
-\i (00:00:05) trapsize 35
-\i (00:00:05) trapsize 36
-\i (00:00:06) trapsize 31
-\i (00:00:06) trapsize 31
-\i (00:00:06) generaledit 
-\i (00:00:39) zoom out 
-\i (00:00:39) setwindow pcb
-\i (00:00:39) zoom out -88.561 -0.446
-\i (00:00:39) trapsize 63
-\i (00:00:39) zoom out 
-\i (00:00:39) setwindow pcb
-\i (00:00:39) zoom out -88.561 -0.446
-\i (00:00:39) trapsize 126
-\i (00:00:40) zoom out 
-\i (00:00:40) setwindow pcb
-\i (00:00:40) zoom out -88.560 -0.446
-\i (00:00:40) trapsize 252
-\i (00:00:41) zoom in 
-\i (00:00:41) setwindow pcb
-\i (00:00:41) zoom in -88.560 -0.446
-\i (00:00:41) trapsize 126
-\i (00:00:41) zoom in 
-\i (00:00:41) setwindow pcb
-\i (00:00:41) zoom in -88.560 -0.446
-\i (00:00:41) trapsize 63
-\i (00:00:42) zoom in 
-\i (00:00:42) setwindow pcb
-\i (00:00:42) zoom in -88.560 -0.446
-\i (00:00:42) trapsize 31
-\i (00:00:43) shape edit boundary 
-\i (00:00:44) pick grid -87.824 -1.245
-\t (00:00:44) last pick:  -87.630  -1.270
-\t (00:00:44) Pick the edit starting point on the shape boundary.
-\i (00:00:45) pick grid -88.968 -1.968
-\t (00:00:45) last pick:  -88.900  -1.905
-\w (00:00:45) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:00:47) pick grid -87.956 -0.981
-\t (00:00:47) last pick:  -88.265  -1.270
-\w (00:00:47) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:00:48) pick grid -87.598 -0.641
-\t (00:00:48) last pick:  -87.630  -0.635
-\w (00:00:48) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:00:50) pick grid -88.893 -2.508
-\t (00:00:50) last pick:  -88.900  -2.540
-\w (00:00:50) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:00:53) pick grid -89.534 -2.546
-\t (00:00:53) last pick:  -89.535  -2.540
-\w (00:00:53) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:00:56) roam y 96 
-\i (00:00:56) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:57) roam y 96 
-\i (00:00:57) roam y 96
-\i (00:00:58) roam y 96 
-\i (00:00:58) roam y 96
-\i (00:00:58) roam y 96 
-\i (00:00:58) roam y 96
-\i (00:00:58) roam y 96 
-\i (00:00:58) roam y 96
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Database opened: C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0_2.brd
+\i (00:00:04) trapsize 145
+\i (00:00:04) trapsize 142
+\i (00:00:04) trapsize 145
+\i (00:00:04) trapsize 126
+\i (00:00:04) trapsize 126
+\i (00:00:05) generaledit 
+\i (00:00:43) zoom fit 
+\i (00:00:43) trapsize 503
+\i (00:00:44) zoom fit 
+\i (00:00:44) trapsize 503
+\i (00:00:46) pick grid 12.535 -16.606
+\t (00:00:46) last pick:  12.700  -16.510
+\i (00:00:51) zoom in 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom in 10.825 -24.152
+\i (00:00:51) trapsize 252
+\i (00:00:52) zoom in 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom in 10.825 -24.152
+\i (00:00:52) trapsize 126
+\i (00:00:53) roam x 96 
+\i (00:00:53) roam x 96
+\i (00:00:53) roam y 96 
+\i (00:00:53) roam y 96
+\i (00:00:53) roam y 96 
+\i (00:00:53) roam y 96
+\i (00:00:53) roam y 96 
+\i (00:00:53) roam y 96
+\i (00:00:54) roam y 96 
+\i (00:00:54) roam y 96
+\i (00:00:54) roam x -96 
+\i (00:00:54) roam x -96
+\i (00:00:55) roam x -96 
+\i (00:00:55) roam x -96
+\i (00:00:55) roam x -96 
+\i (00:00:55) roam x -96
+\i (00:00:55) roam x -96 
+\i (00:00:55) roam x -96
+\i (00:00:55) roam x -96 
+\i (00:00:55) roam x -96
+\i (00:00:55) roam x -96 
+\i (00:00:55) roam x -96
+\i (00:00:55) roam x -96 
+\i (00:00:55) roam x -96
+\i (00:00:55) roam x -96 
+\i (00:00:55) roam x -96
+\i (00:00:55) roam x -96 
+\i (00:00:55) roam x -96
+\i (00:00:55) roam x -96 
+\i (00:00:55) roam x -96
+\i (00:00:55) roam x -96 
+\i (00:00:55) roam x -96
+\i (00:00:55) roam x -96 
+\i (00:00:55) roam x -96
+\i (00:00:57) roam y -96 
+\i (00:00:57) roam y -96
+\i (00:00:57) roam y -96 
+\i (00:00:57) roam y -96
 \i (00:00:58) roam y -96 
 \i (00:00:58) roam y -96
 \i (00:00:58) roam y -96 
 \i (00:00:58) roam y -96
-\i (00:00:58) roam y -96 
-\i (00:00:58) roam y -96
-\i (00:00:58) roam y -96 
-\i (00:00:58) roam y -96
-\i (00:00:58) roam y -96 
-\i (00:00:58) roam y -96
-\i (00:00:58) roam y -96 
-\i (00:00:58) roam y -96
-\i (00:00:58) roam y -96 
-\i (00:00:59) roam y -96
-\i (00:00:59) roam y -96 
-\i (00:00:59) roam y -96
-\i (00:00:59) roam y -96 
-\i (00:00:59) roam y -96
-\i (00:00:59) roam y -96 
-\i (00:00:59) roam y -96
-\i (00:00:59) roam y -96 
-\i (00:00:59) roam y -96
-\i (00:00:59) roam y -96 
-\i (00:00:59) roam y -96
-\i (00:01:02) pick grid -88.893 -13.342
-\t (00:01:02) last pick:  -88.900  -13.335
-\t (00:01:02) Pick the next vertex or the closing point on the shape.
-\i (00:01:03) roam y -96 
-\i (00:01:03) roam y -96
-\i (00:01:04) roam y -96 
-\i (00:01:04) roam y -96
-\i (00:01:04) roam y -96 
-\i (00:01:04) roam y -96
-\i (00:07:14) roam y -96 
-\i (00:07:14) roam y -96
-\i (00:07:14) roam y -96 
-\i (00:07:14) roam y -96
-\i (00:07:15) roam y -96 
-\i (00:07:15) roam y -96
-\i (00:07:15) roam y -96 
-\i (00:07:15) roam y -96
-\i (00:07:15) roam y -96 
-\i (00:07:15) roam y -96
-\i (00:07:15) roam y -96 
-\i (00:07:15) roam y -96
-\i (00:07:15) roam y -96 
-\i (00:07:15) roam y -96
-\i (00:07:16) roam y -96 
-\i (00:07:16) roam y -96
-\i (00:07:16) roam y -96 
-\i (00:07:16) roam y -96
-\i (00:07:16) roam y -96 
-\i (00:07:16) roam y -96
-\i (00:07:16) roam y -96 
-\i (00:07:16) roam y -96
-\i (00:07:16) roam y -96 
-\i (00:07:16) roam y -96
-\i (00:07:17) roam y -96 
-\i (00:07:17) roam y -96
-\i (00:07:17) roam y -96 
-\i (00:07:17) roam y -96
-\i (00:07:17) roam y -96 
-\i (00:07:17) roam y -96
-\i (00:07:19) pick grid -88.836 -1.597
-\t (00:07:19) last pick:  -88.900  -1.905
-\t (00:07:19) Pick the next vertex or the closing point on the shape.
-\i (00:07:21) pick grid -87.786 -0.943
-\t (00:07:21) last pick:  -87.630  -0.635
-\t (00:07:21) Pick DONE or a start point on another shape or void boundary.
-\i (00:07:22) prepopup -87.598 -0.760
-\i (00:07:22) done 
-\i (00:07:22) generaledit 
-\i (00:07:24) save 
-\i (00:07:24) fillin yes 
-\i (00:07:24) generaledit 
-\i (00:07:25) zoom in 
-\i (00:07:25) setwindow pcb
-\i (00:07:25) zoom in -86.152 -1.427
-\i (00:07:25) trapsize 16
-\i (00:07:25) zoom out 
-\i (00:07:25) setwindow pcb
-\i (00:07:25) zoom out -86.151 -1.426
-\i (00:07:25) trapsize 31
-\i (00:07:25) zoom out 
-\i (00:07:25) setwindow pcb
-\i (00:07:25) zoom out -86.152 -1.427
-\i (00:07:25) trapsize 63
-\i (00:07:25) zoom out 
-\i (00:07:25) setwindow pcb
-\i (00:07:25) zoom out -86.151 -1.427
-\i (00:07:25) trapsize 126
-\i (00:07:27) zoom fit 
-\i (00:07:27) trapsize 503
-\i (00:07:29) zoom in 
-\i (00:07:29) setwindow pcb
-\i (00:07:29) zoom in -82.752 -43.773
-\i (00:07:29) trapsize 252
-\i (00:07:29) zoom in 
-\i (00:07:29) setwindow pcb
-\i (00:07:29) zoom in -82.852 -43.522
-\i (00:07:30) trapsize 126
-\i (00:07:31) roam x -96 
-\i (00:07:31) roam x -96
-\i (00:07:31) roam x -96 
-\i (00:07:31) roam x -96
-\i (00:07:31) roam x -96 
-\i (00:07:31) roam x -96
-\i (00:07:31) roam x -96 
-\i (00:07:31) roam x -96
-\i (00:07:32) roam x -96 
-\i (00:07:32) roam x -96
-\i (00:07:32) roam x -96 
-\i (00:07:32) roam x -96
-\i (00:07:32) roam x -96 
-\i (00:07:32) roam x -96
-\i (00:07:32) roam x -96 
-\i (00:07:32) roam x -96
-\i (00:07:32) roam x -96 
-\i (00:07:32) roam x -96
-\i (00:07:34) shape edit boundary 
-\i (00:07:34) pick grid -88.454 -42.364
-\t (00:07:34) last pick:  -88.265  -42.545
-\t (00:07:35) Pick the edit starting point on the shape boundary.
-\i (00:07:36) pick grid -88.906 -41.962
-\t (00:07:36) last pick:  -88.900  -41.910
-\t (00:07:36) Pick the next vertex or the closing point on the shape.
-\i (00:07:36) pick grid -88.554 -41.383
-\t (00:07:36) last pick:  -88.265  -41.275
-\t (00:07:37) Pick DONE or a start point on another shape or void boundary.
-\i (00:07:37) prepopup -90.164 -41.232
-\i (00:07:37) done 
-\i (00:07:38) generaledit 
-\i (00:07:38) roam y 96 
-\i (00:07:38) roam y 96
-\i (00:07:38) roam y 96 
-\i (00:07:38) roam y 96
-\i (00:07:38) roam y 96 
-\i (00:07:38) roam y 96
-\i (00:07:38) roam y 96 
-\i (00:07:38) roam y 96
-\i (00:07:38) roam y 96 
-\i (00:07:38) roam y 96
-\i (00:07:38) roam y 96 
-\i (00:07:38) roam y 96
-\i (00:07:39) roam y -96 
-\i (00:07:39) roam y -96
-\i (00:07:39) roam y -96 
-\i (00:07:39) roam y -96
-\i (00:07:39) roam y -96 
-\i (00:07:39) roam y -96
-\i (00:07:39) roam y -96 
-\i (00:07:39) roam y -96
-\i (00:07:39) roam y -96 
-\i (00:07:39) roam y -96
-\i (00:07:39) roam y -96 
-\i (00:07:39) roam y -96
-\i (00:07:40) zoom in 
-\i (00:07:40) setwindow pcb
-\i (00:07:40) zoom in -87.120 -43.953
-\i (00:07:40) trapsize 63
-\i (00:07:41) zoom in 
-\i (00:07:41) setwindow pcb
-\i (00:07:41) zoom in -87.824 -43.236
-\i (00:07:41) trapsize 31
-\i (00:07:43) shape edit boundary 
-\i (00:07:44) pick grid -88.862 -41.903
-\t (00:07:44) last pick:  -88.900  -41.910
-\t (00:07:44) Pick the edit starting point on the shape boundary.
-\i (00:07:44) pick grid -88.874 -41.915
-\t (00:07:44) last pick:  -88.900  -41.910
-\t (00:07:45) Pick the next vertex or the closing point on the shape.
-\i (00:07:46) pick grid -89.220 -42.525
-\t (00:07:46) last pick:  -89.535  -42.545
-\t (00:07:46) Pick DONE or a start point on another shape or void boundary.
-\i (00:07:46) prepopup -89.352 -42.626
-\i (00:07:47) done 
-\i (00:07:47) generaledit 
-\i (00:07:48) zoom out 
-\i (00:07:48) setwindow pcb
-\i (00:07:48) zoom out -88.120 -42.639
-\i (00:07:48) trapsize 63
-\i (00:07:48) zoom out 
-\i (00:07:48) setwindow pcb
-\i (00:07:48) zoom out -88.119 -42.638
-\i (00:07:48) trapsize 126
-\i (00:07:49) save 
-\i (00:07:49) fillin yes 
+\i (00:00:59) roam x -96 
+\i (00:00:59) roam x -96
+\i (00:00:59) roam x -96 
+\i (00:00:59) roam x -96
+\i (00:00:59) roam x -96 
+\i (00:00:59) roam x -96
+\i (00:01:02) zoom in 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom in -23.426 -23.979
+\i (00:01:02) trapsize 63
+\i (00:01:02) zoom out 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom out -23.426 -23.979
+\i (00:01:03) trapsize 126
+\i (00:01:04) roam x -96 
+\i (00:01:04) roam x -96
+\i (00:01:04) roam x -96 
+\i (00:01:04) roam x -96
+\i (00:01:04) roam x -96 
+\i (00:01:04) roam x -96
+\i (00:01:04) roam x -96 
+\i (00:01:04) roam x -96
+\i (00:01:04) roam x -96 
+\i (00:01:04) roam x -96
+\i (00:01:04) roam x -96 
+\i (00:01:04) roam x -96
+\i (00:01:05) roam x -96 
+\i (00:01:05) roam x -96
+\i (00:01:05) roam x -96 
+\i (00:01:05) roam x -96
+\i (00:01:05) roam x -96 
+\i (00:01:05) roam x -96
+\i (00:01:05) roam x -96 
+\i (00:01:05) roam x -96
+\i (00:01:06) roam x -96 
+\i (00:01:06) roam x -96
+\i (00:01:06) roam y -96 
+\i (00:01:06) roam y -96
+\i (00:01:07) roam y -96 
+\i (00:01:07) roam y -96
+\i (00:01:07) roam y -96 
+\i (00:01:07) roam y -96
+\i (00:01:08) roam y -96 
+\i (00:01:08) roam y -96
+\i (00:01:08) roam y -96 
+\i (00:01:08) roam y -96
+\i (00:01:08) roam y -96 
+\i (00:01:08) roam y -96
+\i (00:01:08) roam y -96 
+\i (00:01:08) roam y -96
+\i (00:01:09) roam y 96 
+\i (00:01:09) roam y 96
+\i (00:01:09) roam y 96 
+\i (00:01:09) roam y 96
+\i (00:01:09) roam y 96 
+\i (00:01:09) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:11) roam y 96 
+\i (00:01:11) roam y 96
+\i (00:01:12) roam y -96 
+\i (00:01:12) roam y -96
+\i (00:01:12) roam y -96 
+\i (00:01:12) roam y -96
+\i (00:01:12) roam y -96 
+\i (00:01:12) roam y -96
+\i (00:01:13) roam y -96 
+\i (00:01:13) roam y -96
+\i (00:01:25) shape add rect 
+\i (00:01:27) pick grid -65.486 -25.438
+\t (00:01:27) last pick:  -65.405  -25.400
+\i (00:01:28) pick grid -65.083 -25.765
+\t (00:01:28) last pick:  -64.770  -26.035
+\i (00:01:29) undo 
+\i (00:01:29) trapsize 126
+\i (00:01:29) generaledit 
+\i (00:01:34) setwindow form.mini
+\i (00:01:34) FORM mini subclass GND 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) shape add rect 
+\i (00:01:37) pick grid -65.436 -25.387
+\t (00:01:37) last pick:  -65.405  -25.400
+\i (00:01:38) pick grid -65.033 -25.740
+\t (00:01:38) last pick:  -64.770  -26.035
+\i (00:01:38) prepopup -64.178 -23.274
+\i (00:01:39) done 
+\i (00:01:39) generaledit 
+\i (00:01:44) shape merge shapes 
+\t (00:01:44) Pick primary shape to merge to
+\i (00:01:45) pick grid -69.259 -23.048
+\t (00:01:45) last pick:  -69.215  -22.860
+\t (00:01:45) Pick shapes to be merged
+\i (00:01:46) pick grid -65.184 -25.740
+\t (00:01:46) last pick:  -65.405  -26.035
+\i (00:01:47) pick grid -65.360 -25.664
+\t (00:01:47) last pick:  -65.405  -25.400
+\i (00:01:47) pick grid -65.285 -25.664
+\t (00:01:47) last pick:  -65.405  -25.400
+\i (00:01:47) prepopup -64.052 -22.872
+\i (00:01:48) cancel 
+\i (00:01:48) generaledit 
+\i (00:01:49) undo 
+\i (00:01:49) trapsize 126
+\i (00:01:49) generaledit 
+\i (00:01:50) undo 
+\i (00:01:50) trapsize 126
+\i (00:01:50) generaledit 
+\i (00:01:51) undo 
+\i (00:01:51) generaledit 
+\i (00:01:52) save 
+\i (00:01:52) fillin yes 
+\i (00:01:52) generaledit 
+\i (00:01:55) shape add rect 
+\i (00:01:57) pick grid -70.618 -20.985
+\t (00:01:57) last pick:  -70.485  -20.955
+\i (00:01:57) pick grid -69.687 -21.891
+\t (00:01:57) last pick:  -69.850  -21.590
+\i (00:01:58) prepopup -70.115 -19.702
+\i (00:01:58) done 
+\i (00:01:59) generaledit 
+\i (00:01:59) prepopup -70.190 -21.413
+\i (00:02:00) pick grid -70.316 -19.702
+\t (00:02:00) last pick:  -70.485  -19.685
+\i (00:02:00) pick grid -70.190 -21.488
+\t (00:02:00) last pick:  -70.485  -21.590
+\i (00:02:01) prepopup -70.039 -21.262
+\i (00:02:02) pop dyn_option_select @:@Move 
+\i (00:02:02) move 
+\t (00:02:02) last pick:  -69.850  -20.955
+\t (00:02:02) last pick:  -69.850  -20.955
+\t (00:02:02) Element has no origin, using pick.
+\t (00:02:02) Pick new location for the element(s).
+\i (00:02:03) pick grid -64.933 -25.086
+\t (00:02:03) last pick:  -64.770  -25.400
+\i (00:02:03) generaledit 
+\i (00:02:03) prepopup -64.178 -23.702
+\i (00:02:09) shape merge shapes 
+\t (00:02:09) Pick primary shape to merge to
+\i (00:02:10) pick grid -70.593 -19.501
+\t (00:02:10) last pick:  -70.485  -19.685
+\t (00:02:10) Pick shapes to be merged
+\i (00:02:11) pick grid -65.109 -25.614
+\t (00:02:11) last pick:  -65.405  -25.400
+\i (00:02:12) prepopup -63.700 -22.092
+\i (00:02:14) cancel 
+\i (00:02:14) generaledit 
+\i (00:02:25) pick grid -64.907 -25.790
+\t (00:02:25) last pick:  -64.770  -26.035
+\i (00:02:27) shape select 
+\i (00:02:28) pick grid -64.958 -25.765
+\t (00:02:28) last pick:  -64.770  -26.035
+\i (00:02:29) pick grid -65.410 -25.262
+\t (00:02:29) last pick:  -65.405  -25.400
+\w (00:02:29) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:02:30) drag_start grid -65.461 -25.337
+\i (00:02:30) drag_stop grid -65.788 -25.312
+\t (00:02:30) No DRC errors detected.
+\i (00:02:31) drag_start grid -65.436 -25.891
+\t (00:02:31) last pick:  -65.493  -25.947
+\i (00:02:32) drag_stop grid -66.039 -25.891
+\t (00:02:32) No DRC errors detected.
+\i (00:02:32) pick grid -66.014 -25.865
+\t (00:02:32) last pick:  -66.040  -26.035
+\t (00:02:32) last pick:  -66.112  -25.963
+\i (00:02:33) prepopup -66.341 -21.312
+\i (00:02:34) done 
+\i (00:02:34) generaledit 
+\i (00:02:38) shape merge shapes 
+\t (00:02:38) Pick primary shape to merge to
+\i (00:02:39) pick grid -70.316 -20.356
+\t (00:02:39) last pick:  -70.485  -20.320
+\t (00:02:39) Pick shapes to be merged
+\i (00:02:40) pick grid -65.561 -25.941
+\t (00:02:40) last pick:  -65.405  -26.035
+\i (00:02:40) prepopup -63.574 -22.847
+\i (00:02:41) done 
+\i (00:02:41) generaledit 
+\i (00:02:43) shape edit boundary 
+\i (00:02:44) pick grid -69.385 -24.255
+\t (00:02:44) last pick:  -69.215  -24.130
+\t (00:02:44) Pick the edit starting point on the shape boundary.
+\i (00:02:46) pick grid -65.511 -25.413
+\t (00:02:46) last pick:  -65.405  -25.400
+\t (00:02:46) Pick the next vertex or the closing point on the shape.
+\i (00:02:47) pick grid -65.083 -25.840
+\t (00:02:47) last pick:  -64.770  -26.035
+\t (00:02:47) Pick DONE or a start point on another shape or void boundary.
+\i (00:02:47) prepopup -63.926 -23.979
+\i (00:02:50) done 
+\i (00:02:50) generaledit 
+\i (00:02:51) save 
+\i (00:02:51) fillin yes 
+\i (00:02:51) generaledit 
+\i (00:02:58) add line 
+\i (00:03:02) setwindow form.mini
+\i (00:03:02) FORM mini class ANTI ETCH 
+\i (00:03:05) FORM mini line_width 0.200 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) roam x -96 
+\i (00:03:06) roam x -96
+\i (00:03:07) roam y -96 
+\i (00:03:07) roam y -96
+\i (00:03:07) roam y -96 
+\i (00:03:07) roam y -96
+\i (00:03:07) roam y -96 
+\i (00:03:07) roam y -96
+\i (00:03:07) roam y -96 
+\i (00:03:07) roam y -96
+\i (00:03:07) roam y -96 
+\i (00:03:07) roam y -96
+\i (00:03:07) roam y -96 
+\i (00:03:07) roam y -96
+\i (00:03:08) roam y -96 
+\i (00:03:08) roam y -96
+\i (00:03:09) pick grid -55.298 -1.842
+\t (00:03:09) last pick:  -55.245  -1.905
+\i (00:03:10) roam y 96 
+\i (00:03:10) roam y 96
+\i (00:03:10) roam y 96 
+\i (00:03:10) roam y 96
+\i (00:03:10) roam y 96 
+\i (00:03:10) roam y 96
+\i (00:03:12) pick grid -54.921 -13.062
+\t (00:03:12) last pick:  -54.610  -13.335
+\i (00:03:12) zoom in 
+\i (00:03:12) setwindow pcb
+\i (00:03:12) zoom in -54.417 -13.364
+\i (00:03:12) trapsize 63
+\i (00:03:13) roam x 96 
+\i (00:03:13) roam x 96
+\i (00:03:14) roam x 96 
+\i (00:03:14) roam x 96
+\i (00:03:14) pick grid -44.129 -13.577
+\t (00:03:14) last pick:  -43.815  -13.335
+\i (00:03:15) pick grid -43.450 -13.690
+\t (00:03:15) last pick:  -43.180  -13.970
+\i (00:03:15) roam y 96 
+\i (00:03:15) roam y 96
+\i (00:03:15) roam y 96 
+\i (00:03:15) roam y 96
+\i (00:03:15) roam y 96 
+\i (00:03:15) roam y 96
+\i (00:03:16) roam y 96 
+\i (00:03:16) roam y 96
+\i (00:03:16) roam y 96 
+\i (00:03:16) roam y 96
+\i (00:03:16) roam y 96 
+\i (00:03:16) roam y 96
+\i (00:03:16) roam y 96 
+\i (00:03:16) roam y 96
+\i (00:03:16) roam y 96 
+\i (00:03:16) roam y 96
+\i (00:03:17) pick grid -43.161 -24.181
+\t (00:03:17) last pick:  -43.180  -24.130
+\i (00:03:17) pick grid -43.626 -24.457
+\t (00:03:17) last pick:  -43.815  -24.765
+\i (00:03:19) prepopup -46.280 -24.671
+\i (00:03:20) cancel 
+\i (00:03:20) generaledit 
+\i (00:03:20) roam y -96 
+\i (00:03:20) roam y -96
+\i (00:03:20) roam y -96 
+\i (00:03:20) roam y -96
+\i (00:03:20) roam y -96 
+\i (00:03:20) roam y -96
+\i (00:03:21) roam y -96 
+\i (00:03:21) roam y -96
+\i (00:03:21) roam y -96 
+\i (00:03:21) roam y -96
+\i (00:03:21) roam y -96 
+\i (00:03:21) roam y -96
+\i (00:03:21) roam y -96 
+\i (00:03:21) roam y -96
+\i (00:03:21) roam y -96 
+\i (00:03:21) roam y -96
+\i (00:03:21) roam y -96 
+\i (00:03:21) roam y -96
+\i (00:03:22) roam y -96 
+\i (00:03:22) roam y -96
+\i (00:03:22) roam y -96 
+\i (00:03:22) roam y -96
+\i (00:03:22) roam y -96 
+\i (00:03:22) roam y -96
+\i (00:03:22) roam y -96 
+\i (00:03:22) roam y -96
+\i (00:03:23) roam y -96 
+\i (00:03:23) roam y -96
+\i (00:03:32) setwindow form.vf_vis
+\i (00:03:32) FORM vf_vis 3 all_colorvisible YES 
+\i (00:03:33) FORM vf_vis 2 all_colorvisible NO 
+\i (00:03:36) setwindow pcb
+\i (00:03:36) add line 
+\i (00:03:37) pick grid -56.317 -0.961
+\t (00:03:37) last pick:  -56.515  -1.270
+\i (00:03:38) prepopup -55.562 -1.377
+\i (00:03:39) cancel 
+\i (00:03:39) generaledit 
+\i (00:03:40) roam x -96 
+\i (00:03:40) roam x -96
+\i (00:03:40) roam y -96 
+\i (00:03:40) roam y -96
+\i (00:03:41) add line 
+\i (00:03:42) pick grid -56.593 -0.622
+\t (00:03:42) last pick:  -56.515  -0.635
+\i (00:03:42) pick grid -55.461 -1.603
+\t (00:03:42) last pick:  -55.245  -1.905
+\i (00:03:42) roam y 96 
+\i (00:03:42) roam y 96
+\i (00:03:43) roam y 96 
+\i (00:03:43) roam y 96
+\i (00:03:43) roam y 96 
+\i (00:03:43) roam y 96
+\i (00:03:43) roam y 96 
+\i (00:03:43) roam y 96
+\i (00:03:43) roam y 96 
+\i (00:03:43) roam y 96
+\i (00:03:43) roam y 96 
+\i (00:03:43) roam y 96
+\i (00:03:43) roam y 96 
+\i (00:03:43) roam y 96
+\i (00:03:44) pick grid -55.260 -12.420
+\t (00:03:44) last pick:  -55.245  -12.700
+\i (00:03:45) pick grid -54.883 -13.162
+\t (00:03:45) last pick:  -54.610  -13.335
+\i (00:03:45) roam x 96 
+\i (00:03:45) roam x 96
+\i (00:03:45) roam x 96 
+\i (00:03:45) roam x 96
+\i (00:03:45) roam x 96 
+\i (00:03:45) roam x 96
+\i (00:03:46) roam x 96 
+\i (00:03:46) roam x 96
+\i (00:03:46) roam x 96 
+\i (00:03:46) roam x 96
+\i (00:03:46) roam x 96 
+\i (00:03:46) roam x 96
+\i (00:03:47) pick grid -43.512 -13.477
+\t (00:03:47) last pick:  -43.815  -13.335
+\i (00:03:47) pick grid -43.474 -13.703
+\t (00:03:47) last pick:  -43.180  -13.970
+\i (00:03:47) roam y 96 
+\i (00:03:47) roam y 96
+\i (00:03:48) roam y 96 
+\i (00:03:48) roam y 96
+\i (00:03:48) roam y 96 
+\i (00:03:48) roam y 96
+\i (00:03:48) roam y 96 
+\i (00:03:48) roam y 96
+\i (00:03:48) roam y 96 
+\i (00:03:48) roam y 96
+\i (00:03:48) roam y 96 
+\i (00:03:48) roam y 96
+\i (00:03:48) roam y 96 
+\i (00:03:48) roam y 96
+\i (00:03:49) roam y 96 
+\i (00:03:49) roam y 96
+\i (00:03:49) pick grid -43.059 -23.816
+\t (00:03:49) last pick:  -43.180  -24.130
+\i (00:03:50) pick grid -43.499 -24.608
+\t (00:03:50) last pick:  -43.815  -24.765
+\i (00:03:51) pick grid -46.040 -24.797
+\t (00:03:51) last pick:  -46.355  -24.765
+\i (00:03:51) pick grid -46.682 -24.407
+\t (00:03:51) last pick:  -46.990  -24.130
+\i (00:03:51) roam y -96 
+\i (00:03:51) roam y -96
+\i (00:03:51) roam y -96 
+\i (00:03:51) roam y -96
+\i (00:03:52) roam y -96 
+\i (00:03:52) roam y -96
+\i (00:03:52) roam y -96 
+\i (00:03:52) roam y -96
+\i (00:03:52) roam y -96 
+\i (00:03:52) roam y -96
+\i (00:03:53) pick grid -46.921 -15.514
+\t (00:03:53) last pick:  -46.990  -15.240
+\i (00:03:53) pick grid -47.474 -14.897
+\t (00:03:53) last pick:  -47.625  -14.605
+\i (00:03:54) roam x -96 
+\i (00:03:54) roam x -96
+\i (00:03:55) pick grid -49.185 -14.633
+\t (00:03:55) last pick:  -48.895  -14.605
+\i (00:03:56) pick grid -49.902 -15.564
+\t (00:03:56) last pick:  -50.165  -15.875
+\i (00:03:56) roam y 96 
+\i (00:03:56) roam y 96
+\i (00:03:56) roam y 96 
+\i (00:03:56) roam y 96
+\i (00:03:56) roam y 96 
+\i (00:03:56) roam y 96
+\i (00:03:57) roam y 96 
+\i (00:03:57) roam y 96
+\i (00:03:57) roam y 96 
+\i (00:03:57) roam y 96
+\i (00:03:57) pick grid -50.053 -23.828
+\t (00:03:57) last pick:  -50.165  -24.130
+\i (00:03:58) pick grid -50.506 -24.495
+\t (00:03:58) last pick:  -50.800  -24.765
+\i (00:03:58) roam x -96 
+\i (00:03:58) roam x -96
+\i (00:03:58) roam x -96 
+\i (00:03:58) roam x -96
+\i (00:03:59) roam x -96 
+\i (00:03:59) roam x -96
+\i (00:03:59) roam x -96 
+\i (00:03:59) roam x -96
+\i (00:03:59) roam x -96 
+\i (00:03:59) roam x -96
+\i (00:04:00) pick grid -57.159 -24.759
+\t (00:04:00) last pick:  -57.150  -24.765
+\i (00:04:00) pick grid -57.524 -24.420
+\t (00:04:00) last pick:  -57.785  -24.130
+\i (00:04:01) roam y -96 
+\i (00:04:01) roam y -96
+\i (00:04:01) roam y -96 
+\i (00:04:01) roam y -96
+\i (00:04:01) roam y -96 
+\i (00:04:01) roam y -96
+\i (00:04:01) roam y -96 
+\i (00:04:01) roam y -96
+\i (00:04:05) oops 
+\t (00:04:05) last pick:  -57.150  -24.765
+\i (00:04:05) oops 
+\t (00:04:05) last pick:  -50.800  -24.765
+\i (00:04:05) oops 
+\t (00:04:05) last pick:  -50.165  -24.130
+\i (00:04:05) oops 
+\t (00:04:05) last pick:  -50.165  -15.875
+\i (00:04:06) oops 
+\t (00:04:06) last pick:  -48.895  -14.605
+\i (00:04:08) pick grid -54.015 -14.911
+\t (00:04:08) last pick:  -53.975  -14.605
+\i (00:04:09) pick grid -54.304 -15.212
+\t (00:04:09) last pick:  -54.610  -15.240
+\i (00:04:09) roam y 96 
+\i (00:04:09) roam y 96
+\i (00:04:09) roam y 96 
+\i (00:04:09) roam y 96
+\i (00:04:09) roam y 96 
+\i (00:04:09) roam y 96
+\i (00:04:10) roam y 96 
+\i (00:04:10) roam y 96
+\i (00:04:10) roam y 96 
+\i (00:04:10) roam y 96
+\i (00:04:11) pick grid -54.581 -23.853
+\t (00:04:11) last pick:  -54.610  -24.130
+\i (00:04:12) pick grid -54.971 -24.469
+\t (00:04:12) last pick:  -55.245  -24.765
+\i (00:04:13) pick grid -56.845 -24.809
+\t (00:04:13) last pick:  -57.150  -24.765
+\i (00:04:13) pick grid -57.474 -24.432
+\t (00:04:13) last pick:  -57.785  -24.130
+\i (00:04:13) roam y -96 
+\i (00:04:13) roam y -96
+\i (00:04:14) roam y -96 
+\i (00:04:14) roam y -96
+\i (00:04:14) roam y -96 
+\i (00:04:14) roam y -96
+\i (00:04:14) roam y -96 
+\i (00:04:14) roam y -96
+\i (00:04:14) roam y -96 
+\i (00:04:14) roam y -96
+\i (00:04:14) roam y -96 
+\i (00:04:14) roam y -96
+\i (00:04:15) pick grid -57.687 -15.526
+\t (00:04:15) last pick:  -57.785  -15.240
+\i (00:04:15) pick grid -58.115 -14.897
+\t (00:04:15) last pick:  -58.420  -14.605
+\i (00:04:16) roam x -96 
+\i (00:04:16) roam x -96
+\i (00:04:16) roam x -96 
+\i (00:04:16) roam x -96
+\i (00:04:16) roam x -96 
+\i (00:04:16) roam x -96
+\i (00:04:16) roam x -96 
+\i (00:04:16) roam x -96
+\i (00:04:16) roam x -96 
+\i (00:04:16) roam x -96
+\i (00:04:18) pick grid -65.071 -14.734
+\t (00:04:18) last pick:  -64.770  -14.605
+\i (00:04:18) pick grid -65.147 -15.212
+\t (00:04:18) last pick:  -65.405  -15.240
+\i (00:04:18) roam y 96 
+\i (00:04:18) roam y 96
+\i (00:04:18) roam y 96 
+\i (00:04:18) roam y 96
+\i (00:04:19) roam y 96 
+\i (00:04:19) roam y 96
+\i (00:04:19) roam y 96 
+\i (00:04:19) roam y 96
+\i (00:04:19) roam y 96 
+\i (00:04:19) roam y 96
+\i (00:04:19) roam y 96 
+\i (00:04:19) roam y 96
+\i (00:04:20) pick grid -65.423 -25.727
+\t (00:04:20) last pick:  -65.405  -26.035
+\i (00:04:20) pick grid -65.071 -26.394
+\t (00:04:20) last pick:  -64.770  -26.670
+\i (00:04:20) roam x 96 
+\i (00:04:20) roam x 96
+\i (00:04:21) roam x 96 
+\i (00:04:21) roam x 96
+\i (00:04:21) roam x 96 
+\i (00:04:21) roam x 96
+\i (00:04:21) roam x 96 
+\i (00:04:21) roam x 96
+\i (00:04:21) roam x 96 
+\i (00:04:21) roam x 96
+\i (00:04:21) roam x 96 
+\i (00:04:21) roam x 96
+\i (00:04:21) roam x 96 
+\i (00:04:21) roam x 96
+\i (00:04:22) roam x 96 
+\i (00:04:22) roam x 96
+\i (00:04:22) roam x 96 
+\i (00:04:22) roam x 96
+\i (00:04:22) roam x 96 
+\i (00:04:22) roam x 96
+\i (00:04:22) roam x 96 
+\i (00:04:22) roam x 96
+\i (00:04:22) roam x 96 
+\i (00:04:22) roam x 96
+\i (00:04:22) roam x 96 
+\i (00:04:22) roam x 96
+\i (00:04:22) roam x 96 
+\i (00:04:22) roam x 96
+\i (00:04:22) roam x 96 
+\i (00:04:22) roam x 96
+\i (00:04:22) roam x 96 
+\i (00:04:22) roam x 96
+\i (00:04:22) roam x 96 
+\i (00:04:22) roam x 96
+\i (00:04:22) roam x 96 
+\i (00:04:22) roam x 96
+\i (00:04:22) roam x 96 
+\i (00:04:22) roam x 96
+\i (00:04:22) roam x 96 
+\i (00:04:22) roam x 96
+\i (00:04:22) roam x 96 
+\i (00:04:22) roam x 96
+\i (00:04:22) roam x 96 
+\i (00:04:22) roam x 96
+\i (00:04:22) roam x 96 
+\i (00:04:22) roam x 96
+\i (00:04:22) roam x 96 
+\i (00:04:22) roam x 96
+\i (00:04:23) roam x 96 
+\i (00:04:23) roam x 96
+\i (00:04:23) roam x 96 
+\i (00:04:23) roam x 96
+\i (00:04:23) roam x 96 
+\i (00:04:23) roam x 96
+\i (00:04:23) roam x 96 
+\i (00:04:23) roam x 96
+\i (00:04:23) roam x 96 
+\i (00:04:23) roam x 96
+\i (00:04:23) roam x 96 
+\i (00:04:23) roam x 96
+\i (00:04:23) roam x 96 
+\i (00:04:23) roam x 96
+\i (00:04:23) roam x 96 
+\i (00:04:23) roam x 96
+\i (00:04:23) roam x 96 
+\i (00:04:23) roam x 96
+\i (00:04:23) roam x 96 
+\i (00:04:23) roam x 96
+\i (00:04:23) roam x 96 
+\i (00:04:23) roam x 96
+\i (00:04:24) roam x 96 
+\i (00:04:24) roam x 96
+\i (00:04:24) roam x 96 
+\i (00:04:24) roam x 96
+\i (00:04:24) roam x -96 
+\i (00:04:24) roam x -96
+\i (00:04:25) roam x -96 
+\i (00:04:25) roam x -96
+\i (00:04:25) roam x -96 
+\i (00:04:25) roam x -96
+\i (00:04:25) roam x -96 
+\i (00:04:25) roam x -96
+\i (00:04:25) roam x -96 
+\i (00:04:25) roam x -96
+\i (00:04:25) roam x -96 
+\i (00:04:25) roam x -96
+\i (00:04:25) roam x -96 
+\i (00:04:25) roam x -96
+\i (00:04:25) roam x -96 
+\i (00:04:25) roam x -96
+\i (00:04:25) roam x -96 
+\i (00:04:25) roam x -96
+\i (00:04:25) roam x -96 
+\i (00:04:25) roam x -96
+\i (00:04:25) roam x -96 
+\i (00:04:25) roam x -96
+\i (00:04:25) roam x -96 
+\i (00:04:26) roam x -96
+\i (00:04:26) roam x -96 
+\i (00:04:26) roam x -96
+\i (00:04:26) roam x -96 
+\i (00:04:26) roam x -96
+\i (00:04:26) roam x -96 
+\i (00:04:26) roam x -96
+\i (00:04:26) roam x -96 
+\i (00:04:26) roam x -96
+\i (00:04:26) roam x -96 
+\i (00:04:26) roam x -96
+\i (00:04:26) roam x -96 
+\i (00:04:26) roam x -96
+\i (00:04:26) roam x -96 
+\i (00:04:26) roam x -96
+\i (00:04:26) roam x -96 
+\i (00:04:26) roam x -96
+\i (00:04:26) roam x -96 
+\i (00:04:26) roam x -96
+\i (00:04:26) roam x -96 
+\i (00:04:26) roam x -96
+\i (00:04:26) roam x -96 
+\i (00:04:26) roam x -96
+\i (00:04:26) roam x -96 
+\i (00:04:26) roam x -96
+\i (00:04:26) roam x -96 
+\i (00:04:26) roam x -96
+\i (00:04:26) roam x -96 
+\i (00:04:26) roam x -96
+\i (00:04:26) roam x -96 
+\i (00:04:26) roam x -96
+\i (00:04:26) roam x -96 
+\i (00:04:26) roam x -96
+\i (00:04:26) roam x -96 
+\i (00:04:26) roam x -96
+\i (00:04:26) roam x -96 
+\i (00:04:26) roam x -96
+\i (00:04:26) roam x -96 
+\i (00:04:26) roam x -96
+\i (00:04:26) roam x -96 
+\i (00:04:27) roam x -96
+\i (00:04:27) roam x -96 
+\i (00:04:27) roam x -96
+\i (00:04:27) roam x -96 
+\i (00:04:27) roam x -96
+\i (00:04:27) roam x -96 
+\i (00:04:27) roam x -96
+\i (00:04:27) roam x -96 
+\i (00:04:27) roam x -96
+\i (00:04:27) roam x -96 
+\i (00:04:27) roam x -96
+\i (00:04:27) roam x -96 
+\i (00:04:27) roam x -96
+\i (00:04:27) roam x -96 
+\i (00:04:27) roam x -96
+\i (00:04:27) roam x -96 
+\i (00:04:27) roam x -96
+\i (00:04:27) roam x -96 
+\i (00:04:27) roam x -96
+\i (00:04:28) oops 
+\t (00:04:28) last pick:  -65.405  -26.035
+\i (00:04:29) oops 
+\t (00:04:29) last pick:  -65.405  -15.240
+\i (00:04:29) pick grid -65.097 -25.627
+\t (00:04:29) last pick:  -65.405  -25.400
+\i (00:04:30) pick grid -65.071 -25.777
+\t (00:04:30) last pick:  -64.770  -26.035
+\i (00:04:30) roam x 96 
+\i (00:04:30) roam x 96
+\i (00:04:31) roam x 96 
+\i (00:04:31) roam x 96
+\i (00:04:31) roam x 96 
+\i (00:04:31) roam x 96
+\i (00:04:31) roam x 96 
+\i (00:04:31) roam x 96
+\i (00:04:31) roam x 96 
+\i (00:04:31) roam x 96
+\i (00:04:31) roam x 96 
+\i (00:04:31) roam x 96
+\i (00:04:31) roam x 96 
+\i (00:04:31) roam x 96
+\i (00:04:31) roam x 96 
+\i (00:04:31) roam x 96
+\i (00:04:31) roam x 96 
+\i (00:04:31) roam x 96
+\i (00:04:31) roam x 96 
+\i (00:04:31) roam x 96
+\i (00:04:31) roam x 96 
+\i (00:04:31) roam x 96
+\i (00:04:31) roam x 96 
+\i (00:04:31) roam x 96
+\i (00:04:31) roam x 96 
+\i (00:04:31) roam x 96
+\i (00:04:31) roam x 96 
+\i (00:04:31) roam x 96
+\i (00:04:31) roam x 96 
+\i (00:04:31) roam x 96
+\i (00:04:31) roam x 96 
+\i (00:04:31) roam x 96
+\i (00:04:31) roam x 96 
+\i (00:04:31) roam x 96
+\i (00:04:31) roam x 96 
+\i (00:04:31) roam x 96
+\i (00:04:32) roam x 96 
+\i (00:04:32) roam x 96
+\i (00:04:32) roam x 96 
+\i (00:04:32) roam x 96
+\i (00:04:32) roam x 96 
+\i (00:04:32) roam x 96
+\i (00:04:32) roam x 96 
+\i (00:04:32) roam x 96
+\i (00:04:32) roam x 96 
+\i (00:04:32) roam x 96
+\i (00:04:32) roam x 96 
+\i (00:04:32) roam x 96
+\i (00:04:32) roam x 96 
+\i (00:04:32) roam x 96
+\i (00:04:32) roam x 96 
+\i (00:04:32) roam x 96
+\i (00:04:32) roam x 96 
+\i (00:04:32) roam x 96
+\i (00:04:32) roam x 96 
+\i (00:04:32) roam x 96
+\i (00:04:32) roam x 96 
+\i (00:04:32) roam x 96
+\i (00:04:32) roam x 96 
+\i (00:04:32) roam x 96
+\i (00:04:32) roam x 96 
+\i (00:04:32) roam x 96
+\i (00:04:32) roam x 96 
+\i (00:04:32) roam x 96
+\i (00:04:32) roam x 96 
+\i (00:04:32) roam x 96
+\i (00:04:32) roam x 96 
+\i (00:04:32) roam x 96
+\i (00:04:32) roam x 96 
+\i (00:04:32) roam x 96
+\i (00:04:32) roam x 96 
+\i (00:04:32) roam x 96
+\i (00:04:32) roam x 96 
+\i (00:04:32) roam x 96
+\i (00:04:32) roam x 96 
+\i (00:04:32) roam x 96
+\i (00:04:33) roam x 96 
+\i (00:04:33) roam x 96
+\i (00:04:33) roam x 96 
+\i (00:04:33) roam x 96
+\i (00:04:34) pick grid -14.911 -26.142
+\t (00:04:34) last pick:  -14.605  -26.035
+\i (00:04:36) roam y 96 
+\i (00:04:36) roam y 96
+\i (00:04:36) roam y 96 
+\i (00:04:36) roam y 96
+\i (00:04:36) roam y 96 
+\i (00:04:36) roam y 96
+\i (00:04:36) roam x 96 
+\i (00:04:36) roam x 96
+\i (00:04:37) roam y 96 
+\i (00:04:37) roam y 96
+\i (00:04:37) roam y 96 
+\i (00:04:37) roam y 96
+\i (00:04:37) roam y 96 
+\i (00:04:37) roam y 96
+\i (00:04:38) roam y 96 
+\i (00:04:38) roam y 96
+\i (00:04:38) roam y 96 
+\i (00:04:38) roam y 96
+\i (00:04:38) roam y 96 
+\i (00:04:38) roam y 96
+\i (00:04:38) roam y 96 
+\i (00:04:38) roam y 96
+\i (00:04:39) roam y 96 
+\i (00:04:39) roam y 96
+\i (00:04:42) pick grid -9.552 -40.041
+\t (00:04:42) last pick:  -9.525  -40.005
+\i (00:04:42) pick grid -10.005 -40.330
+\t (00:04:42) last pick:  -10.160  -40.640
+\i (00:04:42) roam x -96 
+\i (00:04:42) roam x -96
+\i (00:04:43) roam x -96 
+\i (00:04:43) roam x -96
+\i (00:04:43) roam x -96 
+\i (00:04:43) roam x -96
+\i (00:04:43) roam x -96 
+\i (00:04:43) roam x -96
+\i (00:04:43) roam x -96 
+\i (00:04:43) roam x -96
+\i (00:04:43) roam x -96 
+\i (00:04:43) roam x -96
+\i (00:04:43) roam x -96 
+\i (00:04:43) roam x -96
+\i (00:04:43) roam x -96 
+\i (00:04:43) roam x -96
+\i (00:04:43) roam x -96 
+\i (00:04:43) roam x -96
+\i (00:04:43) roam x -96 
+\i (00:04:43) roam x -96
+\i (00:04:43) roam x -96 
+\i (00:04:43) roam x -96
+\i (00:04:43) roam x -96 
+\i (00:04:43) roam x -96
+\i (00:04:43) roam x -96 
+\i (00:04:43) roam x -96
+\i (00:04:43) roam x -96 
+\i (00:04:43) roam x -96
+\i (00:04:44) roam x -96 
+\i (00:04:44) roam x -96
+\i (00:04:44) roam x -96 
+\i (00:04:44) roam x -96
+\i (00:04:44) roam x -96 
+\i (00:04:44) roam x -96
+\i (00:04:44) roam x -96 
+\i (00:04:44) roam x -96
+\i (00:04:44) roam x -96 
+\i (00:04:44) roam x -96
+\i (00:04:44) roam x -96 
+\i (00:04:44) roam x -96
+\i (00:04:44) roam x -96 
+\i (00:04:44) roam x -96
+\i (00:04:44) roam x -96 
+\i (00:04:44) roam x -96
+\i (00:04:44) roam x -96 
+\i (00:04:44) roam x -96
+\i (00:04:44) roam x -96 
+\i (00:04:44) roam x -96
+\i (00:04:44) roam x -96 
+\i (00:04:44) roam x -96
+\i (00:04:44) roam x -96 
+\i (00:04:44) roam x -96
+\i (00:04:44) roam x -96 
+\i (00:04:44) roam x -96
+\i (00:04:44) roam x -96 
+\i (00:04:44) roam x -96
+\i (00:04:44) roam x -96 
+\i (00:04:44) roam x -96
+\i (00:04:44) roam x -96 
+\i (00:04:44) roam x -96
+\i (00:04:44) roam x -96 
+\i (00:04:44) roam x -96
+\i (00:04:44) roam x -96 
+\i (00:04:44) roam x -96
+\i (00:04:44) roam x -96 
+\i (00:04:44) roam x -96
+\i (00:04:44) roam x -96 
+\i (00:04:44) roam x -96
+\i (00:04:45) roam x -96 
+\i (00:04:45) roam x -96
+\i (00:04:45) roam x -96 
+\i (00:04:45) roam x -96
+\i (00:04:45) roam x -96 
+\i (00:04:45) roam x -96
+\i (00:04:45) roam x -96 
+\i (00:04:45) roam x -96
+\i (00:04:45) roam x -96 
+\i (00:04:45) roam x -96
+\i (00:04:45) roam x -96 
+\i (00:04:45) roam x -96
+\i (00:04:45) roam x -96 
+\i (00:04:45) roam x -96
+\i (00:04:45) roam x -96 
+\i (00:04:45) roam x -96
+\i (00:04:45) roam x -96 
+\i (00:04:45) roam x -96
+\i (00:04:45) roam x -96 
+\i (00:04:45) roam x -96
+\i (00:04:45) roam x -96 
+\i (00:04:45) roam x -96
+\i (00:04:45) roam x -96 
+\i (00:04:45) roam x -96
+\i (00:04:45) roam x -96 
+\i (00:04:45) roam x -96
+\i (00:04:45) roam x -96 
+\i (00:04:45) roam x -96
+\i (00:04:45) roam x -96 
+\i (00:04:45) roam x -96
+\i (00:04:45) roam x -96 
+\i (00:04:45) roam x -96
+\i (00:04:45) roam x -96 
+\i (00:04:45) roam x -96
+\i (00:04:45) roam x -96 
+\i (00:04:45) roam x -96
+\i (00:04:45) roam x -96 
+\i (00:04:45) roam x -96
+\i (00:04:45) roam x -96 
+\i (00:04:45) roam x -96
+\i (00:04:46) roam x -96 
+\i (00:04:46) roam x -96
+\i (00:04:46) roam x -96 
+\i (00:04:46) roam x -96
+\i (00:04:46) roam x -96 
+\i (00:04:46) roam x -96
+\i (00:04:46) roam x -96 
+\i (00:04:46) roam x -96
+\i (00:04:46) roam x -96 
+\i (00:04:46) roam x -96
+\i (00:04:46) roam x -96 
+\i (00:04:46) roam x -96
+\i (00:04:46) roam x -96 
+\i (00:04:46) roam x -96
+\i (00:04:46) roam x -96 
+\i (00:04:46) roam x -96
+\i (00:04:46) roam x -96 
+\i (00:04:46) roam x -96
+\i (00:04:46) roam x -96 
+\i (00:04:46) roam x -96
+\i (00:04:47) pick grid -87.950 -40.544
+\t (00:04:47) last pick:  -88.265  -40.640
+\i (00:04:48) pick grid -88.591 -40.317
+\t (00:04:48) last pick:  -88.900  -40.005
+\i (00:04:48) roam y -96 
+\i (00:04:48) roam y -96
+\i (00:04:48) roam y -96 
+\i (00:04:48) roam y -96
+\i (00:04:48) roam y -96 
+\i (00:04:48) roam y -96
+\i (00:04:48) roam y -96 
+\i (00:04:48) roam y -96
+\i (00:04:48) roam y -96 
+\i (00:04:48) roam y -96
+\i (00:04:48) roam y -96 
+\i (00:04:48) roam y -96
+\i (00:04:48) roam y -96 
+\i (00:04:48) roam y -96
+\i (00:04:48) roam y -96 
+\i (00:04:48) roam y -96
+\i (00:04:48) roam y -96 
+\i (00:04:48) roam y -96
+\i (00:04:48) roam y -96 
+\i (00:04:48) roam y -96
+\i (00:04:49) roam y -96 
+\i (00:04:49) roam y -96
+\i (00:04:49) roam y -96 
+\i (00:04:49) roam y -96
+\i (00:04:49) roam y -96 
+\i (00:04:49) roam y -96
+\i (00:04:49) roam y -96 
+\i (00:04:49) roam y -96
+\i (00:04:49) roam y -96 
+\i (00:04:49) roam y -96
+\i (00:04:49) roam y -96 
+\i (00:04:49) roam y -96
+\i (00:04:49) roam y -96 
+\i (00:04:49) roam y -96
+\i (00:04:49) roam y -96 
+\i (00:04:49) roam y -96
+\i (00:04:49) roam y -96 
+\i (00:04:49) roam y -96
+\i (00:04:49) roam y -96 
+\i (00:04:49) roam y -96
+\i (00:04:49) roam y -96 
+\i (00:04:49) roam y -96
+\i (00:04:49) roam y -96 
+\i (00:04:49) roam y -96
+\i (00:04:49) roam y -96 
+\i (00:04:49) roam y -96
+\i (00:04:49) roam y -96 
+\i (00:04:49) roam y -96
+\i (00:04:49) roam y -96 
+\i (00:04:49) roam y -96
+\i (00:04:49) roam y -96 
+\i (00:04:49) roam y -96
+\i (00:04:49) roam y -96 
+\i (00:04:49) roam y -96
+\i (00:04:49) roam y -96 
+\i (00:04:49) roam y -96
+\i (00:04:49) roam y -96 
+\i (00:04:49) roam y -96
+\i (00:04:49) roam y -96 
+\i (00:04:49) roam y -96
+\i (00:04:49) roam y -96 
+\i (00:04:49) roam y -96
+\i (00:04:50) pick grid -88.943 -2.220
+\t (00:04:50) last pick:  -88.900  -1.905
+\i (00:04:51) pick grid -87.736 -0.949
+\t (00:04:51) last pick:  -87.630  -0.635
+\i (00:04:51) roam x 96 
+\i (00:04:51) roam x 96
+\i (00:04:51) roam x 96 
+\i (00:04:51) roam x 96
+\i (00:04:52) roam x 96 
+\i (00:04:52) roam x 96
+\i (00:04:52) roam x 96 
+\i (00:04:52) roam x 96
+\i (00:04:52) roam x 96 
+\i (00:04:52) roam x 96
+\i (00:04:52) roam x 96 
+\i (00:04:52) roam x 96
+\i (00:04:52) roam x 96 
+\i (00:04:52) roam x 96
+\i (00:04:52) roam x 96 
+\i (00:04:52) roam x 96
+\i (00:04:52) roam x 96 
+\i (00:04:52) roam x 96
+\i (00:04:52) roam x 96 
+\i (00:04:52) roam x 96
+\i (00:04:52) roam x 96 
+\i (00:04:52) roam x 96
+\i (00:04:52) roam x 96 
+\i (00:04:52) roam x 96
+\i (00:04:52) roam x 96 
+\i (00:04:52) roam x 96
+\i (00:04:52) roam x 96 
+\i (00:04:52) roam x 96
+\i (00:04:52) roam x 96 
+\i (00:04:52) roam x 96
+\i (00:04:52) roam x 96 
+\i (00:04:52) roam x 96
+\i (00:04:52) roam x 96 
+\i (00:04:52) roam x 96
+\i (00:04:52) roam x 96 
+\i (00:04:52) roam x 96
+\i (00:04:52) roam x 96 
+\i (00:04:52) roam x 96
+\i (00:04:52) roam x 96 
+\i (00:04:52) roam x 96
+\i (00:04:52) roam x 96 
+\i (00:04:52) roam x 96
+\i (00:04:52) roam x 96 
+\i (00:04:52) roam x 96
+\i (00:04:52) roam x 96 
+\i (00:04:52) roam x 96
+\i (00:04:52) roam x 96 
+\i (00:04:52) roam x 96
+\i (00:04:54) pick grid -56.832 -0.660
+\t (00:04:54) last pick:  -56.515  -0.635
+\i (00:04:54) roam x 96 
+\i (00:04:54) roam x 96
+\i (00:04:54) roam x 96 
+\i (00:04:54) roam x 96
+\i (00:04:54) roam x 96 
+\i (00:04:54) roam x 96
+\i (00:04:55) prepopup -51.399 -0.622
+\i (00:04:55) done 
+\i (00:04:55) generaledit 
+\i (00:04:56) roam y 96 
+\i (00:04:56) roam y 96
+\i (00:04:56) roam y 96 
+\i (00:04:56) roam y 96
+\i (00:04:56) roam y 96 
+\i (00:04:56) roam y 96
+\i (00:04:56) roam y 96 
+\i (00:04:56) roam y 96
+\i (00:04:56) roam x 96 
+\i (00:04:56) roam x 96
+\i (00:04:57) roam x 96 
+\i (00:04:57) roam x 96
+\i (00:04:57) roam x 96 
+\i (00:04:57) roam x 96
+\i (00:04:57) roam y 96 
+\i (00:04:57) roam y 96
+\i (00:04:57) roam x 96 
+\i (00:04:57) roam x 96
+\i (00:04:59) add line 
+\i (00:04:59) roam x 96 
+\i (00:04:59) roam x 96
+\i (00:04:59) roam y -96 
+\i (00:04:59) roam y -96
+\i (00:04:59) roam x 96 
+\i (00:04:59) roam x 96
+\i (00:05:01) pick grid -49.525 -0.572
+\t (00:05:01) last pick:  -49.530  -0.635
+\i (00:05:02) pick grid -50.519 -1.591
+\t (00:05:02) last pick:  -50.800  -1.905
+\i (00:05:02) roam y 96 
+\i (00:05:02) roam y 96
+\i (00:05:02) roam y 96 
+\i (00:05:02) roam y 96
+\i (00:05:03) roam y 96 
+\i (00:05:03) roam y 96
+\i (00:05:03) roam y 96 
+\i (00:05:03) roam y 96
+\i (00:05:03) roam y 96 
+\i (00:05:03) roam y 96
+\i (00:05:03) roam y 96 
+\i (00:05:03) roam y 96
+\i (00:05:05) pick grid -50.833 -12.395
+\t (00:05:05) last pick:  -50.800  -12.700
+\i (00:05:05) pick grid -50.355 -13.037
+\t (00:05:05) last pick:  -50.165  -13.335
+\i (00:05:06) roam x 96 
+\i (00:05:06) roam x 96
+\i (00:05:06) roam x 96 
+\i (00:05:06) roam x 96
+\i (00:05:06) roam x 96 
+\i (00:05:06) roam x 96
+\i (00:05:06) roam x 96 
+\i (00:05:06) roam x 96
+\i (00:05:06) roam x 96 
+\i (00:05:06) roam x 96
+\i (00:05:06) roam x 96 
+\i (00:05:06) roam x 96
+\i (00:05:06) roam x 96 
+\i (00:05:06) roam x 96
+\i (00:05:06) roam x 96 
+\i (00:05:06) roam x 96
+\i (00:05:07) pick grid -39.664 -13.414
+\t (00:05:07) last pick:  -39.370  -13.335
+\i (00:05:08) pick grid -38.859 -13.653
+\t (00:05:08) last pick:  -38.735  -13.970
+\i (00:05:08) roam y 96 
+\i (00:05:08) roam y 96
+\i (00:05:08) roam y 96 
+\i (00:05:08) roam y 96
+\i (00:05:09) roam y 96 
+\i (00:05:09) roam y 96
+\i (00:05:09) roam y 96 
+\i (00:05:09) roam y 96
+\i (00:05:09) roam y 96 
+\i (00:05:09) roam y 96
+\i (00:05:09) roam y 96 
+\i (00:05:09) roam y 96
+\i (00:05:09) roam y 96 
+\i (00:05:09) roam y 96
+\i (00:05:09) roam y 96 
+\i (00:05:09) roam y 96
+\i (00:05:10) pick grid -38.720 -24.444
+\t (00:05:10) last pick:  -38.735  -24.130
+\i (00:05:11) pick grid -39.110 -24.469
+\t (00:05:11) last pick:  -39.370  -24.765
+\i (00:05:11) roam x -96 
+\i (00:05:11) roam x -96
+\i (00:05:11) roam x -96 
+\i (00:05:11) roam x -96
+\i (00:05:11) roam x -96 
+\i (00:05:11) roam x -96
+\i (00:05:11) roam x -96 
+\i (00:05:11) roam x -96
+\i (00:05:11) roam x -96 
+\i (00:05:11) roam x -96
+\i (00:05:12) pick grid -46.669 -24.759
+\t (00:05:12) last pick:  -46.355  -24.765
+\i (00:05:13) pick grid -46.682 -24.281
+\t (00:05:13) last pick:  -46.990  -24.130
+\i (00:05:13) roam y -96 
+\i (00:05:13) roam y -96
+\i (00:05:13) roam y -96 
+\i (00:05:13) roam y -96
+\i (00:05:13) roam y -96 
+\i (00:05:13) roam y -96
+\i (00:05:13) roam y -96 
+\i (00:05:13) roam y -96
+\i (00:05:14) roam y -96 
+\i (00:05:14) roam y -96
+\i (00:05:14) roam y -96 
+\i (00:05:14) roam y -96
+\i (00:05:14) roam y -96 
+\i (00:05:14) roam y -96
+\i (00:05:15) pick grid -46.958 -15.552
+\t (00:05:15) last pick:  -46.990  -15.240
+\i (00:05:15) pick grid -47.311 -14.898
+\t (00:05:15) last pick:  -47.625  -14.605
+\i (00:05:16) pick grid -48.581 -14.646
+\t (00:05:16) last pick:  -48.895  -14.605
+\i (00:05:17) pick grid -50.027 -15.565
+\t (00:05:17) last pick:  -50.165  -15.875
+\i (00:05:17) roam y 96 
+\i (00:05:17) roam y 96
+\i (00:05:17) roam y 96 
+\i (00:05:17) roam y 96
+\i (00:05:17) roam y 96 
+\i (00:05:17) roam y 96
+\i (00:05:18) roam y 96 
+\i (00:05:18) roam y 96
+\i (00:05:18) roam y 96 
+\i (00:05:18) roam y 96
+\i (00:05:18) roam y 96 
+\i (00:05:18) roam y 96
+\i (00:05:18) roam y 96 
+\i (00:05:18) roam y 96
+\i (00:05:18) roam y 96 
+\i (00:05:18) roam y 96
+\i (00:05:18) roam y 96 
+\i (00:05:18) roam y 96
+\i (00:05:19) pick grid -50.078 -23.815
+\t (00:05:19) last pick:  -50.165  -24.130
+\i (00:05:20) pick grid -50.505 -24.469
+\t (00:05:20) last pick:  -50.800  -24.765
+\i (00:05:20) roam x -96 
+\i (00:05:20) roam x -96
+\i (00:05:20) roam x -96 
+\i (00:05:20) roam x -96
+\i (00:05:21) roam x -96 
+\i (00:05:21) roam x -96
+\i (00:05:22) pick grid -56.833 -24.897
+\t (00:05:22) last pick:  -57.150  -24.765
+\i (00:05:22) pick grid -57.575 -24.419
+\t (00:05:22) last pick:  -57.785  -24.130
+\i (00:05:22) roam y -96 
+\i (00:05:22) roam y -96
+\i (00:05:23) roam y -96 
+\i (00:05:23) roam y -96
+\i (00:05:23) roam y -96 
+\i (00:05:23) roam y -96
+\i (00:05:23) roam y -96 
+\i (00:05:23) roam y -96
+\i (00:05:23) roam y -96 
+\i (00:05:23) roam y -96
+\i (00:05:23) roam y -96 
+\i (00:05:23) roam y -96
+\i (00:05:23) roam y -96 
+\i (00:05:23) roam y -96
+\i (00:05:24) pick grid -57.650 -15.552
+\t (00:05:24) last pick:  -57.785  -15.240
+\i (00:05:25) pick grid -58.128 -14.911
+\t (00:05:25) last pick:  -58.420  -14.605
+\i (00:05:25) pick grid -59.373 -14.646
+\t (00:05:25) last pick:  -59.690  -14.605
+\i (00:05:26) pick grid -60.694 -15.565
+\t (00:05:26) last pick:  -60.960  -15.875
+\i (00:05:26) roam x -96 
+\i (00:05:26) roam x -96
+\i (00:05:27) roam x -96 
+\i (00:05:27) roam x -96
+\i (00:05:27) roam x -96 
+\i (00:05:27) roam x -96
+\i (00:05:27) roam x -96 
+\i (00:05:27) roam x -96
+\i (00:05:27) roam y 96 
+\i (00:05:27) roam y 96
+\i (00:05:27) roam y 96 
+\i (00:05:27) roam y 96
+\i (00:05:27) roam y 96 
+\i (00:05:27) roam y 96
+\i (00:05:28) roam y 96 
+\i (00:05:28) roam y 96
+\i (00:05:28) roam y 96 
+\i (00:05:28) roam y 96
+\i (00:05:28) roam y 96 
+\i (00:05:28) roam y 96
+\i (00:05:28) roam y 96 
+\i (00:05:28) roam y 96
+\i (00:05:29) pick grid -60.895 -25.061
+\t (00:05:29) last pick:  -60.960  -24.765
+\i (00:05:30) pick grid -60.002 -25.941
+\t (00:05:30) last pick:  -59.690  -26.035
+\i (00:05:30) roam x 96 
+\i (00:05:30) roam x 96
+\i (00:05:32) roam x 96 
+\i (00:05:32) roam x 96
+\i (00:05:32) roam x 96 
+\i (00:05:32) roam x 96
+\i (00:05:33) roam x 96 
+\i (00:05:33) roam x 96
+\i (00:05:33) roam x 96 
+\i (00:05:33) roam x 96
+\i (00:05:33) roam x 96 
+\i (00:05:33) roam x 96
+\i (00:05:33) roam x 96 
+\i (00:05:33) roam x 96
+\i (00:05:33) roam x 96 
+\i (00:05:33) roam x 96
+\i (00:05:33) roam x 96 
+\i (00:05:33) roam x 96
+\i (00:05:33) roam x 96 
+\i (00:05:33) roam x 96
+\i (00:05:33) roam x 96 
+\i (00:05:33) roam x 96
+\i (00:05:33) roam x 96 
+\i (00:05:33) roam x 96
+\i (00:05:33) roam x 96 
+\i (00:05:33) roam x 96
+\i (00:05:33) roam x 96 
+\i (00:05:33) roam x 96
+\i (00:05:33) roam x 96 
+\i (00:05:33) roam x 96
+\i (00:05:33) roam x 96 
+\i (00:05:33) roam x 96
+\i (00:05:33) roam x 96 
+\i (00:05:33) roam x 96
+\i (00:05:33) roam x 96 
+\i (00:05:33) roam x 96
+\i (00:05:33) roam x 96 
+\i (00:05:33) roam x 96
+\i (00:05:34) roam x 96 
+\i (00:05:34) roam x 96
+\i (00:05:34) roam x 96 
+\i (00:05:34) roam x 96
+\i (00:05:34) roam x 96 
+\i (00:05:34) roam x 96
+\i (00:05:34) roam x 96 
+\i (00:05:34) roam x 96
+\i (00:05:34) roam x 96 
+\i (00:05:34) roam x 96
+\i (00:05:34) roam x 96 
+\i (00:05:34) roam x 96
+\i (00:05:34) roam x 96 
+\i (00:05:34) roam x 96
+\i (00:05:34) roam x 96 
+\i (00:05:34) roam x 96
+\i (00:05:34) roam x 96 
+\i (00:05:34) roam x 96
+\i (00:05:34) roam x 96 
+\i (00:05:34) roam x 96
+\i (00:05:34) roam x 96 
+\i (00:05:34) roam x 96
+\i (00:05:34) roam x 96 
+\i (00:05:34) roam x 96
+\i (00:05:34) roam x 96 
+\i (00:05:34) roam x 96
+\i (00:05:34) roam x 96 
+\i (00:05:34) roam x 96
+\i (00:05:34) roam x 96 
+\i (00:05:34) roam x 96
+\i (00:05:34) roam x 96 
+\i (00:05:34) roam x 96
+\i (00:05:34) roam x 96 
+\i (00:05:34) roam x 96
+\i (00:05:35) pick grid -14.282 -26.155
+\t (00:05:35) last pick:  -13.970  -26.035
+\i (00:05:35) roam y 96 
+\i (00:05:35) roam y 96
+\i (00:05:36) roam y 96 
+\i (00:05:36) roam y 96
+\i (00:05:36) roam y 96 
+\i (00:05:36) roam y 96
+\i (00:05:36) roam y 96 
+\i (00:05:36) roam y 96
+\i (00:05:37) roam x 96 
+\i (00:05:37) roam x 96
+\i (00:05:37) roam y 96 
+\i (00:05:37) roam y 96
+\i (00:05:37) roam y 96 
+\i (00:05:37) roam y 96
+\i (00:05:37) roam y 96 
+\i (00:05:37) roam y 96
+\i (00:05:37) roam y 96 
+\i (00:05:37) roam y 96
+\i (00:05:37) roam y 96 
+\i (00:05:37) roam y 96
+\i (00:05:38) roam y 96 
+\i (00:05:38) roam y 96
+\i (00:05:38) roam y 96 
+\i (00:05:38) roam y 96
+\i (00:05:38) roam y 96 
+\i (00:05:38) roam y 96
+\i (00:05:38) roam y 96 
+\i (00:05:38) roam y 96
+\i (00:05:39) pick grid -8.760 -40.946
+\t (00:05:39) last pick:  -8.890  -40.640
+\i (00:05:40) pick grid -9.213 -40.971
+\t (00:05:40) last pick:  -9.525  -41.275
+\i (00:05:40) roam x -96 
+\i (00:05:40) roam x -96
+\i (00:05:41) roam x -96 
+\i (00:05:41) roam x -96
+\i (00:05:41) roam x -96 
+\i (00:05:41) roam x -96
+\i (00:05:42) roam x 96 
+\i (00:05:42) roam x 96
+\i (00:05:43) roam x 96 
+\i (00:05:43) roam x 96
+\i (00:05:44) oops 
+\t (00:05:44) last pick:  -8.890  -40.640
+\i (00:05:45) oops 
+\t (00:05:45) last pick:  -13.970  -26.035
+\i (00:05:47) pick grid -8.936 -40.317
+\t (00:05:47) last pick:  -8.890  -40.005
+\i (00:05:48) pick grid -9.389 -40.330
+\t (00:05:48) last pick:  -9.525  -40.640
+\i (00:05:48) roam x -96 
+\i (00:05:48) roam x -96
+\i (00:05:49) roam x -96 
+\i (00:05:49) roam x -96
+\i (00:05:49) roam x -96 
+\i (00:05:49) roam x -96
+\i (00:05:49) roam x -96 
+\i (00:05:49) roam x -96
+\i (00:05:49) roam x -96 
+\i (00:05:49) roam x -96
+\i (00:05:50) roam x -96 
+\i (00:05:50) roam x -96
+\i (00:05:50) roam x -96 
+\i (00:05:50) roam x -96
+\i (00:05:50) roam x -96 
+\i (00:05:50) roam x -96
+\i (00:05:51) roam x -96 
+\i (00:05:51) roam x -96
+\i (00:05:51) roam x -96 
+\i (00:05:51) roam x -96
+\i (00:05:51) roam x -96 
+\i (00:05:51) roam x -96
+\i (00:05:51) roam x -96 
+\i (00:05:51) roam x -96
+\i (00:05:51) roam x -96 
+\i (00:05:51) roam x -96
+\i (00:05:52) roam x -96 
+\i (00:05:52) roam x -96
+\i (00:05:52) roam x -96 
+\i (00:05:52) roam x -96
+\i (00:05:52) roam x -96 
+\i (00:05:52) roam x -96
+\i (00:05:52) roam x -96 
+\i (00:05:52) roam x -96
+\i (00:05:52) roam x -96 
+\i (00:05:52) roam x -96
+\i (00:05:52) roam x -96 
+\i (00:05:52) roam x -96
+\i (00:05:52) roam x -96 
+\i (00:05:52) roam x -96
+\i (00:05:52) roam x -96 
+\i (00:05:52) roam x -96
+\i (00:05:52) roam x -96 
+\i (00:05:52) roam x -96
+\i (00:05:52) roam x -96 
+\i (00:05:52) roam x -96
+\i (00:05:52) roam x -96 
+\i (00:05:53) roam x -96
+\i (00:05:53) roam x -96 
+\i (00:05:53) roam x -96
+\i (00:05:53) roam x -96 
+\i (00:05:53) roam x -96
+\i (00:05:53) roam x -96 
+\i (00:05:53) roam x -96
+\i (00:05:53) roam x -96 
+\i (00:05:53) roam x -96
+\i (00:05:53) roam x -96 
+\i (00:05:53) roam x -96
+\i (00:05:53) roam x -96 
+\i (00:05:53) roam x -96
+\i (00:05:53) roam x -96 
+\i (00:05:53) roam x -96
+\i (00:05:53) roam x -96 
+\i (00:05:53) roam x -96
+\i (00:05:54) roam x -96 
+\i (00:05:54) roam x -96
+\i (00:05:54) roam x -96 
+\i (00:05:54) roam x -96
+\i (00:05:54) roam x -96 
+\i (00:05:54) roam x -96
+\i (00:05:54) roam x -96 
+\i (00:05:54) roam x -96
+\i (00:05:54) roam x -96 
+\i (00:05:54) roam x -96
+\i (00:05:54) roam x -96 
+\i (00:05:54) roam x -96
+\i (00:05:54) roam x -96 
+\i (00:05:54) roam x -96
+\i (00:05:55) roam x -96 
+\i (00:05:55) roam x -96
+\i (00:05:55) roam x -96 
+\i (00:05:55) roam x -96
+\i (00:05:55) roam x -96 
+\i (00:05:55) roam x -96
+\i (00:05:55) roam x -96 
+\i (00:05:55) roam x -96
+\i (00:05:55) roam x -96 
+\i (00:05:55) roam x -96
+\i (00:05:55) roam x -96 
+\i (00:05:55) roam x -96
+\i (00:05:55) roam x -96 
+\i (00:05:55) roam x -96
+\i (00:05:56) roam x -96 
+\i (00:05:56) roam x -96
+\i (00:05:56) roam x -96 
+\i (00:05:56) roam x -96
+\i (00:05:56) roam x -96 
+\i (00:05:56) roam x -96
+\i (00:05:56) roam x -96 
+\i (00:05:56) roam x -96
+\i (00:05:56) roam x -96 
+\i (00:05:56) roam x -96
+\i (00:05:56) roam x -96 
+\i (00:05:56) roam x -96
+\i (00:05:56) roam x -96 
+\i (00:05:56) roam x -96
+\i (00:05:56) roam x -96 
+\i (00:05:57) roam x -96
+\i (00:05:57) roam x -96 
+\i (00:05:57) roam x -96
+\i (00:05:57) roam x -96 
+\i (00:05:57) roam x -96
+\i (00:05:57) roam x -96 
+\i (00:05:57) roam x -96
+\i (00:05:57) roam x -96 
+\i (00:05:57) roam x -96
+\i (00:05:57) roam x -96 
+\i (00:05:57) roam x -96
+\i (00:05:57) roam x -96 
+\i (00:05:57) roam x -96
+\i (00:05:57) roam x -96 
+\i (00:05:57) roam x -96
+\i (00:05:57) roam x -96 
+\i (00:05:57) roam x -96
+\i (00:05:59) pick grid -87.950 -40.695
+\t (00:05:59) last pick:  -88.265  -40.640
+\i (00:05:59) pick grid -88.592 -40.997
+\t (00:05:59) last pick:  -88.900  -41.275
+\i (00:05:59) roam y 96 
+\i (00:05:59) roam y 96
+\i (00:06:00) roam y 96 
+\i (00:06:00) roam y 96
+\i (00:06:00) roam y 96 
+\i (00:06:00) roam y 96
+\i (00:06:00) roam y 96 
+\i (00:06:00) roam y 96
+\i (00:06:00) roam y 96 
+\i (00:06:00) roam y 96
+\i (00:06:00) roam y 96 
+\i (00:06:00) roam y 96
+\i (00:06:00) roam y 96 
+\i (00:06:00) roam y 96
+\i (00:06:00) roam y 96 
+\i (00:06:00) roam y 96
+\i (00:06:00) roam y 96 
+\i (00:06:00) roam y 96
+\i (00:06:00) roam y 96 
+\i (00:06:00) roam y 96
+\i (00:06:00) roam y 96 
+\i (00:06:00) roam y 96
+\i (00:06:01) roam y 96 
+\i (00:06:01) roam y 96
+\i (00:06:01) roam y 96 
+\i (00:06:01) roam y 96
+\i (00:06:01) roam y 96 
+\i (00:06:01) roam y 96
+\i (00:06:01) roam y 96 
+\i (00:06:01) roam y 96
+\i (00:06:01) roam y 96 
+\i (00:06:01) roam y 96
+\i (00:06:01) roam y 96 
+\i (00:06:01) roam y 96
+\i (00:06:01) roam y 96 
+\i (00:06:01) roam y 96
+\i (00:06:02) roam y 96 
+\i (00:06:02) roam y 96
+\i (00:06:02) roam y 96 
+\i (00:06:02) roam y 96
+\i (00:06:02) roam y 96 
+\i (00:06:03) roam y 96
+\i (00:06:03) roam y 96 
+\i (00:06:03) roam y 96
+\i (00:06:03) roam y 96 
+\i (00:06:03) roam y 96
+\i (00:06:03) roam y 96 
+\i (00:06:03) roam y 96
+\i (00:06:03) roam y 96 
+\i (00:06:03) roam y 96
+\i (00:06:03) roam y 96 
+\i (00:06:03) roam y 96
+\i (00:06:03) roam y 96 
+\i (00:06:03) roam y 96
+\i (00:06:03) roam y 96 
+\i (00:06:03) roam y 96
+\i (00:06:03) roam y 96 
+\i (00:06:03) roam y 96
+\i (00:06:03) roam y 96 
+\i (00:06:03) roam y 96
+\i (00:06:04) pick grid -88.944 -77.800
+\t (00:06:04) last pick:  -88.900  -78.105
+\i (00:06:05) pick grid -88.516 -78.504
+\t (00:06:05) last pick:  -88.265  -78.740
+\i (00:06:05) roam x 96 
+\i (00:06:05) roam x 96
+\i (00:06:05) roam x 96 
+\i (00:06:05) roam x 96
+\i (00:06:05) roam x 96 
+\i (00:06:05) roam x 96
+\i (00:06:05) roam x 96 
+\i (00:06:05) roam x 96
+\i (00:06:05) roam x 96 
+\i (00:06:05) roam x 96
+\i (00:06:05) roam x 96 
+\i (00:06:06) roam x 96
+\i (00:06:06) roam x 96 
+\i (00:06:06) roam x 96
+\i (00:06:06) roam x 96 
+\i (00:06:06) roam x 96
+\i (00:06:06) roam x 96 
+\i (00:06:06) roam x 96
+\i (00:06:06) roam x 96 
+\i (00:06:06) roam x 96
+\i (00:06:06) roam x 96 
+\i (00:06:06) roam x 96
+\i (00:06:06) roam x 96 
+\i (00:06:06) roam x 96
+\i (00:06:06) roam x 96 
+\i (00:06:06) roam x 96
+\i (00:06:06) roam x 96 
+\i (00:06:06) roam x 96
+\i (00:06:06) roam x 96 
+\i (00:06:06) roam x 96
+\i (00:06:06) roam x 96 
+\i (00:06:06) roam x 96
+\i (00:06:06) roam x 96 
+\i (00:06:06) roam x 96
+\i (00:06:06) roam x 96 
+\i (00:06:06) roam x 96
+\i (00:06:06) roam x 96 
+\i (00:06:06) roam x 96
+\i (00:06:06) roam x 96 
+\i (00:06:06) roam x 96
+\i (00:06:06) roam x 96 
+\i (00:06:06) roam x 96
+\i (00:06:06) roam x 96 
+\i (00:06:06) roam x 96
+\i (00:06:06) roam x 96 
+\i (00:06:06) roam x 96
+\i (00:06:06) roam x 96 
+\i (00:06:06) roam x 96
+\i (00:06:06) roam x 96 
+\i (00:06:06) roam x 96
+\i (00:06:06) roam x 96 
+\i (00:06:07) roam x 96
+\i (00:06:07) roam x 96 
+\i (00:06:07) roam x 96
+\i (00:06:07) roam x 96 
+\i (00:06:07) roam x 96
+\i (00:06:07) roam x 96 
+\i (00:06:07) roam x 96
+\i (00:06:07) roam x 96 
+\i (00:06:07) roam x 96
+\i (00:06:07) roam x 96 
+\i (00:06:07) roam x 96
+\i (00:06:07) roam x 96 
+\i (00:06:07) roam x 96
+\i (00:06:07) roam x 96 
+\i (00:06:07) roam x 96
+\i (00:06:07) roam x 96 
+\i (00:06:07) roam x 96
+\i (00:06:07) roam x 96 
+\i (00:06:07) roam x 96
+\i (00:06:07) roam x 96 
+\i (00:06:07) roam x 96
+\i (00:06:07) roam x 96 
+\i (00:06:07) roam x 96
+\i (00:06:07) roam x 96 
+\i (00:06:07) roam x 96
+\i (00:06:07) roam x 96 
+\i (00:06:07) roam x 96
+\i (00:06:07) roam x 96 
+\i (00:06:07) roam x 96
+\i (00:06:07) roam x 96 
+\i (00:06:07) roam x 96
+\i (00:06:07) roam x 96 
+\i (00:06:07) roam x 96
+\i (00:06:07) roam x 96 
+\i (00:06:07) roam x 96
+\i (00:06:07) roam x 96 
+\i (00:06:07) roam x 96
+\i (00:06:07) roam x 96 
+\i (00:06:07) roam x 96
+\i (00:06:07) roam x 96 
+\i (00:06:08) roam x 96
+\i (00:06:08) roam x 96 
+\i (00:06:08) roam x 96
+\i (00:06:08) roam x 96 
+\i (00:06:08) roam x 96
+\i (00:06:08) roam x 96 
+\i (00:06:08) roam x 96
+\i (00:06:08) roam x 96 
+\i (00:06:08) roam x 96
+\i (00:06:08) roam x 96 
+\i (00:06:08) roam x 96
+\i (00:06:08) roam x 96 
+\i (00:06:08) roam x 96
+\i (00:06:08) roam x 96 
+\i (00:06:08) roam x 96
+\i (00:06:08) roam x 96 
+\i (00:06:08) roam x 96
+\i (00:06:08) roam x 96 
+\i (00:06:08) roam x 96
+\i (00:06:08) roam x 96 
+\i (00:06:08) roam x 96
+\i (00:06:08) roam x -96 
+\i (00:06:08) roam x -96
+\i (00:06:09) roam x 96 
+\i (00:06:09) roam x 96
+\i (00:06:09) roam x 96 
+\i (00:06:09) roam x 96
+\i (00:06:10) roam x 96 
+\i (00:06:10) roam x 96
+\i (00:06:10) roam x 96 
+\i (00:06:10) roam x 96
+\i (00:06:10) roam x 96 
+\i (00:06:10) roam x 96
+\i (00:06:10) roam x 96 
+\i (00:06:10) roam x 96
+\i (00:06:10) roam x 96 
+\i (00:06:10) roam x 96
+\i (00:06:10) roam x 96 
+\i (00:06:10) roam x 96
+\i (00:06:10) roam x 96 
+\i (00:06:10) roam x 96
+\i (00:06:10) roam x 96 
+\i (00:06:10) roam x 96
+\i (00:06:11) pick grid -9.200 -78.819
+\t (00:06:11) last pick:  -8.890  -78.740
+\i (00:06:12) pick grid -8.345 -78.391
+\t (00:06:12) last pick:  -8.255  -78.105
+\i (00:06:12) roam y -96 
+\i (00:06:12) roam y -96
+\i (00:06:13) roam y -96 
+\i (00:06:13) roam y -96
+\i (00:06:13) roam y -96 
+\i (00:06:13) roam y -96
+\i (00:06:13) roam y -96 
+\i (00:06:13) roam y -96
+\i (00:06:13) roam y -96 
+\i (00:06:13) roam y -96
+\i (00:06:13) roam y -96 
+\i (00:06:13) roam y -96
+\i (00:06:13) roam y -96 
+\i (00:06:13) roam y -96
+\i (00:06:13) roam y -96 
+\i (00:06:13) roam y -96
+\i (00:06:13) roam y -96 
+\i (00:06:13) roam y -96
+\i (00:06:13) roam y -96 
+\i (00:06:13) roam y -96
+\i (00:06:13) roam y -96 
+\i (00:06:13) roam y -96
+\i (00:06:15) pick grid -8.269 -62.542
+\t (00:06:15) last pick:  -8.255  -62.230
+\i (00:06:15) roam x 96 
+\i (00:06:15) roam x 96
+\i (00:06:15) roam y -96 
+\i (00:06:15) roam y -96
+\i (00:06:15) roam x 96 
+\i (00:06:15) roam x 96
+\i (00:06:15) roam y -96 
+\i (00:06:15) roam y -96
+\i (00:06:16) roam x 96 
+\i (00:06:16) roam x 96
+\i (00:06:16) roam y -96 
+\i (00:06:16) roam y -96
+\i (00:06:16) roam x 96 
+\i (00:06:16) roam x 96
+\i (00:06:16) roam y -96 
+\i (00:06:16) roam y -96
+\i (00:06:17) pick grid -2.835 -56.305
+\t (00:06:17) last pick:  -2.540  -56.515
+\i (00:06:17) roam y -96 
+\i (00:06:17) roam y -96
+\i (00:06:17) roam y -96 
+\i (00:06:17) roam y -96
+\i (00:06:17) roam y -96 
+\i (00:06:17) roam y -96
+\i (00:06:18) roam y -96 
+\i (00:06:18) roam y -96
+\i (00:06:18) roam y -96 
+\i (00:06:18) roam y -96
+\i (00:06:18) roam y -96 
+\i (00:06:18) roam y -96
+\i (00:06:18) roam y -96 
+\i (00:06:18) roam y -96
+\i (00:06:18) roam y -96 
+\i (00:06:18) roam y -96
+\i (00:06:18) roam y -96 
+\i (00:06:18) roam y -96
+\i (00:06:18) roam y -96 
+\i (00:06:18) roam y -96
+\i (00:06:18) roam y -96 
+\i (00:06:18) roam y -96
+\i (00:06:18) roam y -96 
+\i (00:06:18) roam y -96
+\i (00:06:19) roam y -96 
+\i (00:06:19) roam y -96
+\i (00:06:19) roam y -96 
+\i (00:06:19) roam y -96
+\i (00:06:19) roam y -96 
+\i (00:06:19) roam y -96
+\i (00:06:19) roam y -96 
+\i (00:06:19) roam y -96
+\i (00:06:19) roam y -96 
+\i (00:06:19) roam y -96
+\i (00:06:19) roam y -96 
+\i (00:06:19) roam y -96
+\i (00:06:19) roam y -96 
+\i (00:06:19) roam y -96
+\i (00:06:19) roam y -96 
+\i (00:06:19) roam y -96
+\i (00:06:19) roam y -96 
+\i (00:06:19) roam y -96
+\i (00:06:19) roam y -96 
+\i (00:06:19) roam y -96
+\i (00:06:20) roam y -96 
+\i (00:06:20) roam y -96
+\i (00:06:20) roam y -96 
+\i (00:06:20) roam y -96
+\i (00:06:20) roam y -96 
+\i (00:06:20) roam y -96
+\i (00:06:20) roam y -96 
+\i (00:06:20) roam y -96
+\i (00:06:25) pick grid -2.295 -25.073
+\t (00:06:25) last pick:  -2.540  -24.765
+\i (00:06:26) pick grid -2.898 -24.444
+\t (00:06:26) last pick:  -3.175  -24.130
+\i (00:06:26) roam x -96 
+\i (00:06:26) roam x -96
+\i (00:06:26) roam x -96 
+\i (00:06:26) roam x -96
+\i (00:06:27) roam x -96 
+\i (00:06:27) roam x -96
+\i (00:06:27) roam x -96 
+\i (00:06:27) roam x -96
+\i (00:06:27) roam x -96 
+\i (00:06:27) roam x -96
+\i (00:06:27) roam x -96 
+\i (00:06:27) roam x -96
+\i (00:06:28) pick grid -12.395 -24.180
+\t (00:06:28) last pick:  -12.700  -24.130
+\i (00:06:28) roam y -96 
+\i (00:06:28) roam y -96
+\i (00:06:28) roam x -96 
+\i (00:06:28) roam x -96
+\i (00:06:28) roam y -96 
+\i (00:06:28) roam y -96
+\i (00:06:29) pick grid -14.295 -22.356
+\t (00:06:29) last pick:  -14.605  -22.225
+\i (00:06:30) pick grid -16.194 -22.231
+\t (00:06:30) last pick:  -16.510  -22.225
+\i (00:06:30) pick grid -17.477 -21.262
+\t (00:06:30) last pick:  -17.780  -20.955
+\i (00:06:31) roam y -96 
+\i (00:06:31) roam y -96
+\i (00:06:31) roam y -96 
+\i (00:06:31) roam y -96
+\i (00:06:31) roam y -96 
+\i (00:06:31) roam y -96
+\i (00:06:32) pick grid -17.804 -17.464
+\t (00:06:32) last pick:  -17.780  -17.780
+\i (00:06:33) pick grid -16.068 -16.181
+\t (00:06:33) last pick:  -15.875  -15.875
+\i (00:06:33) roam y -96 
+\i (00:06:33) roam y -96
+\i (00:06:33) roam y -96 
+\i (00:06:33) roam y -96
+\i (00:06:33) roam y -96 
+\i (00:06:33) roam y -96
+\i (00:06:33) roam y -96 
+\i (00:06:33) roam y -96
+\i (00:06:33) roam y -96 
+\i (00:06:33) roam y -96
+\i (00:06:34) roam y -96 
+\i (00:06:34) roam y -96
+\i (00:06:34) roam y -96 
+\i (00:06:34) roam y -96
+\i (00:06:34) roam y -96 
+\i (00:06:34) roam y -96
+\i (00:06:35) pick grid -15.854 -8.571
+\t (00:06:35) last pick:  -15.875  -8.255
+\i (00:06:35) pick grid -16.458 -7.930
+\t (00:06:35) last pick:  -16.510  -7.620
+\i (00:06:36) pick grid -18.106 -7.640
+\t (00:06:36) last pick:  -18.415  -7.620
+\i (00:06:37) pick grid -19.414 -6.659
+\t (00:06:37) last pick:  -19.685  -6.350
+\i (00:06:37) roam x -96 
+\i (00:06:37) roam x -96
+\i (00:06:37) roam y -96 
+\i (00:06:37) roam y -96
+\i (00:06:37) roam y -96 
+\i (00:06:37) roam y -96
+\i (00:06:37) roam y -96 
+\i (00:06:37) roam y -96
+\i (00:06:37) roam y -96 
+\i (00:06:37) roam y -96
+\i (00:06:38) pick grid -19.640 -2.848
+\t (00:06:38) last pick:  -19.685  -2.540
+\i (00:06:40) pick grid -18.004 -0.949
+\t (00:06:40) last pick:  -17.780  -0.635
+\i (00:06:42) roam x -96 
+\i (00:06:42) roam x -96
+\i (00:06:42) roam x -96 
+\i (00:06:42) roam x -96
+\i (00:06:42) roam x -96 
+\i (00:06:42) roam x -96
+\i (00:06:42) roam x -96 
+\i (00:06:42) roam x -96
+\i (00:06:43) roam x -96 
+\i (00:06:43) roam x -96
+\i (00:06:43) roam x -96 
+\i (00:06:43) roam x -96
+\i (00:06:43) roam x -96 
+\i (00:06:43) roam x -96
+\i (00:06:43) roam x -96 
+\i (00:06:43) roam x -96
+\i (00:06:43) roam x -96 
+\i (00:06:43) roam x -96
+\i (00:06:43) roam x -96 
+\i (00:06:43) roam x -96
+\i (00:06:43) roam x -96 
+\i (00:06:43) roam x -96
+\i (00:06:43) roam x -96 
+\i (00:06:43) roam x -96
+\i (00:06:44) roam x -96 
+\i (00:06:44) roam x -96
+\i (00:06:44) roam x -96 
+\i (00:06:44) roam x -96
+\i (00:06:44) roam x -96 
+\i (00:06:44) roam x -96
+\i (00:06:44) roam x -96 
+\i (00:06:44) roam x -96
+\i (00:06:44) roam x -96 
+\i (00:06:44) roam x -96
+\i (00:06:44) roam x -96 
+\i (00:06:44) roam x -96
+\i (00:06:44) roam x -96 
+\i (00:06:44) roam x -96
+\i (00:06:44) roam x 96 
+\i (00:06:44) roam x 96
+\i (00:06:45) roam x 96 
+\i (00:06:45) roam x 96
+\i (00:06:45) roam x 96 
+\i (00:06:45) roam x 96
+\i (00:06:45) roam x 96 
+\i (00:06:45) roam x 96
+\i (00:06:45) roam x 96 
+\i (00:06:45) roam x 96
+\i (00:06:45) roam x 96 
+\i (00:06:45) roam x 96
+\i (00:06:45) roam x 96 
+\i (00:06:45) roam x 96
+\i (00:06:45) roam x 96 
+\i (00:06:45) roam x 96
+\i (00:06:45) roam x 96 
+\i (00:06:45) roam x 96
+\i (00:06:45) roam x 96 
+\i (00:06:45) roam x 96
+\i (00:06:45) roam x 96 
+\i (00:06:45) roam x 96
+\i (00:06:45) roam x 96 
+\i (00:06:45) roam x 96
+\i (00:06:45) roam x 96 
+\i (00:06:45) roam x 96
+\i (00:06:45) roam x 96 
+\i (00:06:45) roam x 96
+\i (00:06:45) roam x 96 
+\i (00:06:45) roam x 96
+\i (00:06:45) roam x 96 
+\i (00:06:45) roam x 96
+\i (00:06:48) oops 
+\t (00:06:48) last pick:  -19.685  -2.540
+\i (00:06:48) pick grid -18.244 -1.351
+\t (00:06:49) last pick:  -18.415  -1.270
+\i (00:06:51) pick grid -18.093 -0.647
+\t (00:06:51) last pick:  -17.780  -0.635
+\i (00:06:52) roam x -96 
+\i (00:06:52) roam x -96
+\i (00:06:52) roam x -96 
+\i (00:06:52) roam x -96
+\i (00:06:52) roam x -96 
+\i (00:06:52) roam x -96
+\i (00:06:52) roam x -96 
+\i (00:06:52) roam x -96
+\i (00:06:52) roam x -96 
+\i (00:06:52) roam x -96
+\i (00:06:52) roam x -96 
+\i (00:06:52) roam x -96
+\i (00:06:52) roam x -96 
+\i (00:06:52) roam x -96
+\i (00:06:52) roam x -96 
+\i (00:06:52) roam x -96
+\i (00:06:52) roam x -96 
+\i (00:06:52) roam x -96
+\i (00:06:53) roam x -96 
+\i (00:06:53) roam x -96
+\i (00:06:53) roam x -96 
+\i (00:06:53) roam x -96
+\i (00:06:53) roam x -96 
+\i (00:06:53) roam x -96
+\i (00:06:53) roam x -96 
+\i (00:06:53) roam x -96
+\i (00:06:53) roam x -96 
+\i (00:06:53) roam x -96
+\i (00:06:53) roam x -96 
+\i (00:06:53) roam x -96
+\i (00:06:53) roam x -96 
+\i (00:06:53) roam x -96
+\i (00:06:53) roam x -96 
+\i (00:06:53) roam x -96
+\i (00:06:53) roam x -96 
+\i (00:06:53) roam x -96
+\i (00:06:53) roam x -96 
+\i (00:06:53) roam x -96
+\i (00:06:53) roam x -96 
+\i (00:06:53) roam x -96
+\i (00:06:53) roam x -96 
+\i (00:06:53) roam x -96
+\i (00:06:53) roam x -96 
+\i (00:06:53) roam x -96
+\i (00:06:53) roam x -96 
+\i (00:06:53) roam x -96
+\i (00:06:53) roam x -96 
+\i (00:06:53) roam x -96
+\i (00:06:53) roam x -96 
+\i (00:06:53) roam x -96
+\i (00:06:53) roam x -96 
+\i (00:06:53) roam x -96
+\i (00:06:53) roam x -96 
+\i (00:06:53) roam x -96
+\i (00:06:54) pick grid -49.839 -0.710
+\t (00:06:54) last pick:  -49.530  -0.635
+\i (00:06:55) prepopup -50.241 -0.634
+\i (00:06:56) done 
+\i (00:06:56) generaledit 
+\i (00:06:57) pick grid -48.732 -0.572
+\t (00:06:57) last pick:  -48.895  -0.635
+\i (00:06:57) prepopup -48.707 -0.634
+\i (00:07:01) setwindow form.mini
+\i (00:07:01) FORM mini subclass VCC 
+\i (00:07:02) setwindow pcb
+\i (00:07:02) pick grid -51.763 -0.861
+\t (00:07:02) last pick:  -52.070  -0.635
+\i (00:07:03) pick grid -49.726 -0.886
+\t (00:07:03) last pick:  -49.530  -0.635
+\i (00:07:05) pick grid -56.442 -0.609
+\t (00:07:05) last pick:  -56.515  -0.635
+\i (00:07:07) pick grid -51.612 -0.395
+\t (00:07:07) last pick:  -51.435  -0.635
+\i (00:07:08) pick grid -55.612 -1.502
+\t (00:07:08) last pick:  -55.880  -1.270
+\i (00:07:09) prepopup -55.625 -1.502
+\i (00:07:18) pick grid -51.889 -0.634
+\t (00:07:18) last pick:  -52.070  -0.635
+\i (00:07:20) roam x 96 
+\i (00:07:20) roam x 96
+\i (00:07:20) roam x 96 
+\i (00:07:20) roam x 96
+\i (00:07:20) roam x 96 
+\i (00:07:20) roam x 96
+\i (00:07:21) pick grid -46.129 -0.584
+\t (00:07:21) last pick:  -46.355  -0.635
+\i (00:07:21) pick grid dbl -46.129 -0.584
+\t (00:07:21) last pick:  -46.355  -0.635
+\i (00:07:24) roam x 96 
+\i (00:07:24) roam x 96
+\i (00:07:24) roam x 96 
+\i (00:07:24) roam x 96
+\i (00:07:24) roam x 96 
+\i (00:07:24) roam x 96
+\i (00:07:24) roam x 96 
+\i (00:07:24) roam x 96
+\i (00:07:24) roam x 96 
+\i (00:07:24) roam x 96
+\i (00:07:26) roam x 96 
+\i (00:07:26) roam x 96
+\i (00:07:26) roam x 96 
+\i (00:07:26) roam x 96
+\i (00:07:26) roam x 96 
+\i (00:07:26) roam x 96
+\i (00:07:26) roam x 96 
+\i (00:07:26) roam x 96
+\i (00:07:26) roam x 96 
+\i (00:07:26) roam x 96
+\i (00:07:26) roam x 96 
+\i (00:07:26) roam x 96
+\i (00:07:27) roam x 96 
+\i (00:07:27) roam x 96
+\i (00:07:27) roam x 96 
+\i (00:07:27) roam x 96
+\i (00:07:27) roam x 96 
+\i (00:07:27) roam x 96
+\i (00:07:27) roam x 96 
+\i (00:07:27) roam x 96
+\i (00:07:27) roam x 96 
+\i (00:07:27) roam x 96
+\i (00:07:27) roam x 96 
+\i (00:07:27) roam x 96
+\i (00:07:27) roam x 96 
+\i (00:07:27) roam x 96
+\i (00:07:27) roam x 96 
+\i (00:07:27) roam x 96
+\i (00:07:27) roam x 96 
+\i (00:07:27) roam x 96
+\i (00:07:27) roam x 96 
+\i (00:07:27) roam x 96
+\i (00:07:27) roam x 96 
+\i (00:07:27) roam x 96
+\i (00:07:28) prepopup -18.068 -0.723
+\i (00:07:32) pop dyn_option_select 'Change to layer@:@VCC' 
+\i (00:07:32) change layer 
+\t (00:07:32) No DRC errors detected.
+\t (00:07:32) Changed 1 items out of 1 items found.
+\i (00:07:32) generaledit 
+\i (00:07:33) roam x -96 
+\i (00:07:33) roam x -96
+\i (00:07:33) roam x -96 
+\i (00:07:33) roam x -96
+\i (00:07:33) roam x -96 
+\i (00:07:33) roam x -96
+\i (00:07:33) roam x -96 
+\i (00:07:33) roam x -96
+\i (00:07:33) roam x -96 
+\i (00:07:33) roam x -96
+\i (00:07:33) roam x -96 
+\i (00:07:33) roam x -96
+\i (00:07:33) roam x -96 
+\i (00:07:33) roam x -96
+\i (00:07:33) roam x -96 
+\i (00:07:33) roam x -96
+\i (00:07:33) roam x -96 
+\i (00:07:33) roam x -96
+\i (00:07:33) roam x -96 
+\i (00:07:33) roam x -96
+\i (00:07:34) roam x -96 
+\i (00:07:34) roam x -96
+\i (00:07:34) roam x -96 
+\i (00:07:34) roam x -96
+\i (00:07:34) roam x -96 
+\i (00:07:34) roam x -96
+\i (00:07:34) roam x -96 
+\i (00:07:34) roam x -96
+\i (00:07:34) roam x -96 
+\i (00:07:34) roam x -96
+\i (00:07:34) roam x -96 
+\i (00:07:34) roam x -96
+\i (00:07:34) roam x -96 
+\i (00:07:34) roam x -96
+\i (00:07:34) roam x -96 
+\i (00:07:34) roam x -96
+\i (00:07:34) roam x -96 
+\i (00:07:34) roam x -96
+\i (00:07:34) roam x -96 
+\i (00:07:34) roam x -96
+\i (00:07:34) roam x -96 
+\i (00:07:34) roam x -96
+\i (00:07:34) roam x -96 
+\i (00:07:34) roam x -96
+\i (00:07:34) roam x -96 
+\i (00:07:34) roam x -96
+\i (00:07:34) roam x -96 
+\i (00:07:34) roam x -96
+\i (00:07:34) roam x -96 
+\i (00:07:34) roam x -96
+\i (00:07:35) prepopup -56.631 -0.748
+\i (00:07:36) pick grid -57.222 -0.760
+\t (00:07:36) last pick:  -57.150  -0.635
+\i (00:07:37) pick grid -57.021 -0.597
+\t (00:07:37) last pick:  -57.150  -0.635
+\i (00:07:38) prepopup -56.555 -0.647
+\i (00:07:40) pop dyn_option_select 'Change to layer@:@VCC' 
+\i (00:07:40) change layer 
+\t (00:07:40) No DRC errors detected.
+\t (00:07:40) Changed 1 items out of 1 items found.
+\i (00:07:40) roam x 96 
+\i (00:07:40) roam x 96
+\i (00:07:40) generaledit 
+\i (00:07:41) roam x 96 
+\i (00:07:41) roam x 96
+\i (00:07:41) roam x 96 
+\i (00:07:41) roam x 96
+\i (00:07:41) roam x 96 
+\i (00:07:41) roam x 96
+\i (00:07:41) roam x 96 
+\i (00:07:41) roam x 96
+\i (00:07:41) roam x 96 
+\i (00:07:41) roam x 96
+\i (00:07:41) roam x 96 
+\i (00:07:41) roam x 96
+\i (00:07:41) roam x 96 
+\i (00:07:41) roam x 96
+\i (00:07:41) roam x 96 
+\i (00:07:41) roam x 96
+\i (00:07:41) roam x 96 
+\i (00:07:41) roam x 96
+\i (00:07:41) roam x 96 
+\i (00:07:41) roam x 96
+\i (00:07:41) roam x 96 
+\i (00:07:41) roam x 96
+\i (00:07:41) roam x 96 
+\i (00:07:41) roam x 96
+\i (00:07:41) roam x 96 
+\i (00:07:41) roam x 96
+\i (00:07:41) roam x 96 
+\i (00:07:41) roam x 96
+\i (00:07:41) roam x -96 
+\i (00:07:41) roam x -96
+\i (00:07:42) roam x -96 
+\i (00:07:42) roam x -96
+\i (00:07:42) roam x -96 
+\i (00:07:42) roam x -96
+\i (00:07:42) roam x -96 
+\i (00:07:42) roam x -96
+\i (00:07:42) roam x -96 
+\i (00:07:42) roam x -96
+\i (00:07:42) roam x -96 
+\i (00:07:42) roam x -96
+\i (00:07:42) roam x -96 
+\i (00:07:42) roam x -96
+\i (00:07:42) roam x -96 
+\i (00:07:42) roam x -96
+\i (00:07:42) roam x -96 
+\i (00:07:42) roam x -96
+\i (00:07:42) roam x -96 
+\i (00:07:42) roam x -96
+\i (00:07:42) roam x -96 
+\i (00:07:42) roam x -96
+\i (00:07:42) roam x -96 
+\i (00:07:42) roam x -96
+\i (00:07:42) roam x -96 
+\i (00:07:42) roam x -96
+\i (00:07:42) roam x -96 
+\i (00:07:42) roam x -96
+\i (00:07:42) roam x -96 
+\i (00:07:42) roam x -96
+\i (00:07:42) roam x -96 
+\i (00:07:42) roam x -96
+\i (00:07:43) prepopup -57.084 -0.660
+\i (00:07:45) pop dyn_option_select 'Change to layer@:@ALL' 
+\i (00:07:45) change layer 
+\t (00:07:45) No DRC errors detected.
+\t (00:07:45) Changed 1 items out of 1 items found.
+\i (00:07:45) generaledit 
+\i (00:07:46) pick grid -49.387 -0.710
+\t (00:07:46) last pick:  -49.530  -0.635
+\i (00:07:46) prepopup -49.261 -0.647
+\i (00:07:49) pop dyn_option_select 'Change to layer@:@ALL' 
+\i (00:07:49) change layer 
+\t (00:07:49) No DRC errors detected.
+\t (00:07:49) Changed 1 items out of 1 items found.
+\i (00:07:49) roam x 96 
+\i (00:07:49) roam x 96
 \i (00:07:49) generaledit 
-\i (00:07:50) zoom in 
-\i (00:07:50) setwindow pcb
-\i (00:07:50) zoom in -88.094 -42.688
-\i (00:07:50) trapsize 63
-\i (00:07:50) zoom out 
-\i (00:07:50) setwindow pcb
-\i (00:07:50) zoom out -88.094 -42.688
-\i (00:07:50) trapsize 126
-\i (00:07:51) zoom out 
-\i (00:07:51) setwindow pcb
-\i (00:07:51) zoom out -88.093 -42.688
-\i (00:07:51) trapsize 252
-\i (00:07:51) zoom out 
-\i (00:07:51) setwindow pcb
-\i (00:07:51) zoom out -88.093 -42.688
-\i (00:07:51) trapsize 503
-\i (00:07:51) roam y -96 
-\i (00:07:51) roam y -96
-\i (00:07:52) roam y -96 
-\i (00:07:52) roam y -96
-\i (00:07:52) roam x 96 
-\i (00:07:52) roam x 96
-\i (00:07:52) roam x 96 
-\i (00:07:52) roam x 96
-\i (00:07:53) roam x 96 
-\i (00:07:53) roam x 96
-\i (00:07:53) roam y 96 
-\i (00:07:53) roam y 96
-\i (00:07:54) zoom in 
-\i (00:07:54) setwindow pcb
-\i (00:07:54) zoom in 1.806 -55.952
-\i (00:07:54) trapsize 252
-\i (00:07:54) zoom in 
-\i (00:07:54) setwindow pcb
-\i (00:07:54) zoom in 1.706 -55.851
-\i (00:07:54) trapsize 126
-\i (00:07:54) zoom in 
-\i (00:07:54) setwindow pcb
-\i (00:07:54) zoom in 1.706 -55.851
-\i (00:07:54) trapsize 63
-\i (00:07:55) roam x -96 
-\i (00:07:55) roam x -96
-\i (00:07:55) roam x -96 
-\i (00:07:55) roam x -96
-\i (00:07:55) roam y -96 
-\i (00:07:55) roam y -96
-\i (00:07:56) roam y -96 
-\i (00:07:56) roam y -96
-\i (00:07:56) roam x -96 
-\i (00:07:56) roam x -96
-\i (00:07:56) roam x -96 
-\i (00:07:56) roam x -96
-\i (00:07:56) roam y -96 
-\i (00:07:56) roam y -96
-\i (00:07:56) roam x -96 
-\i (00:07:56) roam x -96
-\i (00:07:57) roam x -96 
-\i (00:07:57) roam x -96
-\i (00:07:57) roam y -96 
-\i (00:07:57) roam y -96
-\i (00:07:57) roam y -96 
-\i (00:07:57) roam y -96
-\i (00:07:57) roam y -96 
-\i (00:07:57) roam y -96
-\i (00:07:57) roam y -96 
-\i (00:07:57) roam y -96
-\i (00:07:58) roam y -96 
-\i (00:07:58) roam y -96
-\i (00:07:58) roam y -96 
-\i (00:07:58) roam y -96
-\i (00:07:58) roam y -96 
-\i (00:07:58) roam y -96
-\i (00:07:59) roam x -96 
-\i (00:07:59) roam x -96
-\i (00:07:59) roam x -96 
-\i (00:07:59) roam x -96
-\i (00:07:59) roam x -96 
-\i (00:07:59) roam x -96
-\i (00:07:59) roam x -96 
-\i (00:07:59) roam x -96
-\i (00:07:59) roam x -96 
-\i (00:07:59) roam x -96
-\i (00:08:00) zoom in 
-\i (00:08:00) setwindow pcb
-\i (00:08:00) zoom in -16.420 -41.890
-\i (00:08:00) trapsize 31
-\i (00:08:00) zoom out 
-\i (00:08:00) setwindow pcb
-\i (00:08:00) zoom out -16.420 -41.890
-\i (00:08:00) trapsize 63
-\i (00:08:00) zoom out 
-\i (00:08:00) setwindow pcb
-\i (00:08:00) zoom out -16.420 -41.889
-\i (00:08:00) trapsize 126
-\i (00:08:01) roam y -96 
-\i (00:08:01) roam y -96
-\i (00:08:02) roam y -96 
-\i (00:08:02) roam y -96
-\i (00:08:02) roam y -96 
-\i (00:08:02) roam y -96
-\i (00:08:02) roam y -96 
-\i (00:08:02) roam y -96
-\i (00:08:02) roam y -96 
-\i (00:08:02) roam y -96
-\i (00:08:02) roam y -96 
-\i (00:08:02) roam y -96
-\i (00:08:02) roam y -96 
-\i (00:08:02) roam y -96
-\i (00:08:03) zoom in 
+\i (00:07:49) roam x 96 
+\i (00:07:49) roam x 96
+\i (00:07:49) roam x 96 
+\i (00:07:49) roam x 96
+\i (00:07:49) roam x 96 
+\i (00:07:49) roam x 96
+\i (00:07:49) roam x 96 
+\i (00:07:49) roam x 96
+\i (00:07:49) roam x 96 
+\i (00:07:49) roam x 96
+\i (00:07:49) roam x 96 
+\i (00:07:50) roam x 96
+\i (00:07:50) roam x 96 
+\i (00:07:50) roam x 96
+\i (00:07:50) roam x 96 
+\i (00:07:50) roam x 96
+\i (00:07:50) roam x 96 
+\i (00:07:50) roam x 96
+\i (00:07:50) roam x 96 
+\i (00:07:50) roam x 96
+\i (00:07:50) roam x 96 
+\i (00:07:50) roam x 96
+\i (00:07:50) roam x 96 
+\i (00:07:50) roam x 96
+\i (00:07:50) roam x 96 
+\i (00:07:50) roam x 96
+\i (00:07:50) roam x 96 
+\i (00:07:50) roam x 96
+\i (00:07:50) roam x 96 
+\i (00:07:50) roam x 96
+\i (00:07:50) roam x 96 
+\i (00:07:50) roam x 96
+\i (00:07:50) roam x 96 
+\i (00:07:50) roam x 96
+\i (00:07:50) roam x 96 
+\i (00:07:50) roam x 96
+\i (00:07:50) roam x 96 
+\i (00:07:50) roam x 96
+\i (00:07:50) roam x 96 
+\i (00:07:50) roam x 96
+\i (00:07:50) roam x 96 
+\i (00:07:50) roam x 96
+\i (00:07:50) roam x 96 
+\i (00:07:50) roam x 96
+\i (00:07:51) roam x 96 
+\i (00:07:51) roam x 96
+\i (00:07:51) roam x 96 
+\i (00:07:51) roam x 96
+\i (00:07:54) add line 
+\i (00:07:54) roam x 96 
+\i (00:07:54) roam x 96
+\i (00:07:55) roam x 96 
+\i (00:07:55) roam x 96
+\i (00:07:56) pick grid -17.778 -0.597
+\t (00:07:56) last pick:  -17.780  -0.635
+\i (00:07:56) roam x 96 
+\i (00:07:56) roam x 96
+\i (00:07:56) roam x 96 
+\i (00:07:56) roam x 96
+\i (00:07:56) roam x 96 
+\i (00:07:56) roam x 96
+\i (00:07:56) roam x 96 
+\i (00:07:56) roam x 96
+\i (00:07:57) roam x 96 
+\i (00:07:57) roam x 96
+\i (00:07:57) roam x 96 
+\i (00:07:57) roam x 96
+\i (00:07:58) roam x 96 
+\i (00:07:58) roam x 96
+\i (00:07:58) roam x 96 
+\i (00:07:58) roam x 96
+\i (00:07:58) roam x 96 
+\i (00:07:58) roam x 96
+\i (00:07:58) roam x 96 
+\i (00:07:58) roam x 96
+\i (00:07:58) roam x 96 
+\i (00:07:58) roam x 96
+\i (00:08:02) setwindow form.mini
+\i (00:08:02) FORM mini subclass ALL 
 \i (00:08:03) setwindow pcb
-\i (00:08:03) zoom in -16.420 -24.986
-\i (00:08:03) trapsize 63
-\i (00:08:03) zoom out 
-\i (00:08:03) setwindow pcb
-\i (00:08:03) zoom out -16.420 -24.985
-\i (00:08:03) trapsize 126
-\i (00:08:03) zoom out 
-\i (00:08:03) setwindow pcb
-\i (00:08:03) zoom out -16.420 -24.986
-\i (00:08:03) trapsize 252
-\i (00:08:03) zoom out 
-\i (00:08:04) setwindow pcb
-\i (00:08:04) zoom out -16.420 -24.985
-\i (00:08:04) trapsize 503
-\i (00:08:05) roam x -96 
-\i (00:08:05) roam x -96
-\i (00:08:05) roam x -96 
-\i (00:08:05) roam x -96
+\i (00:08:03) pick grid -2.257 -0.924
+\t (00:08:03) last pick:  -2.540  -0.635
+\i (00:08:04) pick grid -1.389 -1.590
+\t (00:08:04) last pick:  -1.270  -1.905
+\i (00:08:04) roam y 96 
+\i (00:08:04) roam y 96
+\i (00:08:05) roam y 96 
+\i (00:08:05) roam y 96
+\i (00:08:05) roam y -96 
+\i (00:08:05) roam y -96
+\i (00:08:05) roam y -96 
+\i (00:08:05) roam y -96
+\i (00:08:06) roam y -96 
+\i (00:08:06) roam y -96
 \i (00:08:06) roam x -96 
 \i (00:08:06) roam x -96
 \i (00:08:06) roam x -96 
 \i (00:08:06) roam x -96
-\i (00:08:06) zoom in 
-\i (00:08:06) setwindow pcb
-\i (00:08:06) zoom in -49.412 -29.413
-\i (00:08:06) trapsize 252
-\i (00:08:07) zoom in 
-\i (00:08:07) setwindow pcb
-\i (00:08:07) zoom in -49.210 -29.312
-\i (00:08:07) trapsize 126
-\i (00:08:08) zoom out 
-\i (00:08:08) setwindow pcb
-\i (00:08:08) zoom out -49.134 -29.287
-\i (00:08:08) trapsize 252
-\i (00:08:08) zoom out 
-\i (00:08:08) setwindow pcb
-\i (00:08:08) zoom out -49.134 -29.287
-\i (00:08:08) trapsize 503
-\i (00:08:09) zoom in 
-\i (00:08:09) setwindow pcb
-\i (00:08:09) zoom in -64.731 -17.715
-\i (00:08:09) trapsize 252
-\i (00:08:09) zoom in 
-\i (00:08:09) setwindow pcb
-\i (00:08:09) zoom in -64.730 -17.715
-\i (00:08:09) trapsize 126
-\i (00:08:09) zoom in 
-\i (00:08:09) setwindow pcb
-\i (00:08:09) zoom in -64.730 -17.715
-\i (00:08:09) trapsize 63
-\i (00:08:10) roam y 96 
-\i (00:08:10) roam y 96
-\i (00:08:10) roam y 96 
-\i (00:08:10) roam y 96
-\i (00:08:10) roam y 96 
-\i (00:08:10) roam y 96
-\i (00:08:10) roam x 96 
-\i (00:08:10) roam x 96
-\i (00:08:10) roam x 96 
-\i (00:08:10) roam x 96
-\i (00:08:11) roam y 96 
-\i (00:08:11) roam y 96
-\i (00:08:12) roam x 96 
-\i (00:08:12) roam x 96
-\i (00:08:13) shape add rect 
-\i (00:08:15) pick grid -57.121 -25.376
-\t (00:08:15) last pick:  -57.150  -25.400
-\i (00:08:16) pick grid -58.115 -24.193
-\t (00:08:16) last pick:  -58.420  -24.130
-\i (00:08:17) prepopup -54.631 -24.872
-\i (00:08:17) cancel 
-\i (00:08:18) generaledit 
-\i (00:08:19) shape add rect 
-\i (00:08:19) pick grid -69.511 -21.741
-\t (00:08:19) last pick:  -69.215  -21.590
-\i (00:08:20) pick grid -68.781 -22.558
-\t (00:08:20) last pick:  -68.580  -22.860
-\i (00:08:22) prepopup -68.794 -22.156
-\i (00:08:23) done 
-\i (00:08:24) generaledit 
-\i (00:08:24) prepopup -68.907 -22.218
-\i (00:08:25) pick grid -68.957 -22.042
-\t (00:08:25) last pick:  -69.215  -22.225
-\i (00:08:26) shape select 
-\i (00:08:27) pick grid -68.819 -22.583
-\t (00:08:27) last pick:  -68.580  -22.860
-\i (00:08:27) prepopup -68.819 -22.508
-\i (00:08:29) pop shape move 
-\i (00:08:35) prepopup -67.875 -22.621
-\i (00:08:36) pick grid -60.782 -23.627
-\t (00:08:36) last pick:  -60.960  -23.495
-\i (00:08:39) drag_start grid -61.008 -24.105
-\t (00:08:39) last pick:  -60.960  -24.130
-\i (00:08:39) drag_stop grid -61.410 -24.130
-\t (00:08:39) No DRC errors detected.
-\i (00:08:40) drag_start grid -60.970 -22.885
-\t (00:08:40) last pick:  -60.960  -22.860
-\i (00:08:41) drag_stop grid -61.549 -22.797
-\t (00:08:41) No DRC errors detected.
-\i (00:08:43) drag_start grid -60.354 -22.873
-\t (00:08:43) last pick:  -60.325  -22.860
-\i (00:08:43) drag_stop grid -61.109 -23.476
-\t (00:08:43) No DRC errors detected.
-\i (00:08:44) prepopup -61.234 -23.652
-\i (00:08:46) pop shape move 
-\i (00:08:49) pick grid -57.650 -24.445
-\t (00:08:49) last pick:  -57.785  -24.130
-\i (00:08:50) prepopup -58.115 -24.633
-\i (00:08:51) done 
-\i (00:08:51) generaledit 
-\i (00:08:55) shape merge shapes 
-\t (00:08:56) Pick primary shape to merge to
-\i (00:08:56) pick grid -59.323 -25.048
-\t (00:08:56) last pick:  -59.055  -24.765
-\t (00:08:56) Pick shapes to be merged
-\i (00:08:57) pick grid -58.115 -24.545
-\t (00:08:57) last pick:  -58.420  -24.765
-\e (00:08:57) Shapes must be on same layer, not merged.
-\i (00:08:58) prepopup -57.436 -25.174
-\i (00:08:59) done 
-\i (00:08:59) generaledit 
-\i (00:09:00) zoom in 
-\i (00:09:00) setwindow pcb
-\i (00:09:00) zoom in -54.178 -24.344
-\i (00:09:00) trapsize 31
-\i (00:09:01) zoom out 
-\i (00:09:01) setwindow pcb
-\i (00:09:01) zoom out -54.178 -24.344
-\i (00:09:01) trapsize 63
-\i (00:09:01) zoom out 
-\i (00:09:01) setwindow pcb
-\i (00:09:01) zoom out -54.178 -24.343
-\i (00:09:01) trapsize 126
-\i (00:09:01) zoom out 
-\i (00:09:01) setwindow pcb
-\i (00:09:01) zoom out -54.178 -24.343
-\i (00:09:01) trapsize 252
+\i (00:08:07) roam x -96 
+\i (00:08:07) roam x -96
+\i (00:08:07) roam x -96 
+\i (00:08:07) roam x -96
+\i (00:08:08) oops 
+\t (00:08:08) last pick:  -2.540  -0.635
+\i (00:08:08) oops 
+\t (00:08:08) last pick:  -17.780  -0.635
+\i (00:08:09) pick grid -12.383 -0.698
+\t (00:08:09) last pick:  -12.700  -0.635
+\i (00:08:10) pick grid -11.628 -1.591
+\t (00:08:10) last pick:  -11.430  -1.905
+\i (00:08:11) pick grid -11.188 -4.144
+\t (00:08:11) last pick:  -11.430  -4.445
+\i (00:08:12) pick grid -12.383 -5.415
+\t (00:08:12) last pick:  -12.700  -5.715
+\i (00:08:12) pick grid -12.684 -6.672
+\t (00:08:12) last pick:  -12.700  -6.985
+\i (00:08:13) pick grid -12.370 -7.364
+\t (00:08:13) last pick:  -12.065  -7.620
+\i (00:08:13) roam x 96 
+\i (00:08:13) roam x 96
+\i (00:08:13) roam x 96 
+\i (00:08:13) roam x 96
+\i (00:08:13) roam x 96 
+\i (00:08:13) roam x 96
+\i (00:08:13) roam x 96 
+\i (00:08:13) roam x 96
+\i (00:08:13) roam x 96 
+\i (00:08:13) roam x 96
+\i (00:08:14) roam x 96 
+\i (00:08:14) roam x 96
+\i (00:08:14) roam x 96 
+\i (00:08:14) roam x 96
+\i (00:08:14) roam x 96 
+\i (00:08:14) roam x 96
+\i (00:08:16) roam y 96 
+\i (00:08:16) roam y 96
+\i (00:08:16) roam y 96 
+\i (00:08:16) roam y 96
+\i (00:08:20) pick grid -1.591 -7.767
+\t (00:08:20) last pick:  -1.905  -7.620
+\i (00:08:21) pick grid -1.565 -7.943
+\t (00:08:21) last pick:  -1.270  -8.255
+\i (00:08:22) pick grid -0.773 -8.597
+\t (00:08:22) last pick:  -0.635  -8.890
+\i (00:08:22) roam y 96 
+\i (00:08:22) roam y 96
+\i (00:08:23) roam y 96 
+\i (00:08:23) roam y 96
+\i (00:08:23) roam y 96 
+\i (00:08:23) roam y 96
+\i (00:08:23) roam y 96 
+\i (00:08:23) roam y 96
+\i (00:08:23) roam y 96 
+\i (00:08:23) roam y 96
+\i (00:08:23) roam y 96 
+\i (00:08:23) roam y 96
+\i (00:08:23) roam y 96 
+\i (00:08:23) roam y 96
+\i (00:08:23) roam y 96 
+\i (00:08:23) roam y 96
+\i (00:08:23) roam y 96 
+\i (00:08:23) roam y 96
+\i (00:08:23) roam y 96 
+\i (00:08:23) roam y 96
+\i (00:08:23) roam y 96 
+\i (00:08:23) roam y 96
+\i (00:08:23) roam y 96 
+\i (00:08:23) roam y 96
+\i (00:08:23) roam y 96 
+\i (00:08:23) roam y 96
+\i (00:08:23) roam y 96 
+\i (00:08:23) roam y 96
+\i (00:08:23) roam y 96 
+\i (00:08:23) roam y 96
+\i (00:08:23) roam y 96 
+\i (00:08:23) roam y 96
+\i (00:08:23) roam y 96 
+\i (00:08:24) roam y 96
+\i (00:08:24) roam y 96 
+\i (00:08:24) roam y 96
+\i (00:08:24) roam y 96 
+\i (00:08:24) roam y 96
+\i (00:08:24) roam y 96 
+\i (00:08:24) roam y 96
+\i (00:08:24) roam y 96 
+\i (00:08:24) roam y 96
+\i (00:08:24) roam y 96 
+\i (00:08:24) roam y 96
+\i (00:08:24) roam y 96 
+\i (00:08:24) roam y 96
+\i (00:08:24) roam y 96 
+\i (00:08:24) roam y 96
+\i (00:08:24) roam y 96 
+\i (00:08:24) roam y 96
+\i (00:08:24) roam y 96 
+\i (00:08:24) roam y 96
+\i (00:08:24) roam y 96 
+\i (00:08:24) roam y 96
+\i (00:08:24) roam y 96 
+\i (00:08:24) roam y 96
+\i (00:08:24) roam y 96 
+\i (00:08:24) roam y 96
+\i (00:08:24) roam y 96 
+\i (00:08:24) roam y 96
+\i (00:08:24) roam y 96 
+\i (00:08:24) roam y 96
+\i (00:08:24) roam y 96 
+\i (00:08:24) roam y 96
+\i (00:08:24) roam y 96 
+\i (00:08:24) roam y 96
+\i (00:08:24) roam y 96 
+\i (00:08:24) roam y 96
+\i (00:08:24) roam y 96 
+\i (00:08:24) roam y 96
+\i (00:08:24) roam y 96 
+\i (00:08:24) roam y 96
+\i (00:08:25) roam y 96 
+\i (00:08:25) roam y 96
+\i (00:08:25) roam y 96 
+\i (00:08:25) roam y 96
+\i (00:08:25) roam y 96 
+\i (00:08:25) roam y 96
+\i (00:08:25) roam y 96 
+\i (00:08:25) roam y 96
+\i (00:08:25) roam y 96 
+\i (00:08:25) roam y 96
+\i (00:08:25) roam y 96 
+\i (00:08:25) roam y 96
+\i (00:08:25) roam y 96 
+\i (00:08:25) roam y 96
+\i (00:08:25) roam y 96 
+\i (00:08:25) roam y 96
+\i (00:08:25) roam y 96 
+\i (00:08:25) roam y 96
+\i (00:08:25) roam y 96 
+\i (00:08:25) roam y 96
+\i (00:08:25) roam y 96 
+\i (00:08:25) roam y 96
+\i (00:08:25) roam y 96 
+\i (00:08:25) roam y 96
+\i (00:08:25) roam y 96 
+\i (00:08:25) roam y 96
+\i (00:08:25) roam y 96 
+\i (00:08:25) roam y 96
+\i (00:08:26) roam y 96 
+\i (00:08:26) roam y 96
+\i (00:08:26) roam y 96 
+\i (00:08:26) roam y 96
+\i (00:08:26) roam y 96 
+\i (00:08:26) roam y 96
+\i (00:08:26) roam y 96 
+\i (00:08:26) roam y 96
+\i (00:08:26) roam y 96 
+\i (00:08:26) roam y 96
+\i (00:08:26) roam y 96 
+\i (00:08:26) roam y 96
+\i (00:08:26) roam y 96 
+\i (00:08:26) roam y 96
+\i (00:08:26) roam y 96 
+\i (00:08:26) roam y 96
+\i (00:08:26) roam y 96 
+\i (00:08:26) roam y 96
+\i (00:08:26) roam y 96 
+\i (00:08:26) roam y 96
+\i (00:08:26) roam y 96 
+\i (00:08:26) roam y 96
+\i (00:08:26) roam y 96 
+\i (00:08:26) roam y 96
+\i (00:08:26) roam y 96 
+\i (00:08:26) roam y 96
+\i (00:08:26) roam y 96 
+\i (00:08:27) roam y 96
+\i (00:08:27) roam y 96 
+\i (00:08:27) roam y 96
+\i (00:08:27) roam y 96 
+\i (00:08:27) roam y 96
+\i (00:08:27) roam y 96 
+\i (00:08:27) roam y 96
+\i (00:08:27) roam y -96 
+\i (00:08:27) roam y -96
+\i (00:08:27) roam y -96 
+\i (00:08:27) roam y -96
+\i (00:08:27) roam y -96 
+\i (00:08:27) roam y -96
+\i (00:08:27) roam y -96 
+\i (00:08:27) roam y -96
+\i (00:08:27) roam y -96 
+\i (00:08:27) roam y -96
+\i (00:08:27) roam y -96 
+\i (00:08:27) roam y -96
+\i (00:08:27) roam y -96 
+\i (00:08:27) roam y -96
+\i (00:08:27) roam y -96 
+\i (00:08:27) roam y -96
+\i (00:08:28) roam y -96 
+\i (00:08:28) roam y -96
+\i (00:08:28) roam y -96 
+\i (00:08:28) roam y -96
+\i (00:08:29) pick grid -0.635 -77.775
+\t (00:08:29) last pick:  -0.635  -77.470
+\i (00:08:32) prepopup -0.949 -77.549
+\i (00:08:33) cancel 
+\i (00:08:34) roam y -96 
+\i (00:08:34) roam y -96
+\i (00:08:34) generaledit 
+\i (00:08:34) roam y -96 
+\i (00:08:34) roam y -96
+\i (00:08:34) roam y -96 
+\i (00:08:34) roam y -96
+\i (00:08:34) roam y -96 
+\i (00:08:34) roam y -96
+\i (00:08:34) roam y -96 
+\i (00:08:34) roam y -96
+\i (00:08:34) roam y -96 
+\i (00:08:34) roam y -96
+\i (00:08:34) roam y -96 
+\i (00:08:34) roam y -96
+\i (00:08:34) roam y -96 
+\i (00:08:34) roam y -96
+\i (00:08:34) roam y -96 
+\i (00:08:34) roam y -96
+\i (00:08:34) roam y -96 
+\i (00:08:34) roam y -96
+\i (00:08:34) roam y -96 
+\i (00:08:34) roam y -96
+\i (00:08:35) roam y -96 
+\i (00:08:35) roam y -96
+\i (00:08:35) roam y -96 
+\i (00:08:35) roam y -96
+\i (00:08:35) roam y -96 
+\i (00:08:35) roam y -96
+\i (00:08:35) roam y -96 
+\i (00:08:35) roam y -96
+\i (00:08:35) roam y -96 
+\i (00:08:35) roam y -96
+\i (00:08:35) roam y -96 
+\i (00:08:35) roam y -96
+\i (00:08:35) roam y -96 
+\i (00:08:35) roam y -96
+\i (00:08:35) roam y -96 
+\i (00:08:35) roam y -96
+\i (00:08:35) roam y -96 
+\i (00:08:35) roam y -96
+\i (00:08:35) roam y -96 
+\i (00:08:35) roam y -96
+\i (00:08:35) roam y -96 
+\i (00:08:35) roam y -96
+\i (00:08:35) roam y -96 
+\i (00:08:35) roam y -96
+\i (00:08:35) roam y -96 
+\i (00:08:35) roam y -96
+\i (00:08:35) roam y -96 
+\i (00:08:35) roam y -96
+\i (00:08:35) roam y -96 
+\i (00:08:35) roam y -96
+\i (00:08:35) roam y -96 
+\i (00:08:35) roam y -96
+\i (00:08:35) roam y -96 
+\i (00:08:35) roam y -96
+\i (00:08:35) roam y -96 
+\i (00:08:35) roam y -96
+\i (00:08:35) roam y -96 
+\i (00:08:35) roam y -96
+\i (00:08:35) roam y -96 
+\i (00:08:35) roam y -96
+\i (00:08:36) roam y -96 
+\i (00:08:36) roam y -96
+\i (00:08:36) roam y -96 
+\i (00:08:36) roam y -96
+\i (00:08:36) roam y -96 
+\i (00:08:36) roam y -96
+\i (00:08:36) roam y -96 
+\i (00:08:36) roam y -96
+\i (00:08:36) roam y -96 
+\i (00:08:36) roam y -96
+\i (00:08:36) roam y -96 
+\i (00:08:36) roam y -96
+\i (00:08:36) roam y -96 
+\i (00:08:36) roam y -96
+\i (00:08:36) roam y -96 
+\i (00:08:36) roam y -96
+\i (00:08:36) roam y -96 
+\i (00:08:36) roam y -96
+\i (00:08:36) roam y -96 
+\i (00:08:36) roam y -96
+\i (00:08:36) roam y -96 
+\i (00:08:36) roam y -96
+\i (00:08:36) roam y -96 
+\i (00:08:36) roam y -96
+\i (00:08:36) roam y -96 
+\i (00:08:36) roam y -96
+\i (00:08:36) roam y -96 
+\i (00:08:36) roam y -96
+\i (00:08:36) roam y -96 
+\i (00:08:36) roam y -96
+\i (00:08:37) roam y 96 
+\i (00:08:37) roam y 96
+\i (00:08:37) roam y 96 
+\i (00:08:37) roam y 96
+\i (00:08:37) roam y 96 
+\i (00:08:37) roam y 96
+\i (00:08:37) roam y 96 
+\i (00:08:37) roam y 96
+\i (00:08:37) roam y 96 
+\i (00:08:37) roam y 96
+\i (00:08:38) roam y 96 
+\i (00:08:38) roam y 96
+\i (00:08:38) roam y 96 
+\i (00:08:38) roam y 96
+\i (00:08:38) roam y 96 
+\i (00:08:38) roam y 96
+\i (00:08:38) roam y 96 
+\i (00:08:38) roam y 96
+\i (00:08:39) roam y 96 
+\i (00:08:39) roam y 96
+\i (00:08:39) roam y 96 
+\i (00:08:39) roam y 96
+\i (00:08:39) roam y 96 
+\i (00:08:39) roam y 96
+\i (00:08:39) roam y 96 
+\i (00:08:39) roam y 96
+\i (00:08:39) roam y 96 
+\i (00:08:39) roam y 96
+\i (00:08:39) roam y 96 
+\i (00:08:39) roam y 96
+\i (00:08:39) roam y 96 
+\i (00:08:39) roam y 96
+\i (00:08:39) roam y 96 
+\i (00:08:39) roam y 96
+\i (00:08:39) roam y 96 
+\i (00:08:39) roam y 96
+\i (00:08:39) roam y 96 
+\i (00:08:39) roam y 96
+\i (00:08:39) roam y 96 
+\i (00:08:39) roam y 96
+\i (00:08:39) roam y 96 
+\i (00:08:39) roam y 96
+\i (00:08:40) roam y 96 
+\i (00:08:40) roam y 96
+\i (00:08:40) roam y 96 
+\i (00:08:40) roam y 96
+\i (00:08:40) roam y 96 
+\i (00:08:40) roam y 96
+\i (00:08:40) roam y 96 
+\i (00:08:40) roam y 96
+\i (00:08:40) roam y 96 
+\i (00:08:40) roam y 96
+\i (00:08:40) roam y 96 
+\i (00:08:40) roam y 96
+\i (00:08:40) roam y 96 
+\i (00:08:40) roam y 96
+\i (00:08:40) roam y 96 
+\i (00:08:40) roam y 96
+\i (00:08:40) roam y 96 
+\i (00:08:40) roam y 96
+\i (00:08:40) roam y 96 
+\i (00:08:40) roam y 96
+\i (00:08:40) roam y 96 
+\i (00:08:40) roam y 96
+\i (00:08:40) roam y 96 
+\i (00:08:40) roam y 96
+\i (00:08:40) roam y 96 
+\i (00:08:40) roam y 96
+\i (00:08:40) roam y 96 
+\i (00:08:40) roam y 96
+\i (00:08:41) roam y 96 
+\i (00:08:41) roam y 96
+\i (00:08:41) roam y -96 
+\i (00:08:41) roam y -96
+\i (00:08:42) roam y -96 
+\i (00:08:42) roam y -96
+\i (00:08:42) roam y -96 
+\i (00:08:42) roam y -96
+\i (00:08:42) roam y -96 
+\i (00:08:42) roam y -96
+\i (00:08:42) roam y -96 
+\i (00:08:42) roam y -96
+\i (00:08:42) roam y -96 
+\i (00:08:42) roam y -96
+\i (00:08:42) roam y -96 
+\i (00:08:42) roam y -96
+\i (00:08:42) roam y -96 
+\i (00:08:42) roam y -96
+\i (00:08:42) roam y -96 
+\i (00:08:42) roam y -96
+\i (00:08:42) roam y -96 
+\i (00:08:42) roam y -96
+\i (00:08:42) roam y -96 
+\i (00:08:42) roam y -96
+\i (00:08:42) roam y -96 
+\i (00:08:42) roam y -96
+\i (00:08:42) roam y -96 
+\i (00:08:42) roam y -96
+\i (00:08:43) roam y -96 
+\i (00:08:43) roam y -96
+\i (00:08:43) roam y -96 
+\i (00:08:43) roam y -96
+\i (00:08:43) roam y -96 
+\i (00:08:43) roam y -96
+\i (00:08:43) roam y -96 
+\i (00:08:43) roam y -96
+\i (00:08:43) roam y -96 
+\i (00:08:43) roam y -96
+\i (00:08:43) roam y -96 
+\i (00:08:43) roam y -96
+\i (00:08:43) roam y -96 
+\i (00:08:43) roam y -96
+\i (00:08:43) roam y -96 
+\i (00:08:43) roam y -96
+\i (00:08:43) roam y -96 
+\i (00:08:43) roam y -96
+\i (00:08:43) roam y -96 
+\i (00:08:43) roam y -96
+\i (00:08:43) roam y -96 
+\i (00:08:43) roam y -96
+\i (00:08:43) roam y -96 
+\i (00:08:43) roam y -96
+\i (00:08:43) roam y -96 
+\i (00:08:43) roam y -96
+\i (00:08:43) roam y -96 
+\i (00:08:43) roam y -96
+\i (00:08:43) roam y -96 
+\i (00:08:43) roam y -96
+\i (00:08:44) roam y -96 
+\i (00:08:44) roam y -96
+\i (00:08:44) roam y -96 
+\i (00:08:44) roam y -96
+\i (00:08:44) roam y -96 
+\i (00:08:44) roam y -96
+\i (00:08:44) roam y -96 
+\i (00:08:44) roam y -96
+\i (00:08:44) roam y -96 
+\i (00:08:44) roam y -96
+\i (00:08:44) roam y -96 
+\i (00:08:44) roam y -96
+\i (00:08:44) roam x -96 
+\i (00:08:44) roam x -96
+\i (00:08:44) roam y -96 
+\i (00:08:44) roam y -96
+\i (00:08:45) roam y -96 
+\i (00:08:45) roam y -96
+\i (00:08:45) roam y -96 
+\i (00:08:45) roam y -96
+\i (00:08:45) roam y -96 
+\i (00:08:45) roam y -96
+\i (00:08:45) roam y -96 
+\i (00:08:45) roam y -96
+\i (00:08:45) roam y -96 
+\i (00:08:45) roam y -96
+\i (00:08:45) roam y -96 
+\i (00:08:45) roam y -96
+\i (00:08:45) roam y -96 
+\i (00:08:45) roam y -96
+\i (00:08:45) roam y -96 
+\i (00:08:45) roam y -96
+\i (00:08:45) roam y -96 
+\i (00:08:45) roam y -96
+\i (00:08:45) roam y -96 
+\i (00:08:45) roam y -96
+\i (00:08:45) roam y -96 
+\i (00:08:45) roam y -96
+\i (00:08:47) setwindow form.mini
+\i (00:08:47) FORM mini subclass VCC 
+\i (00:08:48) FORM mini subclass GND 
+\i (00:08:48) setwindow pcb
+\i (00:08:48) roam y -96 
+\i (00:08:48) roam y -96
+\i (00:08:48) roam y -96 
+\i (00:08:48) roam y -96
+\i (00:08:49) roam y -96 
+\i (00:08:49) roam y -96
+\i (00:08:49) roam x -96 
+\i (00:08:49) roam x -96
+\i (00:08:49) roam x -96 
+\i (00:08:49) roam x -96
+\i (00:08:49) roam x -96 
+\i (00:08:49) roam x -96
+\i (00:08:50) roam x -96 
+\i (00:08:50) roam x -96
+\i (00:08:50) roam x -96 
+\i (00:08:50) roam x -96
+\i (00:08:50) roam x -96 
+\i (00:08:50) roam x -96
+\i (00:08:52) pick grid -17.828 -0.635
+\t (00:08:52) last pick:  -17.780  -0.635
+\i (00:08:53) pick grid -14.508 -0.635
+\t (00:08:53) last pick:  -14.605  -0.635
+\i (00:08:55) add line 
+\i (00:08:55) pick grid -17.853 -0.622
+\t (00:08:55) last pick:  -17.780  -0.635
+\i (00:08:55) roam x 96 
+\i (00:08:55) roam x 96
+\i (00:08:56) roam x 96 
+\i (00:08:56) roam x 96
+\i (00:08:58) pick grid -12.407 -0.773
+\t (00:08:58) last pick:  -12.700  -0.635
+\i (00:08:58) pick grid -11.640 -1.591
+\t (00:08:58) last pick:  -11.430  -1.905
+\i (00:09:00) pick grid -11.502 -4.760
+\t (00:09:00) last pick:  -11.430  -4.445
+\i (00:09:00) pick grid -12.407 -5.553
+\t (00:09:00) last pick:  -12.700  -5.715
+\i (00:09:01) pick grid -12.898 -6.672
+\t (00:09:01) last pick:  -12.700  -6.985
+\i (00:09:01) pick grid -12.369 -7.326
+\t (00:09:01) last pick:  -12.065  -7.620
+\i (00:09:01) roam x 96 
+\i (00:09:01) roam x 96
 \i (00:09:02) roam x 96 
 \i (00:09:02) roam x 96
 \i (00:09:02) roam x 96 
 \i (00:09:02) roam x 96
 \i (00:09:02) roam x 96 
 \i (00:09:02) roam x 96
-\i (00:09:03) roam x 96 
-\i (00:09:03) roam x 96
-\i (00:09:03) roam y -96 
-\i (00:09:03) roam y -96
-\i (00:09:03) roam y -96 
-\i (00:09:03) roam y -96
-\i (00:09:05) roam y 96 
-\i (00:09:05) roam y 96
-\i (00:09:05) roam x -96 
-\i (00:09:05) roam x -96
-\i (00:09:05) roam x -96 
-\i (00:09:05) roam x -96
-\i (00:09:05) roam x -96 
-\i (00:09:05) roam x -96
+\i (00:09:03) pick grid -1.603 -7.729
+\t (00:09:03) last pick:  -1.905  -7.620
+\i (00:09:03) roam y 96 
+\i (00:09:03) roam y 96
+\i (00:09:04) roam y 96 
+\i (00:09:04) roam y 96
+\i (00:09:05) pick grid -0.760 -9.201
+\t (00:09:05) last pick:  -0.635  -8.890
 \i (00:09:06) roam y 96 
 \i (00:09:06) roam y 96
-\i (00:09:07) zoom in 
-\i (00:09:07) setwindow pcb
-\i (00:09:07) zoom in -50.870 -25.011
-\i (00:09:07) trapsize 126
-\i (00:09:07) zoom in 
-\i (00:09:07) setwindow pcb
-\i (00:09:07) zoom in -52.279 -25.539
-\i (00:09:07) trapsize 63
-\i (00:09:08) roam x -96 
-\i (00:09:08) roam x -96
-\i (00:09:08) roam x -96 
-\i (00:09:08) roam x -96
-\i (00:09:08) roam x -96 
-\i (00:09:08) roam x -96
-\i (00:09:08) roam x -96 
-\i (00:09:08) roam x -96
-\i (00:09:10) shape edit boundary 
-\i (00:09:11) pick grid -65.385 -25.526
-\t (00:09:11) last pick:  -65.405  -25.400
-\t (00:09:11) Pick the edit starting point on the shape boundary.
-\i (00:09:12) pick grid -65.410 -25.400
-\t (00:09:12) last pick:  -65.405  -25.400
-\t (00:09:12) Pick the next vertex or the closing point on the shape.
-\i (00:09:12) pick grid -65.410 -25.727
-\t (00:09:12) last pick:  -65.405  -26.035
-\t (00:09:12) Pick the next vertex or the closing point on the shape.
-\i (00:09:13) pick grid -65.071 -26.470
-\t (00:09:13) last pick:  -64.770  -26.670
-\t (00:09:13) Pick the next vertex or the closing point on the shape.
-\i (00:09:14) pick grid -63.775 -26.746
-\t (00:09:14) last pick:  -63.500  -26.670
-\e (00:09:14) ERROR(SPMHGE-107): Line(s) cross the item being edited, pick again.
-\t (00:09:14) Pick the next vertex or the closing point on the shape.
-\e (00:09:14) ERROR(SPMHGE-107): Line(s) cross the item being edited, pick again.
-\i (00:09:15) pick grid -63.838 -26.570
-\t (00:09:15) last pick:  -64.135  -26.670
-\t (00:09:15) Pick DONE or a start point on another shape or void boundary.
-\i (00:09:16) done 
-\i (00:09:16) generaledit 
-\i (00:09:17) save 
-\i (00:09:18) fillin yes 
-\i (00:09:18) generaledit 
-\i (00:09:19) zoom in 
-\i (00:09:19) setwindow pcb
-\i (00:09:19) zoom in -62.102 -25.740
-\i (00:09:19) trapsize 31
-\i (00:09:19) zoom out 
-\i (00:09:19) setwindow pcb
-\i (00:09:19) zoom out -62.102 -25.740
-\i (00:09:19) trapsize 63
-\i (00:09:19) zoom out 
-\i (00:09:19) setwindow pcb
-\i (00:09:19) zoom out -62.101 -25.740
-\i (00:09:19) trapsize 126
-\i (00:09:20) roam y -96 
-\i (00:09:20) roam y -96
-\i (00:09:20) roam y -96 
-\i (00:09:20) roam y -96
-\i (00:09:20) roam y -96 
-\i (00:09:20) roam y -96
-\i (00:09:21) roam y -96 
-\i (00:09:21) roam y -96
-\i (00:09:21) roam y -96 
-\i (00:09:21) roam y -96
-\i (00:09:21) roam y -96 
-\i (00:09:21) roam y -96
-\i (00:09:23) roam x -96 
-\i (00:09:23) roam x -96
-\i (00:09:23) roam x -96 
-\i (00:09:23) roam x -96
-\i (00:09:23) roam x -96 
-\i (00:09:23) roam x -96
-\i (00:09:23) roam x -96 
-\i (00:09:23) roam x -96
-\i (00:09:24) roam x -96 
-\i (00:09:24) roam x -96
-\i (00:09:24) roam y 96 
-\i (00:09:24) roam y 96
-\i (00:09:24) roam y 96 
-\i (00:09:24) roam y 96
-\i (00:09:25) roam y 96 
-\i (00:09:25) roam y 96
-\i (00:09:25) roam y 96 
-\i (00:09:25) roam y 96
-\i (00:09:25) roam y 96 
-\i (00:09:25) roam y 96
-\i (00:09:25) roam y 96 
-\i (00:09:25) roam y 96
-\i (00:09:25) roam y 96 
-\i (00:09:25) roam y 96
-\i (00:09:25) roam y 96 
-\i (00:09:25) roam y 96
-\i (00:09:25) roam y 96 
-\i (00:09:25) roam y 96
-\i (00:09:25) roam y 96 
-\i (00:09:25) roam y 96
-\i (00:09:25) roam y 96 
-\i (00:09:25) roam y 96
-\i (00:09:25) roam y 96 
-\i (00:09:25) roam y 96
-\i (00:09:25) roam y 96 
-\i (00:09:25) roam y 96
-\i (00:09:26) roam y 96 
-\i (00:09:26) roam y 96
-\i (00:09:26) roam y 96 
-\i (00:09:26) roam y 96
-\i (00:09:26) roam y 96 
-\i (00:09:26) roam y 96
-\i (00:09:27) roam y 96 
-\i (00:09:27) roam y 96
-\i (00:09:27) roam y 96 
-\i (00:09:27) roam y 96
-\i (00:09:27) roam y 96 
-\i (00:09:27) roam y 96
-\i (00:09:27) roam y 96 
-\i (00:09:27) roam y 96
-\i (00:09:27) roam y 96 
-\i (00:09:27) roam y 96
-\i (00:09:27) roam y 96 
-\i (00:09:27) roam y 96
+\i (00:09:06) roam y 96 
+\i (00:09:06) roam y 96
+\i (00:09:06) roam y 96 
+\i (00:09:06) roam y 96
+\i (00:09:06) roam y 96 
+\i (00:09:06) roam y 96
+\i (00:09:06) roam y 96 
+\i (00:09:06) roam y 96
+\i (00:09:06) roam y 96 
+\i (00:09:06) roam y 96
+\i (00:09:06) roam y 96 
+\i (00:09:06) roam y 96
+\i (00:09:06) roam y 96 
+\i (00:09:06) roam y 96
+\i (00:09:06) roam y 96 
+\i (00:09:06) roam y 96
+\i (00:09:07) roam y 96 
+\i (00:09:07) roam y 96
+\i (00:09:07) roam y 96 
+\i (00:09:07) roam y 96
+\i (00:09:07) roam y 96 
+\i (00:09:07) roam y 96
+\i (00:09:07) roam y 96 
+\i (00:09:07) roam y 96
+\i (00:09:07) roam y 96 
+\i (00:09:07) roam y 96
+\i (00:09:07) roam y 96 
+\i (00:09:07) roam y 96
+\i (00:09:07) roam y 96 
+\i (00:09:07) roam y 96
+\i (00:09:07) roam y 96 
+\i (00:09:07) roam y 96
+\i (00:09:07) roam y 96 
+\i (00:09:07) roam y 96
+\i (00:09:07) roam y 96 
+\i (00:09:07) roam y 96
+\i (00:09:07) roam y 96 
+\i (00:09:07) roam y 96
+\i (00:09:07) roam y 96 
+\i (00:09:07) roam y 96
+\i (00:09:07) roam y 96 
+\i (00:09:07) roam y 96
+\i (00:09:07) roam y 96 
+\i (00:09:07) roam y 96
+\i (00:09:07) roam y 96 
+\i (00:09:07) roam y 96
+\i (00:09:07) roam y 96 
+\i (00:09:07) roam y 96
+\i (00:09:07) roam y 96 
+\i (00:09:07) roam y 96
+\i (00:09:07) roam y 96 
+\i (00:09:07) roam y 96
+\i (00:09:07) roam y 96 
+\i (00:09:07) roam y 96
+\i (00:09:07) roam y 96 
+\i (00:09:07) roam y 96
+\i (00:09:07) roam y 96 
+\i (00:09:07) roam y 96
+\i (00:09:08) roam y 96 
+\i (00:09:08) roam y 96
+\i (00:09:08) roam y 96 
+\i (00:09:08) roam y 96
+\i (00:09:08) roam y 96 
+\i (00:09:08) roam y 96
+\i (00:09:08) roam y 96 
+\i (00:09:08) roam y 96
+\i (00:09:08) roam y 96 
+\i (00:09:08) roam y 96
+\i (00:09:08) roam y 96 
+\i (00:09:08) roam y 96
+\i (00:09:08) roam y 96 
+\i (00:09:08) roam y 96
+\i (00:09:08) roam y 96 
+\i (00:09:08) roam y 96
+\i (00:09:08) roam y 96 
+\i (00:09:08) roam y 96
+\i (00:09:08) roam y 96 
+\i (00:09:08) roam y 96
+\i (00:09:08) roam y 96 
+\i (00:09:08) roam y 96
+\i (00:09:08) roam y 96 
+\i (00:09:08) roam y 96
+\i (00:09:08) roam y 96 
+\i (00:09:08) roam y 96
+\i (00:09:08) roam y 96 
+\i (00:09:08) roam y 96
+\i (00:09:08) roam y 96 
+\i (00:09:08) roam y 96
+\i (00:09:08) roam y 96 
+\i (00:09:08) roam y 96
+\i (00:09:08) roam y 96 
+\i (00:09:08) roam y 96
+\i (00:09:08) roam y 96 
+\i (00:09:08) roam y 96
+\i (00:09:08) roam y 96 
+\i (00:09:08) roam y 96
+\i (00:09:09) roam y 96 
+\i (00:09:09) roam y 96
+\i (00:09:09) roam y 96 
+\i (00:09:09) roam y 96
+\i (00:09:09) roam y 96 
+\i (00:09:09) roam y 96
+\i (00:09:09) roam y 96 
+\i (00:09:09) roam y 96
+\i (00:09:09) roam y 96 
+\i (00:09:09) roam y 96
+\i (00:09:09) roam y 96 
+\i (00:09:09) roam y 96
+\i (00:09:09) roam y 96 
+\i (00:09:09) roam y 96
+\i (00:09:10) roam y 96 
+\i (00:09:10) roam y 96
+\i (00:09:10) roam y 96 
+\i (00:09:10) roam y 96
+\i (00:09:10) roam y 96 
+\i (00:09:10) roam y 96
+\i (00:09:10) roam y 96 
+\i (00:09:10) roam y 96
+\i (00:09:10) roam y 96 
+\i (00:09:10) roam y 96
+\i (00:09:10) roam y 96 
+\i (00:09:10) roam y 96
+\i (00:09:10) roam y 96 
+\i (00:09:10) roam y 96
+\i (00:09:10) roam y 96 
+\i (00:09:10) roam y 96
+\i (00:09:10) roam y 96 
+\i (00:09:10) roam y 96
+\i (00:09:10) roam y 96 
+\i (00:09:10) roam y 96
+\i (00:09:10) roam y -96 
+\i (00:09:10) roam y -96
+\i (00:09:10) roam y -96 
+\i (00:09:10) roam y -96
+\i (00:09:10) roam y -96 
+\i (00:09:10) roam y -96
+\i (00:09:11) roam y -96 
+\i (00:09:11) roam y -96
+\i (00:09:11) roam y -96 
+\i (00:09:11) roam y -96
+\i (00:09:11) roam y -96 
+\i (00:09:11) roam y -96
+\i (00:09:11) roam y -96 
+\i (00:09:11) roam y -96
+\i (00:09:18) pick grid -0.659 -77.762
+\t (00:09:18) last pick:  -0.635  -77.470
+\i (00:09:20) pick grid -2.848 -79.599
+\t (00:09:20) last pick:  -2.540  -79.375
+\i (00:09:21) pick grid -6.672 -79.498
+\t (00:09:21) last pick:  -6.985  -79.375
+\i (00:09:22) pick grid -7.942 -78.404
+\t (00:09:22) last pick:  -8.255  -78.105
+\i (00:09:23) prepopup -7.716 -77.838
+\i (00:09:23) done 
+\i (00:09:23) generaledit 
+\i (00:09:24) roam y -96 
+\i (00:09:24) roam y -96
+\i (00:09:24) roam y -96 
+\i (00:09:24) roam y -96
+\i (00:09:25) roam y -96 
+\i (00:09:25) roam y -96
+\i (00:09:25) roam y -96 
+\i (00:09:25) roam y -96
+\i (00:09:25) roam y -96 
+\i (00:09:25) roam y -96
+\i (00:09:25) roam y -96 
+\i (00:09:25) roam y -96
+\i (00:09:25) roam y -96 
+\i (00:09:25) roam y -96
+\i (00:09:25) roam y -96 
+\i (00:09:25) roam y -96
+\i (00:09:25) roam y -96 
+\i (00:09:25) roam y -96
+\i (00:09:25) roam y -96 
+\i (00:09:25) roam y -96
+\i (00:09:25) roam y -96 
+\i (00:09:25) roam y -96
+\i (00:09:25) roam y -96 
+\i (00:09:25) roam y -96
+\i (00:09:25) roam y -96 
+\i (00:09:25) roam y -96
+\i (00:09:25) roam y -96 
+\i (00:09:25) roam y -96
+\i (00:09:25) roam y -96 
+\i (00:09:25) roam y -96
+\i (00:09:25) roam y -96 
+\i (00:09:25) roam y -96
+\i (00:09:25) roam y -96 
+\i (00:09:25) roam y -96
+\i (00:09:25) roam y -96 
+\i (00:09:25) roam y -96
+\i (00:09:25) roam y -96 
+\i (00:09:25) roam y -96
+\i (00:09:25) roam y -96 
+\i (00:09:25) roam y -96
+\i (00:09:25) roam y -96 
+\i (00:09:25) roam y -96
+\i (00:09:26) roam y -96 
+\i (00:09:26) roam y -96
+\i (00:09:26) roam y -96 
+\i (00:09:26) roam y -96
+\i (00:09:26) roam y -96 
+\i (00:09:26) roam y -96
+\i (00:09:26) roam y -96 
+\i (00:09:26) roam y -96
+\i (00:09:26) roam y -96 
+\i (00:09:26) roam y -96
+\i (00:09:26) roam y -96 
+\i (00:09:26) roam y -96
+\i (00:09:26) roam y -96 
+\i (00:09:26) roam y -96
+\i (00:09:26) roam y -96 
+\i (00:09:26) roam y -96
+\i (00:09:26) roam y -96 
+\i (00:09:26) roam y -96
+\i (00:09:26) roam y -96 
+\i (00:09:26) roam y -96
+\i (00:09:26) roam y -96 
+\i (00:09:26) roam y -96
+\i (00:09:26) roam y -96 
+\i (00:09:26) roam y -96
+\i (00:09:26) roam y -96 
+\i (00:09:26) roam y -96
+\i (00:09:26) roam y -96 
+\i (00:09:26) roam y -96
+\i (00:09:26) roam y -96 
+\i (00:09:26) roam y -96
+\i (00:09:26) roam y -96 
+\i (00:09:26) roam y -96
+\i (00:09:26) roam y -96 
+\i (00:09:26) roam y -96
+\i (00:09:26) roam y -96 
+\i (00:09:26) roam y -96
+\i (00:09:26) roam y -96 
+\i (00:09:26) roam y -96
+\i (00:09:26) roam y -96 
+\i (00:09:26) roam y -96
+\i (00:09:27) roam y -96 
+\i (00:09:27) roam y -96
+\i (00:09:27) roam y -96 
+\i (00:09:27) roam y -96
+\i (00:09:27) roam y -96 
+\i (00:09:27) roam y -96
+\i (00:09:27) roam y -96 
+\i (00:09:27) roam y -96
+\i (00:09:27) roam y -96 
+\i (00:09:27) roam y -96
+\i (00:09:27) roam y -96 
+\i (00:09:27) roam y -96
+\i (00:09:27) roam y -96 
+\i (00:09:27) roam y -96
+\i (00:09:27) roam y -96 
+\i (00:09:27) roam y -96
+\i (00:09:27) roam y -96 
+\i (00:09:27) roam y -96
+\i (00:09:27) roam y -96 
+\i (00:09:27) roam y -96
+\i (00:09:27) roam y -96 
+\i (00:09:27) roam y -96
+\i (00:09:27) roam y -96 
+\i (00:09:27) roam y -96
+\i (00:09:27) roam y -96 
+\i (00:09:27) roam y -96
+\i (00:09:27) roam y -96 
+\i (00:09:27) roam y -96
+\i (00:09:27) roam y -96 
+\i (00:09:27) roam y -96
+\i (00:09:27) roam y -96 
+\i (00:09:27) roam y -96
+\i (00:09:27) roam y -96 
+\i (00:09:27) roam y -96
+\i (00:09:27) roam y -96 
+\i (00:09:27) roam y -96
+\i (00:09:27) roam y -96 
+\i (00:09:27) roam y -96
+\i (00:09:27) roam y -96 
+\i (00:09:27) roam y -96
+\i (00:09:27) roam y -96 
+\i (00:09:27) roam y -96
+\i (00:09:28) roam x -96 
+\i (00:09:28) roam x -96
+\i (00:09:28) roam x -96 
+\i (00:09:28) roam x -96
 \i (00:09:28) roam y 96 
 \i (00:09:28) roam y 96
-\i (00:09:28) roam y 96 
-\i (00:09:28) roam y 96
+\i (00:09:28) roam x -96 
+\i (00:09:28) roam x -96
 \i (00:09:28) roam y 96 
 \i (00:09:28) roam y 96
 \i (00:09:29) roam y 96 
 \i (00:09:29) roam y 96
-\i (00:09:29) roam x 96 
-\i (00:09:29) roam x 96
 \i (00:09:29) roam x -96 
 \i (00:09:29) roam x -96
-\i (00:09:30) roam y 96 
-\i (00:09:30) roam y 96
-\i (00:09:35) shape edit boundary 
-\i (00:09:36) pick grid -87.296 -76.731
-\t (00:09:36) last pick:  -86.995  -76.835
-\t (00:09:36) Pick the edit starting point on the shape boundary.
-\i (00:09:39) pick grid -89.535 -77.410
-\t (00:09:39) last pick:  -89.535  -77.470
-\w (00:09:39) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:09:41) pick grid -88.956 -78.064
-\t (00:09:41) last pick:  -88.900  -78.105
-\t (00:09:41) Pick the next vertex or the closing point on the shape.
-\i (00:09:42) pick grid -86.667 -80.026
-\t (00:09:42) last pick:  -86.360  -80.010
-\t (00:09:42) Pick DONE or a start point on another shape or void boundary.
-\i (00:09:43) prepopup -86.264 -77.661
-\i (00:09:44) done 
-\i (00:09:44) generaledit 
-\i (00:09:44) roam x 96 
-\i (00:09:44) roam x 96
-\i (00:09:44) roam x 96 
-\i (00:09:44) roam x 96
-\i (00:09:44) roam x 96 
-\i (00:09:44) roam x 96
-\i (00:09:45) roam x 96 
-\i (00:09:45) roam x 96
-\i (00:09:45) roam x 96 
-\i (00:09:45) roam x 96
-\i (00:09:45) roam x 96 
-\i (00:09:45) roam x 96
-\i (00:09:45) roam x 96 
-\i (00:09:45) roam x 96
-\i (00:09:45) roam x 96 
-\i (00:09:45) roam x 96
-\i (00:09:45) roam x 96 
-\i (00:09:45) roam x 96
-\i (00:09:45) roam x 96 
-\i (00:09:45) roam x 96
-\i (00:09:45) roam x 96 
-\i (00:09:45) roam x 96
-\i (00:09:45) roam x 96 
-\i (00:09:45) roam x 96
-\i (00:09:46) roam x 96 
-\i (00:09:46) roam x 96
-\i (00:09:46) roam x 96 
-\i (00:09:46) roam x 96
-\i (00:09:46) roam x 96 
-\i (00:09:46) roam x 96
-\i (00:09:46) roam x 96 
-\i (00:09:46) roam x 96
-\i (00:09:46) roam x 96 
-\i (00:09:46) roam x 96
-\i (00:09:46) roam x 96 
-\i (00:09:46) roam x 96
-\i (00:09:46) roam x 96 
-\i (00:09:46) roam x 96
-\i (00:09:46) roam x 96 
-\i (00:09:46) roam x 96
-\i (00:09:46) roam x 96 
-\i (00:09:46) roam x 96
-\i (00:09:46) roam x 96 
-\i (00:09:46) roam x 96
-\i (00:09:46) roam x 96 
-\i (00:09:46) roam x 96
-\i (00:09:47) roam x 96 
-\i (00:09:47) roam x 96
-\i (00:09:47) roam x 96 
-\i (00:09:47) roam x 96
-\i (00:09:47) roam x 96 
-\i (00:09:47) roam x 96
-\i (00:09:48) roam x 96 
-\i (00:09:48) roam x 96
-\i (00:09:48) roam x 96 
-\i (00:09:48) roam x 96
-\i (00:09:48) roam x 96 
-\i (00:09:48) roam x 96
-\i (00:09:49) roam x 96 
-\i (00:09:49) roam x 96
-\i (00:09:50) shape edit boundary 
-\i (00:09:51) pick grid -1.792 -78.718
-\t (00:09:51) last pick:  -1.905  -78.740
-\t (00:09:51) Pick the edit starting point on the shape boundary.
-\i (00:09:53) pick grid -1.062 -78.089
-\t (00:09:53) last pick:  -1.270  -78.105
-\w (00:09:53) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:09:54) pick grid -2.018 -78.944
-\t (00:09:54) last pick:  -1.905  -78.740
-\w (00:09:54) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:09:56) pick grid -1.314 -78.114
-\t (00:09:56) last pick:  -1.270  -78.105
-\w (00:09:56) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:09:57) zoom out 
-\i (00:09:57) setwindow pcb
-\i (00:09:57) zoom out -1.540 -79.020
-\i (00:09:57) trapsize 252
-\i (00:09:58) zoom in 
-\i (00:09:58) setwindow pcb
-\i (00:09:58) zoom in -0.987 -78.466
-\i (00:09:58) trapsize 126
-\i (00:09:58) zoom in 
-\i (00:09:58) setwindow pcb
-\i (00:09:58) zoom in -0.962 -78.391
-\i (00:09:58) trapsize 63
-\i (00:09:59) zoom in 
-\i (00:09:59) setwindow pcb
-\i (00:09:59) zoom in -0.949 -78.378
-\i (00:09:59) trapsize 31
-\i (00:10:00) zoom out 
-\i (00:10:00) setwindow pcb
-\i (00:10:00) zoom out -0.892 -78.378
-\i (00:10:00) trapsize 63
-\i (00:10:00) zoom out 
-\i (00:10:00) setwindow pcb
-\i (00:10:00) zoom out -0.892 -78.378
-\i (00:10:00) trapsize 126
-\i (00:10:00) zoom out 
-\i (00:10:00) setwindow pcb
-\i (00:10:00) zoom out -0.892 -78.377
-\i (00:10:00) trapsize 252
-\i (00:10:00) roam y -96 
-\i (00:10:00) roam y -96
-\i (00:10:01) roam y -96 
-\i (00:10:01) roam y -96
-\i (00:10:01) roam y -96 
-\i (00:10:01) roam y -96
-\i (00:10:01) roam y -96 
-\i (00:10:01) roam y -96
-\i (00:10:01) roam y -96 
-\i (00:10:01) roam y -96
-\i (00:10:01) roam y -96 
-\i (00:10:01) roam y -96
-\i (00:10:02) roam y -96 
-\i (00:10:02) roam y -96
-\i (00:10:02) roam y -96 
-\i (00:10:02) roam y -96
-\i (00:10:02) roam y -96 
-\i (00:10:02) roam y -96
-\i (00:10:02) roam y -96 
-\i (00:10:02) roam y -96
-\i (00:10:02) roam y -96 
-\i (00:10:02) roam y -96
-\i (00:10:03) roam y -96 
-\i (00:10:03) roam y -96
-\i (00:10:11) zoom in 
-\i (00:10:11) setwindow pcb
-\i (00:10:11) zoom in -1.144 -9.011
-\i (00:10:11) trapsize 126
-\i (00:10:11) zoom in 
-\i (00:10:11) setwindow pcb
-\i (00:10:11) zoom in -1.320 -8.558
-\i (00:10:11) trapsize 63
-\i (00:10:12) roam y -96 
-\i (00:10:12) roam y -96
-\i (00:10:13) roam y -96 
-\i (00:10:13) roam y -96
-\i (00:10:13) roam y -96 
-\i (00:10:13) roam y -96
-\i (00:10:13) roam y -96 
-\i (00:10:13) roam y -96
-\i (00:10:16) pick grid -0.616 -3.125
-\t (00:10:16) last pick:  -0.635  -3.175
-\w (00:10:16) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:10:17) pick grid -1.899 -1.000
-\t (00:10:17) last pick:  -1.905  -1.270
-\w (00:10:17) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:10:18) pick grid -2.502 -0.987
-\t (00:10:18) last pick:  -2.540  -1.270
-\w (00:10:18) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:10:20) shape edit boundary 
-\t (00:10:20) Pick the edit starting point on the shape boundary.
-\i (00:10:21) pick grid -1.974 -1.050
-\t (00:10:21) last pick:  -1.905  -1.270
-\w (00:10:21) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:10:24) pick grid -1.282 -1.012
-\t (00:10:24) last pick:  -1.270  -1.270
-\w (00:10:24) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:10:24) roam y 96 
-\i (00:10:24) roam y 96
-\i (00:10:24) roam y 96 
-\i (00:10:24) roam y 96
-\i (00:10:25) roam y 96 
-\i (00:10:25) roam y 96
-\i (00:10:25) roam y 96 
-\i (00:10:25) roam y 96
-\i (00:10:25) roam y 96 
-\i (00:10:25) roam y 96
-\i (00:10:25) roam y 96 
-\i (00:10:25) roam y 96
-\i (00:10:25) roam y 96 
-\i (00:10:25) roam y 96
-\i (00:10:25) roam y 96 
-\i (00:10:25) roam y 96
-\i (00:10:25) roam y 96 
-\i (00:10:25) roam y 96
-\i (00:10:25) roam y 96 
-\i (00:10:25) roam y 96
-\i (00:10:25) roam y 96 
-\i (00:10:25) roam y 96
-\i (00:10:25) roam y 96 
-\i (00:10:25) roam y 96
-\i (00:10:25) roam y 96 
-\i (00:10:25) roam y 96
-\i (00:10:25) roam y 96 
-\i (00:10:25) roam y 96
-\i (00:10:25) roam y 96 
-\i (00:10:25) roam y 96
-\i (00:10:25) roam y 96 
-\i (00:10:25) roam y 96
-\i (00:10:25) roam y 96 
-\i (00:10:25) roam y 96
-\i (00:10:26) roam y 96 
-\i (00:10:26) roam y 96
-\i (00:10:26) roam y 96 
-\i (00:10:26) roam y 96
-\i (00:10:26) roam y 96 
-\i (00:10:26) roam y 96
-\i (00:10:26) roam y 96 
-\i (00:10:26) roam y 96
-\i (00:10:26) roam y 96 
-\i (00:10:26) roam y 96
-\i (00:10:26) roam y 96 
-\i (00:10:26) roam y 96
-\i (00:10:26) roam y 96 
-\i (00:10:26) roam y 96
-\i (00:10:26) roam y 96 
-\i (00:10:26) roam y 96
-\i (00:10:26) roam y 96 
-\i (00:10:26) roam y 96
-\i (00:10:26) roam y 96 
-\i (00:10:26) roam y 96
-\i (00:10:26) roam y 96 
-\i (00:10:26) roam y 96
-\i (00:10:26) roam y 96 
-\i (00:10:26) roam y 96
-\i (00:10:26) roam y 96 
-\i (00:10:26) roam y 96
-\i (00:10:26) roam y 96 
-\i (00:10:26) roam y 96
-\i (00:10:26) roam y 96 
-\i (00:10:26) roam y 96
-\i (00:10:26) roam y 96 
-\i (00:10:26) roam y 96
-\i (00:10:26) roam y 96 
-\i (00:10:26) roam y 96
-\i (00:10:26) roam y 96 
-\i (00:10:26) roam y 96
-\i (00:10:26) roam y 96 
-\i (00:10:26) roam y 96
-\i (00:10:26) roam y 96 
-\i (00:10:26) roam y 96
-\i (00:10:26) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:27) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:27) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:27) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:27) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:27) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:27) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:27) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:27) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:27) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:27) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:27) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:27) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:27) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:27) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:27) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:27) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:27) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:27) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:27) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:27) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:27) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:27) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:27) roam y 96 
-\i (00:10:27) roam y 96
-\i (00:10:28) roam y 96 
-\i (00:10:28) roam y 96
-\i (00:10:28) roam y 96 
-\i (00:10:28) roam y 96
-\i (00:10:28) roam y 96 
-\i (00:10:28) roam y 96
-\i (00:10:28) roam y 96 
-\i (00:10:28) roam y 96
-\i (00:10:28) roam y 96 
-\i (00:10:28) roam y 96
-\i (00:10:28) roam y 96 
-\i (00:10:28) roam y 96
-\i (00:10:28) roam y 96 
-\i (00:10:28) roam y 96
-\i (00:10:28) roam y 96 
-\i (00:10:28) roam y 96
-\i (00:10:28) roam y -96 
-\i (00:10:28) roam y -96
-\i (00:10:29) roam y -96 
-\i (00:10:29) roam y -96
-\i (00:10:29) roam y -96 
-\i (00:10:29) roam y -96
-\i (00:10:29) roam y -96 
-\i (00:10:29) roam y -96
-\i (00:10:29) roam y -96 
-\i (00:10:29) roam y -96
-\i (00:10:29) roam y -96 
-\i (00:10:29) roam y -96
-\i (00:10:29) roam y -96 
-\i (00:10:29) roam y -96
-\i (00:10:29) roam y -96 
-\i (00:10:29) roam y -96
-\i (00:10:29) roam y -96 
-\i (00:10:29) roam y -96
-\i (00:10:29) roam x -96 
-\i (00:10:29) roam x -96
-\i (00:10:30) roam x -96 
-\i (00:10:30) roam x -96
-\i (00:10:31) roam x -96 
-\i (00:10:31) roam x -96
-\i (00:10:32) generaledit 
-\i (00:10:33) placementedit 
-\i (00:10:34) generaledit 
-\i (00:10:34) placementedit 
-\i (00:10:36) shape edit boundary 
-\i (00:10:37) pick grid -3.641 -78.592
-\t (00:10:37) last pick:  -3.810  -78.740
-\t (00:10:38) Pick the edit starting point on the shape boundary.
-\i (00:10:39) pick grid -0.999 -78.114
-\t (00:10:39) last pick:  -1.270  -78.105
-\w (00:10:39) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:10:41) pick grid -1.289 -76.844
-\t (00:10:41) last pick:  -1.270  -76.835
-\w (00:10:41) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:10:41) roam x -96 
-\i (00:10:41) roam x -96
-\i (00:10:42) roam x -96 
-\i (00:10:42) roam x -96
-\i (00:10:42) roam x -96 
-\i (00:10:42) roam x -96
-\i (00:10:42) roam x -96 
-\i (00:10:42) roam x -96
-\i (00:10:42) roam x -96 
-\i (00:10:42) roam x -96
-\i (00:10:42) roam x -96 
-\i (00:10:42) roam x -96
-\i (00:10:42) roam x -96 
-\i (00:10:42) roam x -96
-\i (00:10:42) roam x -96 
-\i (00:10:42) roam x -96
-\i (00:10:42) roam x -96 
-\i (00:10:42) roam x -96
-\i (00:10:42) roam x -96 
-\i (00:10:42) roam x -96
-\i (00:10:42) roam x -96 
-\i (00:10:42) roam x -96
-\i (00:10:42) roam x -96 
-\i (00:10:42) roam x -96
-\i (00:10:42) roam x -96 
-\i (00:10:42) roam x -96
-\i (00:10:42) roam x -96 
-\i (00:10:42) roam x -96
-\i (00:10:42) roam x -96 
-\i (00:10:42) roam x -96
-\i (00:10:42) roam x -96 
-\i (00:10:42) roam x -96
-\i (00:10:42) roam x -96 
-\i (00:10:42) roam x -96
-\i (00:10:42) roam x -96 
-\i (00:10:42) roam x -96
-\i (00:10:42) roam x -96 
-\i (00:10:42) roam x -96
-\i (00:10:42) roam x -96 
-\i (00:10:42) roam x -96
-\i (00:10:42) roam x -96 
-\i (00:10:42) roam x -96
-\i (00:10:43) roam x -96 
-\i (00:10:43) roam x -96
-\i (00:10:43) roam x -96 
-\i (00:10:43) roam x -96
-\i (00:10:43) roam x -96 
-\i (00:10:43) roam x -96
-\i (00:10:43) roam x -96 
-\i (00:10:43) roam x -96
-\i (00:10:43) roam x -96 
-\i (00:10:43) roam x -96
-\i (00:10:43) roam x -96 
-\i (00:10:43) roam x -96
-\i (00:10:43) roam x -96 
-\i (00:10:43) roam x -96
-\i (00:10:43) roam x -96 
-\i (00:10:43) roam x -96
-\i (00:10:43) roam x -96 
-\i (00:10:43) roam x -96
-\i (00:10:43) roam x -96 
-\i (00:10:43) roam x -96
-\i (00:10:43) roam x -96 
-\i (00:10:43) roam x -96
-\i (00:10:43) roam x -96 
-\i (00:10:43) roam x -96
-\i (00:10:43) roam x -96 
-\i (00:10:43) roam x -96
-\i (00:10:43) roam x -96 
-\i (00:10:43) roam x -96
-\i (00:10:43) roam x -96 
-\i (00:10:43) roam x -96
-\i (00:10:44) roam x -96 
-\i (00:10:44) roam x -96
-\i (00:10:44) roam x -96 
-\i (00:10:44) roam x -96
-\i (00:10:44) roam x -96 
-\i (00:10:44) roam x -96
-\i (00:10:44) roam x -96 
-\i (00:10:44) roam x -96
-\i (00:10:44) roam x -96 
-\i (00:10:44) roam x -96
-\i (00:10:44) roam x -96 
-\i (00:10:44) roam x -96
-\i (00:10:44) roam x -96 
-\i (00:10:44) roam x -96
-\i (00:10:44) roam x -96 
-\i (00:10:44) roam x -96
-\i (00:10:44) roam x -96 
-\i (00:10:44) roam x -96
-\i (00:10:44) roam x -96 
-\i (00:10:44) roam x -96
-\i (00:10:44) roam x -96 
-\i (00:10:44) roam x -96
-\i (00:10:44) roam x -96 
-\i (00:10:44) roam x -96
-\i (00:10:44) roam x -96 
-\i (00:10:44) roam x -96
-\i (00:10:44) roam x -96 
-\i (00:10:44) roam x -96
-\i (00:10:44) roam x -96 
-\i (00:10:44) roam x -96
-\i (00:10:45) roam x -96 
-\i (00:10:45) roam x -96
-\i (00:10:45) roam x -96 
-\i (00:10:45) roam x -96
-\i (00:10:45) roam x -96 
-\i (00:10:45) roam x -96
-\i (00:10:45) roam x -96 
-\i (00:10:45) roam x -96
-\i (00:10:45) roam x -96 
-\i (00:10:45) roam x -96
-\i (00:10:45) roam x -96 
-\i (00:10:45) roam x -96
-\i (00:10:45) roam x -96 
-\i (00:10:45) roam x -96
-\i (00:10:45) roam x -96 
-\i (00:10:45) roam x -96
-\i (00:10:46) roam x -96 
-\i (00:10:46) roam x -96
-\i (00:10:46) roam x -96 
-\i (00:10:46) roam x -96
-\i (00:10:46) roam x -96 
-\i (00:10:46) roam x -96
-\i (00:10:46) roam x -96 
-\i (00:10:46) roam x -96
-\i (00:10:46) roam x -96 
-\i (00:10:46) roam x -96
-\i (00:10:46) roam x -96 
-\i (00:10:46) roam x -96
-\i (00:10:50) pick grid -88.315 -78.730
-\t (00:10:50) last pick:  -88.265  -78.740
-\t (00:10:50) Pick the next vertex or the closing point on the shape.
-\i (00:10:51) roam x 96 
-\i (00:10:51) roam x 96
-\i (00:10:51) roam x 96 
-\i (00:10:51) roam x 96
-\i (00:10:51) roam x 96 
-\i (00:10:51) roam x 96
-\i (00:10:51) roam x 96 
-\i (00:10:51) roam x 96
-\i (00:10:51) roam x 96 
-\i (00:10:51) roam x 96
-\i (00:10:51) roam x 96 
-\i (00:10:51) roam x 96
-\i (00:10:51) roam x 96 
-\i (00:10:52) roam x 96
-\i (00:10:52) roam x 96 
-\i (00:10:52) roam x 96
-\i (00:10:52) roam x 96 
-\i (00:10:52) roam x 96
-\i (00:10:52) roam x 96 
-\i (00:10:52) roam x 96
-\i (00:10:52) roam x 96 
-\i (00:10:52) roam x 96
-\i (00:10:52) roam x 96 
-\i (00:10:52) roam x 96
-\i (00:10:52) roam x 96 
-\i (00:10:52) roam x 96
-\i (00:10:52) roam x 96 
-\i (00:10:52) roam x 96
-\i (00:10:52) roam x 96 
-\i (00:10:52) roam x 96
-\i (00:10:52) roam x 96 
-\i (00:10:52) roam x 96
-\i (00:10:52) roam x 96 
-\i (00:10:52) roam x 96
-\i (00:10:52) roam x 96 
-\i (00:10:52) roam x 96
-\i (00:10:52) roam x -96 
-\i (00:10:52) roam x -96
-\i (00:10:53) roam x 96 
-\i (00:10:53) roam x 96
-\i (00:10:54) roam x 96 
-\i (00:10:54) roam x 96
-\i (00:10:54) roam x 96 
-\i (00:10:54) roam x 96
-\i (00:10:54) roam x 96 
-\i (00:10:54) roam x 96
-\i (00:10:54) roam x 96 
-\i (00:10:54) roam x 96
-\i (00:10:54) roam x 96 
-\i (00:10:54) roam x 96
-\i (00:10:54) roam x 96 
-\i (00:10:54) roam x 96
-\i (00:10:54) roam x 96 
-\i (00:10:54) roam x 96
-\i (00:10:54) roam x 96 
-\i (00:10:54) roam x 96
-\i (00:10:54) roam x 96 
-\i (00:10:54) roam x 96
-\i (00:10:54) roam x 96 
-\i (00:10:54) roam x 96
-\i (00:10:54) roam x 96 
-\i (00:10:54) roam x 96
-\i (00:10:54) roam x 96 
-\i (00:10:54) roam x 96
-\i (00:10:54) roam x 96 
-\i (00:10:54) roam x 96
-\i (00:10:54) roam x 96 
-\i (00:10:54) roam x 96
-\i (00:10:54) roam x 96 
-\i (00:10:54) roam x 96
-\i (00:10:54) roam x 96 
-\i (00:10:54) roam x 96
-\i (00:10:54) roam x 96 
-\i (00:10:54) roam x 96
-\i (00:10:54) roam x 96 
-\i (00:10:54) roam x 96
-\i (00:10:54) roam x 96 
-\i (00:10:54) roam x 96
-\i (00:10:54) roam x 96 
-\i (00:10:54) roam x 96
-\i (00:10:54) roam x 96 
-\i (00:10:54) roam x 96
-\i (00:10:54) roam x 96 
-\i (00:10:54) roam x 96
-\i (00:10:55) roam x 96 
-\i (00:10:55) roam x 96
-\i (00:10:55) roam x 96 
-\i (00:10:55) roam x 96
-\i (00:10:55) roam x 96 
-\i (00:10:55) roam x 96
-\i (00:10:55) roam x 96 
-\i (00:10:55) roam x 96
-\i (00:10:55) roam x 96 
-\i (00:10:55) roam x 96
-\i (00:10:55) roam x 96 
-\i (00:10:55) roam x 96
-\i (00:10:55) roam x 96 
-\i (00:10:55) roam x 96
-\i (00:10:55) roam x 96 
-\i (00:10:55) roam x 96
-\i (00:10:55) roam x 96 
-\i (00:10:55) roam x 96
-\i (00:10:55) roam x 96 
-\i (00:10:55) roam x 96
-\i (00:10:55) roam x 96 
-\i (00:10:55) roam x 96
-\i (00:10:55) roam x 96 
-\i (00:10:55) roam x 96
-\i (00:10:55) roam x 96 
-\i (00:10:55) roam x 96
-\i (00:10:55) roam x 96 
-\i (00:10:55) roam x 96
-\i (00:10:55) roam x 96 
-\i (00:10:55) roam x 96
-\i (00:10:55) roam x 96 
-\i (00:10:55) roam x 96
-\i (00:10:55) roam x 96 
-\i (00:10:55) roam x 96
-\i (00:10:55) roam x 96 
-\i (00:10:55) roam x 96
-\i (00:10:55) roam x 96 
-\i (00:10:55) roam x 96
-\i (00:10:55) roam x 96 
-\i (00:10:55) roam x 96
-\i (00:10:55) roam x 96 
-\i (00:10:55) roam x 96
-\i (00:10:55) roam x 96 
-\i (00:10:55) roam x 96
-\i (00:10:56) roam x 96 
-\i (00:10:56) roam x 96
-\i (00:10:56) roam x 96 
-\i (00:10:56) roam x 96
-\i (00:10:56) roam x 96 
-\i (00:10:56) roam x 96
-\i (00:10:56) roam x 96 
-\i (00:10:56) roam x 96
-\i (00:10:56) roam x 96 
-\i (00:10:56) roam x 96
-\i (00:10:56) roam x 96 
-\i (00:10:56) roam x 96
-\i (00:10:58) pick grid -2.220 -78.693
-\t (00:10:58) last pick:  -1.905  -78.740
-\t (00:10:58) Pick the next vertex or the closing point on the shape.
-\i (00:10:59) pick grid -1.390 -78.416
-\t (00:10:59) last pick:  -1.270  -78.105
-\t (00:10:59) Pick the next vertex or the closing point on the shape.
-\i (00:10:59) roam y -96 
-\i (00:10:59) roam y -96
-\i (00:11:00) roam y -96 
-\i (00:11:00) roam y -96
-\i (00:11:00) roam y -96 
-\i (00:11:00) roam y -96
-\i (00:11:00) roam y -96 
-\i (00:11:00) roam y -96
-\i (00:11:00) roam y -96 
-\i (00:11:00) roam y -96
-\i (00:11:00) roam y -96 
-\i (00:11:00) roam y -96
-\i (00:11:00) roam y -96 
-\i (00:11:00) roam y -96
-\i (00:11:00) roam y -96 
-\i (00:11:00) roam y -96
-\i (00:11:00) roam y -96 
-\i (00:11:00) roam y -96
-\i (00:11:00) roam y -96 
-\i (00:11:00) roam y -96
-\i (00:11:00) roam y -96 
-\i (00:11:00) roam y -96
-\i (00:11:00) roam y -96 
-\i (00:11:00) roam y -96
-\i (00:11:00) roam y -96 
-\i (00:11:00) roam y -96
-\i (00:11:00) roam y -96 
-\i (00:11:00) roam y -96
-\i (00:11:00) roam y -96 
-\i (00:11:00) roam y -96
-\i (00:11:00) roam y -96 
-\i (00:11:00) roam y -96
-\i (00:11:00) roam y -96 
-\i (00:11:00) roam y -96
-\i (00:11:00) roam y -96 
-\i (00:11:00) roam y -96
-\i (00:11:00) roam y -96 
-\i (00:11:00) roam y -96
-\i (00:11:00) roam y -96 
-\i (00:11:00) roam y -96
-\i (00:11:01) roam y -96 
-\i (00:11:01) roam y -96
-\i (00:11:01) roam y -96 
-\i (00:11:01) roam y -96
-\i (00:11:01) roam y -96 
-\i (00:11:01) roam y -96
-\i (00:11:01) roam y -96 
-\i (00:11:01) roam y -96
-\i (00:11:01) roam y -96 
-\i (00:11:01) roam y -96
-\i (00:11:01) roam y -96 
-\i (00:11:01) roam y -96
-\i (00:11:01) roam y -96 
-\i (00:11:01) roam y -96
-\i (00:11:01) roam y -96 
-\i (00:11:01) roam y -96
-\i (00:11:01) roam y -96 
-\i (00:11:01) roam y -96
-\i (00:11:01) roam y -96 
-\i (00:11:01) roam y -96
-\i (00:11:01) roam y -96 
-\i (00:11:01) roam y -96
-\i (00:11:01) roam y -96 
-\i (00:11:01) roam y -96
-\i (00:11:01) roam y -96 
-\i (00:11:01) roam y -96
-\i (00:11:01) roam y -96 
-\i (00:11:01) roam y -96
-\i (00:11:01) roam y -96 
-\i (00:11:01) roam y -96
-\i (00:11:01) roam y -96 
-\i (00:11:01) roam y -96
-\i (00:11:01) roam y -96 
-\i (00:11:01) roam y -96
-\i (00:11:01) roam y -96 
-\i (00:11:01) roam y -96
-\i (00:11:01) roam y -96 
-\i (00:11:01) roam y -96
-\i (00:11:01) roam y -96 
-\i (00:11:01) roam y -96
-\i (00:11:01) roam y -96 
-\i (00:11:01) roam y -96
-\i (00:11:01) roam y -96 
-\i (00:11:01) roam y -96
-\i (00:11:02) roam y -96 
-\i (00:11:02) roam y -96
-\i (00:11:02) roam y -96 
-\i (00:11:02) roam y -96
-\i (00:11:02) roam y -96 
-\i (00:11:02) roam y -96
-\i (00:11:02) roam y -96 
-\i (00:11:02) roam y -96
-\i (00:11:02) roam y -96 
-\i (00:11:02) roam y -96
-\i (00:11:02) roam y -96 
-\i (00:11:02) roam y -96
-\i (00:11:02) roam y -96 
-\i (00:11:02) roam y -96
-\i (00:11:02) roam y -96 
-\i (00:11:02) roam y -96
-\i (00:11:02) roam y -96 
-\i (00:11:02) roam y -96
-\i (00:11:02) roam y -96 
-\i (00:11:02) roam y -96
-\i (00:11:02) roam y -96 
-\i (00:11:02) roam y -96
-\i (00:11:02) roam y -96 
-\i (00:11:02) roam y -96
-\i (00:11:02) roam y -96 
-\i (00:11:02) roam y -96
-\i (00:11:02) roam y -96 
-\i (00:11:02) roam y -96
-\i (00:11:02) roam y -96 
-\i (00:11:02) roam y -96
-\i (00:11:02) roam y -96 
-\i (00:11:02) roam y -96
-\i (00:11:02) roam y -96 
-\i (00:11:02) roam y -96
-\i (00:11:03) roam y -96 
-\i (00:11:03) roam y -96
-\i (00:11:03) roam y -96 
-\i (00:11:03) roam y -96
-\i (00:11:03) roam y -96 
-\i (00:11:03) roam y -96
-\i (00:11:03) roam y -96 
-\i (00:11:03) roam y -96
-\i (00:11:03) roam y -96 
-\i (00:11:03) roam y -96
-\i (00:11:05) pick grid -1.327 -1.591
-\t (00:11:05) last pick:  -1.270  -1.905
-\t (00:11:05) Pick the next vertex or the closing point on the shape.
-\i (00:11:05) pick grid -1.742 -1.578
-\t (00:11:05) last pick:  -1.905  -1.270
-\t (00:11:05) Pick the next vertex or the closing point on the shape.
-\i (00:11:06) roam x -96 
-\i (00:11:06) roam x -96
-\i (00:11:06) roam x -96 
-\i (00:11:06) roam x -96
-\i (00:11:06) roam x -96 
-\i (00:11:06) roam x -96
-\i (00:11:06) roam x -96 
-\i (00:11:06) roam x -96
-\i (00:11:06) roam x -96 
-\i (00:11:06) roam x -96
-\i (00:11:06) roam x -96 
-\i (00:11:06) roam x -96
-\i (00:11:06) roam x -96 
-\i (00:11:06) roam x -96
-\i (00:11:06) roam x -96 
-\i (00:11:06) roam x -96
-\i (00:11:06) roam x -96 
-\i (00:11:06) roam x -96
-\i (00:11:06) roam x -96 
-\i (00:11:06) roam x -96
-\i (00:11:06) roam x -96 
-\i (00:11:06) roam x -96
-\i (00:11:07) roam x -96 
-\i (00:11:07) roam x -96
-\i (00:11:07) roam x -96 
-\i (00:11:07) roam x -96
-\i (00:11:07) roam x -96 
-\i (00:11:07) roam x -96
-\i (00:11:07) roam x -96 
-\i (00:11:07) roam x -96
-\i (00:11:07) roam x -96 
-\i (00:11:07) roam x -96
-\i (00:11:07) roam x -96 
-\i (00:11:07) roam x -96
-\i (00:11:07) roam x -96 
-\i (00:11:07) roam x -96
-\i (00:11:07) roam x -96 
-\i (00:11:07) roam x -96
-\i (00:11:07) roam x -96 
-\i (00:11:07) roam x -96
-\i (00:11:07) roam x -96 
-\i (00:11:07) roam x -96
-\i (00:11:07) roam x -96 
-\i (00:11:07) roam x -96
-\i (00:11:07) roam x -96 
-\i (00:11:07) roam x -96
-\i (00:11:07) roam x -96 
-\i (00:11:07) roam x -96
-\i (00:11:07) roam x -96 
-\i (00:11:07) roam x -96
-\i (00:11:07) roam x -96 
-\i (00:11:07) roam x -96
-\i (00:11:07) roam x -96 
-\i (00:11:07) roam x -96
-\i (00:11:07) roam x -96 
-\i (00:11:07) roam x -96
-\i (00:11:07) roam x -96 
-\i (00:11:07) roam x -96
-\i (00:11:07) roam x -96 
-\i (00:11:07) roam x -96
-\i (00:11:07) roam x -96 
-\i (00:11:07) roam x -96
-\i (00:11:07) roam x -96 
-\i (00:11:07) roam x -96
-\i (00:11:07) roam x -96 
-\i (00:11:07) roam x -96
-\i (00:11:08) roam x -96 
-\i (00:11:08) roam x -96
-\i (00:11:08) roam x -96 
-\i (00:11:08) roam x -96
-\i (00:11:08) roam x -96 
-\i (00:11:08) roam x -96
-\i (00:11:08) roam x -96 
-\i (00:11:08) roam x -96
-\i (00:11:08) roam x 96 
-\i (00:11:08) roam x 96
-\i (00:11:09) roam x 96 
-\i (00:11:09) roam x 96
-\i (00:11:09) roam x 96 
-\i (00:11:09) roam x 96
-\i (00:11:09) roam x 96 
-\i (00:11:09) roam x 96
-\i (00:11:09) roam x 96 
-\i (00:11:09) roam x 96
-\i (00:11:09) roam x 96 
-\i (00:11:09) roam x 96
-\i (00:11:09) roam x 96 
-\i (00:11:09) roam x 96
-\i (00:11:09) roam x 96 
-\i (00:11:09) roam x 96
-\i (00:11:10) roam x 96 
-\i (00:11:10) roam x 96
-\i (00:11:10) roam x 96 
-\i (00:11:10) roam x 96
-\i (00:11:12) pick grid -35.249 -1.264
-\t (00:11:12) last pick:  -35.560  -1.270
-\t (00:11:12) Pick the next vertex or the closing point on the shape.
-\i (00:11:13) pick grid -35.928 -0.874
-\t (00:11:13) last pick:  -36.195  -0.635
-\t (00:11:13) Pick DONE or a start point on another shape or void boundary.
-\i (00:11:13) roam x -96 
-\i (00:11:13) roam x -96
-\i (00:11:14) roam x -96 
-\i (00:11:14) roam x -96
-\i (00:11:14) roam x -96 
-\i (00:11:14) roam x -96
-\i (00:11:14) roam x -96 
-\i (00:11:14) roam x -96
-\i (00:11:14) roam x -96 
-\i (00:11:14) roam x -96
-\i (00:11:14) roam x -96 
-\i (00:11:14) roam x -96
-\i (00:11:14) roam x -96 
-\i (00:11:14) roam x -96
-\i (00:11:14) roam x -96 
-\i (00:11:14) roam x -96
-\i (00:11:14) roam x -96 
-\i (00:11:14) roam x -96
-\i (00:11:15) roam y 96 
-\i (00:11:15) roam y 96
-\i (00:11:15) roam y 96 
-\i (00:11:15) roam y 96
-\i (00:11:16) zoom in 
-\i (00:11:16) setwindow pcb
-\i (00:11:16) zoom in -45.676 -4.018
-\i (00:11:16) trapsize 31
-\i (00:11:16) zoom out 
-\i (00:11:16) setwindow pcb
-\i (00:11:16) zoom out -45.676 -4.018
-\i (00:11:16) trapsize 63
-\i (00:11:16) zoom out 
-\i (00:11:16) setwindow pcb
-\i (00:11:16) zoom out -45.675 -4.018
-\i (00:11:16) trapsize 126
-\i (00:11:17) roam x 96 
-\i (00:11:17) roam x 96
-\i (00:11:17) zoom in 
-\i (00:11:17) setwindow pcb
-\i (00:11:17) zoom in -43.223 -3.994
-\i (00:11:17) trapsize 63
-\i (00:11:18) zoom out 
-\i (00:11:18) setwindow pcb
-\i (00:11:18) zoom out -43.223 -3.994
-\i (00:11:18) trapsize 126
-\i (00:11:18) zoom out 
-\i (00:11:18) setwindow pcb
-\i (00:11:18) zoom out -43.223 -3.994
-\i (00:11:18) trapsize 252
-\i (00:11:19) roam y 96 
-\i (00:11:19) roam y 96
-\i (00:11:19) roam x -96 
-\i (00:11:19) roam x -96
-\i (00:11:19) roam x -96 
-\i (00:11:19) roam x -96
-\i (00:11:19) roam x -96 
-\i (00:11:19) roam x -96
-\i (00:11:20) roam y 96 
-\i (00:11:20) roam y 96
-\i (00:11:20) roam x 96 
-\i (00:11:20) roam x 96
-\i (00:11:20) roam x 96 
-\i (00:11:20) roam x 96
-\i (00:11:20) roam y 96 
-\i (00:11:20) roam y 96
-\i (00:11:20) roam y 96 
-\i (00:11:20) roam y 96
-\i (00:11:21) roam y 96 
-\i (00:11:21) roam y 96
-\i (00:11:21) roam y 96 
-\i (00:11:21) roam y 96
-\i (00:11:21) roam y 96 
-\i (00:11:21) roam y 96
-\i (00:11:21) roam y 96 
-\i (00:11:21) roam y 96
-\i (00:11:22) roam y 96 
-\i (00:11:22) roam y 96
-\i (00:11:23) roam y 96 
-\i (00:11:23) roam y 96
-\i (00:11:23) roam y 96 
-\i (00:11:23) roam y 96
-\i (00:11:23) roam y 96 
-\i (00:11:23) roam y 96
-\i (00:11:24) roam y 96 
-\i (00:11:24) roam y 96
-\i (00:11:24) roam y 96 
-\i (00:11:24) roam y 96
-\i (00:11:24) roam y 96 
-\i (00:11:24) roam y 96
-\i (00:11:25) roam x -96 
-\i (00:11:25) roam x -96
-\i (00:11:25) roam x -96 
-\i (00:11:26) roam x -96
-\i (00:11:26) roam y -96 
-\i (00:11:26) roam y -96
-\i (00:11:26) roam y -96 
-\i (00:11:26) roam y -96
-\i (00:11:26) roam y -96 
-\i (00:11:26) roam y -96
-\i (00:11:28) save 
-\i (00:11:28) fillin yes 
-\i (00:11:28) placementedit 
-\i (00:11:30) roam y 96 
-\i (00:11:30) roam y 96
-\i (00:11:30) roam y 96 
-\i (00:11:30) roam y 96
-\i (00:11:31) roam x 96 
-\i (00:11:31) roam x 96
-\i (00:11:31) roam x 96 
-\i (00:11:31) roam x 96
-\i (00:11:31) roam x 96 
-\i (00:11:31) roam x 96
-\i (00:11:32) roam x 96 
-\i (00:11:32) roam x 96
-\i (00:11:32) roam x 96 
-\i (00:11:32) roam x 96
-\i (00:11:33) roam x 96 
-\i (00:11:33) roam x 96
-\i (00:11:33) roam y -96 
-\i (00:11:33) roam y -96
-\i (00:11:33) roam y -96 
-\i (00:11:33) roam y -96
-\i (00:11:34) roam y -96 
-\i (00:11:34) roam y -96
-\i (00:11:34) roam y -96 
-\i (00:11:34) roam y -96
-\i (00:11:34) roam y -96 
-\i (00:11:34) roam y -96
-\i (00:11:34) roam y -96 
-\i (00:11:34) roam y -96
-\i (00:11:36) roam x -96 
-\i (00:11:36) roam x -96
-\i (00:11:36) roam y 96 
-\i (00:11:36) roam y 96
-\i (00:11:37) roam y 96 
-\i (00:11:37) roam y 96
-\i (00:11:37) roam y 96 
-\i (00:11:37) roam y 96
-\i (00:11:38) roam y 96 
-\i (00:11:38) roam y 96
-\i (00:11:38) roam y 96 
-\i (00:11:38) roam y 96
-\i (00:11:38) roam y 96 
-\i (00:11:38) roam y 96
-\i (00:11:39) roam y -96 
-\i (00:11:39) roam y -96
-\i (00:11:40) roam y -96 
-\i (00:11:40) roam y -96
-\i (00:11:40) roam y -96 
-\i (00:11:40) roam y -96
-\i (00:11:40) roam y -96 
-\i (00:11:40) roam y -96
-\i (00:11:42) roam x 96 
-\i (00:11:42) roam x 96
-\i (00:11:42) roam y -96 
-\i (00:11:42) roam y -96
-\i (00:11:42) roam y -96 
-\i (00:11:42) roam y -96
-\i (00:11:42) roam y -96 
-\i (00:11:42) roam y -96
-\i (00:11:43) roam y -96 
-\i (00:11:43) roam y -96
-\i (00:11:43) roam x 96 
-\i (00:11:43) roam x 96
-\i (00:11:43) roam x 96 
-\i (00:11:43) roam x 96
-\i (00:11:43) roam y -96 
-\i (00:11:43) roam y -96
-\i (00:11:44) zoom in 
-\i (00:11:44) setwindow pcb
-\i (00:11:44) zoom in -19.124 -28.180
-\i (00:11:44) trapsize 126
-\i (00:11:44) zoom in 
-\i (00:11:44) setwindow pcb
-\i (00:11:44) zoom in -18.595 -27.299
-\i (00:11:44) trapsize 63
-\i (00:11:45) roam x 96 
-\i (00:11:45) roam x 96
-\i (00:11:45) roam x 96 
-\i (00:11:45) roam x 96
-\i (00:11:46) roam x 96 
-\i (00:11:46) roam x 96
-\i (00:11:46) roam x 96 
-\i (00:11:46) roam x 96
-\i (00:11:46) roam x 96 
-\i (00:11:46) roam x 96
-\i (00:11:46) roam x 96 
-\i (00:11:46) roam x 96
-\i (00:11:47) roam y -96 
-\i (00:11:47) roam y -96
-\i (00:11:49) add connect 
-\t (00:11:49) Pick first element.
-\i (00:11:55) roam y 96 
-\i (00:11:55) roam y 96
-\i (00:11:56) roam y 96 
-\i (00:11:56) roam y 96
-\i (00:11:56) roam y 96 
-\i (00:11:56) roam y 96
-\i (00:11:56) roam y 96 
-\i (00:11:56) roam y 96
-\i (00:11:56) roam y 96 
-\i (00:11:56) roam y 96
-\i (00:11:56) roam y 96 
-\i (00:11:56) roam y 96
-\i (00:11:56) roam y 96 
-\i (00:11:56) roam y 96
-\i (00:11:56) roam y 96 
-\i (00:11:56) roam y 96
-\i (00:11:56) roam y 96 
-\i (00:11:56) roam y 96
-\i (00:11:56) roam y 96 
-\i (00:11:56) roam y 96
-\i (00:11:56) roam y 96 
-\i (00:11:56) roam y 96
-\i (00:11:56) roam y 96 
-\i (00:11:56) roam y 96
-\i (00:11:56) roam y 96 
-\i (00:11:56) roam y 96
-\i (00:11:57) roam y 96 
-\i (00:11:57) roam y 96
-\i (00:11:57) roam y 96 
-\i (00:11:57) roam y 96
-\i (00:11:57) roam y 96 
-\i (00:11:57) roam y 96
-\i (00:11:57) roam y 96 
-\i (00:11:57) roam y 96
-\i (00:11:57) roam y 96 
-\i (00:11:57) roam y 96
-\i (00:11:57) roam y 96 
-\i (00:11:57) roam y 96
-\i (00:11:57) roam y 96 
-\i (00:11:57) roam y 96
-\i (00:11:57) roam y 96 
-\i (00:11:57) roam y 96
-\i (00:11:57) roam y 96 
-\i (00:11:57) roam y 96
-\i (00:11:57) roam y 96 
-\i (00:11:57) roam y 96
-\i (00:11:57) roam y 96 
-\i (00:11:57) roam y 96
-\i (00:11:57) roam y 96 
-\i (00:11:57) roam y 96
-\i (00:11:57) roam y 96 
-\i (00:11:57) roam y 96
-\i (00:11:57) roam y 96 
-\i (00:11:57) roam y 96
-\i (00:11:57) roam y 96 
-\i (00:11:57) roam y 96
-\i (00:11:57) roam y 96 
-\i (00:11:57) roam y 96
-\i (00:11:57) roam y 96 
-\i (00:11:57) roam y 96
-\i (00:11:58) roam y 96 
-\i (00:11:58) roam y 96
-\i (00:11:58) roam y 96 
-\i (00:11:58) roam y 96
-\i (00:11:59) roam y 96 
-\i (00:11:59) roam y 96
-\i (00:11:59) roam y 96 
-\i (00:11:59) roam y 96
-\i (00:12:00) zoom in 
-\i (00:12:00) setwindow pcb
-\i (00:12:00) zoom in -3.326 -64.216
-\i (00:12:00) trapsize 31
-\i (00:12:06) zoom out 
-\i (00:12:06) setwindow pcb
-\i (00:12:06) zoom out -2.477 -63.593
-\i (00:12:06) trapsize 63
-\i (00:12:06) zoom out 
-\i (00:12:06) setwindow pcb
-\i (00:12:06) zoom out -2.476 -63.593
-\i (00:12:06) trapsize 126
-\i (00:12:07) pick grid -2.351 -63.542
-\t (00:12:07) last pick:  -2.540  -63.500
-\t (00:12:07) last pick:  -2.535  -63.505
-\t (00:12:07) last pick:  -2.535  -63.505
-\i (00:12:07) roam y -96 
-\i (00:12:07) roam y -96
-\i (00:12:08) roam y -96 
-\i (00:12:08) roam y -96
-\i (00:12:08) roam y -96 
-\i (00:12:08) roam y -96
-\i (00:12:08) roam y -96 
-\i (00:12:08) roam y -96
-\i (00:12:08) roam y -96 
-\i (00:12:08) roam y -96
-\i (00:12:08) roam y -96 
-\i (00:12:08) roam y -96
-\i (00:12:08) roam y -96 
-\i (00:12:08) roam y -96
-\i (00:12:08) roam y -96 
-\i (00:12:08) roam y -96
-\i (00:12:08) roam y -96 
-\i (00:12:08) roam y -96
-\i (00:12:08) roam y -96 
-\i (00:12:08) roam y -96
-\i (00:12:08) roam y -96 
-\i (00:12:08) roam y -96
-\i (00:12:08) roam y -96 
-\i (00:12:09) roam y -96
-\i (00:12:09) roam y -96 
-\i (00:12:09) roam y -96
-\i (00:12:09) roam y -96 
-\i (00:12:09) roam y -96
-\i (00:12:09) roam y -96 
-\i (00:12:09) roam y -96
-\i (00:12:09) roam y -96 
-\i (00:12:09) roam y -96
-\i (00:12:09) roam y -96 
-\i (00:12:09) roam y -96
-\i (00:12:09) roam y -96 
-\i (00:12:09) roam y -96
-\i (00:12:09) roam y -96 
-\i (00:12:09) roam y -96
-\i (00:12:09) roam y -96 
-\i (00:12:09) roam y -96
-\i (00:12:09) roam y -96 
-\i (00:12:09) roam y -96
-\i (00:12:09) roam y -96 
-\i (00:12:09) roam y -96
-\i (00:12:09) roam y 96 
-\i (00:12:09) roam y 96
-\i (00:12:10) roam y 96 
-\i (00:12:10) roam y 96
-\i (00:12:10) roam y 96 
-\i (00:12:10) roam y 96
-\i (00:12:14) zoom in 
-\i (00:12:14) setwindow pcb
-\i (00:12:14) zoom in -2.427 -23.199
-\i (00:12:14) trapsize 63
-\i (00:12:16) cancel 
-\i (00:12:16) placementedit 
-\i (00:12:17) prepopup -2.426 -23.199
-\i (00:12:18) pick grid 0.228 -22.117
-\t (00:12:18) last pick:  0.000  -22.225
-\i (00:12:18) add connect 
-\t (00:12:19) Pick first element.
-\i (00:12:19) pick grid -4.263 -22.872
-\t (00:12:19) last pick:  -4.445  -22.860
-\t (00:12:19) last pick:  -4.275  -21.595
-\i (00:12:20) prepopup -3.659 -22.872
-\i (00:12:21) cancel 
-\i (00:12:22) placementedit 
-\i (00:12:24) zoom out 
-\i (00:12:24) setwindow pcb
-\i (00:12:24) zoom out -0.477 -23.777
-\i (00:12:24) trapsize 126
-\i (00:12:24) zoom out 
-\i (00:12:24) setwindow pcb
-\i (00:12:24) zoom out -0.476 -23.778
-\i (00:12:24) trapsize 252
-\i (00:12:25) save 
-\i (00:12:26) fillin yes 
-\i (00:12:26) placementedit 
-\i (00:12:30) roam y 96 
-\i (00:12:30) roam y 96
-\i (00:12:30) roam y 96 
-\i (00:12:30) roam y 96
-\i (00:12:30) roam x -96 
-\i (00:12:30) roam x -96
-\i (00:12:30) roam x -96 
-\i (00:12:30) roam x -96
-\i (00:12:31) roam x 96 
-\i (00:12:31) roam x 96
-\i (00:12:31) roam x 96 
-\i (00:12:31) roam x 96
-\i (00:12:31) roam x 96 
-\i (00:12:31) roam x 96
-\i (00:12:31) roam y 96 
-\i (00:12:31) roam y 96
-\i (00:12:31) roam y 96 
-\i (00:12:31) roam y 96
-\i (00:12:32) roam y 96 
-\i (00:12:32) roam y 96
-\i (00:12:32) zoom in 
-\i (00:12:32) setwindow pcb
-\i (00:12:32) zoom in 0.950 -39.248
-\i (00:12:32) trapsize 126
-\i (00:12:32) zoom in 
-\i (00:12:32) setwindow pcb
-\i (00:12:32) zoom in 0.950 -39.248
-\i (00:12:32) trapsize 63
-\i (00:12:33) roam x -96 
-\i (00:12:33) roam x -96
-\i (00:12:33) roam x -96 
-\i (00:12:33) roam x -96
-\i (00:12:35) shape add rect 
-\i (00:12:37) pick grid -8.923 -41.272
-\t (00:12:37) last pick:  -8.890  -41.275
-\i (00:12:38) pick grid -9.388 -40.945
-\t (00:12:38) last pick:  -9.525  -40.640
-\i (00:12:40) undo 
-\i (00:12:40) trapsize 63
-\i (00:12:40) placementedit 
-\i (00:12:44) setwindow form.mini
-\i (00:12:44) FORM mini subclass GND 
-\i (00:12:45) setwindow pcb
-\i (00:12:45) shape add rect 
-\i (00:12:46) pick grid -8.898 -41.247
-\t (00:12:46) last pick:  -8.890  -41.275
-\i (00:12:47) pick grid -9.351 -40.920
-\t (00:12:47) last pick:  -9.525  -40.640
-\i (00:12:48) prepopup -8.835 -40.983
-\i (00:12:49) cancel 
-\i (00:12:49) placementedit 
-\i (00:12:50) pick grid -8.231 -41.952
-\t (00:12:50) last pick:  -8.255  -41.910
-\i (00:12:52) prepopup -11.690 -41.750
-\i (00:12:56) shape add rect 
-\i (00:12:57) pick grid -8.294 -41.914
-\t (00:12:57) last pick:  -8.255  -41.910
-\i (00:12:58) pick grid -9.313 -40.945
-\t (00:12:58) last pick:  -9.525  -40.640
-\i (00:12:58) prepopup -8.722 -41.889
-\i (00:12:59) cancel 
-\i (00:12:59) placementedit 
-\i (00:13:01) shape add rect 
-\i (00:13:01) pick grid -3.603 -40.581
-\t (00:13:01) last pick:  -3.810  -40.640
-\i (00:13:02) pick grid -2.622 -41.599
-\t (00:13:02) last pick:  -2.540  -41.910
-\i (00:13:03) prepopup -3.351 -41.360
-\i (00:13:05) done 
-\i (00:13:05) placementedit 
-\i (00:13:05) prepopup -3.037 -41.335
-\i (00:13:06) pick grid -3.188 -41.335
-\t (00:13:06) last pick:  -3.175  -41.275
-\i (00:13:07) shape select 
-\i (00:13:08) pick grid -3.200 -41.398
-\t (00:13:08) last pick:  -3.175  -41.275
-\i (00:13:08) prepopup -3.200 -41.398
-\i (00:13:10) pop shape move 
-\i (00:13:11) pick grid -8.596 -41.511
-\t (00:13:11) last pick:  -8.890  -41.275
-\i (00:13:11) prepopup -9.175 -41.033
-\i (00:13:12) done 
-\i (00:13:12) placementedit 
-\i (00:13:18) shape merge shapes 
-\t (00:13:18) Pick primary shape to merge to
-\i (00:13:19) pick grid -8.646 -39.524
-\t (00:13:19) last pick:  -8.890  -39.370
-\t (00:13:19) Pick shapes to be merged
-\i (00:13:19) pick grid -8.672 -41.260
-\t (00:13:19) last pick:  -8.890  -41.275
-\i (00:13:20) prepopup -9.061 -39.549
-\i (00:13:21) done 
-\i (00:13:21) placementedit 
-\i (00:13:22) shape edit boundary 
-\i (00:13:23) pick grid -9.401 -41.197
-\t (00:13:23) last pick:  -9.525  -41.275
-\t (00:13:23) Pick the edit starting point on the shape boundary.
-\i (00:13:24) pick grid -9.539 -41.260
-\t (00:13:24) last pick:  -9.525  -41.275
-\t (00:13:24) Pick the next vertex or the closing point on the shape.
-\i (00:13:25) pick grid -9.200 -40.857
-\t (00:13:25) last pick:  -8.890  -40.640
-\t (00:13:25) Pick DONE or a start point on another shape or void boundary.
-\i (00:13:25) prepopup -9.715 -40.203
-\i (00:13:26) done 
-\i (00:13:26) placementedit 
-\i (00:13:27) save 
-\i (00:13:27) fillin yes 
-\i (00:13:27) placementedit 
-\i (00:13:28) zoom out 
-\i (00:13:28) setwindow pcb
-\i (00:13:28) zoom out -8.017 -40.367
-\i (00:13:28) trapsize 126
-\i (00:13:29) zoom out 
-\i (00:13:29) setwindow pcb
-\i (00:13:29) zoom out -8.018 -40.367
-\i (00:13:29) trapsize 252
-\i (00:13:30) roam x -96 
-\i (00:13:30) roam x -96
-\i (00:13:31) roam x -96 
-\i (00:13:31) roam x -96
-\i (00:13:31) roam x -96 
-\i (00:13:31) roam x -96
-\i (00:13:31) roam x -96 
-\i (00:13:31) roam x -96
-\i (00:13:31) roam x -96 
-\i (00:13:31) roam x -96
-\i (00:13:31) roam x -96 
-\i (00:13:31) roam x -96
-\i (00:13:32) roam y -96 
-\i (00:13:32) roam y -96
-\i (00:13:32) roam y -96 
-\i (00:13:32) roam y -96
-\i (00:13:32) roam y -96 
-\i (00:13:32) roam y -96
-\i (00:13:33) roam y -96 
-\i (00:13:33) roam y -96
-\i (00:13:34) 3d_viewer 
-\i (00:13:35) setwindow pcb3D
-\i (00:13:35) trapsize 252
-\i (00:13:35) setwindow pcb
-\i (00:13:35) placementedit 
-\i (00:13:49) roam y 96 
-\i (00:13:49) roam y 96
-\i (00:13:50) roam y 96 
-\i (00:13:50) roam y 96
-\i (00:13:50) roam y 96 
-\i (00:13:50) roam y 96
-\i (00:13:51) zoom fit 
-\i (00:13:51) trapsize 503
-\i (00:13:54) zoom in 
-\i (00:13:54) setwindow pcb
-\i (00:13:54) zoom in 19.076 -56.351
-\i (00:13:54) trapsize 252
-\i (00:13:54) zoom in 
-\i (00:13:54) setwindow pcb
-\i (00:13:54) zoom in 19.077 -56.351
-\i (00:13:54) trapsize 126
-\i (00:13:55) roam x -96 
-\i (00:13:55) roam x -96
-\i (00:13:56) roam x -96 
-\i (00:13:56) roam x -96
-\i (00:13:56) roam x -96 
-\i (00:13:56) roam x -96
-\i (00:13:56) roam x -96 
-\i (00:13:56) roam x -96
-\i (00:13:56) roam x -96 
-\i (00:13:56) roam x -96
-\i (00:13:56) roam x -96 
-\i (00:13:56) roam x -96
-\i (00:13:56) roam y -96 
-\i (00:13:56) roam y -96
-\i (00:13:57) roam y -96 
-\i (00:13:57) roam y -96
-\i (00:13:57) roam y -96 
-\i (00:13:57) roam y -96
-\i (00:13:57) roam y -96 
-\i (00:13:57) roam y -96
-\i (00:13:57) roam y -96 
-\i (00:13:57) roam y -96
-\i (00:13:57) roam y -96 
-\i (00:13:57) roam y -96
-\i (00:13:57) roam y -96 
-\i (00:13:57) roam y -96
-\i (00:13:57) roam y -96 
-\i (00:13:57) roam y -96
-\i (00:13:57) roam y -96 
-\i (00:13:57) roam y -96
-\i (00:13:57) roam y -96 
-\i (00:13:57) roam y -96
-\i (00:13:58) roam y -96 
-\i (00:13:58) roam y -96
-\i (00:13:58) roam y -96 
-\i (00:13:58) roam y -96
-\i (00:13:58) roam y -96 
-\i (00:13:58) roam y -96
-\i (00:13:58) roam x -96 
-\i (00:13:58) roam x -96
-\i (00:13:59) roam x -96 
-\i (00:13:59) roam x -96
-\i (00:13:59) roam x -96 
-\i (00:13:59) roam x -96
-\i (00:13:59) roam x -96 
-\i (00:13:59) roam x -96
-\i (00:13:59) roam x -96 
-\i (00:13:59) roam x -96
-\i (00:13:59) roam x -96 
-\i (00:13:59) roam x -96
-\i (00:13:59) roam y -96 
-\i (00:13:59) roam y -96
-\i (00:13:59) roam y -96 
-\i (00:13:59) roam y -96
-\i (00:13:59) roam y -96 
-\i (00:13:59) roam y -96
-\i (00:14:00) roam y -96 
-\i (00:14:00) roam y -96
-\i (00:14:00) roam y -96 
-\i (00:14:00) roam y -96
-\i (00:14:01) roam x -96 
-\i (00:14:01) roam x -96
-\i (00:14:01) roam x -96 
-\i (00:14:01) roam x -96
-\i (00:14:01) roam x -96 
-\i (00:14:02) roam x -96
-\i (00:14:02) roam x -96 
-\i (00:14:02) roam x -96
-\i (00:14:02) roam x -96 
-\i (00:14:02) roam x -96
-\i (00:14:02) roam x -96 
-\i (00:14:02) roam x -96
-\i (00:14:02) roam x -96 
-\i (00:14:02) roam x -96
-\i (00:14:02) roam x -96 
-\i (00:14:02) roam x -96
-\i (00:14:02) roam x -96 
-\i (00:14:02) roam x -96
-\i (00:14:04) roam x -96 
-\i (00:14:04) roam x -96
-\i (00:14:04) roam y 96 
-\i (00:14:04) roam y 96
-\i (00:14:05) roam y 96 
-\i (00:14:05) roam y 96
-\i (00:14:05) roam x -96 
-\i (00:14:05) roam x -96
-\i (00:14:05) roam y 96 
-\i (00:14:05) roam y 96
-\i (00:14:06) roam x -96 
-\i (00:14:06) roam x -96
-\i (00:14:06) roam y 96 
-\i (00:14:06) roam y 96
-\i (00:14:06) roam x -96 
-\i (00:14:06) roam x -96
-\i (00:14:07) roam y 96 
-\i (00:14:07) roam y 96
-\i (00:14:07) roam x -96 
-\i (00:14:07) roam x -96
-\i (00:14:07) roam x -96 
-\i (00:14:07) roam x -96
-\i (00:14:07) roam y 96 
-\i (00:14:07) roam y 96
-\i (00:14:08) roam x -96 
-\i (00:14:08) roam x -96
-\i (00:14:08) roam y 96 
-\i (00:14:08) roam y 96
-\i (00:14:10) zoom fit 
-\i (00:14:10) trapsize 503
-\i (00:14:13) shape select 
-\i (00:14:13) pick grid -86.173 -24.454
-\t (00:14:13) last pick:  -86.360  -24.765
-\i (00:14:14) prepopup -86.173 -24.454
-\i (00:14:16) pop shape copy layers 
-\i (00:14:22) setwindow form.shape_copylyr
-\i (00:14:22) FORM shape_copylyr cancel  
-\i (00:14:25) setwindow pcb
-\i (00:14:25) shape select 
-\i (00:14:26) pick grid -43.711 -7.248
-\t (00:14:26) last pick:  -43.815  -6.985
-\i (00:14:33) shape select 
-\i (00:14:34) pick grid -83.255 -22.442
-\t (00:14:34) last pick:  -83.185  -22.225
-\i (00:14:35) prepopup -83.255 -22.442
-\i (00:14:37) pop shape copy 
-\i (00:14:39) roam x -96 
-\i (00:14:39) roam x -96
-\i (00:14:39) roam x -96 
-\i (00:14:39) roam x -96
-\i (00:14:39) roam x -96 
-\i (00:14:39) roam x -96
-\i (00:14:41) roam x -96 
-\i (00:14:41) roam x -96
-\i (00:14:41) roam x -96 
-\i (00:14:41) roam x -96
-\i (00:14:42) roam x -96 
-\i (00:14:42) roam x -96
-\i (00:14:42) roam x 96 
-\i (00:14:42) roam x 96
-\i (00:14:42) roam x -96 
-\i (00:14:42) roam x -96
-\i (00:14:43) roam x -96 
-\i (00:14:43) roam x -96
-\i (00:14:43) roam x -96 
-\i (00:14:43) roam x -96
-\i (00:14:43) roam x -96 
-\i (00:14:43) roam x -96
-\i (00:14:44) pick grid -136.258 -27.272
-\t (00:14:44) last pick:  -136.525  -27.305
-\i (00:14:45) prepopup -132.334 -36.931
-\i (00:14:46) done 
-\i (00:14:46) placementedit 
-\i (00:14:47) shape select 
-\i (00:14:48) pick grid -159.602 -24.052
-\t (00:14:48) last pick:  -159.385  -24.130
-\i (00:14:56) setwindow form.mini
-\i (00:14:56) FORM mini dyns_netname_list  
-\i (00:14:59) fillin "3V3_Fpga"
-\t (00:14:59) Assigning selected shape to net: 3V3_FPGA
-\i (00:15:01) setwindow pcb
-\i (00:15:01) pick grid -164.331 -13.889
-\t (00:15:01) last pick:  -164.465  -13.970
-\w (00:15:01) WARNING(SPMHGE-604): No editable vertex was found.
-\i (00:15:02) roam x -96 
-\i (00:15:02) roam x -96
-\i (00:15:04) shape select 
-\i (00:15:05) pick grid -163.728 -15.398
-\t (00:15:05) last pick:  -163.830  -15.240
-\i (00:15:11) setwindow form.mini
-\i (00:15:11) FORM mini subclass VCC 
-\i (00:15:12) setwindow pcb
-\i (00:15:12) pick grid -118.550 -24.656
-\t (00:15:12) last pick:  -119.000  -25.000
-\w (00:15:12) WARNING(SPMHGE-604): No editable vertex was found.
-\i (00:15:14) prepopup -152.761 -14.191
-\i (00:15:15) done 
-\i (00:15:15) placementedit 
-\i (00:15:16) pick grid -152.660 -15.097
-\t (00:15:16) last pick:  -153.000  -15.000
-\i (00:15:18) shape select 
-\i (00:15:18) pick grid -158.395 -16.002
-\t (00:15:18) last pick:  -158.000  -16.000
-\i (00:15:19) prepopup -155.175 -13.185
-\i (00:15:32) setwindow form.mini
-\i (00:15:32) FORM mini subclass VCC 
-\i (00:15:34) setwindow pcb
-\i (00:15:34) pick grid -117.946 -36.730
-\t (00:15:34) last pick:  -118.000  -37.000
-\w (00:15:34) WARNING(SPMHGE-604): No editable vertex was found.
-\i (00:15:34) pick grid -109.997 -23.951
-\t (00:15:34) last pick:  -110.000  -24.000
-\w (00:15:34) WARNING(SPMHGE-604): No editable vertex was found.
-\i (00:15:35) prepopup -109.997 -23.951
-\i (00:15:36) done 
-\i (00:15:36) placementedit 
-\i (00:15:38) pick grid -104.966 -23.851
-\t (00:15:38) last pick:  -105.000  -24.000
-\i (00:15:40) undo 
-\i (00:15:40) trapsize 503
-\i (00:15:40) placementedit 
-\i (00:15:41) undo 
-\i (00:15:41) trapsize 503
-\i (00:15:41) placementedit 
-\i (00:15:42) undo 
-\i (00:15:42) trapsize 503
-\i (00:15:42) placementedit 
-\i (00:15:44) shape select 
-\i (00:15:44) roam x -96 
-\i (00:15:44) roam x -96
-\i (00:15:44) roam x -96 
-\i (00:15:44) roam x -96
-\i (00:15:44) roam x -96 
-\i (00:15:44) roam x -96
-\i (00:15:45) roam x -96 
-\i (00:15:45) roam x -96
-\i (00:15:46) pick grid -83.333 -17.109
-\t (00:15:46) last pick:  -83.185  -17.145
-\i (00:15:46) prepopup -84.742 -15.902
-\i (00:15:48) pop shape copy 
-\i (00:15:52) setwindow form.mini
-\i (00:15:52) FORM mini subclass VCC 
-\i (00:15:53) setwindow pcb
-\i (00:15:53) roam x -96 
-\i (00:15:53) roam x -96
-\i (00:15:53) roam x -96 
-\i (00:15:53) roam x -96
-\i (00:15:54) roam x -96 
-\i (00:15:54) roam x -96
-\i (00:15:54) pick grid -109.091 -24.454
-\t (00:15:54) last pick:  -109.000  -24.000
-\i (00:15:55) prepopup -114.021 -35.321
-\i (00:15:57) done 
-\i (00:15:57) placementedit 
-\i (00:15:58) roam x -96 
-\i (00:15:58) roam x -96
-\i (00:15:59) shape select 
-\i (00:16:00) pick grid -127.505 -30.693
-\t (00:16:00) last pick:  -128.000  -31.000
-\i (00:16:00) roam x -96 
-\i (00:16:00) roam x -96
-\i (00:16:00) roam x -96 
-\i (00:16:00) roam x -96
-\i (00:16:00) roam x -96 
-\i (00:16:00) roam x -96
-\i (00:16:01) roam x -96 
-\i (00:16:01) roam x -96
-\i (00:16:01) pick grid -137.768 -23.247
-\t (00:16:01) last pick:  -137.795  -23.495
-\w (00:16:01) WARNING(SPMHGE-604): No editable vertex was found.
-\i (00:16:03) prepopup -136.460 -14.694
-\i (00:16:06) pop shape move 
-\i (00:16:07) pick grid -139.781 -26.265
-\t (00:16:07) last pick:  -139.700  -26.035
-\i (00:16:08) prepopup -126.398 -25.259
-\i (00:16:09) done 
-\i (00:16:09) placementedit 
-\i (00:16:15) pick grid -153.565 -35.522
-\t (00:16:15) last pick:  -153.670  -35.560
-\i (00:16:16) shape select 
-\i (00:16:16) pick grid -164.936 -24.152
-\t (00:16:16) last pick:  -165.100  -24.130
-\i (00:16:17) prepopup -164.936 -24.152
-\i (00:17:03) prepopup -164.131 -32.705
-\i (00:17:14) pop shape update 
-\t (00:17:14) Updating shape...
-\t (00:17:14) done.
-\i (00:17:16) prepopup -159.804 -35.019
-\i (00:17:23) xsection 
-   (00:17:24) Loading floor.cxt 
-   (00:17:24) Loading skillExt.cxt 
-   (00:17:24) Loading axlcore.cxt 
-   (00:17:24) Loading signal.cxt 
-\i (00:17:32) setwindow form.fplyrstack
-\i (00:17:32) FORM fplyrstack cancel  
-\i (00:17:32) setwindow pcb
-\i (00:17:32) placementedit 
-\i (00:17:35) roam x 96 
-\i (00:17:35) roam x 96
-\i (00:17:36) zoom in 
-\i (00:17:36) setwindow pcb
-\i (00:17:36) zoom in -82.225 -39.145
-\i (00:17:36) trapsize 252
-\i (00:17:36) zoom in 
-\i (00:17:36) setwindow pcb
-\i (00:17:36) zoom in -82.124 -39.044
-\i (00:17:36) trapsize 126
-\i (00:17:37) prepopup -93.696 -37.937
-\i (00:17:37) pick grid -96.916 -37.182
-\t (00:17:37) last pick:  -97.155  -37.465
-\i (00:17:39) zoom in 
-\i (00:17:39) setwindow pcb
-\i (00:17:39) zoom in -89.067 -36.855
-\i (00:17:39) trapsize 63
-\i (00:17:39) zoom in 
-\i (00:17:39) setwindow pcb
-\i (00:17:39) zoom in -89.054 -36.855
-\i (00:17:39) trapsize 31
-\i (00:17:40) pick grid -89.576 -37.195
-\t (00:17:40) last pick:  -89.535  -37.465
-\i (00:17:40) roam y -96 
-\i (00:17:40) roam y -96
-\i (00:17:40) roam y -96 
-\i (00:17:40) roam y -96
-\i (00:17:41) roam y -96 
-\i (00:17:41) roam y -96
-\i (00:17:41) zoom out 
-\i (00:17:41) setwindow pcb
-\i (00:17:41) zoom out -89.922 -35.351
-\i (00:17:41) trapsize 63
-\i (00:17:42) zoom out 
-\i (00:17:42) setwindow pcb
-\i (00:17:42) zoom out -89.922 -35.350
-\i (00:17:42) trapsize 126
-\i (00:17:43) roam x -96 
-\i (00:17:43) roam x -96
-\i (00:17:43) roam y 96 
-\i (00:17:43) roam y 96
-\i (00:17:43) roam y 96 
-\i (00:17:43) roam y 96
-\i (00:17:44) roam y 96 
-\i (00:17:44) roam y 96
-\i (00:17:44) roam y -96 
-\i (00:17:44) roam y -96
-\i (00:17:45) roam y -96 
-\i (00:17:45) roam y -96
-\i (00:17:45) roam y -96 
-\i (00:17:45) roam y -96
-\i (00:17:45) roam y -96 
-\i (00:17:45) roam y -96
-\i (00:17:45) roam y -96 
-\i (00:17:45) roam y -96
-\i (00:17:45) roam y -96 
-\i (00:17:45) roam y -96
-\i (00:17:45) roam y -96 
-\i (00:17:45) roam y -96
-\i (00:17:45) roam y -96 
-\i (00:17:45) roam y -96
-\i (00:17:45) roam y -96 
-\i (00:17:45) roam y -96
-\i (00:17:45) roam y -96 
-\i (00:17:45) roam y -96
-\i (00:17:45) roam y -96 
-\i (00:17:45) roam y -96
-\i (00:17:45) roam y -96 
-\i (00:17:45) roam y -96
-\i (00:17:45) roam y -96 
-\i (00:17:45) roam y -96
-\i (00:17:46) roam y -96 
-\i (00:17:46) roam y -96
-\i (00:17:46) roam y -96 
-\i (00:17:46) roam y -96
-\i (00:17:48) roam y 96 
-\i (00:17:48) roam y 96
-\i (00:17:48) roam x -96 
-\i (00:17:48) roam x -96
-\i (00:17:49) zoom out 
-\i (00:17:49) setwindow pcb
-\i (00:17:49) zoom out -104.980 -1.565
-\i (00:17:49) trapsize 252
-\i (00:17:49) zoom in 
-\i (00:17:49) setwindow pcb
-\i (00:17:49) zoom in -104.980 -1.565
-\i (00:17:49) trapsize 126
-\i (00:17:49) zoom out 
-\i (00:17:49) setwindow pcb
-\i (00:17:49) zoom out -104.980 -1.565
-\i (00:17:49) trapsize 252
-\i (00:17:50) zoom out 
-\i (00:17:50) setwindow pcb
-\i (00:17:50) zoom out -104.980 -1.565
-\i (00:17:50) trapsize 503
-\i (00:17:50) roam x -96 
-\i (00:17:50) roam x -96
-\i (00:17:50) roam x -96 
-\i (00:17:50) roam x -96
-\i (00:17:51) roam x -96 
-\i (00:17:51) roam x -96
-\i (00:17:51) roam x -96 
-\i (00:17:51) roam x -96
-\i (00:17:51) roam x -96 
-\i (00:17:51) roam x -96
-\i (00:17:51) roam x -96 
-\i (00:17:51) roam x -96
-\i (00:17:51) roam x -96 
-\i (00:17:51) roam x -96
-\i (00:17:52) roam x -96 
-\i (00:17:52) roam x -96
-\i (00:17:53) shape select 
-\i (00:17:56) pick grid -166.335 -15.853
-\t (00:17:56) last pick:  -166.370  -15.875
-\i (00:18:06) setwindow form.mini
-\i (00:18:06) FORM mini dyns_netname_list  
-\i (00:18:10) fillin "3V3_Fpga"
-\t (00:18:10) Assigning selected shape to net: 3V3_FPGA
-\i (00:18:18) FORM mini subclass VCC 
-\i (00:18:29) FORM mini dyns_defer_fill YES 
-\i (00:18:30) FORM mini dyns_defer_fill NO 
-\i (00:18:33) setwindow pcb
-\i (00:18:33) prepopup -121.960 -33.663
-\i (00:18:37) pop shape copy layers 
-\i (00:18:45) setwindow form.shape_copylyr
-\i (00:18:45) FORM shape_copylyr tree 'MULTISEL YES' VCC CAVITY 
-\i (00:18:45) FORM shape_copylyr tree  VCC CAVITY 
-\i (00:18:46) FORM shape_copylyr done  
-\i (00:18:55) setwindow pcb
-\i (00:18:55) shape select 
-\i (00:18:56) pick grid -169.958 -13.237
-\t (00:18:56) last pick:  -170.000  -13.000
-\i (00:18:57) pick grid -165.731 -16.658
-\t (00:18:57) last pick:  -165.735  -16.510
-\w (00:18:57) WARNING(SPMHGE-604): No editable vertex was found.
-\i (00:18:58) shape select 
-\i (00:18:59) pick grid -168.851 -9.816
-\t (00:18:59) last pick:  -168.910  -9.525
-\i (00:18:59) prepopup -168.851 -9.816
-\i (00:19:01) pop shape move 
-\i (00:19:02) pick grid -104.251 -36.984
-\t (00:19:02) last pick:  -104.140  -36.830
-\i (00:19:03) prepopup -98.314 -39.198
-\i (00:19:04) cancel 
-\i (00:19:05) placementedit 
-\i (00:19:05) undo 
-\i (00:19:05) trapsize 503
-\i (00:19:05) placementedit 
-\i (00:19:05) undo 
-\i (00:19:05) placementedit 
-\i (00:19:06) undo 
-\i (00:19:06) placementedit 
-\i (00:19:06) undo 
-\i (00:19:06) placementedit 
-\i (00:19:07) undo 
-\i (00:19:07) placementedit 
-\i (00:19:07) undo 
-\i (00:19:07) placementedit 
-\i (00:19:07) undo 
-\i (00:19:08) placementedit 
-\i (00:19:08) undo 
-\i (00:19:08) placementedit 
-\i (00:19:08) undo 
-\i (00:19:08) placementedit 
-\i (00:19:09) undo 
-\i (00:19:09) placementedit 
-\i (00:19:09) undo 
-\i (00:19:09) placementedit 
-\i (00:19:09) undo 
-\i (00:19:09) placementedit 
-\i (00:19:09) undo 
-\i (00:19:09) placementedit 
-\i (00:19:10) undo 
-\i (00:19:10) placementedit 
-\i (00:19:10) undo 
-\i (00:19:10) placementedit 
-\i (00:19:10) undo 
-\i (00:19:10) placementedit 
-\i (00:19:11) undo 
-\i (00:19:11) placementedit 
-\i (00:19:11) undo 
-\i (00:19:11) placementedit 
-\i (00:19:11) undo 
-\i (00:19:11) placementedit 
-\i (00:19:11) undo 
-\i (00:19:11) placementedit 
-\i (00:19:11) undo 
-\i (00:19:11) placementedit 
-\i (00:19:11) undo 
-\i (00:19:11) placementedit 
-\i (00:19:12) undo 
-\i (00:19:12) placementedit 
-\i (00:19:12) undo 
-\i (00:19:12) placementedit 
-\i (00:19:12) undo 
-\i (00:19:12) placementedit 
-\i (00:19:12) undo 
-\i (00:19:12) placementedit 
-\i (00:19:12) undo 
-\i (00:19:12) placementedit 
-\i (00:19:12) undo 
-\i (00:19:12) placementedit 
-\i (00:19:13) undo 
-\i (00:19:13) placementedit 
-\i (00:19:13) undo 
-\i (00:19:13) placementedit 
-\i (00:19:14) undo 
-\i (00:19:14) placementedit 
-\i (00:19:14) undo 
-\i (00:19:14) placementedit 
-\i (00:19:14) undo 
-\i (00:19:14) placementedit 
-\i (00:19:14) undo 
-\i (00:19:14) placementedit 
-\i (00:19:16) delete 
-\i (00:19:17) pick grid -160.901 -17.463
-\t (00:19:17) last pick:  -160.655  -17.780
-\t (00:19:17) Dynamic Shape "Gnd_Fpga, Boundary/Gnd"
-\i (00:19:17) prepopup -157.581 -16.155
-\i (00:19:18) done 
-\i (00:19:18) placementedit 
-\i (00:19:20) zoom fit 
-\i (00:19:20) trapsize 503
-\i (00:19:22) pick grid 22.698 -33.711
-\t (00:19:22) last pick:  22.860  -33.655
-\i (00:19:22) save 
-\i (00:19:22) fillin yes 
-\i (00:19:23) placementedit 
-\i (00:19:23) zoom in 
-\i (00:19:23) setwindow pcb
-\i (00:19:23) zoom in 22.698 -33.711
-\i (00:19:23) trapsize 252
-\i (00:19:24) roam x -96 
-\i (00:19:24) roam x -96
-\i (00:19:24) roam x -96 
-\i (00:19:24) roam x -96
-\i (00:19:25) roam x -96 
-\i (00:19:25) roam x -96
-\i (00:19:25) roam x -96 
-\i (00:19:25) roam x -96
-\i (00:19:25) roam x -96 
-\i (00:19:25) roam x -96
-\i (00:19:25) roam x -96 
-\i (00:19:25) roam x -96
-\i (00:19:25) roam x -96 
-\i (00:19:25) roam x -96
-\i (00:19:25) roam x -96 
-\i (00:19:25) roam x -96
-\i (00:19:25) roam x -96 
-\i (00:19:25) roam x -96
-\i (00:19:25) roam x -96 
-\i (00:19:25) roam x -96
-\i (00:19:25) roam x -96 
-\i (00:19:25) roam x -96
-\i (00:19:25) roam x -96 
-\i (00:19:25) roam x -96
-\i (00:19:25) roam y -96 
-\i (00:19:25) roam y -96
-\i (00:19:25) roam y -96 
-\i (00:19:25) roam y -96
-\i (00:19:26) roam y -96 
-\i (00:19:26) roam y -96
-\i (00:19:26) roam y -96 
-\i (00:19:26) roam y -96
-\i (00:19:26) roam y -96 
-\i (00:19:26) roam y -96
-\i (00:19:26) roam y -96 
-\i (00:19:26) roam y -96
-\i (00:19:27) roam y 96 
-\i (00:19:27) roam y 96
-\i (00:19:27) roam y 96 
-\i (00:19:27) roam y 96
-\i (00:19:30) setwindow form.mini
-\i (00:19:30) FORM mini subclass VCC 
-\i (00:19:31) setwindow pcb
-\i (00:19:31) roam x -96 
-\i (00:19:31) roam x -96
-\i (00:19:31) roam x -96 
-\i (00:19:31) roam x -96
-\i (00:19:32) roam x -96 
-\i (00:19:32) roam x -96
-\i (00:19:32) roam x -96 
-\i (00:19:32) roam x -96
-\i (00:19:32) roam x -96 
-\i (00:19:32) roam x -96
-\i (00:19:33) roam x -96 
-\i (00:19:33) roam x -96
-\i (00:19:33) roam y -96 
-\i (00:19:33) roam y -96
-\i (00:21:36) shape select 
-\i (00:21:37) pick grid -87.103 -13.046
-\t (00:21:37) last pick:  -87.000  -13.000
-\i (00:21:49) shape void copy 
-\t (00:21:49) Select the element(s) to copy.
-\i (00:22:06) prepopup -86.348 3.153
-\i (00:22:07) cancel 
-\i (00:22:07) placementedit 
-\i (00:23:04) shape select 
-\i (00:23:05) pick grid -86.600 -5.299
-\t (00:23:05) last pick:  -86.360  -5.080
-\i (00:23:09) zcopy shape 
-\t (00:23:09) Select cline, shape, rectangle or closed polygon.
-   (00:23:09) Loading cmds.cxt 
-\i (00:23:16) setwindow form.mini
-\i (00:23:16) FORM mini subclass_name VCC 
-\i (00:23:34) FORM mini dynamic_shape YES 
-\i (00:23:36) setwindow pcb
-\i (00:23:36) prepopup -66.526 3.506
-\i (00:23:36) pop Done 
-\i (00:23:37) placementedit 
-\i (00:23:41) setwindow form.mini
-\i (00:23:41) FORM mini subclass VCC 
-\i (00:23:43) setwindow pcb
-\i (00:23:43) prepopup -46.704 0.990
-\i (00:23:48) pick grid -97.215 2.348
-\t (00:23:48) last pick:  -97.000  2.000
-\i (00:23:48) undo 
-\i (00:23:48) trapsize 252
-\i (00:23:48) placementedit 
-\i (00:23:50) undo 
-\i (00:23:50) trapsize 252
-\i (00:23:50) placementedit 
-\i (00:23:51) undo 
-\i (00:23:51) trapsize 252
-\i (00:23:51) placementedit 
-\i (00:23:52) save 
-\i (00:23:53) fillin yes 
-\i (00:23:53) placementedit 
-\i (00:23:56) shape select 
-\i (00:23:57) pick grid -85.795 -12.946
-\t (00:23:57) last pick:  -86.000  -13.000
-\i (00:25:31) prepopup -85.845 -13.298
-\i (00:25:32) done 
-\i (00:25:32) placementedit 
-\i (00:25:33) pick grid -96.411 -17.071
-\t (00:25:33) last pick:  -96.520  -17.145
-\i (00:25:38) shape select 
-\i (00:25:38) pick grid -84.688 -14.053
-\t (00:25:38) last pick:  -84.455  -13.970
-\i (00:25:39) prepopup -84.688 -14.053
-\i (00:25:40) pop shape move 
-\i (00:25:41) prepopup -96.260 -15.713
-\i (00:25:42) cancel 
-\i (00:25:42) placementedit 
-\i (00:25:44) shape select 
-\i (00:25:44) pick grid -84.386 -14.405
-\t (00:25:44) last pick:  -84.455  -14.605
-\i (00:25:49) zcopy shape 
-\t (00:25:49) Select cline, shape, rectangle or closed polygon.
-\i (00:26:04) pick -97.517 -3.789
-\t (00:26:04) last pick:  -97.517  -3.789
-\t (00:26:04) No Element Found.
-\i (00:26:07) pick -86.298 -4.142
-\t (00:26:07) last pick:  -86.298  -4.142
-\i (00:26:11) roam y 96 
-\i (00:26:11) roam y 96
-\i (00:26:11) roam y 96 
-\i (00:26:11) roam y 96
-\i (00:26:11) roam y 96 
-\i (00:26:11) roam y 96
-\i (00:26:14) prepopup -52.993 -13.600
-\i (00:26:15) pop Done 
-\i (00:26:15) placementedit 
-\i (00:26:19) setwindow form.mini
-\i (00:26:19) FORM mini subclass VCC 
-\i (00:26:20) setwindow pcb
-\i (00:26:20) pick grid -93.643 -22.455
-\t (00:26:20) last pick:  -94.000  -22.000
-\i (00:26:22) shape select 
-\i (00:26:23) pick grid -86.298 -28.492
-\t (00:26:23) last pick:  -86.000  -28.000
-\i (00:26:30) setwindow form.mini
-\i (00:26:30) FORM mini dyns_netname_list  
-\i (00:26:32) fillin "3V3_Fpga"
-\t (00:26:32) Assigning selected shape to net: 3V3_FPGA
-\i (00:26:33) setwindow pcb
-\i (00:26:33) pick grid -95.253 -23.260
-\t (00:26:33) last pick:  -95.000  -23.000
-\w (00:26:33) WARNING(SPMHGE-604): No editable vertex was found.
-\i (00:26:33) roam y -96 
-\i (00:26:33) roam y -96
-\i (00:26:34) roam y -96 
-\i (00:26:34) roam y -96
-\i (00:26:35) pick grid -95.253 -13.600
-\t (00:26:35) last pick:  -95.000  -14.000
-\w (00:26:35) WARNING(SPMHGE-604): No editable vertex was found.
-\i (00:26:36) pick grid -90.927 -12.141
-\t (00:26:36) last pick:  -91.000  -12.000
-\w (00:26:36) WARNING(SPMHGE-604): No editable vertex was found.
-\i (00:26:37) save 
-\i (00:26:38) fillin yes 
-\i (00:26:38) placementedit 
-\i (00:26:39) done 
-\i (00:26:39) placementedit 
-\i (00:26:40) roam y -96 
-\i (00:26:40) roam y -96
-\i (00:26:41) zoom in 
-\i (00:26:41) setwindow pcb
-\i (00:26:41) zoom in -90.927 -7.311
-\i (00:26:41) trapsize 126
-\i (00:26:42) zoom in 
-\i (00:26:42) setwindow pcb
-\i (00:26:42) zoom in -90.928 -7.311
-\i (00:26:42) trapsize 63
-\i (00:26:42) zoom in 
-\i (00:26:42) setwindow pcb
-\i (00:26:42) zoom in -90.928 -7.311
-\i (00:26:42) trapsize 31
-\i (00:26:43) zoom out 
-\i (00:26:43) setwindow pcb
-\i (00:26:43) zoom out -90.928 -7.311
-\i (00:26:43) trapsize 63
-\i (00:26:43) zoom out 
-\i (00:26:43) setwindow pcb
-\i (00:26:43) zoom out -90.927 -7.311
-\i (00:26:43) trapsize 126
-\i (00:26:43) zoom out 
-\i (00:26:43) setwindow pcb
-\i (00:26:43) zoom out -90.927 -7.311
-\i (00:26:43) trapsize 252
-\i (00:26:44) roam x 96 
-\i (00:26:44) roam x 96
-\i (00:26:45) roam x 96 
-\i (00:26:45) roam x 96
-\i (00:26:45) roam y 96 
-\i (00:26:45) roam y 96
-\i (00:26:45) roam y 96 
-\i (00:26:45) roam y 96
-\i (00:26:45) roam y 96 
-\i (00:26:45) roam y 96
-\i (00:26:46) roam y 96 
-\i (00:26:46) roam y 96
-\i (00:26:46) roam y 96 
-\i (00:26:46) roam y 96
-\i (00:26:46) roam y 96 
-\i (00:26:46) roam y 96
-\i (00:26:46) roam y 96 
-\i (00:26:46) roam y 96
-\i (00:26:47) roam y 96 
-\i (00:26:47) roam y 96
-\i (00:26:47) roam y 96 
-\i (00:26:47) roam y 96
-\i (00:26:47) roam y 96 
-\i (00:26:47) roam y 96
-\i (00:26:48) roam x 96 
-\i (00:26:48) roam x 96
-\i (00:26:48) roam x 96 
-\i (00:26:48) roam x 96
-\i (00:26:48) roam x 96 
-\i (00:26:48) roam x 96
-\i (00:26:48) roam x 96 
-\i (00:26:48) roam x 96
-\i (00:26:48) roam x 96 
-\i (00:26:48) roam x 96
-\i (00:26:48) roam x 96 
-\i (00:26:48) roam x 96
-\i (00:26:49) roam x 96 
-\i (00:26:49) roam x 96
-\i (00:26:49) roam y -96 
-\i (00:26:49) roam y -96
-\i (00:26:49) roam y -96 
-\i (00:26:49) roam y -96
-\i (00:26:49) roam y -96 
-\i (00:26:49) roam y -96
-\i (00:26:49) roam y -96 
-\i (00:26:49) roam y -96
-\i (00:26:50) roam y -96 
-\i (00:26:50) roam y -96
-\i (00:26:50) roam y -96 
-\i (00:26:50) roam y -96
-\i (00:26:50) roam y -96 
-\i (00:26:50) roam y -96
-\i (00:26:51) roam y -96 
-\i (00:26:51) roam y -96
-\i (00:26:51) roam y -96 
-\i (00:26:51) roam y -96
-\i (00:26:55) roam x 96 
-\i (00:26:55) roam x 96
-\i (00:26:57) roam x -96 
-\i (00:26:57) roam x -96
-\i (00:26:57) roam x -96 
-\i (00:26:57) roam x -96
-\i (00:26:57) roam x -96 
-\i (00:26:57) roam x -96
-\i (00:26:57) roam x -96 
-\i (00:26:57) roam x -96
-\i (00:26:59) zoom in 
-\i (00:26:59) setwindow pcb
-\i (00:26:59) zoom in -61.989 -12.182
-\i (00:26:59) trapsize 126
-\i (00:26:59) zoom in 
-\i (00:26:59) setwindow pcb
-\i (00:26:59) zoom in -61.989 -12.182
-\i (00:26:59) trapsize 63
-\i (00:27:01) zoom out 
-\i (00:27:01) setwindow pcb
-\i (00:27:01) zoom out -61.989 -12.182
-\i (00:27:01) trapsize 126
-\i (00:27:01) zoom out 
-\i (00:27:01) setwindow pcb
-\i (00:27:01) zoom out -61.989 -12.182
-\i (00:27:01) trapsize 252
-\i (00:27:11) zcopy shape 
-\t (00:27:11) Select cline, shape, rectangle or closed polygon.
-\i (00:27:13) pick -48.756 -19.779
-\t (00:27:13) last pick:  -48.756  -19.779
-\i (00:27:14) prepopup -51.372 -18.722
-\i (00:27:15) pop Cancel 
-\i (00:27:15) placementedit 
-\i (00:27:18) zcopy shape 
-\t (00:27:18) Select cline, shape, rectangle or closed polygon.
-\i (00:27:19) pick -31.449 -21.942
-\t (00:27:19) last pick:  -31.449  -21.942
-\i (00:27:20) prepopup -31.399 -20.684
-\i (00:27:21) pop Done 
-\i (00:27:21) placementedit 
-\i (00:27:24) roam y 96 
-\i (00:27:24) roam y 96
-\i (00:27:24) roam y 96 
-\i (00:27:24) roam y 96
-\i (00:27:24) roam y 96 
-\i (00:27:24) roam y 96
-\i (00:27:25) roam x -96 
-\i (00:27:25) roam x -96
-\i (00:27:26) roam x -96 
-\i (00:27:26) roam x -96
-\i (00:27:26) roam y -96 
-\i (00:27:26) roam y -96
-\i (00:27:26) roam y -96 
-\i (00:27:26) roam y -96
-\i (00:27:27) zoom in 
-\i (00:27:27) setwindow pcb
-\i (00:27:27) zoom in -57.008 -7.452
-\i (00:27:27) trapsize 126
-\i (00:27:27) zoom in 
-\i (00:27:27) setwindow pcb
-\i (00:27:27) zoom in -57.008 -7.452
-\i (00:27:27) trapsize 63
-\i (00:27:28) roam y 96 
-\i (00:27:28) roam y 96
-\i (00:27:28) roam y 96 
-\i (00:27:28) roam y 96
-\i (00:27:28) roam y 96 
-\i (00:27:28) roam y 96
-\i (00:27:34) shape edit boundary 
-\i (00:27:36) pick grid -58.416 -14.596
-\t (00:27:36) last pick:  -58.000  -15.000
-\t (00:27:36) Pick the edit starting point on the shape boundary.
-\i (00:27:38) pick grid -58.441 -14.609
-\t (00:27:38) last pick:  -58.000  -15.000
-\w (00:27:38) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:27:39) pick grid -57.813 -15.238
-\t (00:27:39) last pick:  -58.000  -15.000
-\w (00:27:39) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:27:41) pick grid -57.825 -15.238
-\t (00:27:41) last pick:  -58.000  -15.000
-\w (00:27:41) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:27:42) pick grid -59.070 -13.527
-\t (00:27:42) last pick:  -59.000  -14.000
-\w (00:27:42) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:27:45) pick grid -58.441 -14.647
-\t (00:27:45) last pick:  -58.000  -15.000
-\w (00:27:45) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:27:47) prepopup -60.705 -15.200
-\i (00:27:48) cancel 
-\i (00:27:48) placementedit 
-\i (00:27:52) shape edit boundary 
-\i (00:27:53) pick grid -58.945 -13.917
-\t (00:27:53) last pick:  -59.000  -14.000
-\t (00:27:53) Pick the edit starting point on the shape boundary.
-\i (00:27:54) pick grid -58.404 -14.621
-\t (00:27:54) last pick:  -58.000  -15.000
-\w (00:27:54) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:27:56) pick grid -57.800 -15.238
-\t (00:27:56) last pick:  -58.000  -15.000
-\w (00:27:56) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:27:56) prepopup -57.775 -14.596
-\i (00:27:57) done 
-\i (00:27:57) placementedit 
-\i (00:27:59) zoom in 
-\i (00:28:00) setwindow pcb
-\i (00:28:00) zoom in -58.643 -15.062
-\i (00:28:00) trapsize 31
-\i (00:28:00) zoom in 
-\i (00:28:00) setwindow pcb
-\i (00:28:00) zoom in -58.643 -15.061
-\i (00:28:00) trapsize 16
-\i (00:28:00) zoom in 
-\i (00:28:00) setwindow pcb
-\i (00:28:00) zoom in -58.643 -15.061
-\i (00:28:00) trapsize 8
-\i (00:28:01) zoom out 
-\i (00:28:01) setwindow pcb
-\i (00:28:01) zoom out -58.643 -15.061
-\i (00:28:01) trapsize 16
-\i (00:28:01) zoom out 
-\i (00:28:01) setwindow pcb
-\i (00:28:01) zoom out -58.643 -15.061
-\i (00:28:01) trapsize 31
-\i (00:28:03) shape add rect 
-\i (00:28:04) pick grid -58.594 -14.746
-\t (00:28:04) last pick:  -59.000  -15.000
-\i (00:28:06) pick grid -58.499 -15.721
-\t (00:28:06) last pick:  -58.000  -16.000
-\i (00:28:07) prepopup -58.279 -15.683
-\i (00:28:08) cancel 
-\i (00:28:08) placementedit 
-\i (00:28:09) zoom in 
-\i (00:28:09) setwindow pcb
-\i (00:28:09) zoom in -58.091 -15.721
-\i (00:28:09) trapsize 16
-\i (00:28:09) zoom out 
-\i (00:28:09) setwindow pcb
-\i (00:28:09) zoom out -58.091 -15.721
-\i (00:28:09) trapsize 31
-\i (00:28:09) zoom out 
-\i (00:28:09) setwindow pcb
-\i (00:28:09) zoom out -58.091 -15.721
-\i (00:28:09) trapsize 63
-\i (00:28:09) zoom out 
-\i (00:28:09) setwindow pcb
-\i (00:28:09) zoom out -58.090 -15.721
-\i (00:28:09) trapsize 126
-\i (00:28:11) shape add rect 
-\i (00:28:12) pick grid -59.197 -8.905
-\t (00:28:12) last pick:  -59.000  -9.000
-\i (00:28:13) pick grid -58.492 -9.735
-\t (00:28:13) last pick:  -58.000  -10.000
-\i (00:28:14) prepopup -58.442 -9.534
-\i (00:28:15) done 
-\i (00:28:15) placementedit 
-\i (00:28:15) prepopup -58.543 -9.584
-\i (00:28:17) shape select 
-\i (00:28:18) pick grid -58.668 -9.710
-\t (00:28:18) last pick:  -59.000  -10.000
-\i (00:28:18) prepopup -58.668 -9.710
-\i (00:28:20) pop shape move 
-\i (00:28:26) zoom in 
-\i (00:28:26) setwindow pcb
-\i (00:28:26) zoom in -58.467 -15.671
-\i (00:28:26) trapsize 63
-\i (00:28:26) zoom in 
-\i (00:28:26) setwindow pcb
-\i (00:28:26) zoom in -58.467 -15.671
-\i (00:28:26) trapsize 31
-\i (00:28:31) pick grid -58.813 -14.558
-\t (00:28:31) last pick:  -59.000  -15.000
-\i (00:28:33) drag_start grid -59.001 -14.985
-\i (00:28:34) drag_stop grid -58.241 -14.583
-\t (00:28:34) No DRC errors detected.
-\i (00:28:35) drag_start grid -59.001 -15.985
-\t (00:28:35) last pick:  -59.000  -16.000
-\i (00:28:36) drag_stop grid -57.958 -15.972
-\t (00:28:36) No DRC errors detected.
-\i (00:28:37) drag_start grid -60.001 -14.985
-\t (00:28:37) last pick:  -60.000  -15.000
-\i (00:28:38) drag_stop grid -59.951 -14.514
-\t (00:28:38) No DRC errors detected.
-\i (00:28:40) generaledit 
-\i (00:28:40) placementedit 
-\i (00:28:42) shape select 
-\i (00:28:43) pick grid -59.662 -15.174
-\t (00:28:43) last pick:  -59.690  -15.240
-\i (00:28:45) pick grid -57.983 -15.463
-\t (00:28:45) last pick:  -57.785  -15.240
-\w (00:28:45) WARNING(SPMHGE-604): No editable vertex was found.
-\i (00:28:46) pick grid -58.014 -15.450
-\t (00:28:46) last pick:  -57.785  -15.240
-\w (00:28:46) WARNING(SPMHGE-604): No editable vertex was found.
-\i (00:28:47) pick grid -61.334 -14.935
-\t (00:28:47) last pick:  -61.595  -15.240
-\w (00:28:47) WARNING(SPMHGE-604): No editable vertex was found.
-\i (00:28:47) pick grid -61.296 -15.450
-\t (00:28:47) last pick:  -61.595  -15.240
-\w (00:28:47) WARNING(SPMHGE-604): No editable vertex was found.
-\i (00:28:49) prepopup -54.179 -15.803
-\i (00:28:50) cancel 
-\i (00:28:50) placementedit 
-\i (00:28:54) setwindow form.mini
-\i (00:28:54) FORM mini subclass VCC 
-\i (00:28:56) setwindow pcb
-\i (00:28:56) generaledit 
-\i (00:28:57) placementedit 
-\i (00:29:01) undo 
-\i (00:29:01) trapsize 31
-\i (00:29:01) placementedit 
-\i (00:29:01) undo 
-\i (00:29:02) trapsize 126
-\i (00:29:02) placementedit 
-\i (00:29:03) save 
-\i (00:29:04) fillin no 
-\i (00:29:06) fillin "menu_cancel"
-\i (00:29:06) placementedit 
-\i (00:29:07) undo 
-\i (00:29:07) trapsize 126
-\i (00:29:07) placementedit 
-\i (00:29:08) save 
-\i (00:29:08) fillin yes 
-\i (00:29:08) placementedit 
-\i (00:29:09) zoom in 
-\i (00:29:09) setwindow pcb
-\i (00:29:09) zoom in -55.801 -15.646
-\i (00:29:09) trapsize 63
-\i (00:29:09) zoom in 
-\i (00:29:09) setwindow pcb
-\i (00:29:09) zoom in -55.977 -15.658
-\i (00:29:09) trapsize 31
-\i (00:29:10) roam x -96 
-\i (00:29:10) roam x -96
-\i (00:29:11) generaledit 
-\i (00:29:12) placementedit 
-\i (00:29:13) shape edit boundary 
-\i (00:29:15) pick grid -58.329 -14.658
-\t (00:29:15) last pick:  -58.420  -14.605
-\t (00:29:15) Pick the edit starting point on the shape boundary.
-\i (00:29:16) pick grid -58.411 -14.626
-\t (00:29:16) last pick:  -58.000  -15.000
-\w (00:29:16) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:29:19) generaledit 
-\i (00:29:19) placementedit 
-\i (00:29:21) shape edit boundary 
-\i (00:29:25) pick grid -60.587 -14.475
-\t (00:29:25) last pick:  -60.325  -14.605
-\t (00:29:25) Pick the edit starting point on the shape boundary.
-\i (00:29:28) pick grid -58.424 -14.614
-\t (00:29:28) last pick:  -58.420  -14.605
-\t (00:29:28) Pick the next vertex or the closing point on the shape.
-\i (00:29:30) pick grid -58.097 -14.966
-\t (00:29:30) last pick:  -57.785  -15.240
-\t (00:29:30) Pick DONE or a start point on another shape or void boundary.
-\i (00:29:31) prepopup -58.788 -14.350
-\i (00:29:32) done 
-\i (00:29:32) placementedit 
-\i (00:29:33) roam x -96 
-\i (00:29:33) roam x -96
-\i (00:29:38) setwindow form.vf_vis
-\i (00:29:38) FORM vf_vis 1 all_colorvisible NO 
-\i (00:29:40) FORM vf_vis 3 all_colorvisible NO 
-\i (00:29:41) FORM vf_vis 3 all_colorvisible YES 
-\i (00:29:42) FORM vf_vis 2 all_colorvisible NO 
-\i (00:29:47) setwindow pcb
-\i (00:29:47) shape edit boundary 
-\i (00:29:47) pick grid -58.789 -13.998
-\t (00:29:47) last pick:  -59.055  -13.970
-\t (00:29:47) Pick the edit starting point on the shape boundary.
-\i (00:29:49) placementedit 
-\i (00:29:50) generaledit 
-\i (00:29:51) placementedit 
-\i (00:29:52) shape edit boundary 
-\i (00:29:53) pick grid -58.386 -14.582
-\t (00:29:53) last pick:  -58.420  -14.605
-\t (00:29:53) Pick the edit starting point on the shape boundary.
-\i (00:29:54) pick grid -58.430 -14.607
-\t (00:29:54) last pick:  -58.000  -15.000
-\w (00:29:54) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:29:55) pick grid -59.003 -13.979
-\t (00:29:55) last pick:  -59.000  -14.000
-\w (00:29:55) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:29:57) pick grid -59.009 -14.620
-\t (00:29:57) last pick:  -59.000  -15.000
-\w (00:29:57) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:29:59) generaledit 
-\i (00:30:00) placementedit 
-\i (00:30:02) shape edit boundary 
-\i (00:30:04) drag_start grid -58.405 -14.614
-\i (00:30:05) drag_stop grid -57.726 -15.230
-\t (00:30:05) Pick the edit starting point on the shape boundary.
-\i (00:30:05) pick grid -57.745 -15.243
-\t (00:30:05) last pick:  -58.000  -15.000
-\w (00:30:06) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:30:07) pick grid -57.776 -15.217
-\t (00:30:07) last pick:  -58.000  -15.000
-\w (00:30:07) WARNING(SPMHGE-615): Nothing found ... pick selected shape boundary.
-\i (00:30:08) shape edit boundary 
-\t (00:30:09) Pick the edit starting point on the shape boundary.
-\i (00:30:09) prepopup -58.588 -13.897
-\i (00:30:10) cancel 
-\i (00:30:10) placementedit 
-\i (00:30:11) generaledit 
-\i (00:30:11) placementedit 
-\i (00:30:13) shape edit boundary 
-\i (00:30:15) pick grid -59.801 -15.331
-\t (00:30:15) last pick:  -59.690  -15.240
-\t (00:30:15) Pick the edit starting point on the shape boundary.
-\i (00:30:17) pick grid -58.412 -14.595
-\t (00:30:17) last pick:  -58.000  -15.000
-\t (00:30:17) Pick the next vertex or the closing point on the shape.
-\i (00:30:20) prepopup -57.626 -15.959
-\i (00:30:21) cancel 
-\i (00:30:21) placementedit 
-\i (00:30:27) zoom in 
-\i (00:30:27) setwindow pcb
-\i (00:30:27) zoom in -57.934 -13.840
-\i (00:30:27) trapsize 16
-\i (00:30:28) zoom out 
-\i (00:30:28) setwindow pcb
-\i (00:30:28) zoom out -57.934 -13.840
-\i (00:30:28) trapsize 31
-\i (00:30:28) zoom out 
-\i (00:30:28) setwindow pcb
-\i (00:30:28) zoom out -57.934 -13.840
-\i (00:30:28) trapsize 63
-\i (00:30:28) zoom out 
-\i (00:30:28) setwindow pcb
-\i (00:30:28) zoom out -57.933 -13.841
-\i (00:30:28) trapsize 126
-\i (00:30:29) save 
-\i (00:30:29) fillin yes 
-\i (00:30:29) placementedit 
-\i (00:30:35) define grid 
-\t (00:30:35) Spacing fields allow simple equations to aid calculations; prefix with =
-\i (00:30:35) placementedit 
-\i (00:30:37) setwindow form.grid
-\i (00:30:37) FORM grid done  
-\i (00:30:39) setwindow pcb
-\i (00:30:39) generaledit 
-\i (00:30:40) placementedit 
-\i (00:30:40) grid toggle 
-\i (00:30:40) placementedit 
-\i (00:30:40) grid toggle 
-\i (00:30:41) placementedit 
-\i (00:30:41) zoom in 
-\i (00:30:41) setwindow pcb
-\i (00:30:41) zoom in -59.392 -15.525
-\i (00:30:41) trapsize 63
-\i (00:30:41) zoom in 
-\i (00:30:41) setwindow pcb
-\i (00:30:41) zoom in -59.392 -15.525
-\i (00:30:41) trapsize 31
-\i (00:30:43) roam y -96 
-\i (00:30:43) roam y -96
-\i (00:30:48) roam x 96 
-\i (00:30:48) roam x 96
-\i (00:30:48) roam y 96 
-\i (00:30:48) roam y 96
-\i (00:30:48) roam x 96 
-\i (00:30:48) roam x 96
-\i (00:30:49) roam x 96 
-\i (00:30:49) roam x 96
-\i (00:30:49) roam x 96 
-\i (00:30:49) roam x 96
-\i (00:30:49) roam x 96 
-\i (00:30:49) roam x 96
-\i (00:30:49) roam x 96 
-\i (00:30:49) roam x 96
-\i (00:30:49) roam x 96 
-\i (00:30:49) roam x 96
-\i (00:30:49) roam x 96 
-\i (00:30:49) roam x 96
-\i (00:30:49) roam x 96 
-\i (00:30:49) roam x 96
-\i (00:30:49) roam x 96 
-\i (00:30:49) roam x 96
-\i (00:30:49) roam x 96 
-\i (00:30:49) roam x 96
-\i (00:30:49) roam x 96 
-\i (00:30:49) roam x 96
-\i (00:30:49) roam x 96 
-\i (00:30:49) roam x 96
-\i (00:30:49) roam x 96 
-\i (00:30:49) roam x 96
-\i (00:30:49) roam x 96 
-\i (00:30:49) roam x 96
-\i (00:30:50) zoom in 
-\i (00:30:50) setwindow pcb
-\i (00:30:50) zoom in -51.621 -14.217
-\i (00:30:50) trapsize 16
-\i (00:30:51) zoom out 
-\i (00:30:51) setwindow pcb
-\i (00:30:51) zoom out -51.621 -14.217
-\i (00:30:51) trapsize 31
-\i (00:30:51) zoom out 
-\i (00:30:51) setwindow pcb
-\i (00:30:51) zoom out -51.620 -14.217
-\i (00:30:51) trapsize 63
-\i (00:30:51) zoom out 
-\i (00:30:51) setwindow pcb
-\i (00:30:51) zoom out -51.620 -14.216
-\i (00:30:51) trapsize 126
-\i (00:30:52) roam x -96 
-\i (00:30:52) roam x -96
-\i (00:30:52) roam y -96 
-\i (00:30:52) roam y -96
-\i (00:30:53) roam y -96 
-\i (00:30:53) roam y -96
-\i (00:30:53) roam x -96 
-\i (00:30:53) roam x -96
-\i (00:30:53) roam x -96 
-\i (00:30:53) roam x -96
-\i (00:30:54) zoom out 
-\i (00:30:54) setwindow pcb
-\i (00:30:54) zoom out -58.880 -9.409
-\i (00:30:54) trapsize 252
-\i (00:30:55) roam x -96 
-\i (00:30:55) roam x -96
-\i (00:30:55) roam x -96 
-\i (00:30:55) roam x -96
-\i (00:30:55) roam x -96 
-\i (00:30:55) roam x -96
-\i (00:30:56) roam x -96 
-\i (00:30:56) roam x -96
-\i (00:30:56) roam y -96 
-\i (00:30:56) roam y -96
-\i (00:30:56) roam y -96 
-\i (00:30:56) roam y -96
-\i (00:30:57) roam y -96 
-\i (00:30:57) roam y -96
-\i (00:30:57) roam y -96 
-\i (00:30:57) roam y -96
-\i (00:30:57) roam x 96 
-\i (00:30:57) roam x 96
-\i (00:30:57) roam x 96 
-\i (00:30:57) roam x 96
-\i (00:30:58) roam x 96 
-\i (00:30:58) roam x 96
-\i (00:30:58) roam y 96 
-\i (00:30:58) roam y 96
-\i (00:30:59) roam y 96 
-\i (00:30:59) roam y 96
-\i (00:30:59) roam y 96 
-\i (00:30:59) roam y 96
-\i (00:30:59) roam x -96 
-\i (00:30:59) roam x -96
-\i (00:31:00) zoom in 
-\i (00:31:00) setwindow pcb
-\i (00:31:00) zoom in -50.706 -21.782
-\i (00:31:00) trapsize 126
-\i (00:31:00) zoom in 
-\i (00:31:00) setwindow pcb
-\i (00:31:00) zoom in -50.706 -21.782
-\i (00:31:00) trapsize 63
-\i (00:31:01) roam x -96 
-\i (00:31:01) roam x -96
-\i (00:31:02) shape select 
-\i (00:31:02) pick grid -59.996 -17.834
-\t (00:31:02) last pick:  -59.690  -17.780
-\i (00:31:03) prepopup -59.996 -17.834
-\i (00:31:09) pop shape delete vertex 
-\t (00:31:09) First pick the vertex then DELETE VERTEX popup.
-\i (00:31:10) pick grid -57.016 -19.418
-\t (00:31:10) last pick:  -57.000  -19.000
-\w (00:31:10) WARNING(SPMHGE-604): No editable vertex was found.
-\i (00:31:11) pick grid -55.821 -19.519
-\t (00:31:11) last pick:  -56.000  -20.000
-\w (00:31:11) WARNING(SPMHGE-604): No editable vertex was found.
-\i (00:31:11) prepopup -55.821 -19.519
-\i (00:31:12) done 
-\i (00:31:12) placementedit 
-\i (00:31:14) undo 
-\i (00:31:14) trapsize 63
-\i (00:31:14) placementedit 
-\i (00:31:14) undo 
-\i (00:31:14) trapsize 31
-\i (00:31:14) placementedit 
-\i (00:31:15) undo 
-\i (00:31:15) trapsize 31
-\i (00:31:15) placementedit 
-\i (00:31:15) undo 
-\i (00:31:15) trapsize 31
-\i (00:31:15) placementedit 
-\i (00:31:15) undo 
-\i (00:31:15) trapsize 31
-\i (00:31:16) placementedit 
-\i (00:31:16) undo 
-\i (00:31:16) trapsize 31
-\i (00:31:16) placementedit 
-\i (00:31:16) undo 
-\i (00:31:16) trapsize 31
-\i (00:31:16) placementedit 
-\i (00:31:17) undo 
-\i (00:31:17) trapsize 31
-\i (00:31:17) placementedit 
-\i (00:31:17) undo 
-\i (00:31:17) trapsize 63
-\i (00:31:17) placementedit 
-\i (00:31:17) undo 
-\i (00:31:17) trapsize 63
-\i (00:31:17) placementedit 
-\i (00:31:18) undo 
-\i (00:31:18) placementedit 
-\i (00:31:18) undo 
-\i (00:31:18) placementedit 
-\i (00:31:19) undo 
-\i (00:31:19) placementedit 
-\i (00:31:19) undo 
-\i (00:31:19) placementedit 
-\i (00:31:19) undo 
-\i (00:31:19) placementedit 
-\i (00:31:19) undo 
-\i (00:31:19) placementedit 
-\i (00:31:19) undo 
-\i (00:31:19) placementedit 
-\i (00:31:20) undo 
-\i (00:31:20) placementedit 
-\i (00:31:20) undo 
-\i (00:31:20) placementedit 
-\i (00:31:20) undo 
-\i (00:31:20) placementedit 
-\i (00:31:20) save 
-\i (00:31:21) fillin yes 
-\i (00:31:21) placementedit 
-\i (00:31:22) shape select 
-\i (00:31:24) pick grid -58.655 -13.276
-\t (00:31:24) last pick:  -59.000  -13.000
-\i (00:31:27) delete 
-\i (00:31:28) pick grid -59.335 -14.923
-\t (00:31:28) last pick:  -59.000  -15.000
-\t (00:31:28) Dynamic Shape "Dummy Net, Boundary/Vcc"
-\i (00:31:29) delete 
-\i (00:31:31) pick grid -59.511 -14.055
-\t (00:31:31) last pick:  -60.000  -14.000
-\t (00:31:31) Dynamic Shape "3V3_Fpga, Boundary/Vcc"
-\i (00:31:32) delete 
-\i (00:31:35) undo 
-\i (00:31:35) trapsize 63
-\i (00:31:35) placementedit 
-\i (00:31:35) undo 
-\i (00:31:35) trapsize 63
-\i (00:31:35) placementedit 
-\i (00:31:35) undo 
-\i (00:31:35) trapsize 63
-\i (00:31:36) placementedit 
-\i (00:31:36) undo 
-\i (00:31:36) trapsize 63
-\i (00:31:36) placementedit 
-\i (00:31:36) undo 
-\i (00:31:36) placementedit 
-\i (00:31:37) undo 
-\i (00:31:37) placementedit 
-\i (00:31:37) undo 
-\i (00:31:37) placementedit 
-\i (00:31:37) undo 
-\i (00:31:37) placementedit 
-\i (00:31:37) undo 
-\i (00:31:37) placementedit 
-\i (00:31:37) undo 
-\i (00:31:37) placementedit 
-\i (00:31:38) undo 
-\i (00:31:38) placementedit 
-\i (00:31:38) undo 
-\i (00:31:38) placementedit 
-\i (00:31:38) undo 
-\i (00:31:38) placementedit 
-\i (00:31:39) shape select 
-\i (00:31:41) pick grid -59.938 -16.445
-\t (00:31:41) last pick:  -60.000  -16.000
-\i (00:31:42) delete 
-\i (00:31:43) undo 
-\i (00:31:43) trapsize 63
-\i (00:31:44) placementedit 
-\i (00:31:45) pick grid -60.039 -17.301
-\t (00:31:45) last pick:  -60.000  -17.000
-\i (00:31:45) move 
-\t (00:31:45) last pick:  -66.675  -15.875
-\t (00:31:45) Moving IC33 / TLP7920_D4_TP1_F_DIP762W60P254L / DIP762W60P254L966H485Q8N.
-\t (00:31:45) Pick new location for the element(s).
-\i (00:31:46) prepopup -59.850 -16.558
-\i (00:31:46) cancel 
-\i (00:31:46) placementedit 
-\i (00:31:47) undo 
-\i (00:31:47) trapsize 63
-\i (00:31:47) placementedit 
-\i (00:31:47) undo 
-\i (00:31:47) trapsize 63
-\i (00:31:47) undo 
-\i (00:31:47) undo 
-\i (00:31:47) undo 
-\i (00:31:47) undo 
-\i (00:31:47) undo 
-\i (00:31:47) undo 
-\i (00:31:47) undo 
-\i (00:31:47) undo 
-\i (00:31:47) undo 
-\i (00:31:47) undo 
-\i (00:31:47) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) undo 
-\i (00:31:48) placementedit 
-\i (00:31:49) undo 
-\i (00:31:49) undo 
-\i (00:31:49) undo 
-\i (00:31:49) undo 
-\i (00:31:49) undo 
-\i (00:31:49) undo 
-\i (00:31:49) undo 
-\i (00:31:49) undo 
-\i (00:31:49) placementedit 
-\i (00:31:49) undo 
-\i (00:31:49) undo 
-\i (00:31:49) undo 
-\i (00:31:49) undo 
-\i (00:31:49) undo 
-\i (00:31:49) undo 
-\i (00:31:49) undo 
-\i (00:31:49) undo 
-\i (00:31:49) placementedit 
-\i (00:31:49) exit 
-\e (00:31:49) Do you want to save the changes you made to C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board/PMOD2BNC_V1_0_2.brd?
-\i (00:31:50) fillin no 
-\t (00:32:01)     Journal end - Mon Jul 03 16:53:43 2023
+\i (00:09:30) add line 
+\i (00:09:30) roam y -96 
+\i (00:09:30) roam y -96
+\i (00:09:30) roam y -96 
+\i (00:09:30) roam y -96
+\i (00:09:31) pick grid -11.514 -1.918
+\t (00:09:31) last pick:  -11.430  -1.905
+\i (00:09:32) pick grid -10.458 -0.824
+\t (00:09:32) last pick:  -10.160  -0.635
+\i (00:09:34) pick grid -2.219 -0.585
+\t (00:09:34) last pick:  -1.905  -0.635
+\i (00:09:35) oops 
+\t (00:09:35) last pick:  -10.160  -0.635
+\i (00:09:36) pick grid -2.232 -0.924
+\t (00:09:36) last pick:  -2.540  -0.635
+\i (00:09:41) pick grid -0.647 -6.056
+\t (00:09:41) last pick:  -0.635  -6.350
+\i (00:09:42) pick grid -1.590 -7.427
+\t (00:09:42) last pick:  -1.905  -7.620
+\i (00:09:42) prepopup -0.093 -7.037
+\i (00:09:43) done 
+\i (00:09:43) generaledit 
+\i (00:09:43) roam x -96 
+\i (00:09:43) roam x -96
+\i (00:09:43) roam y 96 
+\i (00:09:43) roam y 96
+\i (00:09:44) zoom fit 
+\i (00:09:44) trapsize 503
+\i (00:09:49) shape select 
+\i (00:09:49) pick grid -84.462 -15.600
+\t (00:09:49) last pick:  -84.455  -15.875
+\i (00:09:50) prepopup -84.462 -15.600
+\i (00:09:51) pop shape move 
+\i (00:09:53) pick grid 48.054 -24.555
+\t (00:09:53) last pick:  48.000  -25.000
+\i (00:09:55) undo 
+\i (00:09:56) trapsize 503
+\i (00:09:56) generaledit 
+\i (00:09:58) shape select 
+\i (00:09:59) pick grid -86.575 -18.316
+\t (00:09:59) last pick:  -86.360  -18.415
+\i (00:09:59) prepopup -85.871 -17.310
+\i (00:10:00) pop shape move 
+\i (00:10:02) pick grid 43.526 -24.555
+\t (00:10:02) last pick:  44.000  -25.000
+\i (00:10:03) delete 
+\i (00:10:05) delete 
+\i (00:10:05) pick grid 12.334 -20.731
+\t (00:10:05) last pick:  12.000  -21.000
+\t (00:10:05) Dynamic Shape "3V3_Fpga, Boundary/Vcc"
+\i (00:10:07) delete 
+\i (00:10:08) prepopup 26.723 -33.208
+\i (00:10:09) done 
+\i (00:10:09) generaledit 
+\i (00:10:11) shape select 
+\i (00:10:12) pick grid -46.026 -6.745
+\t (00:10:12) last pick:  -46.000  -7.000
+\i (00:10:14) prepopup -46.428 -6.745
+\i (00:10:15) pop shape copy 
+\i (00:10:16) prepopup -39.083 -23.146
+\i (00:10:18) cancel 
+\i (00:10:18) generaledit 
+\i (00:10:20) shape select 
+\i (00:10:21) pick grid -47.334 -3.223
+\t (00:10:21) last pick:  -47.000  -3.000
+\i (00:10:21) prepopup -47.334 -3.223
+\i (00:10:22) pop shape move 
+\i (00:10:23) pick grid 53.588 -30.693
+\t (00:10:23) last pick:  54.000  -31.000
+\i (00:10:25) delete 
+\i (00:10:25) pick grid 35.275 -46.389
+\t (00:10:25) last pick:  35.000  -46.000
+\t (00:10:25) Dynamic Shape "Vcc_Pwr, Boundary/Vcc"
+\i (00:10:26) delete 
+\i (00:10:31) shape select 
+\i (00:10:32) pick grid -1.048 -23.247
+\t (00:10:32) last pick:  -1.000  -23.000
+\i (00:10:36) prepopup -1.451 -24.253
+\i (00:10:37) pop shape move 
+\i (00:10:38) pick grid 24.710 -44.578
+\t (00:10:38) last pick:  25.000  -45.000
+\i (00:10:40) delete 
+\i (00:10:40) pick grid 28.232 -19.121
+\t (00:10:40) last pick:  28.000  -19.000
+\t (00:10:40) Dynamic Shape "12V0, Boundary/Vcc"
+\i (00:10:42) delete 
+\i (00:10:43) prepopup -4.268 -3.827
+\i (00:10:44) shape select 
+\i (00:10:45) pick grid -2.356 -3.827
+\t (00:10:45) last pick:  -2.000  -4.000
+\i (00:10:47) prepopup -3.463 -5.236
+\i (00:10:48) pop shape move 
+\i (00:10:49) pick grid 25.515 -23.247
+\t (00:10:49) last pick:  26.000  -23.000
+\i (00:10:51) delete 
+\i (00:10:52) pick grid 25.716 -24.555
+\t (00:10:52) last pick:  26.000  -25.000
+\t (00:10:52) Dynamic Shape "N02742, Boundary/Vcc"
+\i (00:10:54) delete 
+\i (00:10:58) split plane create 
+\e (00:10:58) Finish current command first.
+\e (00:10:58) Creating a split plane requires a route keepin
+   (00:10:58) Loading cmds.cxt 
+   (00:10:58) Loading axlcore.cxt 
+\i (00:11:03) pick grid 30.747 -75.871
+\t (00:11:03) last pick:  31.000  -76.000
+\i (00:11:09) split plane create 
+\e (00:11:09) Finish current command first.
+\e (00:11:10) Creating a split plane requires a route keepin
+\i (00:11:12) save 
+\i (00:11:12) fillin yes 
+\i (00:11:12) generaledit 
+\i (00:11:14) pick grid -86.575 -16.707
+\t (00:11:14) last pick:  -87.000  -17.000
+\i (00:11:16) exit 
+\t (00:11:16)     Journal end - Tue Jul 04 09:54:32 2023

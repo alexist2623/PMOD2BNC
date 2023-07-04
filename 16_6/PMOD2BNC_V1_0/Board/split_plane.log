@@ -4,11 +4,11 @@
 (                                                                     )
 (    Drawing          : PMOD2BNC_V1_0_2.brd                           )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Mon Jul 03 17:42:20 2023                      )
+(    Date/Time        : Tue Jul 04 10:03:30 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Creating Dynamic split plane on layer "VCC"
+Creating Dynamic split plane on layer "GND"
 
 Split Plane Session Completed.
