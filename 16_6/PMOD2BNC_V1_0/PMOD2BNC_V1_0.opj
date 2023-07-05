@@ -344,7 +344,7 @@
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 1396 0 376")
         (Scroll "0 0")
-        (Zoom "100")
+        (Zoom "102")
         (Occurrence "/"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "SCHEMATIC1")
@@ -354,7 +354,7 @@
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 26 752 26 393")
         (Scroll "0 0")
-        (Zoom "196")
+        (Zoom "98")
         (Occurrence "/SWITCH1"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "SW_MODULE")
@@ -362,12 +362,42 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 778 52 419")
-        (Scroll "16 0")
-        (Zoom "204")
+        (Placement "44 0 1 -1 -1 -8 -31 52 778 52 419")
+        (Scroll "0 0")
+        (Zoom "67")
         (Occurrence "/PWR1"))
       (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
       (Schematic "POWER")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1766 130 612")
+        (Scroll "-309 0")
+        (Zoom "100")
+        (Occurrence "/ESD1"))
+      (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
+      (Schematic "ESD_MODULE1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1792 156 638")
+        (Scroll "-309 0")
+        (Zoom "100")
+        (Occurrence "/TR1"))
+      (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
+      (Schematic "TR_MODULE1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1818 182 664")
+        (Scroll "-309 0")
+        (Zoom "100")
+        (Occurrence "/TRCV1"))
+      (Path "C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\PMOD2BNC_V1_0.DSN")
+      (Schematic "TRCV_MODULE1")
       (Page "PAGE1")))
   (MPSSessionName "ece")
   (LastUsedLibraryBrowseDirectory
