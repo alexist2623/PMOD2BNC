@@ -1,0 +1,178 @@
+\t (00:05:02) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (00:05:02)     Journal start - Fri Nov 03 20:29:35 2023
+\t (00:05:02)         Host=DESKTOP-KCLED0O User=ece Pid=13672 CPUs=6
+\t (00:05:02) 
+\i (00:06:00) FORM padedit units Inch 
+\i (00:06:45) FORM padedit layers  
+\i (00:06:47) FORM padedit grid row begin_layer 
+\i (00:06:48) FORM padedit parameters  
+\i (00:07:09) FORM padedit drill_fig Circle 
+\i (00:07:15) FORM padedit characters A 
+\i (00:10:01) FORM padedit hole_size_x 0.55 
+\i (00:10:05) FORM padedit hole_size_x 0.05500 
+\i (00:10:09) FORM padedit characters  
+\i (00:10:13) FORM padedit layers  
+\i (00:14:54) FORM padedit single YES 
+\i (00:14:56) FORM padedit single NO 
+\i (00:14:58) FORM padedit parameters  
+\i (00:15:01) FORM padedit layers  
+\i (00:17:23) FORM padedit grid row begin_layer 
+\i (00:17:25) FORM padedit parameters  
+\i (00:17:30) FORM padedit layers  
+\i (00:17:46) FORM padedit shapename 0.0650 
+\i (00:17:49) FORM padedit shapebutton  
+\i (00:17:52) fillin "menu_cancel"
+\i (00:17:54) FORM padedit geometry Circle 
+\i (00:17:59) FORM padedit geometry_th Circle 
+\i (00:18:00) FORM padedit geometry_ant Circle 
+\i (00:18:04) FORM padedit shapebutton  
+\i (00:18:07) fillin "menu_cancel"
+\i (00:21:44) FORM padedit crossbox YES 
+\i (00:21:49) FORM padedit width 0.0650 
+\i (00:21:57) FORM padedit width 0.0700 
+\i (00:22:02) FORM padedit width_th 0.0850 
+\i (00:22:15) FORM padedit width_ant 0.1000 
+\i (00:22:16) FORM padedit stackbox YES 
+\i (00:22:20) FORM padedit grid row end_layer 
+\i (00:22:21) FORM padedit grid row begin_layer 
+\i (00:22:25) FORM padedit grid row default_internal 
+\i (00:22:25) FORM padedit grid row end_layer 
+\i (00:22:25) FORM padedit grid row soldermask_top 
+\i (00:22:26) FORM padedit grid row end_layer 
+\i (00:22:26) FORM padedit grid row default_internal 
+\i (00:22:26) FORM padedit grid row begin_layer 
+\i (00:22:35) FORM padedit grid row default_internal 
+\i (00:22:37) FORM padedit grid row begin_layer 
+\i (00:22:38) FORM padedit grid row end_layer 
+\i (00:22:39) FORM padedit grid row begin_layer 
+\i (00:22:42) FORM padedit grid row default_internal 
+\i (00:22:43) FORM padedit grid row begin_layer 
+\i (00:22:43) FORM padedit grid row default_internal 
+\i (00:22:45) FORM padedit geometry Circle 
+\i (00:22:47) FORM padedit geometry_th Circle 
+\i (00:22:49) FORM padedit geometry_ant Circle 
+\i (00:22:50) FORM padedit crossbox YES 
+\i (00:22:51) FORM padedit stackbox YES 
+\i (00:22:58) FORM padedit width 0.0700 
+\i (00:23:05) FORM padedit height  
+\w (00:23:05) User units conversion failed.
+\i (00:23:07) FORM padedit grid row begin_layer 
+\i (00:23:12) FORM padedit grid row default_internal 
+\i (00:23:14) FORM padedit width_th 0.0850 
+\i (00:23:17) FORM padedit width_ant 0.1000 
+\i (00:23:19) FORM padedit grid row end_layer 
+\i (00:23:21) FORM padedit geometry Circle 
+\i (00:23:22) FORM padedit geometry_th Circle 
+\i (00:23:23) FORM padedit geometry_ant Circle 
+\i (00:23:32) FORM padedit width 0.0700 
+\i (00:23:36) FORM padedit width_th 0.0850 
+\i (00:23:38) FORM padedit width_ant 0.1000 
+\i (00:23:40) FORM padedit crossbox YES 
+\i (00:23:41) FORM padedit stackbox YES 
+\i (00:23:42) FORM padedit parameters  
+\i (00:23:53) FORM padedit hole_size_x 0.0600 
+\i (00:23:56) FORM padedit layers  
+\i (00:23:58) FORM padedit parameters  
+\i (00:24:27) FORM padedit hole_size_x 0.0550 
+\i (00:24:30) FORM padedit layers  
+\i (00:24:52) FORM padedit grid row begin_layer 
+\i (00:24:55) FORM padedit width_ant 0.0850 
+\i (00:24:55) FORM padedit grid row default_internal 
+\i (00:24:57) FORM padedit width_ant 0.0850 
+\i (00:24:57) FORM padedit grid row end_layer 
+\i (00:25:00) FORM padedit width_ant 0.0850 
+\i (00:25:00) FORM padedit grid row default_internal 
+\i (00:25:02) FORM padedit crossbox YES 
+\i (00:25:17) FORM padedit parameters  
+\i (00:25:19) FORM padedit layers  
+\i (00:25:24) FORM padedit width 0.0750 
+\i (00:25:24) FORM padedit grid row end_layer 
+\i (00:25:28) FORM padedit width 0.0850 
+\i (00:25:28) FORM padedit grid row begin_layer 
+\i (00:25:31) FORM padedit width 0.0850 
+\i (00:25:31) FORM padedit parameters  
+\i (00:25:38) FORM padedit layers  
+\i (00:25:44) FORM padedit width 0.0800 
+\i (00:25:44) FORM padedit grid row default_internal 
+\i (00:25:46) FORM padedit width 0.0800 
+\i (00:25:46) FORM padedit grid row end_layer 
+\i (00:25:51) FORM padedit width 0.0800 
+\i (00:25:51) FORM padedit grid row begin_layer 
+\i (00:25:59) FORM padedit width_th 0.0900 
+\i (00:26:03) FORM padedit grid row default_internal 
+\i (00:26:05) FORM padedit width_th 0.0900 
+\i (00:26:05) FORM padedit grid row end_layer 
+\i (00:26:07) FORM padedit width_th 0.0900 
+\i (00:26:07) FORM padedit grid row begin_layer 
+\i (00:26:08) FORM padedit width_ant 0.0900 
+\i (00:26:08) FORM padedit grid row default_internal 
+\i (00:26:10) FORM padedit width_ant 0.0900 
+\i (00:26:10) FORM padedit grid row end_layer 
+\i (00:26:12) FORM padedit width_ant 0.0900 
+\i (00:26:33) FORM padedit grid  
+\i (00:26:35) pse_save 
+\i (00:26:43) setwindow text
+\i (00:26:43) close 
+\i (00:26:46) fillin no 
+\i (00:26:48) setwindow form.padedit
+\i (00:26:48) FORM padedit parameters  
+\i (00:26:59) FORM padedit characters A 
+\i (00:27:01) pse_save 
+\i (00:27:12) setwindow text
+\i (00:27:12) close 
+\i (00:27:13) fillin no 
+\i (00:27:40) setwindow form.padedit
+\i (00:27:40) FORM padedit drill_width 0.0550 
+\i (00:27:42) FORM padedit drill_height 0.0550 
+\i (00:29:19) pse_save 
+\i (00:29:27) pse_new 
+\i (00:29:38) fillin "small_pad.pad"
+\i (00:29:40) FORM padedit units Inch 
+\i (00:29:54) FORM padedit hole_size_x 0.043 
+\i (00:29:58) FORM padedit drill_fig Circle 
+\i (00:30:00) FORM padedit drill_width 0.0430 
+\i (00:30:02) FORM padedit drill_height 0.0430 
+\i (00:30:02) FORM padedit layers  
+\i (00:30:03) FORM padedit grid row begin_layer 
+\i (00:30:11) FORM padedit width 0.0600 
+\i (00:30:12) FORM padedit geometry Circle 
+\i (00:30:17) FORM padedit width 0.0600 
+\i (00:30:21) FORM padedit grid row default_internal 
+\i (00:30:23) FORM padedit geometry Circle 
+\i (00:30:25) FORM padedit width 0.0600 
+\i (00:30:25) FORM padedit grid row end_layer 
+\i (00:30:27) FORM padedit geometry Circle 
+\i (00:30:29) FORM padedit width 0.0600 
+\i (00:30:29) FORM padedit grid row begin_layer 
+\i (00:30:31) FORM padedit geometry_th Circle 
+\i (00:30:36) FORM padedit width_th 0.0800 
+\i (00:30:36) FORM padedit parameters  
+\i (00:30:38) FORM padedit layers  
+\i (00:30:42) FORM padedit width 0.0650 
+\i (00:30:44) FORM padedit grid row default_internal 
+\i (00:30:47) FORM padedit width 0.0650 
+\i (00:30:48) FORM padedit grid row end_layer 
+\i (00:30:50) FORM padedit width 0.0650 
+\i (00:30:50) FORM padedit stackbox YES 
+\i (00:30:51) FORM padedit grid row begin_layer 
+\i (00:30:54) FORM padedit width_th 0.0850 
+\i (00:30:54) FORM padedit grid row default_internal 
+\i (00:30:56) FORM padedit geometry_th Circle 
+\i (00:31:02) FORM padedit width_th 0.085 
+\i (00:31:02) FORM padedit grid row end_layer 
+\i (00:31:03) FORM padedit geometry_th Circle 
+\i (00:31:09) FORM padedit width_th 0.085 
+\i (00:31:09) FORM padedit grid row begin_layer 
+\i (00:31:10) FORM padedit geometry_ant Circle 
+\i (00:31:12) FORM padedit width_ant 0.085 
+\i (00:31:12) FORM padedit grid row default_internal 
+\i (00:31:14) FORM padedit geometry_ant Circle 
+\i (00:31:15) FORM padedit width_ant 0.085 
+\i (00:31:15) FORM padedit grid row end_layer 
+\i (00:31:16) FORM padedit geometry_ant Circle 
+\i (00:31:18) FORM padedit width_ant 0.085 
+\i (00:31:19) FORM padedit parameters  
+\i (00:31:24) FORM padedit characters A 
+\i (00:31:24) pse_save 
+\i (00:31:28) pse_exit
+\t (00:31:28)     Journal end - Fri Nov 03 20:56:01 2023

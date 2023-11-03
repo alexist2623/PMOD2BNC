@@ -1,0 +1,361 @@
+\t (00:00:04) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:04)     Journal start - Fri Nov 03 21:05:55 2023
+\t (00:00:04)         Host=DESKTOP-KCLED0O User=ece Pid=1928 CPUs=6
+\t (00:00:04) 
+\t (00:00:07) Starting new design...
+\i (00:00:08) trapsize 653
+\i (00:00:08) trapsize 641
+\i (00:00:08) trapsize 655
+\i (00:00:08) trapsize 568
+\i (00:00:08) trapsize 1059
+\i (00:00:09) generaledit 
+\i (00:00:23) place manual 
+\i (00:00:26) setwindow form.plc_manual
+\i (00:00:26) FORM plc_manual tree  'Components by refdes' 
+\i (00:00:27) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\i (00:00:28) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\i (00:00:30) FORM plc_manual qvpropwnd '   No preview   text available' 
+\i (00:00:30) FORM plc_manual advanced_settings  
+\i (00:00:31) FORM plc_manual placement_list  
+\i (00:00:37) FORM plc_manual categories Format symbols 
+\i (00:00:38) FORM plc_manual categories Components by refdes 
+\i (00:00:41) FORM plc_manual cancel  
+\i (00:00:41) setwindow pcb
+\i (00:00:41) generaledit 
+\i (00:03:37) new 
+\e (00:03:37) Do you want to save the changes you made to unnamed.brd?
+\i (00:03:38) fillin no 
+\i (00:03:46) newdrawfillin "MP-13-22-1.dra" "Package Symbol"
+\t (00:03:46) Starting new design...
+\i (00:03:46) trapsize 568
+\i (00:03:46) trapsize 557
+\i (00:03:46) trapsize 568
+\i (00:03:47) trapsize 1059
+\i (00:03:47) trapsize 1059
+\i (00:03:47) generaledit 
+\i (00:04:00) padeditdb 
+\i (00:04:06) add pin 
+\i (00:04:15) zoom out 1 
+\i (00:04:15) setwindow pcb
+\i (00:04:15) zoom out 20853.0 4996.3
+\i (00:04:15) trapsize 1059
+\i (00:04:15) zoom out 1 
+\i (00:04:15) setwindow pcb
+\i (00:04:15) zoom out 20853.0 4996.3
+\i (00:04:15) trapsize 1059
+\i (00:04:15) zoom out 1 
+\i (00:04:15) setwindow pcb
+\i (00:04:15) zoom out 20853.0 4996.3
+\i (00:04:15) trapsize 1059
+\i (00:04:15) zoom out 1 
+\i (00:04:15) setwindow pcb
+\i (00:04:15) zoom out 20556.6 4869.2
+\i (00:04:15) trapsize 1059
+\i (00:04:15) zoom out 1 
+\i (00:04:15) setwindow pcb
+\i (00:04:15) zoom out 20556.6 4869.2
+\i (00:04:15) trapsize 1059
+\i (00:04:15) zoom out 1 
+\i (00:04:15) setwindow pcb
+\i (00:04:15) zoom out 20556.6 4869.2
+\i (00:04:15) trapsize 1059
+\i (00:05:52) prmed 
+\t (00:05:52) Exiting from Add Pin.
+\i (00:05:55) setwindow form.prmedit
+\i (00:05:55) FORM prmedit design  
+\i (00:05:57) FORM prmedit units Inch 
+\i (00:05:58) FORM prmedit size A 
+\i (00:06:07) FORM prmedit apply  
+\i (00:06:07) setwindow pcb
+\i (00:06:07) trapsize 529
+\t (00:06:07) Performing DRC...
+\t (00:06:07) No DRC errors detected.
+\i (00:06:09) setwindow form.prmedit
+\i (00:06:09) FORM prmedit display  
+\i (00:06:10) FORM prmedit display_grid YES 
+\i (00:06:11) FORM prmedit done  
+\i (00:06:11) setwindow pcb
+\i (00:06:11) generaledit 
+\i (00:06:13) zoom points 
+\t (00:06:13) Pick 1st corner of the new window.
+\i (00:06:14) zoom in 
+\i (00:06:14) setwindow pcb
+\i (00:06:14) zoom in 9.7914 4.2447
+\i (00:06:14) trapsize 265
+\i (00:06:14) zoom in 
+\i (00:06:14) setwindow pcb
+\i (00:06:14) zoom in 6.1043 4.2448
+\i (00:06:14) trapsize 132
+\i (00:06:26) add pin 
+\i (00:06:30) setwindow form.mini
+\i (00:06:30) FORM mini pad_browse  
+\i (00:06:43) fillin "menu_cancel"
+\i (00:06:48) setwindow pcb
+\i (00:06:48) enved 
+\i (00:06:53) setwindow form.prfedit
+\i (00:06:53) FORM prfedit treelist  Paths 
+\i (00:06:54) FORM prfedit treelist  Library Paths 
+\i (00:06:59) FORM prfedit padpath  
+\i (00:07:16) FORM prfedit apply  
+\i (00:07:17) FORM prfedit done  
+\i (00:07:19) setwindow form.mini
+\i (00:07:19) FORM mini pad_browse  
+\i (00:07:24) fillin "Big_Pad"
+\t (00:07:24) Using 'BIG_PAD.pad'.
+\i (00:07:44) setwindow pcb
+\i (00:07:44) pick 0.123 0.123 
+\t (00:07:44) last pick:  0.1230  0.1230
+\t (00:07:44) Using 'BIG_PAD.pad'.
+\i (00:07:45) zoom out 1 
+\i (00:07:45) setwindow pcb
+\i (00:07:45) zoom out 5.9509 4.0489
+\i (00:07:45) trapsize 265
+\i (00:07:45) zoom out 1 
+\i (00:07:46) setwindow pcb
+\i (00:07:46) zoom out 5.7973 4.0490
+\i (00:07:46) trapsize 529
+\i (00:07:46) zoom out 1 
+\i (00:07:46) setwindow pcb
+\i (00:07:46) zoom out 9.1880 3.4614
+\i (00:07:46) trapsize 529
+\i (00:07:46) zoom out 1 
+\i (00:07:46) setwindow pcb
+\i (00:07:46) zoom out 9.1880 3.4614
+\i (00:07:46) trapsize 529
+\i (00:07:46) zoom out 1 
+\i (00:07:46) setwindow pcb
+\i (00:07:46) zoom out 9.1880 3.4614
+\i (00:07:46) trapsize 529
+\i (00:07:47) zoom points 
+\t (00:07:47) Pick 1st corner of the new window.
+\i (00:07:53) Esc 
+\i (00:07:53) Esc 
+\i (00:07:53) Esc 
+\i (00:07:54) Esc 
+\i (00:07:54) Esc 
+\e (00:07:54) Command not found: SEsc
+\i (00:07:57) zoom in 
+\i (00:07:57) setwindow pcb
+\i (00:07:57) zoom in 9.7914 4.2447
+\i (00:07:57) trapsize 265
+\i (00:07:57) zoom in 
+\i (00:07:57) setwindow pcb
+\i (00:07:57) zoom in 6.1043 4.2448
+\i (00:07:57) trapsize 132
+\i (00:07:58) zoom in 
+\i (00:07:58) setwindow pcb
+\i (00:07:58) zoom in 6.1044 4.2448
+\i (00:07:58) trapsize 66
+\t (00:08:01) > Pin "Big_Pad, 1"
+\i (00:08:01) setwindow worldview
+\i (00:08:01) trapsize 6
+\i (00:08:01) setwindow pcb
+\i (00:08:01) zoom out 1 
+\i (00:08:01) setwindow pcb
+\i (00:08:01) zoom out 0.1493 0.1011
+\i (00:08:01) trapsize 11
+\i (00:08:01) zoom out 1 
+\i (00:08:01) setwindow pcb
+\i (00:08:01) zoom out 0.2598 0.1011
+\i (00:08:01) trapsize 22
+\i (00:08:01) zoom out 1 
+\i (00:08:01) setwindow pcb
+\i (00:08:01) zoom out 0.5196 0.1011
+\i (00:08:01) trapsize 45
+\i (00:08:02) roam x -96 
+\i (00:08:02) roam x -96 
+\i (00:08:02) roam y 96 
+\i (00:08:03) zoom out 1 
+\i (00:08:03) setwindow pcb
+\i (00:08:03) zoom out 0.9478 0.1515
+\i (00:08:03) trapsize 90
+\i (00:08:03) zoom out 1 
+\i (00:08:03) setwindow pcb
+\i (00:08:03) zoom out 1.8561 0.3013
+\i (00:08:03) trapsize 179
+\i (00:08:03) zoom out 1 
+\i (00:08:03) setwindow pcb
+\i (00:08:03) zoom out 3.7014 0.6025
+\i (00:08:03) trapsize 359
+\i (00:08:03) zoom out 1 
+\i (00:08:03) setwindow pcb
+\i (00:08:03) zoom out 7.4028 1.2051
+\i (00:08:03) trapsize 529
+\i (00:08:03) roam y 96 
+\i (00:08:03) roam y 96 
+\i (00:08:03) roam x -96 
+\i (00:08:08) prmed 
+\t (00:08:08) Exiting from Add Pin.
+\i (00:08:11) setwindow form.prmedit
+\i (00:08:11) FORM prmedit design  
+\i (00:08:21) FORM prmedit x -4.0000 
+\i (00:08:22) FORM prmedit width 4.0000 
+\i (00:08:24) FORM prmedit width 4.0000 
+\i (00:08:29) FORM prmedit y -4.0000 
+\i (00:08:31) FORM prmedit width 4.0000 
+\i (00:08:32) FORM prmedit size Other 
+\i (00:08:33) FORM prmedit width 4.0000 
+\i (00:08:35) FORM prmedit apply  
+\i (00:08:35) setwindow pcb
+\i (00:08:35) trapsize 529
+\i (00:08:36) setwindow form.prmedit
+\i (00:08:36) FORM prmedit done  
+\i (00:08:36) setwindow pcb
+\i (00:08:36) generaledit 
+\i (00:08:38) zoom points 
+\t (00:08:38) Pick 1st corner of the new window.
+\i (00:08:39) zoom in 1 
+\i (00:08:39) setwindow pcb
+\i (00:08:39) zoom in -1.1102 -0.4645
+\i (00:08:39) trapsize 265
+\i (00:08:40) zoom in 1 
+\i (00:08:40) setwindow pcb
+\i (00:08:40) zoom in -1.3465 -0.4645
+\i (00:08:40) trapsize 132
+\i (00:08:40) zoom in 1 
+\i (00:08:40) setwindow pcb
+\i (00:08:40) zoom in -0.7484 -0.2289
+\i (00:08:40) trapsize 66
+\i (00:08:40) zoom in 1 
+\i (00:08:40) setwindow pcb
+\i (00:08:40) zoom in -0.7444 -0.2262
+\i (00:08:40) trapsize 33
+\i (00:08:41) zoom out 1 
+\i (00:08:41) setwindow pcb
+\i (00:08:41) zoom out -0.7305 -0.2209
+\i (00:08:41) trapsize 66
+\i (00:08:45) add pin 
+\t (00:08:46) Using 'BIG_PAD.pad'.
+\i (00:08:51) pick 0.123 -0.123 
+\t (00:08:51) last pick:  0.1230  -0.1230
+\t (00:08:51) Using 'BIG_PAD.pad'.
+\i (00:08:55) pick -0.123 -0.123 
+\t (00:08:55) last pick:  -0.1230  -0.1230
+\t (00:08:55) Using 'BIG_PAD.pad'.
+\i (00:09:01) pick -0.123 0.123 
+\t (00:09:01) last pick:  -0.1230  0.1230
+\t (00:09:01) Using 'BIG_PAD.pad'.
+\i (00:09:03) Esc 
+\w (00:09:03) WARNING(SPMHA1-314): Illegal event.
+\i (00:09:03) Esc 
+\w (00:09:03) WARNING(SPMHA1-314): Illegal event.
+\e (00:09:04) Command not found: SEsc
+\i (00:09:06) prepopup -0.5453 0.0225
+\i (00:09:07) done 
+\t (00:09:07) Exiting from Add Pin.
+\i (00:09:08) generaledit 
+\i (00:09:14) add pin 
+\t (00:09:15) Using 'BIG_PAD.pad'.
+\i (00:09:17) setwindow form.mini
+\i (00:09:17) FORM mini pad_browse  
+\i (00:09:33) fillin "Small_Pad"
+\t (00:09:33) Using 'SMALL_PAD.pad'.
+\i (00:09:37) setwindow pcb
+\i (00:09:37) pick 0 0 
+\t (00:09:37) last pick:  0.0000  0.0000
+\t (00:09:37) Using 'SMALL_PAD.pad'.
+\i (00:09:38) Esc 
+\w (00:09:38) WARNING(SPMHA1-314): Illegal event.
+\i (00:09:38) prepopup -0.2860 -0.4115
+\i (00:09:39) done 
+\t (00:09:39) Exiting from Add Pin.
+\i (00:09:39) generaledit 
+\i (00:09:41) save 
+\e (00:09:41) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:09:42) generaledit 
+\i (00:09:52) setwindow text
+\i (00:09:52) close 
+\i (00:11:09) setwindow pcb
+\i (00:11:09) add line 
+\i (00:11:18) pick -0.130 -0.130 
+\t (00:11:18) last pick:  -0.1300  -0.1300
+\i (00:11:20) prepopup -0.1656 -0.5451
+\i (00:11:21) cancel 
+\i (00:11:21) generaledit 
+\i (00:11:30) pick -0.2 -0.2 
+\t (00:11:30) last pick:  -0.2000  -0.2000
+\i (00:11:33) add line 
+\i (00:11:36) pick -0.2 -0.2 
+\t (00:11:36) last pick:  -0.2000  -0.2000
+\i (00:11:41) pick -0.2 0.2 
+\t (00:11:41) last pick:  -0.2000  0.2000
+\i (00:11:48) pick 0.2 0.2 
+\t (00:11:48) last pick:  0.2000  0.2000
+\i (00:11:51) pick 0.2 -0.2 
+\t (00:11:51) last pick:  0.2000  -0.2000
+\i (00:11:56) pick -0.2 -0.2 
+\t (00:11:56) last pick:  -0.2000  -0.2000
+\i (00:11:57) prepopup -0.2503 -0.5134
+\i (00:11:59) done 
+\i (00:11:59) generaledit 
+\i (00:11:59) zoom out 1 
+\i (00:11:59) setwindow pcb
+\i (00:11:59) zoom out -0.0266 -0.3414
+\i (00:11:59) trapsize 132
+\i (00:11:59) zoom out 1 
+\i (00:11:59) setwindow pcb
+\i (00:11:59) zoom out -0.0267 -0.3413
+\i (00:11:59) trapsize 265
+\i (00:11:59) zoom out 1 
+\i (00:11:59) setwindow pcb
+\i (00:11:59) zoom out 1.5839 -0.3414
+\i (00:11:59) trapsize 529
+\i (00:12:00) zoom in 1 
+\i (00:12:00) setwindow pcb
+\i (00:12:00) zoom in 7.2945 0.0012
+\i (00:12:00) trapsize 265
+\i (00:12:01) zoom points 
+\t (00:12:01) Pick 1st corner of the new window.
+\i (00:12:03) zoom fit 
+\i (00:12:03) trapsize 25
+\i (00:12:04) zoom out 1 
+\i (00:12:04) setwindow pcb
+\i (00:12:04) zoom out 0.1014 0.0647
+\i (00:12:04) trapsize 50
+\i (00:12:04) save 
+\i (00:12:06) fillin yes 
+\e (00:12:06) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:12:06) generaledit 
+\i (00:12:53) setwindow text
+\i (00:12:53) close 
+\i (00:13:05) setwindow pcb
+\i (00:13:05) create symbol 
+\i (00:13:08) fillin "MP-13-22-1.psm"
+\t (00:13:08) Creating package symbol 'C:/GIT/PMOD2BNC/16_6/PMOD2BNC_SIMPLE_v1_0/Library/BNC_MP-13-22-1/MP-13-22-1.psm'.
+\t (00:13:08) Starting Create symbol...
+\e (00:13:08) ERROR(SPMHGE-268): create_sym had errors, use Viewlog to review the log file.
+\e (00:13:08) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:13:08) generaledit 
+\i (00:14:17) setwindow text
+\i (00:14:17) close 
+\i (00:14:25) setwindow pcb
+\i (00:14:25) label refdes 
+\t (00:14:25) Pick text location.
+\i (00:14:37) pick 0.13 0.23 
+\t (00:14:37) last pick:  0.1300  0.2300
+\t (00:14:37) Enter text string.
+\i (00:14:46) setwindow pcb
+\i (00:14:46) pick 0.1300 0.2300
+\i (00:14:48) setwindow pcb
+\i (00:14:48) save 
+\i (00:14:50) fillin yes 
+\t (00:14:50) Symbol 'mp-13-22-1.psm' created.
+\i (00:14:50) generaledit 
+\i (00:14:53) zoom out 1 
+\i (00:14:53) setwindow pcb
+\i (00:14:53) zoom out 0.4053 -0.1930
+\i (00:14:53) trapsize 101
+\i (00:14:53) zoom out 1 
+\i (00:14:53) setwindow pcb
+\i (00:14:53) zoom out 0.4052 -0.1929
+\i (00:14:53) trapsize 201
+\i (00:14:53) zoom in 1 
+\i (00:14:53) setwindow pcb
+\i (00:14:53) zoom in 0.4052 -0.1930
+\i (00:14:53) trapsize 101
+\i (00:14:53) zoom in 1 
+\i (00:14:53) setwindow pcb
+\i (00:14:53) zoom in 0.4052 -0.1929
+\i (00:14:53) trapsize 50
+\i (00:14:55) exit 
+\t (00:14:55)     Journal end - Fri Nov 03 21:20:46 2023

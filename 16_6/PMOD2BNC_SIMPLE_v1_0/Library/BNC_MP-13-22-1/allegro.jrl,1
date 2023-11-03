@@ -1,0 +1,215 @@
+\t (00:00:03) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:03)     Journal start - Fri Nov 03 20:23:41 2023
+\t (00:00:03)         Host=DESKTOP-KCLED0O User=ece Pid=16320 CPUs=6
+\t (00:00:03) 
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 943
+\i (00:00:06) trapsize 919
+\i (00:00:06) trapsize 948
+\i (00:00:07) trapsize 775
+\i (00:00:07) trapsize 1526
+\i (00:00:07) generaledit 
+\i (00:00:08) new 
+\i (00:00:18) newdrawfillin "MP-13-22-1.dra" "Package Symbol"
+\t (00:00:18) Starting new design...
+\i (00:00:18) trapsize 775
+\i (00:00:18) trapsize 756
+\i (00:00:18) trapsize 775
+\i (00:00:19) trapsize 1526
+\i (00:00:19) trapsize 1526
+\i (00:00:19) generaledit 
+\i (00:00:20) trapsize 1059
+\i (00:08:13) trapsize 1526
+\i (00:35:15) zoom fit 
+\i (00:35:15) trapsize 1526
+\i (00:35:19) zoom in 
+\i (00:35:19) setwindow pcb
+\i (00:35:19) zoom in 20662.5 8484.7
+\i (00:35:19) trapsize 763
+\i (00:35:19) zoom in 
+\i (00:35:19) setwindow pcb
+\i (00:35:19) zoom in 10668.8 8484.8
+\i (00:35:19) trapsize 382
+\i (00:35:19) zoom in 
+\i (00:35:19) setwindow pcb
+\i (00:35:19) zoom in 10668.8 8484.8
+\i (00:35:19) trapsize 191
+\i (00:35:19) zoom in 
+\i (00:35:19) setwindow pcb
+\i (00:35:19) zoom in 10668.8 8484.8
+\i (00:35:19) trapsize 95
+\i (00:35:20) zoom out 
+\i (00:35:20) setwindow pcb
+\i (00:35:20) zoom out 10668.8 8484.8
+\i (00:35:20) trapsize 191
+\i (00:35:21) zoom out 
+\i (00:35:21) setwindow pcb
+\i (00:35:21) zoom out 10668.8 8484.8
+\i (00:35:21) trapsize 382
+\i (00:35:21) zoom out 
+\i (00:35:21) setwindow pcb
+\i (00:35:21) zoom out 10668.8 8484.8
+\i (00:35:21) trapsize 763
+\i (00:35:23) zoom in 
+\i (00:35:23) setwindow pcb
+\i (00:35:23) zoom in 10668.8 8484.8
+\i (00:35:23) trapsize 382
+\i (00:35:24) zoom in 
+\i (00:35:24) setwindow pcb
+\i (00:35:24) zoom in 10668.8 8484.8
+\i (00:35:24) trapsize 191
+\i (00:35:24) zoom in 
+\i (00:35:24) setwindow pcb
+\i (00:35:24) zoom in 10668.8 8484.8
+\i (00:35:24) trapsize 95
+\i (00:35:28) zoom in 
+\i (00:35:28) setwindow pcb
+\i (00:35:28) zoom in 10235.8 8786.2
+\i (00:35:28) trapsize 48
+\i (00:35:28) zoom in 
+\i (00:35:28) setwindow pcb
+\i (00:35:28) zoom in 10235.8 8786.2
+\i (00:35:28) trapsize 24
+\i (00:35:29) zoom out 
+\i (00:35:29) setwindow pcb
+\i (00:35:29) zoom out 10235.8 8786.2
+\i (00:35:29) trapsize 48
+\i (00:35:29) zoom out 
+\i (00:35:29) setwindow pcb
+\i (00:35:29) zoom out 10235.8 8786.2
+\i (00:35:29) trapsize 95
+\i (00:35:29) zoom out 
+\i (00:35:29) setwindow pcb
+\i (00:35:29) zoom out 10254.9 8639.4
+\i (00:35:29) trapsize 191
+\i (00:35:30) zoom out 
+\i (00:35:30) setwindow pcb
+\i (00:35:30) zoom out 10254.8 8628.0
+\i (00:35:30) trapsize 382
+\i (00:35:30) zoom out 
+\i (00:35:30) setwindow pcb
+\i (00:35:30) zoom out 10254.9 8627.9
+\i (00:35:30) trapsize 763
+\i (00:35:30) zoom out 
+\i (00:35:30) setwindow pcb
+\i (00:35:30) zoom out 7357.3 8628.0
+\i (00:35:30) trapsize 1526
+\i (00:35:31) zoom in 
+\i (00:35:31) setwindow pcb
+\i (00:35:31) zoom in 14039.5 10865.4
+\i (00:35:31) trapsize 763
+\i (00:35:31) zoom in 
+\i (00:35:31) setwindow pcb
+\i (00:35:31) zoom in 7357.3 10850.1
+\i (00:35:31) trapsize 382
+\i (00:35:32) zoom in 
+\i (00:35:32) setwindow pcb
+\i (00:35:32) zoom in 7357.3 10850.1
+\i (00:35:32) trapsize 191
+\i (00:35:32) zoom in 
+\i (00:35:32) setwindow pcb
+\i (00:35:32) zoom in 7357.3 10850.1
+\i (00:35:32) trapsize 95
+\i (00:35:33) zoom out 
+\i (00:35:33) setwindow pcb
+\i (00:35:33) zoom out 7357.4 10850.2
+\i (00:35:33) trapsize 191
+\i (00:35:33) zoom out 
+\i (00:35:33) setwindow pcb
+\i (00:35:33) zoom out 7357.3 10850.1
+\i (00:35:33) trapsize 382
+\i (00:35:38) new 
+\e (00:35:38) Do you want to save the changes you made to MP-13-22-1.dra?
+\i (00:35:39) fillin menu_cancel 
+\i (00:35:39) generaledit 
+\e (00:35:52) Command not found: place pad
+\e (00:35:55) Command not found: place
+\i (00:36:22) add pin 
+\i (00:37:21) pick grid 11782.8 10873.1
+\t (00:37:21) last pick:  11800.0  10900.0
+\e (00:37:21) ERROR(SPMHAP-2): No padstack specified.
+\i (00:37:22) pick grid 8120.4 11102.0
+\t (00:37:22) last pick:  8100.0  11100.0
+\e (00:37:22) ERROR(SPMHAP-2): No padstack specified.
+\i (00:37:23) prepopup 8120.4 11102.0
+\i (00:37:25) pick grid 7403.1 10346.6
+\t (00:37:25) last pick:  7400.0  10300.0
+\e (00:37:25) ERROR(SPMHAP-2): No padstack specified.
+\i (00:37:25) pick grid 7738.9 9965.1
+\t (00:37:25) last pick:  7700.0  10000.0
+\e (00:37:25) ERROR(SPMHAP-2): No padstack specified.
+\i (00:37:28) open 
+\t (00:37:28) Exiting from Add Pin.
+\e (00:37:28) Do you want to save the changes you made to MP-13-22-1.dra?
+\i (00:37:30) fillin menu_cancel 
+\i (00:37:30) generaledit 
+\i (00:37:30) save 
+\e (00:37:31) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:37:31) generaledit 
+\i (00:37:32) setwindow text
+\i (00:37:32) close 
+\i (00:37:43) setwindow pcb
+\i (00:37:43) create symbol 
+\i (00:37:45) fillin "menu_cancel"
+\i (00:37:45) generaledit 
+\i (00:39:03) pick grid 8036.4 10766.3
+\t (00:39:03) last pick:  8000.0  10800.0
+\i (00:39:13) trapsize 279
+\i (00:40:07) create symbol 
+\i (00:40:10) fillin "menu_cancel"
+\i (00:40:10) generaledit 
+\i (00:40:17) pick grid 5321.8 11441.9
+\t (00:40:17) last pick:  5300.0  11400.0
+\i (00:40:18) pick grid 7136.7 11218.5
+\t (00:40:18) last pick:  7100.0  11200.0
+\i (00:40:18) pick grid 7136.7 11218.5
+\t (00:40:18) last pick:  7100.0  11200.0
+\i (00:40:18) pick grid 9828.4 10464.6
+\t (00:40:18) last pick:  9800.0  10500.0
+\i (00:40:19) pick grid 9163.9 10079.3
+\t (00:40:19) last pick:  9200.0  10100.0
+\e (00:40:21) Command not found: pad
+\i (00:40:22) pick grid 7913.0 9945.3
+\t (00:40:22) last pick:  7900.0  9900.0
+\i (00:40:23) pick grid 8393.2 10313.8
+\t (00:40:23) last pick:  8400.0  10300.0
+\i (00:40:24) drag_start grid 8700.4 10755.0
+\i (00:40:24) drag_stop 10291.9 9537.6
+\i (00:40:28) pick 0 0 
+\t (00:40:28) last pick:  0.0  0.0
+\i (00:40:41) open 
+\e (00:40:41) Do you want to save the changes you made to C:/GIT/PMOD2BNC/16_6/PMOD2BNC_SIMPLE_v1_0/Library/BNC_MP-13-22-1/MP-13-22-1.dra?
+\i (00:40:43) fillin menu_cancel 
+\i (00:40:43) generaledit 
+\i (00:41:10) define grid 
+\t (00:41:10) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:41:10) generaledit 
+\i (00:41:16) setwindow form.grid
+\i (00:41:16) FORM grid display YES 
+\i (00:41:20) FORM grid done  
+\i (00:41:22) setwindow pcb
+\i (00:41:22) pick grid 7058.5 11196.2
+\t (00:41:22) last pick:  7100.0  11200.0
+\i (00:41:23) pick grid 7159.1 11045.4
+\t (00:41:23) last pick:  7200.0  11000.0
+\i (00:41:25) zoom points 
+\t (00:41:26) Pick 1st corner of the new window.
+\i (00:41:28) grid toggle 
+\i (00:41:28) grid toggle 
+\i (00:41:30) color192 
+\i (00:41:30) setwindow cvf.dialog
+\i (00:41:30) cvf layer_mode
+\i (00:41:32) cvf cancel
+\i (00:41:36) setwindow pcb
+\i (00:41:36) xsection 
+   (00:41:36) Loading floor.cxt 
+   (00:41:36) Loading skillExt.cxt 
+   (00:41:36) Loading axlcore.cxt 
+\i (00:41:40) setwindow form.fplyrstack
+\i (00:41:40) FORM fplyrstack cancel  
+\i (00:41:40) setwindow pcb
+\i (00:41:40) generaledit 
+\i (00:41:42) exit 
+\e (00:41:42) Do you want to save the changes you made to C:/GIT/PMOD2BNC/16_6/PMOD2BNC_SIMPLE_v1_0/Library/BNC_MP-13-22-1/MP-13-22-1.dra?
+\i (00:41:43) fillin no 
+\t (00:41:43)     Journal end - Fri Nov 03 21:05:21 2023

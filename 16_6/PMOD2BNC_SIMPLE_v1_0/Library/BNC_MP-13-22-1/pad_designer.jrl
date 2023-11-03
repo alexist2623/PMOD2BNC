@@ -1,0 +1,15 @@
+\t (00:00:00) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (00:00:00)     Journal start - Fri Nov 03 21:08:09 2023
+\t (00:00:00)         Host=DESKTOP-KCLED0O User=ece Pid=10672 CPUs=6
+\t (00:00:00) 
+\i (00:00:02) setwindow form.padedit
+\i (00:00:02) pse_open 
+\i (00:00:10) fillin "big_pad.pad"
+\i (00:00:16) FORM padedit plating Non-Plated 
+\i (00:00:17) FORM padedit layers  
+\i (00:00:19) FORM padedit crossbox YES 
+\i (00:00:19) FORM padedit stackbox YES 
+\i (00:00:29) FORM padedit parameters  
+\i (00:00:31) FORM padedit plating Plated 
+\i (00:00:38) pse_exit
+\t (00:00:38)     Journal end - Fri Nov 03 21:08:47 2023
