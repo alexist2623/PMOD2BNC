@@ -1,0 +1,13 @@
+{ Using PSTWRITER 16.6.0 d001Nov-04-2023 at 16:50:10 }
+
+#1 WARNING(ORCAP-36006): Part Name "MP-13-22-1_MP-13-22-1_MP-13-22-1" is renamed to "MP-13-22-1_MP-13-22-1_MP-13-22-".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_V1_0/pstchip.dat
+
+Loading... C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_V1_0/pstchip.dat
+
+Loading... C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_V1_0/pstxprt.dat
+
+Loading... C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_V1_0/pstxnet.dat
+packaging the design view...

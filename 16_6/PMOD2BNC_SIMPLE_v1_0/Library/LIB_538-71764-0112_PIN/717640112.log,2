@@ -4,13 +4,13 @@
 (                                                                     )
 (    Drawing          : 717640112.dra                                 )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Wed Jun 28 00:21:22 2023                      )
+(    Date/Time        : Sat Nov 04 19:16:37 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Library/LIB_538-71764-0112_PIN
+    Directory = C:/GIT/PMOD2BNC/16_6/PMOD2BNC_SIMPLE_v1_0/Library/LIB_538-71764-0112_PIN
     Name      = 717640112.psm
     User      = ece
     Machine   = DESKTOP-KCLED0O

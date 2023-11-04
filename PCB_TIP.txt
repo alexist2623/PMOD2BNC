@@ -3,3 +3,21 @@ https://ansan-survivor.tistory.com/1259
 
 Split Plane
 https://www.youtube.com/watch?v=ZDIhdMQbjlw
+
+Difference between silkscreen and aseembly top
+https://m.blog.naver.com/kingreddrake/222142672269
+
+ORCAD Capture reset numbering
+https://musma.github.io/2019/08/15/orcad-tips.html
+
+Making new footprint in orcad pcb editor
+https://blog.naver.com/daum4066546/220192130614
+
+★Set footprint path for new library(Capture.ini)
+https://blog.naver.com/kingreddrake/221267398763
+
+See total delay of trace
+https://community.cadence.com/cadence_technology_forums/pcb-design/f/pcb-design/30472/propagation-delay-orcad-pcb-editor-16-6
+
+Set trace delay constraint
+https://m.blog.naver.com/kingreddrake/221312467295

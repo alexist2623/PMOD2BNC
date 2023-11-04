@@ -1,0 +1,305 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/GIT/PMOD2BNC/16_6/PMOD2BNC_SIMPLE_v1_0/PMOD2BNCSIMPLE.brd                |
+|                                                    Sat Nov 04 16:50:12 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N00399       pins ADDED TO this new net
+                                 BNC1.1         BNC1.2         BNC1.3         
+                                 BNC1.4         BNC2.1         BNC2.2         
+                                 BNC2.3         BNC2.4         BNC3.1         
+                                 BNC3.2         BNC3.3         BNC3.4         
+                                 BNC4.1         BNC4.2         BNC4.3         
+                                 BNC4.4         BNC5.1         BNC5.2         
+                                 BNC5.3         BNC5.4         BNC6.1         
+                                 BNC6.2         BNC6.3         BNC6.4         
+                                 BNC7.1         BNC7.2         BNC7.3         
+                                 BNC7.4         BNC8.1         BNC8.2         
+                                 BNC8.3         BNC8.4         J1.3           
+                                 J1.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00696       pins ADDED TO this new net
+                                 BNC1.5         J1.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00721       pins ADDED TO this new net
+                                 BNC5.5         J1.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00857       pins ADDED TO this new net
+                                 BNC3.5         J1.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00866       pins ADDED TO this new net
+                                 BNC7.5         J1.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00881       pins ADDED TO this new net
+                                 BNC2.5         J1.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00899       pins ADDED TO this new net
+                                 BNC6.5         J1.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00924       pins ADDED TO this new net
+                                 BNC4.5         J1.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00954       pins ADDED TO this new net
+                                 BNC8.5         J1.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03697       pins ADDED TO this new net
+                                 BNC9.1         BNC9.2         BNC9.3         
+                                 BNC9.4         BNC10.1        BNC10.2        
+                                 BNC10.3        BNC10.4        BNC11.1        
+                                 BNC11.2        BNC11.3        BNC11.4        
+                                 BNC12.1        BNC12.2        BNC12.3        
+                                 BNC12.4        BNC13.1        BNC13.2        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/GIT/PMOD2BNC/16_6/PMOD2BNC_SIMPLE_v1_0/PMOD2BNCSIMPLE.brd                |
+|                                                    Sat Nov 04 16:50:12 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 BNC13.3        BNC13.4        BNC14.1        
+                                 BNC14.2        BNC14.3        BNC14.4        
+                                 BNC15.1        BNC15.2        BNC15.3        
+                                 BNC15.4        BNC16.1        BNC16.2        
+                                 BNC16.3        BNC16.4        J2.3           
+                                 J2.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03715       pins ADDED TO this new net
+                                 BNC9.5         J2.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03725       pins ADDED TO this new net
+                                 BNC13.5        J2.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03731       pins ADDED TO this new net
+                                 BNC11.5        J2.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03735       pins ADDED TO this new net
+                                 BNC15.5        J2.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03741       pins ADDED TO this new net
+                                 BNC10.5        J2.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03749       pins ADDED TO this new net
+                                 BNC14.5        J2.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03759       pins ADDED TO this new net
+                                 BNC12.5        J2.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03769       pins ADDED TO this new net
+                                 BNC16.5        J2.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04270       pins ADDED TO this new net
+                                 BNC17.1        BNC17.2        BNC17.3        
+                                 BNC17.4        BNC18.1        BNC18.2        
+                                 BNC18.3        BNC18.4        BNC19.1        
+                                 BNC19.2        BNC19.3        BNC19.4        
+                                 BNC20.1        BNC20.2        BNC20.3        
+                                 BNC20.4        BNC21.1        BNC21.2        
+                                 BNC21.3        BNC21.4        BNC22.1        
+                                 BNC22.2        BNC22.3        BNC22.4        
+                                 BNC23.1        BNC23.2        BNC23.3        
+                                 BNC23.4        BNC24.1        BNC24.2        
+                                 BNC24.3        BNC24.4        J3.3           
+                                 J3.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/GIT/PMOD2BNC/16_6/PMOD2BNC_SIMPLE_v1_0/PMOD2BNCSIMPLE.brd                |
+|                                                    Sat Nov 04 16:50:12 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N04288       pins ADDED TO this new net
+                                 BNC17.5        J3.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04298       pins ADDED TO this new net
+                                 BNC21.5        J3.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04304       pins ADDED TO this new net
+                                 BNC19.5        J3.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04308       pins ADDED TO this new net
+                                 BNC23.5        J3.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04314       pins ADDED TO this new net
+                                 BNC18.5        J3.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04322       pins ADDED TO this new net
+                                 BNC22.5        J3.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04332       pins ADDED TO this new net
+                                 BNC20.5        J3.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04342       pins ADDED TO this new net
+                                 BNC24.5        J3.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04843       pins ADDED TO this new net
+                                 BNC25.1        BNC25.2        BNC25.3        
+                                 BNC25.4        BNC26.1        BNC26.2        
+                                 BNC26.3        BNC26.4        BNC27.1        
+                                 BNC27.2        BNC27.3        BNC27.4        
+                                 BNC28.1        BNC28.2        BNC28.3        
+                                 BNC28.4        BNC29.1        BNC29.2        
+                                 BNC29.3        BNC29.4        BNC30.1        
+                                 BNC30.2        BNC30.3        BNC30.4        
+                                 BNC31.1        BNC31.2        BNC31.3        
+                                 BNC31.4        BNC32.1        BNC32.2        
+                                 BNC32.3        BNC32.4        J4.3           
+                                 J4.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04861       pins ADDED TO this new net
+                                 BNC25.5        J4.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04871       pins ADDED TO this new net
+                                 BNC29.5        J4.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04877       pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/GIT/PMOD2BNC/16_6/PMOD2BNC_SIMPLE_v1_0/PMOD2BNCSIMPLE.brd                |
+|                                                    Sat Nov 04 16:50:12 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 BNC27.5        J4.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04881       pins ADDED TO this new net
+                                 BNC31.5        J4.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04887       pins ADDED TO this new net
+                                 BNC26.5        J4.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04895       pins ADDED TO this new net
+                                 BNC30.5        J4.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04905       pins ADDED TO this new net
+                                 BNC28.5        J4.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04915       pins ADDED TO this new net
+                                 BNC32.5        J4.12          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:/GIT/PMOD2BNC/16_6/PMOD2BNC_SIMPLE_v1_0/PMOD2BNCSIMPLE.brd                |
+|                                                    Sat Nov 04 16:50:12 2023  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 71764_0114_717640112_71764_0114
+ MP-13-22-1_MP-13-22-1_MP-13-22-
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:/GIT/PMOD2BNC/16_6/PMOD2BNC_SIMPLE_v1_0/PMOD2BNCSIMPLE.brd                |
+|                                                    Sat Nov 04 16:50:12 2023  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ BNC1                MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC2                MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC3                MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC4                MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC5                MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC6                MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC7                MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC8                MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC9                MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC10               MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC11               MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC12               MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC13               MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC14               MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC15               MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC16               MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC17               MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC18               MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC19               MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC20               MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC21               MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC22               MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC23               MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC24               MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC25               MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC26               MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC27               MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC28               MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC29               MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC30               MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC31               MP-13-22-1_MP-13-22-1_MP-13-22- 
+ BNC32               MP-13-22-1_MP-13-22-1_MP-13-22- 
+ J1                  71764_0114_717640112_71764_0114 
+ J2                  71764_0114_717640112_71764_0114 
+ J3                  71764_0114_717640112_71764_0114 
+ J4                  71764_0114_717640112_71764_0114 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:/GIT/PMOD2BNC/16_6/PMOD2BNC_SIMPLE_v1_0/PMOD2BNCSIMPLE.brd                |
+|                                                    Sat Nov 04 16:50:12 2023  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ BNC1.5                         PRIM_FILE      .\pstchip.dat
+ BNC2.5                         PRIM_FILE      .\pstchip.dat
+ BNC3.5                         PRIM_FILE      .\pstchip.dat
+ BNC4.5                         PRIM_FILE      .\pstchip.dat
+ BNC5.5                         PRIM_FILE      .\pstchip.dat
+ BNC6.5                         PRIM_FILE      .\pstchip.dat
+ BNC7.5                         PRIM_FILE      .\pstchip.dat
+ BNC8.5                         PRIM_FILE      .\pstchip.dat
+ BNC9.5                         PRIM_FILE      .\pstchip.dat
+ BNC10.5                        PRIM_FILE      .\pstchip.dat
+ BNC11.5                        PRIM_FILE      .\pstchip.dat
+ BNC12.5                        PRIM_FILE      .\pstchip.dat
+ BNC13.5                        PRIM_FILE      .\pstchip.dat
+ BNC14.5                        PRIM_FILE      .\pstchip.dat
+ BNC15.5                        PRIM_FILE      .\pstchip.dat
+ BNC16.5                        PRIM_FILE      .\pstchip.dat
+ BNC17.5                        PRIM_FILE      .\pstchip.dat
+ BNC18.5                        PRIM_FILE      .\pstchip.dat
+ BNC19.5                        PRIM_FILE      .\pstchip.dat
+ BNC20.5                        PRIM_FILE      .\pstchip.dat
+ BNC21.5                        PRIM_FILE      .\pstchip.dat
+ BNC22.5                        PRIM_FILE      .\pstchip.dat
+ BNC23.5                        PRIM_FILE      .\pstchip.dat
+ BNC24.5                        PRIM_FILE      .\pstchip.dat
+ BNC25.5                        PRIM_FILE      .\pstchip.dat
+ BNC26.5                        PRIM_FILE      .\pstchip.dat
+ BNC27.5                        PRIM_FILE      .\pstchip.dat
+ BNC28.5                        PRIM_FILE      .\pstchip.dat
+ BNC29.5                        PRIM_FILE      .\pstchip.dat
+ BNC30.5                        PRIM_FILE      .\pstchip.dat
+ BNC31.5                        PRIM_FILE      .\pstchip.dat
+ BNC32.5                        PRIM_FILE      .\pstchip.dat
+ J1.9                           PRIM_FILE      .\pstchip.dat
+ J2.9                           PRIM_FILE      .\pstchip.dat
+ J3.9                           PRIM_FILE      .\pstchip.dat
+ J4.9                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  274                                            |
+|------------------------------------------------------------------------------|
