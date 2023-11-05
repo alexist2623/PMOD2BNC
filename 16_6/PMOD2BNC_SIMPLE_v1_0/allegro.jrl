@@ -1,527 +1,101 @@
 \t (00:00:03) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:03)     Journal start - Sun Nov 05 21:34:02 2023
-\t (00:00:03)         Host=DESKTOP-KCLED0O User=ece Pid=13732 CPUs=6
+\t (00:00:03)     Journal start - Sun Nov 05 21:59:15 2023
+\t (00:00:03)         Host=DESKTOP-KCLED0O User=ece Pid=16084 CPUs=6
 \t (00:00:03) 
 \t (00:00:06) Opening existing design...
 \d (00:00:06) Database opened: C:/GIT/PMOD2BNC/16_6/PMOD2BNC_SIMPLE_V1_0/PMOD2BNCSIMPLE_v1_02.brd
 \t (00:00:06) Grids are drawn 0.1000, 0.1000 apart for enhanced viewability.
-\i (00:00:06) trapsize 386
-\i (00:00:06) trapsize 379
-\i (00:00:07) trapsize 387
-\i (00:00:07) trapsize 390
-\i (00:00:07) trapsize 390
-\i (00:00:08) generaledit 
-\i (00:00:12) roam x -96 
-\i (00:00:12) roam x -96
-\i (00:00:12) roam x -96 
-\i (00:00:12) roam x -96
-\i (00:00:12) roam x -96 
-\i (00:00:12) roam x -96
-\i (00:00:12) roam x -96 
-\i (00:00:12) roam x -96
-\i (00:00:14) pick grid 0.4181 3.8525
-\t (00:00:14) last pick:  0.4250  3.8500
-\i (00:00:17) copy 
-\i (00:00:34) pick 0.9 0 
-\t (00:00:34) last pick:  0.9000  0.0000
-\i (00:00:37) roam y 96 
-\i (00:00:37) roam y 96
-\i (00:00:38) roam y 96 
-\i (00:00:38) roam y 96
-\i (00:00:38) roam y 96 
-\i (00:00:38) roam y 96
-\i (00:00:38) roam y 96 
-\i (00:00:38) roam y 96
-\i (00:00:38) roam y 96 
-\i (00:00:38) roam y 96
-\i (00:00:38) roam y 96 
-\i (00:00:38) roam y 96
-\i (00:00:39) undo 
-\i (00:00:39) trapsize 390
-\i (00:00:39) generaledit 
-\i (00:00:40) roam y 96 
-\i (00:00:40) roam y 96
-\i (00:00:40) roam y 96 
-\i (00:00:40) roam y 96
-\i (00:00:40) roam y 96 
-\i (00:00:40) roam y 96
-\i (00:00:40) roam y 96 
-\i (00:00:40) roam y 96
-\i (00:00:41) roam y -96 
-\i (00:00:41) roam y -96
-\i (00:00:41) roam y -96 
-\i (00:00:41) roam y -96
-\i (00:00:41) roam y -96 
-\i (00:00:41) roam y -96
-\i (00:00:41) roam y -96 
-\i (00:00:41) roam y -96
-\i (00:00:48) pick grid 2.1337 5.4088
-\t (00:00:48) last pick:  2.1250  5.4000
-\i (00:00:49) pick grid ext 3.0538 5.4088
-\t (00:00:49) last pick:  3.0500  5.4000
-\i (00:00:50) pick grid ext 3.9506 5.3230
-\t (00:00:50) last pick:  3.9500  5.3250
-\i (00:00:50) prepopup 3.9506 5.3230
-\i (00:00:51) pop dyn_option_select @:@Delete 
-\i (00:00:51) delete 
-\i (00:00:52) generaledit 
-\i (00:00:53) pick grid 1.2603 5.3464
-\t (00:00:53) last pick:  1.2500  5.3500
-\i (00:00:55) pick grid ext 0.4415 3.8804
-\t (00:00:55) last pick:  0.4500  3.8750
-\i (00:00:57) copy 
-\i (00:00:59) pick 0 0 
-\t (00:00:59) last pick:  0.0000  0.0000
-\i (00:01:01) pick 0.9 0 
-\t (00:01:01) last pick:  0.9000  0.0000
-\i (00:01:04) done 
-\i (00:01:04) generaledit 
-\i (00:01:06) copy 
-\i (00:01:09) pick 0 0 
-\t (00:01:09) last pick:  0.0000  0.0000
-\i (00:01:12) pick 1.8 0 
-\t (00:01:12) last pick:  1.8000  0.0000
-\i (00:01:13) done 
-\i (00:01:13) generaledit 
-\i (00:01:15) copy 
-\i (00:01:18) pick 0 0 
-\t (00:01:18) last pick:  0.0000  0.0000
-\i (00:01:20) pick 2.7 0 
-\t (00:01:20) last pick:  2.7000  0.0000
-\i (00:01:22) done 
-\i (00:01:22) generaledit 
-\i (00:01:22) pick grid 5.3932 2.2194
-\t (00:01:22) last pick:  5.4000  2.2250
-\i (00:01:23) roam y 96 
-\i (00:01:23) roam y 96
-\i (00:01:23) roam y 96 
-\i (00:01:23) roam y 96
-\i (00:01:23) roam y 96 
-\i (00:01:23) roam y 96
-\i (00:01:23) roam y 96 
-\i (00:01:23) roam y 96
-\i (00:01:24) zoom fit 
-\i (00:01:24) trapsize 390
-\i (00:01:24) save 
-\i (00:01:25) fillin yes 
-\i (00:01:25) generaledit 
-\i (00:01:26) roam x -96 
-\i (00:01:26) roam x -96
-\i (00:01:26) roam x -96 
-\i (00:01:26) roam x -96
-\i (00:01:26) roam x -96 
-\i (00:01:26) roam x -96
-\i (00:01:26) roam x -96 
-\i (00:01:26) roam x -96
-\i (00:01:26) roam x -96 
-\i (00:01:26) roam x -96
-\i (00:01:26) roam x -96 
-\i (00:01:26) roam x -96
-\i (00:01:26) roam x -96 
-\i (00:01:26) roam x -96
-\i (00:01:27) zoom in 
-\i (00:01:27) setwindow pcb
-\i (00:01:27) zoom in 3.1474 2.2227
-\i (00:01:27) trapsize 195
-\i (00:01:28) roam y -96 
-\i (00:01:28) roam y -96
-\i (00:01:28) roam y -96 
-\i (00:01:28) roam y -96
-\i (00:01:29) roam y -96 
-\i (00:01:29) roam y -96
-\i (00:01:32) reports 
-\i (00:01:43) reports "./delay.txt"
-\i (00:01:52) setwindow text
-\i (00:01:52) close 
-\i (00:01:54) setwindow pcb
-\i (00:01:54) generaledit 
-\i (00:01:55) roam y 96 
-\i (00:01:55) roam y 96
-\i (00:01:55) roam y 96 
-\i (00:01:55) roam y 96
-\i (00:01:55) roam y 96 
-\i (00:01:55) roam y 96
-\i (00:01:55) roam y 96 
-\i (00:01:55) roam y 96
-\i (00:01:55) roam y 96 
-\i (00:01:55) roam y 96
-\i (00:01:56) roam y 96 
-\i (00:01:56) roam y 96
-\i (00:01:56) roam y 96 
-\i (00:01:56) roam y 96
-\i (00:01:56) roam y 96 
-\i (00:01:56) roam y 96
-\i (00:02:01) thieving 
-\i (00:02:07) pick 0 0 
-\t (00:02:07) last pick:  0.0000  0.0000
-\i (00:02:13) pick 4.3 0 
-\t (00:02:13) last pick:  4.3000  0.0000
-\i (00:02:15) pick 4.3 6.2 
-\t (00:02:15) last pick:  4.3000  6.2000
-\i (00:02:17) pick 0 6.2 
-\t (00:02:17) last pick:  0.0000  6.2000
-\i (00:02:19) pick 0 0 
-\t (00:02:19) last pick:  0.0000  0.0000
-\i (00:02:20) prepopup 3.0265 -0.1785
-\i (00:02:21) done 
-\i (00:02:21) generaledit 
-\i (00:02:22) roam y -96 
-\i (00:02:22) roam y -96
-\i (00:02:22) roam y -96 
-\i (00:02:22) roam y -96
-\i (00:02:22) roam y -96 
-\i (00:02:22) roam y -96
-\i (00:02:23) roam y -96 
-\i (00:02:23) roam y -96
-\i (00:02:23) roam y -96 
-\i (00:02:23) roam y -96
-\i (00:02:23) roam y -96 
-\i (00:02:23) roam y -96
-\i (00:02:23) roam y -96 
-\i (00:02:23) roam y -96
-\i (00:02:24) roam y -96 
-\i (00:02:24) roam y -96
-\i (00:02:24) roam y -96 
-\i (00:02:24) roam y -96
-\i (00:02:24) roam y -96 
-\i (00:02:24) roam y -96
-\i (00:02:24) roam y -96 
-\i (00:02:24) roam y -96
-\i (00:02:26) roam y -96 
-\i (00:02:26) roam y -96
-\i (00:02:26) roam y 96 
-\i (00:02:26) roam y 96
-\i (00:02:26) roam y 96 
-\i (00:02:26) roam y 96
-\i (00:02:27) roam y 96 
-\i (00:02:27) roam y 96
-\i (00:02:27) roam y 96 
-\i (00:02:27) roam y 96
-\i (00:02:27) roam y 96 
-\i (00:02:27) roam y 96
-\i (00:02:27) roam y 96 
-\i (00:02:27) roam y 96
-\i (00:02:27) roam y 96 
-\i (00:02:27) roam y 96
-\i (00:02:28) roam y 96 
-\i (00:02:28) roam y 96
-\i (00:02:28) save 
-\i (00:02:29) fillin yes 
+\i (00:00:06) trapsize 959
+\i (00:00:06) trapsize 916
+\i (00:00:06) trapsize 966
+\i (00:00:07) trapsize 699
+\i (00:00:07) trapsize 992
+\i (00:00:07) generaledit 
+\i (00:00:09) signal setup 
+\i (00:00:11) setwindow form.sigSetup
+\i (00:00:11) FORM sigSetup wiz_next  
+   (00:00:11) Loading signal.cxt 
+   (00:00:11) Loading axlcore.cxt 
+   (00:00:11) Loading fputil.cxt 
+\i (00:00:13) FORM sigSetup selectedxnets  'Dsn PMOD2BNCSIMPLE_V1_02' 
+\i (00:00:13) FORM sigSetup selectedxnets 'MULTISEL NO' 'Dsn PMOD2BNCSIMPLE_V1_02' 
+\i (00:00:16) FORM sigSetup selectedxnets 'MULTISEL YES' 'Net N08588' 'Dsn PMOD2BNCSIMPLE_V1_02' 
+\i (00:00:16) FORM sigSetup selectedxnets  'Net N08588' 'Dsn PMOD2BNCSIMPLE_V1_02' 
+\i (00:00:16) FORM sigSetup selectedxnets 'MULTISEL YES' 'Net N08600' 'Dsn PMOD2BNCSIMPLE_V1_02' 
+\i (00:00:16) FORM sigSetup selectedxnets  'Net N08600' 'Dsn PMOD2BNCSIMPLE_V1_02' 
+\i (00:00:17) FORM sigSetup wiz_next  
+\i (00:00:18) FORM sigSetup wiz_next  
+\i (00:00:19) FORM sigSetup wiz_next  
+\i (00:00:19) FORM sigSetup wiz_next  
+\i (00:00:21) FORM sigSetup likelyvoltagenets row 1 
+\i (00:00:22) FORM sigSetup identifyvoltagenet  
+\i (00:00:23) fillin "0 V"
+\i (00:00:24) FORM sigSetup wiz_next  
+\i (00:00:25) FORM sigSetup wiz_next  
+\i (00:00:27) FORM sigSetup componentclasses  'All Classes' 
+\i (00:00:30) FORM sigSetup componentclasses 'MULTISEL YES' 'RES_0805_RES_0805_RES_0805 RES_0805' IC 'All Classes' 
+\i (00:00:30) FORM sigSetup componentclasses  'RES_0805_RES_0805_RES_0805 RES_0805' IC 'All Classes' 
+\i (00:00:31) FORM sigSetup changetodiscrete  
+\i (00:00:32) FORM sigSetup wiz_next  
+\i (00:00:34) FORM sigSetup nomodelcomponents  '71764_0114_717640112_71764_0114 71764_0114' 
+\i (00:00:36) FORM sigSetup nomodelcomponents  'RES_0805_RES_0805_RES_0805 RES_0805' 
+\i (00:00:39) FORM sigSetup nomodelcomponents  'MP-13-22-1_MP-13-22-1_MP-13-22- MP-13-22-1' 
+\i (00:00:44) FORM sigSetup nomodelcomponents 'MULTISEL YES' R6 'RES_0805_RES_0805_RES_0805 RES_0805' 
+\i (00:00:44) FORM sigSetup nomodelcomponents  R6 'RES_0805_RES_0805_RES_0805 RES_0805' 
+\i (00:00:47) FORM sigSetup assignexistingmodel  
+\i (00:00:53) setwindow form.sigModelBrowser
+\i (00:00:53) FORM sigModelBrowser dmlmodels '9   resistor50                       ESpiceDevice' 
+\i (00:01:04) FORM sigModelBrowser assigndmlmodel  
+\i (00:01:05) fillin confirm
+\i (00:01:06) setwindow form.sigSetup
+\i (00:01:06) FORM sigSetup nomodelcomponents  '71764_0114_717640112_71764_0114 71764_0114' 
+\i (00:01:07) FORM sigSetup nomodelcomponents 'MULTISEL YES' R8 'RES_0805_RES_0805_RES_0805 RES_0805' 
+\i (00:01:07) FORM sigSetup nomodelcomponents  R8 'RES_0805_RES_0805_RES_0805 RES_0805' 
+\i (00:01:08) setwindow form.sigModelBrowser
+\i (00:01:08) FORM sigModelBrowser assigndmlmodel  
+\i (00:01:15) fillin confirm
+\i (00:01:17) FORM sigModelBrowser close  
+\i (00:01:18) setwindow form.sigSetup
+\i (00:01:18) FORM sigSetup nomodelcomponents  '71764_0114_717640112_71764_0114 71764_0114' 
+\i (00:01:43) FORM sigSetup wiz_next  
+\i (00:01:54) fillin yes 
+\i (00:01:57) FORM sigSetup xnetswithoutdrivers N08588 
+\i (00:01:59) setwindow form.sigChangeXnetPinUse
+\i (00:01:59) FORM sigChangeXnetPinUse otherpins R6.2 
+\i (00:02:04) FORM sigChangeXnetPinUse otherpins BNC7.5 
+\i (00:02:05) FORM sigChangeXnetPinUse otherpins J1.8 
+\i (00:02:07) FORM sigChangeXnetPinUse changetooutput  
+\i (00:02:08) FORM sigChangeXnetPinUse otherpins BNC7.5 
+\i (00:02:10) FORM sigChangeXnetPinUse changetoinput  
+\i (00:02:13) FORM sigChangeXnetPinUse ok  
+\i (00:02:14) setwindow form.sigSetup
+\i (00:02:14) FORM sigSetup xnetswithoutdrivers N08600 
+\i (00:02:15) setwindow form.sigChangeXnetPinUse
+\i (00:02:15) FORM sigChangeXnetPinUse otherpins BNC8.5 
+\i (00:02:18) FORM sigChangeXnetPinUse changetoinput  
+\i (00:02:19) FORM sigChangeXnetPinUse otherpins J1.5 
+\i (00:02:20) FORM sigChangeXnetPinUse changetooutput  
+\i (00:02:21) FORM sigChangeXnetPinUse ok  
+\i (00:02:22) setwindow form.sigSetup
+\i (00:02:22) FORM sigSetup wiz_next  
+\i (00:02:23) FORM sigSetup wiz_next  
+\i (00:02:25) FORM sigSetup reflectionsimulation YES 
+\i (00:02:27) FORM sigSetup wiz_next  
+\i (00:02:28) FORM sigSetup wiz_finish  
+\i (00:02:29) setwindow pcb
 \i (00:02:29) generaledit 
-\i (00:04:30) pick grid 4.8162 2.2623
-\t (00:04:30) last pick:  4.8250  2.2500
-\i (00:04:30) roam y 96 
-\i (00:04:30) roam y 96
-\i (00:04:30) roam y 96 
-\i (00:04:30) roam y 96
-\i (00:04:31) roam y 96 
-\i (00:04:31) roam y 96
-\i (00:04:31) roam y 96 
-\i (00:04:31) roam y 96
-\i (00:04:33) zoom in 
-\i (00:04:33) setwindow pcb
-\i (00:04:33) zoom in 4.8162 0.7651
-\i (00:04:33) trapsize 97
-\i (00:04:33) zoom in 
-\i (00:04:33) setwindow pcb
-\i (00:04:33) zoom in 4.8162 0.7651
-\i (00:04:33) trapsize 49
-\i (00:04:33) roam y 96 
-\i (00:04:33) roam y 96
-\i (00:04:33) roam y 96 
-\i (00:04:33) roam y 96
-\i (00:04:34) roam y 96 
-\i (00:04:34) roam y 96
-\i (00:04:34) roam y 96 
-\i (00:04:34) roam y 96
-\i (00:04:34) roam x -96 
-\i (00:04:34) roam x -96
-\i (00:04:34) roam x -96 
-\i (00:04:34) roam x -96
-\i (00:04:34) roam x -96 
-\i (00:04:34) roam x -96
-\i (00:04:34) roam x -96 
-\i (00:04:34) roam x -96
-\i (00:04:35) roam x -96 
-\i (00:04:35) roam x -96
-\i (00:04:35) roam x -96 
-\i (00:04:35) roam x -96
-\i (00:04:35) roam x -96 
-\i (00:04:35) roam x -96
-\i (00:04:37) setwindow form.vf_vis
-\i (00:04:37) FORM vf_vis 5 all_colorvisible NO 
-\i (00:04:38) FORM vf_vis 5 all_colorvisible YES 
-\i (00:04:39) FORM vf_vis 4 all_colorvisible YES 
-\i (00:04:39) FORM vf_vis 3 all_colorvisible YES 
-\i (00:04:40) FORM vf_vis 1 all_colorvisible YES 
-\i (00:04:42) setwindow pcb
-\i (00:04:42) zoom fit 
-\i (00:04:42) trapsize 390
-\i (00:04:43) roam x -96 
-\i (00:04:43) roam x -96
-\i (00:04:43) roam x -96 
-\i (00:04:43) roam x -96
-\i (00:04:44) roam x -96 
-\i (00:04:44) roam x -96
-\i (00:04:44) roam x -96 
-\i (00:04:44) roam x -96
-\i (00:04:44) roam x -96 
-\i (00:04:44) roam x -96
-\i (00:04:49) save 
-\i (00:04:49) fillin yes 
-\i (00:04:49) generaledit 
-\i (00:04:50) roam y 96 
-\i (00:04:50) roam y 96
-\i (00:04:50) roam y 96 
-\i (00:04:50) roam y 96
-\i (00:04:50) zoom in 
-\i (00:04:50) setwindow pcb
-\i (00:04:50) zoom in 5.4400 0.4649
-\i (00:04:50) trapsize 195
-\i (00:04:51) zoom in 
-\i (00:04:51) setwindow pcb
-\i (00:04:51) zoom in 5.4400 0.4649
-\i (00:04:51) trapsize 97
-\i (00:04:51) roam y 96 
-\i (00:04:51) roam y 96
-\i (00:04:51) roam x -96 
-\i (00:04:51) roam x -96
-\i (00:04:51) roam x -96 
-\i (00:04:51) roam x -96
-\i (00:04:51) roam x -96 
-\i (00:04:51) roam x -96
-\i (00:04:52) roam x -96 
-\i (00:04:52) roam x -96
-\i (00:04:52) roam x -96 
-\i (00:04:52) roam x -96
-\i (00:04:52) roam x -96 
-\i (00:04:52) roam x -96
-\i (00:04:52) roam x -96 
-\i (00:04:52) roam x -96
-\i (00:04:52) roam x -96 
-\i (00:04:52) roam x -96
-\i (00:04:53) roam x -96 
-\i (00:04:53) roam x -96
-\i (00:04:53) roam x -96 
-\i (00:04:53) roam x -96
-\i (00:04:53) roam x -96 
-\i (00:04:53) roam x -96
-\i (00:04:53) roam x -96 
-\i (00:04:53) roam x -96
-\i (00:04:53) roam x -96 
-\i (00:04:53) roam x -96
-\i (00:04:54) roam x -96 
-\i (00:04:54) roam x -96
-\i (00:04:54) roam x -96 
-\i (00:04:54) roam x -96
-\i (00:04:54) roam x -96 
-\i (00:04:54) roam x -96
-\i (00:04:54) roam x -96 
-\i (00:04:54) roam x -96
-\i (00:04:55) roam x -96 
-\i (00:04:55) roam x -96
-\i (00:04:55) roam x -96 
-\i (00:04:55) roam x -96
-\i (00:04:56) roam x -96 
-\i (00:04:56) roam x -96
-\i (00:04:56) roam x -96 
-\i (00:04:56) roam x -96
-\i (00:04:58) roam y -96 
-\i (00:04:58) roam y -96
-\i (00:04:59) roam y -96 
-\i (00:04:59) roam y -96
-\i (00:04:59) roam y -96 
-\i (00:04:59) roam y -96
-\i (00:04:59) roam y -96 
-\i (00:04:59) roam y -96
-\i (00:04:59) roam y -96 
-\i (00:04:59) roam y -96
-\i (00:04:59) roam y -96 
-\i (00:04:59) roam y -96
-\i (00:05:00) roam y -96 
-\i (00:05:00) roam y -96
-\i (00:05:00) roam y -96 
-\i (00:05:00) roam y -96
-\i (00:05:00) roam y -96 
-\i (00:05:00) roam y -96
-\i (00:05:01) roam y -96 
-\i (00:05:01) roam y -96
-\i (00:05:01) roam y -96 
-\i (00:05:01) roam y -96
-\i (00:05:02) roam y -96 
-\i (00:05:02) roam y -96
-\i (00:05:02) roam y -96 
-\i (00:05:02) roam y -96
-\i (00:05:02) roam y -96 
-\i (00:05:02) roam y -96
-\i (00:05:04) roam y -96 
-\i (00:05:04) roam y -96
-\i (00:05:05) roam y -96 
-\i (00:05:05) roam y -96
-\i (00:05:05) roam y -96 
-\i (00:05:05) roam y -96
-\i (00:05:05) roam y -96 
-\i (00:05:05) roam y -96
-\i (00:05:05) roam y -96 
-\i (00:05:05) roam y -96
-\i (00:05:05) roam y -96 
-\i (00:05:05) roam y -96
-\i (00:05:06) roam y -96 
-\i (00:05:06) roam y -96
-\i (00:05:06) roam y -96 
-\i (00:05:06) roam y -96
-\i (00:05:06) roam y -96 
-\i (00:05:06) roam y -96
-\i (00:05:06) roam y -96 
-\i (00:05:06) roam y -96
-\i (00:05:06) roam y -96 
-\i (00:05:06) roam y -96
-\i (00:05:07) roam y -96 
-\i (00:05:07) roam y -96
-\i (00:05:07) roam y -96 
-\i (00:05:07) roam y -96
-\i (00:05:07) roam y -96 
-\i (00:05:07) roam y -96
-\i (00:05:07) roam x 96 
-\i (00:05:07) roam x 96
-\i (00:05:07) roam x 96 
-\i (00:05:07) roam x 96
-\i (00:05:08) roam x 96 
-\i (00:05:08) roam x 96
-\i (00:05:08) roam x 96 
-\i (00:05:08) roam x 96
-\i (00:05:08) roam x 96 
-\i (00:05:08) roam x 96
-\i (00:05:08) roam x 96 
-\i (00:05:08) roam x 96
-\i (00:05:08) roam x 96 
-\i (00:05:08) roam x 96
-\i (00:05:08) roam x 96 
-\i (00:05:08) roam x 96
-\i (00:05:09) roam x 96 
-\i (00:05:09) roam x 96
-\i (00:05:09) roam x 96 
-\i (00:05:09) roam x 96
-\i (00:05:09) roam x 96 
-\i (00:05:09) roam x 96
-\i (00:05:09) roam x 96 
-\i (00:05:09) roam x 96
-\i (00:05:09) roam x 96 
-\i (00:05:09) roam x 96
-\i (00:05:10) roam y 96 
-\i (00:05:10) roam y 96
-\i (00:05:10) roam y 96 
-\i (00:05:10) roam y 96
-\i (00:05:10) roam y 96 
-\i (00:05:10) roam y 96
-\i (00:05:10) roam y 96 
-\i (00:05:10) roam y 96
-\i (00:05:11) roam y 96 
-\i (00:05:11) roam y 96
-\i (00:05:11) roam y 96 
-\i (00:05:11) roam y 96
-\i (00:05:11) roam y 96 
-\i (00:05:11) roam y 96
-\i (00:05:11) roam y 96 
-\i (00:05:11) roam y 96
-\i (00:05:12) roam y 96 
-\i (00:05:12) roam y 96
-\i (00:05:12) roam y 96 
-\i (00:05:12) roam y 96
-\i (00:05:12) roam y 96 
-\i (00:05:12) roam y 96
-\i (00:05:12) roam y 96 
-\i (00:05:12) roam y 96
-\i (00:05:12) roam y 96 
-\i (00:05:12) roam y 96
-\i (00:05:13) roam y 96 
-\i (00:05:13) roam y 96
-\i (00:05:13) roam y 96 
-\i (00:05:13) roam y 96
-\i (00:05:13) roam y 96 
-\i (00:05:13) roam y 96
-\i (00:05:13) roam y 96 
-\i (00:05:13) roam y 96
-\i (00:05:14) roam y 96 
-\i (00:05:14) roam y 96
-\i (00:05:14) roam y 96 
-\i (00:05:14) roam y 96
-\i (00:05:14) roam y 96 
-\i (00:05:14) roam y 96
-\i (00:05:14) roam y 96 
-\i (00:05:14) roam y 96
-\i (00:05:14) roam y 96 
-\i (00:05:14) roam y 96
-\i (00:05:17) roam y 96 
-\i (00:05:17) roam y 96
-\i (00:05:18) roam y 96 
-\i (00:05:18) roam y 96
-\i (00:05:18) roam y 96 
-\i (00:05:18) roam y 96
-\i (00:05:18) roam y 96 
-\i (00:05:18) roam y 96
-\i (00:05:18) roam y 96 
-\i (00:05:18) roam y 96
-\i (00:05:18) roam y 96 
-\i (00:05:18) roam y 96
-\i (00:05:20) roam x -96 
-\i (00:05:20) roam x -96
-\i (00:05:21) roam x -96 
-\i (00:05:21) roam x -96
-\i (00:05:21) roam x -96 
-\i (00:05:21) roam x -96
-\i (00:05:21) roam x -96 
-\i (00:05:21) roam x -96
-\i (00:05:21) roam x -96 
-\i (00:05:21) roam x -96
-\i (00:05:22) roam x -96 
-\i (00:05:22) roam x -96
-\i (00:05:22) roam x -96 
-\i (00:05:22) roam x -96
-\i (00:05:23) roam x -96 
-\i (00:05:23) roam x -96
-\i (00:05:23) roam x -96 
-\i (00:05:23) roam x -96
-\i (00:05:23) roam x -96 
-\i (00:05:23) roam x -96
-\i (00:05:23) roam x -96 
-\i (00:05:23) roam x -96
-\i (00:05:24) roam y -96 
-\i (00:05:24) roam y -96
-\i (00:05:25) roam y -96 
-\i (00:05:25) roam y -96
-\i (00:05:25) roam y -96 
-\i (00:05:25) roam y -96
-\i (00:05:32) roam y 96 
-\i (00:05:32) roam y 96
-\i (00:05:33) zoom fit 
-\i (00:05:33) trapsize 390
-\i (00:05:38) setwindow form.vf_vis
-\i (00:05:38) FORM vf_vis 2 all_colorvisible NO 
-\i (00:05:38) FORM vf_vis 3 all_colorvisible NO 
-\i (00:05:39) FORM vf_vis 4 all_colorvisible NO 
-\i (00:05:40) FORM vf_vis 5 all_colorvisible NO 
-\i (00:05:41) FORM vf_vis 5 all_colorvisible YES 
-\i (00:05:43) FORM vf_vis 3 all_colorvisible YES 
-\i (00:05:43) FORM vf_vis 1 all_colorvisible NO 
-\i (00:05:44) FORM vf_vis 1 all_colorvisible YES 
-\i (00:05:44) FORM vf_vis 2 all_colorvisible YES 
-\i (00:05:45) FORM vf_vis 4 all_colorvisible YES 
-\i (00:05:46) setwindow pcb
-\i (00:05:46) roam x -96 
-\i (00:05:46) roam x -96
-\i (00:05:46) roam x -96 
-\i (00:05:46) roam x -96
-\i (00:05:46) roam x -96 
-\i (00:05:46) roam x -96
-\i (00:05:46) roam x -96 
-\i (00:05:46) roam x -96
-\i (00:05:47) save 
-\i (00:05:48) fillin yes 
-\i (00:05:48) generaledit 
-\i (00:07:31) trapsize 981
-\i (00:07:32) save 
-\i (00:07:33) fillin yes 
-\i (00:07:33) generaledit 
-\i (00:07:36) exit 
-\t (00:07:36)     Journal end - Sun Nov 05 21:41:36 2023
+\i (00:02:31) topology template 
+\i (00:02:33) setwindow form.fpsxtopocpy
+\i (00:02:33) FORM fpsxtopocpy selectxnets N08588 
+   (00:02:34) Loading sigallegro.cxt 
+   (00:02:34) Loading skillExt.cxt 
+   (00:02:34) Loading sxutil.cxt 
+\i (00:02:37) FORM fpsxtopocpy selectxnets N08600 
+\i (00:02:38) FORM fpsxtopocpy selectview  
+\i (00:08:25) FORM fpsxtopocpy done  
+\i (00:08:25) setwindow pcb
+\i (00:08:25) generaledit 
+\i (00:08:26) exit 
+\e (00:08:26) Do you want to save the changes you made to PMOD2BNCSIMPLE_v1_02.brd?
+\i (00:08:27) fillin no 
+\t (00:08:28)     Journal end - Sun Nov 05 22:07:40 2023

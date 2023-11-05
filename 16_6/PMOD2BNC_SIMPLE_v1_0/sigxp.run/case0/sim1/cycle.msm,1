@@ -1,0 +1,40 @@
+(CycleMeasurements 
+ ("PMOD2BNCSIMPLE_V1_02.BNC8.5" 
+  (BasicData 
+   (vlohi 0.8 ) 
+   (vhilo 2 ) 
+   (tldelay 9.8281e-010 ) 
+   (vinit 2.54998 ) ) 
+  (Cycles 
+   (1 
+    (Fall 
+     (EarliestSwitch 
+      (volt 2 ) 
+      (time 1.1229e-008 ) ) 
+     (FirstSwitch 
+      (volt 0.8 ) 
+      (time 1.14374e-008 ) ) 
+     (MinMaxEvents 
+      (maximum 
+       (volt 0.402116 ) 
+       (time 1.57906e-008 ) ) 
+      (minimum 
+       (volt -0.998017 ) 
+       (time 1.32224e-008 ) ) ) ) 
+    (Rise 
+     (EarliestSwitch 
+      (volt 0.8 ) 
+      (time 3.152e-008 ) ) 
+     (FirstSwitch 
+      (volt 2 ) 
+      (time 3.17897e-008 ) ) 
+     (SettleSwitch 
+      (volt 2 ) 
+      (time 3.6117e-008 ) ) 
+     (MinMaxEvents 
+      (maximum 
+       (volt 3.85939 ) 
+       (time 3.32649e-008 ) ) 
+      (minimum 
+       (volt 1.80023 ) 
+       (time 3.58504e-008 ) ) ) ) ) ) ) ) 
