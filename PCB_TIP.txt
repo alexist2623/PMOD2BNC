@@ -24,3 +24,6 @@ https://m.blog.naver.com/kingreddrake/221312467295
 
 Make SI Simulation in PCB editor
 https://www.youtube.com/watch?v=RTU257Bu2YE
+
+PCB Thieving( fillinf ground)
+https://ansan-survivor.tistory.com/882
