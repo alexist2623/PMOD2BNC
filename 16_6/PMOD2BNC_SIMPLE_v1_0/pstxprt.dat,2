@@ -1,0 +1,370 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Nov-04-2023 at 16:50:11 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='PMOD2SIMPLE';
+ POST_TIME='Sep 10 2012 04:46:09';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ BNC1 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS2988@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins2988@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page1_ins2988@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC10 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS4105@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins4105@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page2_ins4105@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC11 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS4037@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins4037@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page2_ins4037@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC12 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS3969@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins3969@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page2_ins3969@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC13 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS4139@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins4139@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page2_ins4139@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC14 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS4003@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins4003@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page2_ins4003@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC15 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS3873@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins3873@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page2_ins3873@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC16 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS3839@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins3839@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page2_ins3839@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC17 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS4644@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins4644@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page3_ins4644@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC18 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS4678@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins4678@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page3_ins4678@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC19 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS4610@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins4610@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page3_ins4610@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC2 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS3294@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins3294@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page1_ins3294@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC20 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS4542@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins4542@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page3_ins4542@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC21 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS4712@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins4712@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page3_ins4712@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC22 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS4576@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins4576@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page3_ins4576@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC23 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS4446@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins4446@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page3_ins4446@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC24 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS4412@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins4412@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page3_ins4412@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC25 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS5217@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins5217@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page4_ins5217@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC26 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS5251@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins5251@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page4_ins5251@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC27 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS5183@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins5183@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page4_ins5183@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC28 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS5115@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins5115@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page4_ins5115@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC29 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS5285@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins5285@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page4_ins5285@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC3 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS3056@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins3056@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page1_ins3056@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC30 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS5149@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins5149@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page4_ins5149@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC31 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS5019@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins5019@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page4_ins5019@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC32 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS4985@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins4985@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page4_ins4985@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC4 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS3376@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins3376@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page1_ins3376@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC5 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS3125@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins3125@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page1_ins3125@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC6 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS3463@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins3463@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page1_ins3463@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC7 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS3199@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins3199@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page1_ins3199@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC8 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS3554@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins3554@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page1_ins3554@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BNC9 'MP-13-22-1_MP-13-22-1_MP-13-22-':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS4071@MP-13-22-1.MP-13-22-1.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins4071@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page2_ins4071@\mp-13-22-1\.\mp-13-22-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 '71764_0114_717640112_71764_0114':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS60@71764_0114.71764_0114.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins60@\71764_0114\.\71764_0114.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page1_ins60@\71764_0114\.\71764_0114.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 '71764_0114_717640112_71764_0114':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS3907@71764_0114.71764_0114.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins3907@\71764_0114\.\71764_0114.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page2_ins3907@\71764_0114\.\71764_0114.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 '71764_0114_717640112_71764_0114':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS4480@71764_0114.71764_0114.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins4480@\71764_0114\.\71764_0114.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page3_ins4480@\71764_0114\.\71764_0114.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 '71764_0114_717640112_71764_0114':;
+
+SECTION_NUMBER 1
+ '@PMOD2SIMPLE.SCHEMATIC1(SCH_1):INS5053@71764_0114.71764_0114.NORMAL(CHIPS)':
+ C_PATH='@pmod2simple.schematic1(sch_1):ins5053@\71764_0114\.\71764_0114.normal\(chips)',
+ P_PATH='@pmod2simple.schematic1(sch_1):page4_ins5053@\71764_0114\.\71764_0114.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

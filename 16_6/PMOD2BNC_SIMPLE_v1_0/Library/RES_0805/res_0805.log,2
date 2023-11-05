@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : RES_0805.dra                                  )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sun Nov 05 15:27:22 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/GIT/PMOD2BNC/16_6/PMOD2BNC_SIMPLE_v1_0/Library/RES_0805
+    Name      = res_0805.psm
+    User      = ece
+    Machine   = DESKTOP-KCLED0O
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -6,6 +6,8 @@
       (File ".\library\lib_538-71764-0112_pin\71764_0114.olb"
         (Type "Schematic Library"))
       (File ".\library\bnc_mp-13-22-1\mp-13-22-1.olb"
+        (Type "Schematic Library"))
+      (File ".\library\res_0805\res_0805.olb"
         (Type "Schematic Library")))
     (NoModify)
     (File ".\pmod2simple.dsn"
@@ -67,7 +69,7 @@
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "TRUE")
     ("Allegro Netlist Output Board File"
-       "C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_v1_0\PMOD2BNCSIMPLE.brd")
+       "C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_v1_0\PMOD2BNCSIMPLE_v1_02.brd")
     ("Allegro Netlist Remove Etch" "FALSE")
     ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
     ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
@@ -93,6 +95,14 @@
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (RES_0805
+      (FullPartName "RES_0805.Normal")
+      (LibraryName
+         "C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_V1_0\LIBRARY\RES_0805\RES_0805.OLB")
+      (DeviceIndex "0"))
     (MP-13-22-1
       (FullPartName "MP-13-22-1.Normal")
       (LibraryName
@@ -108,54 +118,23 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\pmod2simple.dsn")
       (Path "Design Resources" ".\pmod2simple.dsn" "SCHEMATIC1")
-      (Path "Design Resources" "Library")
       (Path "Outputs")
       (Select "Design Resources" ".\pmod2simple.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 421"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 421"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1688 52 512")
-        (Scroll "0 65")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1688 52 512")
+        (Scroll "0 0")
         (Zoom "174")
         (Occurrence "/"))
       (Path "C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_V1_0\PMOD2SIMPLE.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "JA"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1369 26 486")
-        (Scroll "-162 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_V1_0\PMOD2SIMPLE.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "JB"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1395 52 512")
-        (Scroll "-162 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_V1_0\PMOD2SIMPLE.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "JC"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1792 156 616")
-        (Scroll "-309 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_V1_0\PMOD2SIMPLE.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "JD")))
+      (Page "JA")))
   (MPSSessionName "ece")
   (ISPCBBASICLICENSE "false"))

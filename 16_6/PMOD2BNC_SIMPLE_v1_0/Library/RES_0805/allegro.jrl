@@ -1,0 +1,338 @@
+\t (00:00:40) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:40)     Journal start - Sun Nov 05 15:11:29 2023
+\t (00:00:40)         Host=DESKTOP-KCLED0O User=ece Pid=12152 CPUs=6
+\t (00:00:40) 
+\t (00:00:40) Starting new design...
+\i (00:00:40) trapsize 1067
+\i (00:00:40) trapsize 1044
+\i (00:00:40) trapsize 1067
+\i (00:00:40) trapsize 1080
+\i (00:00:40) trapsize 1370
+\i (00:00:40) trapsize 1370
+\i (00:00:41) generaledit 
+\i (00:00:45) drag_start grid -0.8219 0.5753
+\i (00:00:45) drag_stop 0.8767 -0.7397
+\i (00:00:47) zoom fit 
+\i (00:00:47) trapsize 1370
+\i (00:00:58) enved 
+\i (00:00:59) generaledit 
+\i (00:01:08) setwindow form.prfedit
+\i (00:01:08) FORM prfedit treelist  Library Paths 
+\i (00:01:10) FORM prfedit padpath  
+\i (00:01:27) FORM prfedit apply  
+\i (00:01:29) FORM prfedit padpath  
+\i (00:01:31) FORM prfedit done  
+\i (00:02:10) setwindow pcb
+\i (00:02:10) enved 
+\i (00:02:11) generaledit 
+\i (00:02:12) setwindow form.prfedit
+\i (00:02:12) FORM prfedit cancel  
+\i (00:02:51) setwindow pcb
+\i (00:02:51) enved 
+\i (00:02:52) generaledit 
+\i (00:02:54) setwindow form.prfedit
+\i (00:02:54) FORM prfedit cancel  
+\i (00:03:03) setwindow pcb
+\i (00:03:03) prmed 
+\i (00:03:05) setwindow form.prmedit
+\i (00:03:05) FORM prmedit design  
+\i (00:03:10) FORM prmedit cancel  
+\i (00:03:10) setwindow pcb
+\i (00:03:10) generaledit 
+\i (00:04:36) add pin 
+\i (00:04:43) add pin 
+\t (00:04:43) Exiting from Add Pin.
+\i (00:04:54) setwindow form.mini
+\i (00:04:54) FORM mini pad_browse  
+\i (00:04:57) fillin "0805Res"
+\w (00:04:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:04:57) Using '0805RES.pad'.
+\i (00:05:02) setwindow pcb
+\i (00:05:02) pick 0.1155 0 
+\t (00:05:02) last pick:  0.1155  0.0000
+\t (00:05:02) Using '0805RES.pad'.
+\i (00:05:06) pick -0.1155 0 
+\t (00:05:06) last pick:  -0.1155  0.0000
+\t (00:05:06) Using '0805RES.pad'.
+\i (00:05:07) prepopup 4.8493 2.1096
+\i (00:05:08) done 
+\t (00:05:08) Exiting from Add Pin.
+\i (00:05:08) generaledit 
+\i (00:05:09) zoom fit 
+\i (00:05:09) trapsize 9
+\i (00:05:12) zoom out 1 
+\i (00:05:12) setwindow pcb
+\i (00:05:12) zoom out -0.1187 -0.0013
+\i (00:05:12) trapsize 19
+\i (00:05:12) zoom out 1 
+\i (00:05:12) setwindow pcb
+\i (00:05:12) zoom out -0.1189 -0.0013
+\i (00:05:12) trapsize 38
+\i (00:05:14) pick grid -0.1166 -0.0437
+\t (00:05:14) last pick:  -0.1000  0.0000
+\i (00:05:16) pick grid -0.0924 -0.0452
+\t (00:05:16) last pick:  -0.1000  0.0000
+\i (00:05:16) pick grid -0.0689 -0.0445
+\t (00:05:16) last pick:  -0.1000  0.0000
+\i (00:05:17) pick grid -0.0394 -0.0467
+\t (00:05:17) last pick:  0.0000  0.0000
+\i (00:05:17) pick grid 0.0022 -0.0490
+\t (00:05:17) last pick:  0.0000  0.0000
+\i (00:05:25) pick grid 0.0037 0.0001
+\t (00:05:25) last pick:  0.0000  0.0000
+\i (00:05:26) pick grid 0.0128 0.0024
+\t (00:05:26) last pick:  0.0000  0.0000
+\i (00:05:26) pick grid 0.0309 -0.0014
+\t (00:05:26) last pick:  0.0000  0.0000
+\i (00:05:26) pick grid 0.0446 0.0001
+\t (00:05:26) last pick:  0.0000  0.0000
+\i (00:05:28) pick grid 0.1111 -0.0006
+\t (00:05:28) last pick:  0.1000  0.0000
+\i (00:05:50) pick grid 0.1285 0.0539
+\t (00:05:50) last pick:  0.1000  0.1000
+\i (00:05:50) pick grid 0.1217 0.0062
+\t (00:05:50) last pick:  0.1000  0.0000
+\i (00:05:52) move 
+\t (00:05:52) last pick:  0.1155  0.0000
+\t (00:05:52) Pick new location for the element(s).
+\i (00:05:54) pick 0.05775 0 
+\t (00:05:54) last pick:  0.0578  0.0000
+\i (00:05:54) generaledit 
+\i (00:05:55) pick grid -0.1098 -0.0104
+\t (00:05:55) last pick:  -0.1000  0.0000
+\i (00:05:57) move 
+\t (00:05:57) last pick:  -0.1155  0.0000
+\t (00:05:57) Pick new location for the element(s).
+\i (00:05:59) pick -0.05775 0 
+\t (00:05:59) last pick:  -0.0578  0.0000
+\i (00:05:59) generaledit 
+\i (00:06:00) pick grid 0.1028 0.1182
+\t (00:06:00) last pick:  0.1000  0.1000
+\i (00:06:01) roam x -96 
+\i (00:06:01) roam x -96
+\i (00:06:02) roam x -96 
+\i (00:06:02) roam x -96
+\i (00:06:02) roam y 96 
+\i (00:06:02) roam y 96
+\i (00:06:02) roam y 96 
+\i (00:06:02) roam y 96
+\i (00:06:02) roam y 96 
+\i (00:06:02) roam y 96
+\i (00:06:15) prmed 
+\i (00:06:18) setwindow form.prmedit
+\i (00:06:18) FORM prmedit display  
+\i (00:06:19) FORM prmedit cancel  
+\i (00:06:19) setwindow pcb
+\i (00:06:19) generaledit 
+\i (00:06:25) define grid 
+\t (00:06:25) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:06:25) generaledit 
+\i (00:06:29) setwindow form.grid
+\i (00:06:29) FORM grid non_etch non_etch_x_grids 0.01000 
+\i (00:06:30) FORM grid non_etch non_etch_y_grids 0.01000 
+\i (00:06:30) FORM grid done  
+\i (00:06:32) setwindow pcb
+\i (00:06:32) pick grid 0.0543 -0.0320
+\t (00:06:32) last pick:  0.0500  -0.0300
+\i (00:06:33) pick grid 0.0543 -0.0365
+\t (00:06:33) last pick:  0.0500  -0.0400
+\i (00:06:34) pick grid 0.0543 -0.0373
+\t (00:06:34) last pick:  0.0500  -0.0400
+\i (00:07:32) pick grid 0.0490 -0.0017
+\t (00:07:32) last pick:  0.0500  0.0000
+\i (00:07:36) move 
+\t (00:07:36) last pick:  0.0578  0.0000
+\t (00:07:36) Pick new location for the element(s).
+\i (00:07:38) pick 0.0465 0 
+\t (00:07:38) last pick:  0.0465  0.0000
+\i (00:07:38) generaledit 
+\i (00:07:39) pick grid -0.0591 -0.0108
+\t (00:07:39) last pick:  -0.0600  -0.0100
+\i (00:07:41) move 
+\t (00:07:41) last pick:  -0.0578  0.0000
+\t (00:07:41) Pick new location for the element(s).
+\i (00:07:44) pick -0.0465 0 
+\t (00:07:44) last pick:  -0.0465  0.0000
+\i (00:07:44) generaledit 
+\i (00:07:44) pick grid 0.1443 -0.2044
+\t (00:07:44) last pick:  0.1400  -0.2000
+\i (00:09:32) pick grid -0.0750 0.0338
+\t (00:09:32) last pick:  -0.0700  0.0300
+\i (00:09:39) pick grid -0.0788 0.0346
+\t (00:09:39) last pick:  -0.0800  0.0300
+\i (00:09:42) pick grid -0.0788 0.0346
+\t (00:09:42) last pick:  -0.0800  0.0300
+\i (00:09:43) pick grid -0.0788 0.0346
+\t (00:09:43) last pick:  -0.0800  0.0300
+\i (00:09:55) package bound 
+\i (00:10:04) pick -0.08 0.03 
+\t (00:10:04) last pick:  -0.0800  0.0300
+\i (00:10:09) pick 0.08 0.03 
+\t (00:10:09) last pick:  0.0800  0.0300
+\i (00:10:14) pick 0.08 -0.03 
+\t (00:10:14) last pick:  0.0800  -0.0300
+\i (00:10:21) pick -0.08 -0.03 
+\t (00:10:21) last pick:  -0.0800  -0.0300
+\i (00:10:26) pick -0.08 0.03 
+\t (00:10:26) last pick:  -0.0800  0.0300
+\i (00:11:00) label refdes 
+\t (00:11:00) Pick text location.
+\i (00:11:05) pick grid 0.0233 0.0618
+\t (00:11:05) last pick:  0.0200  0.0600
+\t (00:11:05) Enter text string.
+\i (00:11:11) setwindow pcb
+\i (00:11:11) pick 0.0200 0.0600
+\i (00:11:15) pick grid 0.0203 -0.0433
+\t (00:11:15) last pick:  0.0200  -0.0400
+\t (00:11:15) Refdes of this subclass is already defined, change subclass.
+\i (00:11:20) pick grid 0.0286 0.0656
+\t (00:11:20) last pick:  0.0300  0.0700
+\t (00:11:20) Refdes of this subclass is already defined, change subclass.
+\i (00:11:21) prepopup 0.1042 0.0444
+\i (00:11:21) done 
+\i (00:11:22) generaledit 
+\i (00:11:22) pick grid 0.0309 0.0732
+\t (00:11:22) last pick:  0.0300  0.0700
+\i (00:11:23) prepopup 0.0309 0.0732
+\i (00:11:34) pop dyn_option_select 'Change class/subclass@:@COMPONENT VALUE@:@SILKSCREEN_TOP' 
+\i (00:11:34) change class 
+\t (00:11:34) No DRC errors detected.
+\t (00:11:34) Changed 1 items out of 1 items found.
+\i (00:11:34) generaledit 
+\i (00:11:35) pick grid 0.1194 -0.0736
+\t (00:11:35) last pick:  0.1200  -0.0700
+\i (00:11:43) label refdes 
+\t (00:11:44) Pick text location.
+\i (00:11:46) pick grid 0.0165 -0.0365
+\t (00:11:46) last pick:  0.0200  -0.0400
+\t (00:11:46) Enter text string.
+\i (00:11:49) setwindow pcb
+\i (00:11:49) pick 0.0200 -0.0400
+\i (00:11:51) prepopup 0.0369 -0.0486
+\i (00:11:51) done 
+\i (00:11:51) generaledit 
+\i (00:11:52) pick grid 0.0286 -0.0365
+\t (00:11:52) last pick:  0.0300  -0.0400
+\i (00:11:52) drag_start grid 0.0309 -0.0358
+\i (00:11:52) move 
+\t (00:11:52) last pick:  0.0200  -0.0400
+\t (00:11:52) Pick new location for the element(s).
+\i (00:11:53) drag_stop grid 0.0286 -0.0562
+\i (00:11:53) generaledit 
+\i (00:11:54) pick grid 0.1965 -0.0047
+\t (00:11:54) last pick:  0.2000  0.0000
+\i (00:11:55) pick grid 0.0218 -0.0373
+\t (00:11:55) last pick:  0.0200  -0.0400
+\i (00:11:55) pick grid 0.0263 -0.0267
+\t (00:11:55) last pick:  0.0300  -0.0300
+\i (00:11:56) pick grid 0.1179 -0.0365
+\t (00:11:56) last pick:  0.1200  -0.0400
+\i (00:12:08) add line 
+\i (00:12:13) setwindow form.mini
+\i (00:12:13) FORM mini line_width 0.0200 
+\i (00:12:20) FORM mini subclass SILKSCREEN_TOP 
+\i (00:12:29) setwindow pcb
+\i (00:12:29) pick -.0.08 0.03 
+\t (00:12:29) last pick:  0.0000  0.0800
+\i (00:12:33) prepopup 0.1042 -0.1727
+\i (00:12:34) cancel 
+\i (00:12:34) generaledit 
+\i (00:12:36) add line 
+\i (00:12:39) setwindow form.mini
+\i (00:12:39) FORM mini line_width 0.0020 
+\i (00:12:44) setwindow pcb
+\i (00:12:44) pick -0.08 0.03 
+\t (00:12:44) last pick:  -0.0800  0.0300
+\i (00:12:53) pick 0.08 0.03 
+\t (00:12:53) last pick:  0.0800  0.0300
+\i (00:12:56) pick 0.08 -0.03 
+\t (00:12:56) last pick:  0.0800  -0.0300
+\i (00:13:00) pick -0.08 -0.03 
+\t (00:13:00) last pick:  -0.0800  -0.0300
+\i (00:13:05) pick -0.08 0.03 
+\t (00:13:05) last pick:  -0.0800  0.0300
+\i (00:13:06) prepopup 0.3009 0.0202
+\i (00:13:06) done 
+\i (00:13:06) generaledit 
+\i (00:13:07) pick grid -0.0501 -0.1258
+\t (00:13:07) last pick:  -0.0500  -0.1300
+\i (00:13:08) save 
+\t (00:13:08) Symbol 'res_0805.psm' created.
+\i (00:13:08) generaledit 
+\i (00:13:54) add rect 
+\i (00:14:13) add line 
+\i (00:14:18) setwindow form.mini
+\i (00:14:18) FORM mini subclass ASSEMBLY_DETAIL 
+\i (00:14:25) setwindow pcb
+\i (00:14:25) prepopup -0.1355 0.0883
+\i (00:14:26) cancel 
+\i (00:14:26) generaledit 
+\i (00:14:27) pick grid -0.0803 0.1133
+\t (00:14:27) last pick:  -0.0800  0.1100
+\i (00:14:29) setwindow form.mini
+\i (00:14:29) FORM mini class COMPONENT VALUE 
+\i (00:14:35) FORM mini class EMBEDDED GEOMETRY 
+\i (00:14:41) FORM mini class BOARD GEOMETRY 
+\i (00:14:47) setwindow pcb
+\i (00:14:47) pick grid 0.1844 0.0785
+\t (00:14:47) last pick:  0.1800  0.0800
+\i (00:14:48) save 
+\i (00:14:49) fillin yes 
+\t (00:14:49) Symbol 'res_0805.psm' created.
+\i (00:14:49) generaledit 
+\i (00:14:51) shape add rect 
+\i (00:14:52) pick grid 0.2336 0.1934
+\t (00:14:52) last pick:  0.2300  0.1900
+\i (00:14:53) pick grid 0.3410 0.0648
+\t (00:14:53) last pick:  0.3400  0.0600
+\i (00:14:54) prepopup 0.4310 0.1072
+\i (00:14:54) done 
+\i (00:14:54) generaledit 
+\i (00:14:55) pick grid 0.3002 0.1155
+\t (00:14:55) last pick:  0.3000  0.1200
+\i (00:14:56) pick grid 0.3410 0.1148
+\t (00:14:56) last pick:  0.3400  0.1100
+\i (00:14:56) prepopup 0.3410 0.1148
+\i (00:15:06) pick grid 0.3123 0.0603
+\t (00:15:06) last pick:  0.3100  0.0600
+\i (00:15:06) prepopup 0.3123 0.0588
+\i (00:15:17) pop dyn_option_select @:@Delete 
+\i (00:15:17) delete 
+\i (00:15:18) generaledit 
+\i (00:15:19) save 
+\i (00:15:19) fillin yes 
+\t (00:15:20) Symbol 'res_0805.psm' created.
+\i (00:15:20) generaledit 
+\i (00:15:56) package_height 
+\i (00:15:58) pick grid 0.0059 0.0149
+\t (00:15:58) last pick:  0.0100  0.0100
+\i (00:16:20) setwindow form.mini
+\i (00:16:20) FORM mini height_min 0.01 
+\i (00:16:23) FORM mini height_max 0.02 
+\i (00:16:24) setwindow pcb
+\i (00:16:24) pick grid 0.7638 0.0891
+\t (00:16:24) last pick:  0.7600  0.0900
+\i (00:16:26) redraw 
+\i (00:16:29) pick grid -0.0054 0.0180
+\t (00:16:29) last pick:  -0.0100  0.0200
+\i (00:16:30) save 
+\i (00:16:31) fillin yes 
+\t (00:16:32) Symbol 'res_0805.psm' created.
+\i (00:16:32) generaledit 
+\i (00:16:40) 3d_viewer 
+\i (00:16:41) setwindow pcb3D
+\i (00:16:41) trapsize 38
+\i (00:16:41) setwindow pcb
+\i (00:16:41) generaledit 
+\i (00:16:48) save 
+\i (00:16:49) fillin yes 
+\t (00:16:50) Symbol 'res_0805.psm' created.
+\i (00:16:50) generaledit 
+\i (00:16:51) zoom fit 
+\i (00:16:51) trapsize 10
+\i (00:16:56) save 
+\i (00:16:57) fillin yes 
+\t (00:16:57) Symbol 'res_0805.psm' created.
+\i (00:16:57) generaledit 
+\i (00:17:00) exit 
+\t (00:17:00)     Journal end - Sun Nov 05 15:27:50 2023
