@@ -1,0 +1,32 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : PMOD2BNCSIMPLE_v1_02.brd                      )
+(    Software Version : 23.1P001                                      )
+(    Date/Time        : Tue Nov  7 20:54:49 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:01
+
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+Number of Xnets before update: 0        after update: 0
+Number of Diff Pairs before update: 0   after update: 0
+
+Saved drawing C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/PMOD2BNC.brd.
+
+
+<<< Design Uprev Warnings >>>
+
+Tue Nov  7 20:54:49 2023				Page     1
+
+
+Performing DRC...
+No DRC errors detected.

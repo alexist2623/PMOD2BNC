@@ -1,5 +1,6 @@
 (ExpressProject "PMOD2SIMPLE"
   (ProjectVersion "19981106")
+  (SoftwareVersion "23.1 P001 (4147275)  [9/30/2023]-[11/05/23]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
@@ -80,7 +81,10 @@
     ("Allegro Netlist Combine Property String" "PCB Footprint")
     ("Allegro Netlist Ignore Fixed Property" "FALSE")
     ("Allegro Netlist User Defined Property" "FALSE")
-    (Netlist_TAB "0"))
+    (Netlist_TAB "0")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420"))
+  (Folder "Layout")
   (Folder "Outputs"
     (File ".\pmod2simple.drc"
       (Type "Report"))
@@ -119,22 +123,32 @@
       (Path "Design Resources" ".\pmod2simple.dsn")
       (Path "Design Resources" ".\pmod2simple.dsn" "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources" ".\pmod2simple.dsn"))
+      (Select "Design Resources" ".\pmod2simple.dsn" "SCHEMATIC1" "JA"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 421"))
+        (Placement "44 2 3 -1 -1 0 0 0 200 0 421"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1688 52 512")
+        (Placement "44 0 1 -1 -1 -1 -1 5 655 24 760")
         (Scroll "0 0")
-        (Zoom "174")
+        (Zoom "100")
         (Occurrence "/"))
-      (Path "C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_V1_0\PMOD2SIMPLE.DSN")
+      (Path
+         "C:\JEONGHYUN\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_V1_0\PMOD2SIMPLE.DSN")
       (Schematic "SCHEMATIC1")
       (Page "JA")))
-  (MPSSessionName "ece")
-  (ISPCBBASICLICENSE "false"))
+  (MPSSessionName "alexi")
+  (ISPCBBASICLICENSE "false")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"))
