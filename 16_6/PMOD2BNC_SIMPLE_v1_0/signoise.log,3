@@ -1,8 +1,64 @@
-INFO: 3 non-encrypted models saved to file C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_v1_0\sigxp.dml
-INFO: 3 models saved in sigxp.dml
-T\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_v1_0\sigxp.dml'
-INFO: Finished loading SigNoise device libraries
-INFO: sigxp.dml added to device model library list
+INFO: Using SigNoise run directory 'C:/GIT/PMOD2BNC/16_6/PMOD2BNC_SIMPLE_v1_0/signoise.run'
 INFO: Loaded existing device file 'C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_v1_0\devices.dml'
-INFO: Loaded existing device file 'C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_v1_0\sigxp.dml'
 INFO: Finished loading SigNoise device libraries
+INFO: Loaded existing interconnect file 'C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_v1_0\interconn.iml'
+INFO: Loaded existing interconnect file 'C:\Cadence\SPB_16.6\share\pcb\signal\cds_interconn.iml'
+INFO: Finished loading SigNoise interconnect libraries
+INFO: Field Solver bem2d for STL_2S_1R_31
+INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaaac05476.in" 0.00127
+INFO: Field Solver bem2d for STL_2S_1R_32
+INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaaad05476.in" 0.00127
+INFO: Field Solver bem2d for STL_2S_1R_33
+INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaaae05476.in" 0.00127
+INFO: Field Solver bem2d for STL_2S_1R_34
+INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaaaf05476.in" 0.00127
+INFO: Field Solver bem2d for STL_2S_1R_35
+INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaaag05476.in" 0.00127
+INFO: Field Solver bem2d for STL_2S_1R_36
+INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaaah05476.in" 0.00127
+INFO: Field Solver bem2d for STL_2S_1R_37
+INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaaai05476.in" 0.00127
+INFO: Field Solver bem2d for STL_2S_1R_38
+INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaaaj05476.in" 0.00127
+INFO: Simulation (PMOD2BNCSIMPLE_V1_02 N08600) PMOD2BNCSIMPLE_V1_02 BNC8 5 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_02 N08600 Drvr PMOD2BNCSIMPLE_V1_02 BNC8 5
+ANNOTATION: Tlsim Command used :  tlsim  -AutoRiseFallStopTime -dl "C:/Users/ece/AppData/Local/Temp/#Taaaaal05476.tmp" -dst "C:/Users/ece/AppData/Local/Temp/#Taaaaam05476.tmp" -log "C:/Users/ece/AppData/Local/Temp/#Taaaaan05476.tmp" -ocycle "C:/Users/ece/AppData/Local/Temp/#Taaaaao05476.tmp" "main.spc"\n
+INFO: Simulation (PMOD2BNCSIMPLE_V1_02 N08600) PMOD2BNCSIMPLE_V1_02 BNC8 5 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_02 N08600 Drvr PMOD2BNCSIMPLE_V1_02 BNC8 5 finished
+INFO: Field Solver bem2d for STL_1S_1R_39
+INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaaap05476.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_40
+INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaaaq05476.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_41
+INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaaar05476.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_42
+INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaaas05476.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_43
+INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaaat05476.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_44
+INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaaau05476.in" 0.00127
+INFO: Simulation (PMOD2BNCSIMPLE_V1_02 N08600) PMOD2BNCSIMPLE_V1_02 BNC8 5 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_02 N08600 Drvr PMOD2BNCSIMPLE_V1_02 BNC8 5
+ANNOTATION: Tlsim Command used :  tlsim  -AutoRiseFallStopTime -dl "C:/Users/ece/AppData/Local/Temp/#Taaaaav05476.tmp" -dst "C:/Users/ece/AppData/Local/Temp/#Taaaaaw05476.tmp" -log "C:/Users/ece/AppData/Local/Temp/#Taaaaax05476.tmp" -ocycle "C:/Users/ece/AppData/Local/Temp/#Taaaaay05476.tmp" "main.spc"\n
+INFO: Simulation (PMOD2BNCSIMPLE_V1_02 N08600) PMOD2BNCSIMPLE_V1_02 BNC8 5 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_02 N08600 Drvr PMOD2BNCSIMPLE_V1_02 BNC8 5 finished
+INFO: Simulation (PMOD2BNCSIMPLE_V1_02 N08600) PMOD2BNCSIMPLE_V1_02 BNC8 5 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_02 N08600 Drvr PMOD2BNCSIMPLE_V1_02 BNC8 5
+ANNOTATION: Tlsim Command used :  tlsim  -AutoRiseFallStopTime -dl "C:/Users/ece/AppData/Local/Temp/#Taaaaaz05476.tmp" -dst "C:/Users/ece/AppData/Local/Temp/#Taaaaba05476.tmp" -log "C:/Users/ece/AppData/Local/Temp/#Taaaabb05476.tmp" -ocycle "C:/Users/ece/AppData/Local/Temp/#Taaaabc05476.tmp" "main.spc"\n
+INFO: Simulation (PMOD2BNCSIMPLE_V1_02 N08600) PMOD2BNCSIMPLE_V1_02 BNC8 5 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_02 N08600 Drvr PMOD2BNCSIMPLE_V1_02 BNC8 5 finished
+INFO: Simulation (PMOD2BNCSIMPLE_V1_02 N08600) PMOD2BNCSIMPLE_V1_02 BNC8 5 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_02 N08600 Drvr PMOD2BNCSIMPLE_V1_02 BNC8 5
+ANNOTATION: Tlsim Command used :  tlsim  -AutoRiseFallStopTime -dl "C:/Users/ece/AppData/Local/Temp/#Taaaabd05476.tmp" -dst "C:/Users/ece/AppData/Local/Temp/#Taaaabe05476.tmp" -log "C:/Users/ece/AppData/Local/Temp/#Taaaabf05476.tmp" -ocycle "C:/Users/ece/AppData/Local/Temp/#Taaaabg05476.tmp" "main.spc"\n
+INFO: Simulation (PMOD2BNCSIMPLE_V1_02 N08600) PMOD2BNCSIMPLE_V1_02 BNC8 5 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_02 N08600 Drvr PMOD2BNCSIMPLE_V1_02 BNC8 5 finished
+INFO: Simulation (PMOD2BNCSIMPLE_V1_02 N08600) PMOD2BNCSIMPLE_V1_02 BNC8 5 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_02 N08600 Drvr PMOD2BNCSIMPLE_V1_02 BNC8 5
+ANNOTATION: Tlsim Command used :  tlsim  -AutoRiseFallStopTime -dl "C:/Users/ece/AppData/Local/Temp/#Taaaabh05476.tmp" -dst "C:/Users/ece/AppData/Local/Temp/#Taaaabi05476.tmp" -log "C:/Users/ece/AppData/Local/Temp/#Taaaabj05476.tmp" -ocycle "C:/Users/ece/AppData/Local/Temp/#Taaaabk05476.tmp" "main.spc"\n
+INFO: Simulation (PMOD2BNCSIMPLE_V1_02 N08600) PMOD2BNCSIMPLE_V1_02 BNC8 5 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_02 N08600 Drvr PMOD2BNCSIMPLE_V1_02 BNC8 5 finished
+INFO: Simulation (PMOD2BNCSIMPLE_V1_02 N08600) PMOD2BNCSIMPLE_V1_02 BNC8 5 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_02 N08600 Drvr PMOD2BNCSIMPLE_V1_02 BNC8 5
+ANNOTATION: Tlsim Command used :  tlsim  -AutoRiseFallStopTime -dl "C:/Users/ece/AppData/Local/Temp/#Taaaabl05476.tmp" -dst "C:/Users/ece/AppData/Local/Temp/#Taaaabm05476.tmp" -log "C:/Users/ece/AppData/Local/Temp/#Taaaabn05476.tmp" -ocycle "C:/Users/ece/AppData/Local/Temp/#Taaaabo05476.tmp" "main.spc"\n
+INFO: Simulation (PMOD2BNCSIMPLE_V1_02 N08600) PMOD2BNCSIMPLE_V1_02 BNC8 5 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_02 N08600 Drvr PMOD2BNCSIMPLE_V1_02 BNC8 5 finished
+INFO: Simulation (PMOD2BNCSIMPLE_V1_02 N08600) PMOD2BNCSIMPLE_V1_02 BNC8 5 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_02 N08600 Drvr PMOD2BNCSIMPLE_V1_02 BNC8 5
+ANNOTATION: Tlsim Command used :  tlsim  -AutoRiseFallStopTime -dl "C:/Users/ece/AppData/Local/Temp/#Taaaabp05476.tmp" -dst "C:/Users/ece/AppData/Local/Temp/#Taaaabq05476.tmp" -log "C:/Users/ece/AppData/Local/Temp/#Taaaabr05476.tmp" -ocycle "C:/Users/ece/AppData/Local/Temp/#Taaaabs05476.tmp" "main.spc"\n
+INFO: Simulation (PMOD2BNCSIMPLE_V1_02 N08600) PMOD2BNCSIMPLE_V1_02 BNC8 5 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_02 N08600 Drvr PMOD2BNCSIMPLE_V1_02 BNC8 5 finished
+INFO: Simulation (PMOD2BNCSIMPLE_V1_02 N08600) PMOD2BNCSIMPLE_V1_02 BNC8 5 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_02 N08600 Drvr PMOD2BNCSIMPLE_V1_02 BNC8 5
+ANNOTATION: Tlsim Command used :  tlsim  -AutoRiseFallStopTime -dl "C:/Users/ece/AppData/Local/Temp/#Taaaabt05476.tmp" -dst "C:/Users/ece/AppData/Local/Temp/#Taaaabu05476.tmp" -log "C:/Users/ece/AppData/Local/Temp/#Taaaabv05476.tmp" -ocycle "C:/Users/ece/AppData/Local/Temp/#Taaaabw05476.tmp" "main.spc"\n
+INFO: Simulation (PMOD2BNCSIMPLE_V1_02 N08600) PMOD2BNCSIMPLE_V1_02 BNC8 5 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_02 N08600 Drvr PMOD2BNCSIMPLE_V1_02 BNC8 5 finished
+INFO: Simulation (PMOD2BNCSIMPLE_V1_02 N08600) PMOD2BNCSIMPLE_V1_02 BNC8 5 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_02 N08600 Drvr PMOD2BNCSIMPLE_V1_02 BNC8 5
+ANNOTATION: Tlsim Command used :  tlsim  -AutoRiseFallStopTime -dl "C:/Users/ece/AppData/Local/Temp/#Taaaabx05476.tmp" -dst "C:/Users/ece/AppData/Local/Temp/#Taaaaby05476.tmp" -log "C:/Users/ece/AppData/Local/Temp/#Taaaabz05476.tmp" -ocycle "C:/Users/ece/AppData/Local/Temp/#Taaaaca05476.tmp" "main.spc"\n
+INFO: Simulation (PMOD2BNCSIMPLE_V1_02 N08600) PMOD2BNCSIMPLE_V1_02 BNC8 5 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_02 N08600 Drvr PMOD2BNCSIMPLE_V1_02 BNC8 5 finished
+INFO: Simulation (PMOD2BNCSIMPLE_V1_02 N08600) PMOD2BNCSIMPLE_V1_02 BNC8 5 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_02 N08600 Drvr PMOD2BNCSIMPLE_V1_02 BNC8 5
+ANNOTATION: Tlsim Command used :  tlsim  -AutoRiseFallStopTime -dl "C:/Users/ece/AppData/Local/Temp/#Taaaacb05476.tmp" -dst "C:/Users/ece/AppData/Local/Temp/#Taaaacc05476.tmp" -log "C:/Users/ece/AppData/Local/Temp/#Taaaacd05476.tmp" -ocycle "C:/Users/ece/AppData/Local/Temp/#Taaaace05476.tmp" "main.spc"\n
+INFO: Simulation (PMOD2BNCSIMPLE_V1_02 N08600) PMOD2BNCSIMPLE_V1_02 BNC8 5 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_02 N08600 Drvr PMOD2BNCSIMPLE_V1_02 BNC8 5 finished

@@ -6,7 +6,7 @@
 +dielectric( 9.99998e-005 4.5 0.035 )
 +shield( 3.2004e-005 1 0.035 )
 .crosssection
-+rectangle ( 5.959e+007 0 -3.50012e-005 0.00014478 0 )
-+rectangle ( 5.959e+007 0.00147668 -3.50012e-005 0.00162146 0 )
++rectangle ( 5.959e+007 0 -3.50012e-005 9.144e-005 0 )
++rectangle ( 5.959e+007 0.00142334 -3.50012e-005 0.00151478 0 )
 +Length=length
 .ends MTLCKT
