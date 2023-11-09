@@ -1,2 +1,9 @@
 INFO: Loaded existing device file 'C:\Jeonghyun\GIT\PMOD2BNC\23_1\PMOD2BNC_SIMPLE_v1_0\devices.dml'
 INFO: Finished loading SigNoise device libraries
+INFO: Loaded existing interconnect file 'C:\Jeonghyun\GIT\PMOD2BNC\23_1\PMOD2BNC_SIMPLE_v1_0\interconn.iml'
+INFO: Loaded existing interconnect file 'C:\Cadence\OrCADX_23.1\share\pcb\signal\cds_interconn.iml'
+INFO: Finished loading SigNoise interconnect libraries
+INFO: 3 non-encrypted models saved to file C:\Jeonghyun\GIT\PMOD2BNC\23_1\PMOD2BNC_SIMPLE_v1_0\sigxp.dml
+INFO: 3 models saved in sigxp.dml
+INFO: 3 non-encrypted models saved to file C:\Jeonghyun\GIT\PMOD2BNC\23_1\PMOD2BNC_SIMPLE_v1_0\sigxp.dml
+INFO: 3 models saved in sigxp.dml

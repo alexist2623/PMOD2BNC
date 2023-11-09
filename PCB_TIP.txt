@@ -28,3 +28,6 @@ https://resources.ema-eda.com/home/how-to-perform-signal-integrity-analysis-on-n
 
 PCB Thieving( fillinf ground)
 https://ansan-survivor.tistory.com/882
+
+PCB thieving vs ground pouring
+https://electronics.stackexchange.com/questions/621131/ground-pours-or-thieving-for-filling-unused-space-on-pcb-signal-layers

@@ -1,0 +1,8 @@
+summary :
+			Design grid unit				=	INCH
+			Pin to pin spacing				=	0.05
+			Current grid value				=	0.025
+			Max Valid grid valueTo be set	=	0
+Details:
+Block Name                      Page Name                       Max Valid Grid                  
+
