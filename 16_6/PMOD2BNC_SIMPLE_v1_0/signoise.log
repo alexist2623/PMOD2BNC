@@ -1,31 +1,7 @@
 INFO: Loaded existing interconnect file 'C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_v1_0\interconn.iml'
 INFO: Loaded existing interconnect file 'C:\Cadence\SPB_16.6\share\pcb\signal\cds_interconn.iml'
 INFO: Finished loading SigNoise interconnect libraries
-INFO: Field Solver bem2d for STL_2S_1R_8
-INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaad16480.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_9
-INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaae16480.in" 0.00127
-INFO: Field Solver bem2d for STL_2S_1R_10
-INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaaf16480.in" 0.00127
-INFO: Field Solver bem2d for STL_2S_1R_11
-INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaag16480.in" 0.00127
-INFO: Field Solver bem2d for STL_2S_1R_12
-INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaah16480.in" 0.00127
-INFO: Field Solver bem2d for STL_2S_1R_13
-INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaai16480.in" 0.00127
-INFO: Field Solver bem2d for STL_2S_1R_14
-INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaaj16480.in" 0.00127
-INFO: Field Solver bem2d for STL_2S_1R_15
-INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaak16480.in" 0.00127
-INFO: Field Solver bem2d for STL_2S_1R_16
-INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaal16480.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_17
-INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaam16480.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_18
-INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaan16480.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_19
-INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaao16480.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_20
-INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaap16480.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_21
-INFO: Executing command: bem2d 0 "C:/Users/ece/AppData/Local/Temp/#Taaaaaq16480.in" 0.00127
+INFO: Loaded existing device file 'C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_v1_0\devices.dml'
+INFO: Loaded existing device file 'C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_v1_0\sigxp.dml'
+INFO: Finished loading SigNoise device libraries
+INFO: Clearing simulation data for "case0"

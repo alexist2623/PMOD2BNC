@@ -1,0 +1,52 @@
+\t (00:00:00) sigxp 16.6 P002 (v16-6-112D) Windows 32
+\t (00:00:00)     Journal start - Thu Nov 09 15:27:17 2023
+\t (00:00:00)         Host=DESKTOP-KCLED0O User=ece Pid=4420 CPUs=6
+\t (00:00:00) 
+\t (00:00:00) Starting new design...
+\i (00:00:00) trapsize 1865
+\i (00:00:00) trapsize 1771
+\i (00:00:00) trapsize 1882
+\i (00:00:00) trapsize 2063
+\i (00:00:01) trapsize 1406
+\i (00:00:01) trapsize 1406
+\i (00:00:01) trapsize 7363
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 7363
+\i (00:00:03) trapsize 7363
+\i (00:00:03) trapsize 7363
+   (00:00:03) Loading signal.cxt 
+   (00:00:03) Loading sigxp.cxt 
+   (00:00:03) Loading sxutil.cxt 
+   (00:00:03) Loading axlcore.cxt 
+   (00:00:03) Loading fputil.cxt 
+   (00:00:03) Beginning Autoplacement
+   (00:00:03) Finished Autoplacement
+\i (00:00:04) trapsize 37
+   (00:00:04) Loading skillExt.cxt 
+\i (00:00:04) sigxp background 
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow sigxp
+\i (00:00:05) zoom in 5504.11 4238.45
+\i (00:00:05) trapsize 18
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow sigxp
+\i (00:00:06) zoom in 5504.11 4238.45
+\i (00:00:06) trapsize 9
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow sigxp
+\i (00:00:06) zoom out 5505.48 4237.41
+\i (00:00:06) trapsize 18
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow sigxp
+\i (00:00:06) zoom out 5505.48 4237.40
+\i (00:00:06) trapsize 37
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow sigxp
+\i (00:00:07) zoom out 5505.92 4237.41
+\i (00:00:07) trapsize 74
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow sigxp
+\i (00:00:08) zoom in 5513.43 4234.75
+\i (00:00:08) trapsize 37
+\i (00:00:10) exit 
+\t (00:00:10)     Journal end - Thu Nov 09 15:27:28 2023

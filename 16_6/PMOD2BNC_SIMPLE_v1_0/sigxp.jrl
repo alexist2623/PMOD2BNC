@@ -1,121 +1,36 @@
 \t (00:00:00) sigxp 16.6 P002 (v16-6-112D) Windows 32
-\t (00:00:00)     Journal start - Sun Nov 05 22:01:51 2023
-\t (00:00:00)         Host=DESKTOP-KCLED0O User=ece Pid=16252 CPUs=6
+\t (00:00:00)     Journal start - Thu Nov 09 15:27:29 2023
+\t (00:00:00)         Host=DESKTOP-KCLED0O User=ece Pid=16660 CPUs=6
 \t (00:00:00) 
 \t (00:00:00) Starting new design...
-\i (00:00:01) trapsize 1022
-\i (00:00:01) trapsize 993
-\i (00:00:01) trapsize 1027
-\i (00:00:01) trapsize 1079
-\i (00:00:01) trapsize 1512
-\i (00:00:01) trapsize 7562
-\t (00:00:01) Starting new design...
-\i (00:00:01) trapsize 7562
-\i (00:00:01) trapsize 7562
-\i (00:00:01) trapsize 7562
-   (00:00:01) Loading signal.cxt 
-   (00:00:01) Loading sigxp.cxt 
-   (00:00:01) Loading sxutil.cxt 
-   (00:00:01) Loading axlcore.cxt 
-   (00:00:01) Loading fputil.cxt 
-   (00:00:01) Beginning Autoplacement
-   (00:00:01) Finished Autoplacement
-\i (00:00:02) trapsize 27
-   (00:00:02) Loading skillExt.cxt 
-\i (00:00:02) sigxp background 
-\i (00:00:04) trapsize 18
-\i (00:00:10) pick grid 5536.88 4235.51
-\t (00:00:10) last pick:  5537.00  4235.50
-\i (00:00:10) pick grid dbl 5536.88 4235.51
-\t (00:00:10) last pick:  5537.00  4235.50
-\i (00:00:11) prepopup 5536.88 4235.51
-\i (00:00:27) pop dyn_option_select '@:@Change Buffer Model' 
-\i (00:00:36) setwindow form.sxbuffparam
-\i (00:00:36) FORM sxbuffparam availmodels 'CDSDefaultInput_5v               IbisInput' 
-\i (00:00:36) FORMDBLCLK sxbuffparam availmodels 'CDSDefaultInput_5v               IbisInput' 
-\i (00:00:39) FORM sxbuffparam selmodels CDSDefaultInput_5v 
-\i (00:00:40) FORM sxbuffparam deselectmodel  
-\i (00:00:41) fillin confirm
-\i (00:00:42) FORM sxbuffparam availmodels 'CDSDefaultInput_3p3v             IbisInput' 
-\i (00:00:42) FORMDBLCLK sxbuffparam availmodels 'CDSDefaultInput_3p3v             IbisInput' 
-\i (00:00:44) FORM sxbuffparam done  
-\i (00:00:46) setwindow sigxp
-\i (00:00:46) pick grid 5496.73 4234.27
-\t (00:00:46) last pick:  5496.50  4234.50
-\i (00:00:46) pick grid dbl 5496.73 4234.27
-\t (00:00:46) last pick:  5496.50  4234.50
-\i (00:00:47) prepopup 5497.30 4234.91
-\i (00:00:49) pop dyn_option_select '@:@Change Buffer Model' 
-\i (00:00:51) setwindow form.sxbuffparam
-\i (00:00:51) FORM sxbuffparam availmodels 'CDSDefaultOutput_3p3v            IbisOutput' 
-\i (00:00:52) FORM sxbuffparam selectmodel  
-\i (00:00:53) FORM sxbuffparam done  
-\i (00:00:57) setwindow sigxp
-\i (00:00:57) prepopup 5496.84 4235.16
-\i (00:01:05) pop dyn_option_select @:@Stimulus@:@Custom... 
-\i (00:01:08) setwindow form.sxstimulus
-\i (00:01:08) FORM sxstimulus custom YES 
-\i (00:01:15) FORM sxstimulus periodicpattern 10010110101010100011101101101011 
-\i (00:01:18) FORM sxstimulus periodicfreq '100 MHz' 
-\i (00:01:20) FORM sxstimulus apply  
-\i (00:01:22) FORM sxstimulus ok  
-\i (00:01:23) setwindow sigxp
-\i (00:01:23) signal simulate 
-\i (00:01:26) sigxp background 
-\i (00:02:16) pick grid 5521.83 4236.33
-\t (00:02:16) last pick:  5522.00  4236.50
-\i (00:02:18) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.PMOD2BNCSIMPLE_V1_02.TL3.impedance VALUE
-\i (00:02:18) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.PMOD2BNCSIMPLE_V1_02.TL3.impedance VALUE
-\i (00:02:20) spreadsheet Parameters STORE CIRCUIT.PMOD2BNCSIMPLE_V1_02.TL3.impedance VALUE "61 ohm"
-\i (00:02:21) pick grid 5527.18 4229.39
-\t (00:02:21) last pick:  5527.00  4229.50
-\i (00:02:22) pick grid 5526.61 4229.25
-\t (00:02:22) last pick:  5526.50  4229.50
-\i (00:02:22) pick grid dbl 5526.61 4229.25
-\t (00:02:22) last pick:  5526.50  4229.50
-\i (00:02:24) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.PMOD2BNCSIMPLE_V1_02.TL4.impedance VALUE
-\i (00:02:24) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.PMOD2BNCSIMPLE_V1_02.TL4.impedance VALUE
-\i (00:02:24) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.PMOD2BNCSIMPLE_V1_02.TL4.impedance VALUE
-\i (00:02:29) spreadsheet Parameters STORE CIRCUIT.PMOD2BNCSIMPLE_V1_02.TL4.impedance VALUE "48 ohm"
-\i (00:02:30) pick grid 5533.97 4241.71
-\t (00:02:30) last pick:  5534.00  4241.50
-\i (00:02:33) signal simulate 
-\i (00:02:34) sigxp background 
-\i (00:03:06) pick grid 5521.09 4236.19
-\t (00:03:06) last pick:  5521.00  4236.00
-\i (00:03:07) pick grid dbl 5521.09 4236.19
-\t (00:03:07) last pick:  5521.00  4236.00
-\i (00:03:08) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.PMOD2BNCSIMPLE_V1_02.TL3.impedance VALUE
-\i (00:03:08) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.PMOD2BNCSIMPLE_V1_02.TL3.impedance VALUE
-\i (00:03:11) spreadsheet Parameters STORE CIRCUIT.PMOD2BNCSIMPLE_V1_02.TL3.impedance VALUE "51 ohm"
-\i (00:03:12) signal simulate 
-\i (00:03:13) sigxp background 
-\i (00:04:02) pick grid 5520.70 4236.29
-\t (00:04:02) last pick:  5520.50  4236.50
-\i (00:04:02) pick grid dbl 5520.70 4236.29
-\t (00:04:02) last pick:  5520.50  4236.50
-\i (00:04:04) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.PMOD2BNCSIMPLE_V1_02.TL3.impedance VALUE
-\i (00:04:04) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.PMOD2BNCSIMPLE_V1_02.TL3.impedance VALUE
-\i (00:04:11) spreadsheet Parameters STORE CIRCUIT.PMOD2BNCSIMPLE_V1_02.TL3.impedance VALUE "50ohm"
-\i (00:04:11) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.PMOD2BNCSIMPLE_V1_02.TL4.impedance VALUE
-\i (00:04:13) spreadsheet Parameters STORE CIRCUIT.PMOD2BNCSIMPLE_V1_02.TL4.impedance VALUE "50 ohm"
-\i (00:04:23) signal simulate 
-\i (00:04:23) sigxp background 
-\i (00:04:51) pick grid 5512.77 4226.31
-\t (00:04:51) last pick:  5513.00  4226.50
-\i (00:04:51) pick grid 5512.03 4226.56
-\t (00:04:51) last pick:  5512.00  4226.50
-\i (00:04:51) pick grid dbl 5512.03 4226.56
-\t (00:04:51) last pick:  5512.00  4226.50
-\i (00:04:54) spreadsheet Parameters LBUTTONCLICKED CIRCUIT.PMOD2BNCSIMPLE_V1_02.R8.resistance VALUE
-\i (00:04:56) spreadsheet Parameters STORE CIRCUIT.PMOD2BNCSIMPLE_V1_02.R8.resistance VALUE "10000 Ohm"
-\i (00:04:58) signal simulate 
-\i (00:04:59) sigxp background 
-\i (00:05:34) pick grid 5526.29 4239.76
-\t (00:05:34) last pick:  5526.50  4240.00
-\i (00:05:41) pick grid 5532.45 4249.14
-\t (00:05:41) last pick:  5532.50  4249.00
-\i (00:05:42) exit 
-\e (00:05:42) Would you like to save the changes made in  N08600.top
-\i (00:05:45) fillin no 
-\t (00:05:46)     Journal end - Sun Nov 05 22:07:37 2023
+\i (00:00:00) trapsize 1865
+\i (00:00:00) trapsize 1771
+\i (00:00:00) trapsize 1882
+\i (00:00:00) trapsize 2063
+\i (00:00:01) trapsize 1406
+\i (00:00:01) trapsize 1406
+\i (00:00:01) trapsize 7363
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 7363
+\i (00:00:03) trapsize 7363
+\i (00:00:03) trapsize 7363
+   (00:00:03) Loading signal.cxt 
+   (00:00:03) Loading sigxp.cxt 
+   (00:00:03) Loading sxutil.cxt 
+   (00:00:03) Loading axlcore.cxt 
+   (00:00:03) Loading fputil.cxt 
+   (00:00:03) Beginning Autoplacement
+   (00:00:03) Finished Autoplacement
+\i (00:00:04) trapsize 37
+   (00:00:04) Loading skillExt.cxt 
+\i (00:00:04) sigxp background 
+\i (00:00:06) setwindow form.mini
+\i (00:00:06) FORM mini class BOUNDARY 
+\i (00:00:06) FORM mini class CAVITY 
+\i (00:00:06) setwindow sigxp
+\i (00:00:06) pick grid 5525.63 4244.83
+\t (00:00:06) last pick:  5525.50  4245.00
+\i (00:00:07) roam y 96 
+\i (00:00:07) roam y 96
+\i (00:00:10) exit 
+\t (00:00:10)     Journal end - Thu Nov 09 15:27:39 2023

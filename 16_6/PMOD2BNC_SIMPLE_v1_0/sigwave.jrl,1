@@ -1,0 +1,15 @@
+\t (00:00:00) sigwave 16.6 P001 (v16-6-112A) Windows 32
+\t (00:00:00)     Journal start - Thu Nov 09 14:54:30 2023
+\t (00:00:00)         Host=DESKTOP-KCLED0O User=ece Pid=16876 CPUs=6
+\t (00:00:00) 
+   (00:00:00) Loading sigwave.cxt 
+\i (00:00:01) setwindow main
+\i (00:00:01) deselect all
+\i (00:00:01) zoom fit
+\i (00:00:03) graph mode eye
+\i (00:00:08) select root
+\i (00:00:18) eye diagram params -clockfreq " 0 s" -clockoffset " 0 s"
+\i (00:00:18) deselect all
+\i (00:00:18) zoom fit
+\i (00:00:29) exit
+\t (00:00:29)     Journal end - Thu Nov 09 14:54:59 2023

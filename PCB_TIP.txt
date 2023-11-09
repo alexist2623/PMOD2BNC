@@ -31,3 +31,9 @@ https://ansan-survivor.tistory.com/882
 
 PCB thieving vs ground pouring
 https://electronics.stackexchange.com/questions/621131/ground-pours-or-thieving-for-filling-unused-space-on-pcb-signal-layers
+
+Change Text size
+https://m.blog.naver.com/kingreddrake/221160535854
+
+Change trace width -> DRC(Physical Constraint) should be fixed
+
