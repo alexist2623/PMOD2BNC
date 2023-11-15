@@ -1,19 +1,12 @@
-\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:02)     Journal start - Wed Nov 15 21:26:31 2023
-\t (00:00:02)         Host=DESKTOP-KCLED0O User=ece Pid=12888 CPUs=6
-\t (00:00:02) 
-\t (00:00:05) Starting new design...
-\i (00:00:05) trapsize 653
-\i (00:00:05) trapsize 641
-\i (00:00:05) trapsize 655
-\i (00:00:06) trapsize 568
-\i (00:00:06) trapsize 1201
-\i (00:00:06) generaledit 
-\i (00:00:08) open 
-\i (00:00:16) fillin "C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_v1_0\Library\LIB_538-71764-0112_PIN\717640112.dra"
-\i (00:00:16) cd "C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_v1_0\Library\LIB_538-71764-0112_PIN"
-\t (00:00:16) Opening existing design...
-\i (00:00:17) trapsize 30
-\i (00:00:17) trapsize 36
-\i (00:00:17) trapsize 36
-\t (00:00:17)     Journal end - Wed Nov 15 21:26:47 2023
+\t (00:00:34) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:34)     Journal start - Wed Nov 15 22:00:36 2023
+\t (00:00:34)         Host=DESKTOP-KCLED0O User=ece Pid=4304 CPUs=6
+\t (00:00:34) 
+\d (00:00:34) Database opened: C:/GIT/PMOD2BNC/16_6/PMOD2BNC_SIMPLE_v1_0/Library/SMA_PERP_SMAFST_PCBN/SMAFST_PCBN.dra
+\i (00:00:34) generaledit 
+\i (00:00:35) save 
+\i (00:00:35) fillin yes 
+\t (00:00:36) Symbol 'smafst_pcbn.psm' created.
+\i (00:00:36) generaledit 
+\i (00:00:37) exit 
+\t (00:00:37)     Journal end - Wed Nov 15 22:00:39 2023
