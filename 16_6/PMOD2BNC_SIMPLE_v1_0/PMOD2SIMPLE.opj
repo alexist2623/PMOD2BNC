@@ -9,6 +9,10 @@
       (File ".\library\bnc_mp-13-22-1\mp-13-22-1.olb"
         (Type "Schematic Library"))
       (File ".\library\res_0805\res_0805.olb"
+        (Type "Schematic Library"))
+      (File ".\library\sma_side_sma-r-ra\sma-r-ra.olb"
+        (Type "Schematic Library"))
+      (File ".\library\sma_perp_smafst_pcbn\smafst_pcbn.olb"
         (Type "Schematic Library")))
     (NoModify)
     (File ".\pmod2simple.dsn"
@@ -99,6 +103,16 @@
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (SMAFST_PCBN
+      (FullPartName "SMAFST_PCBN.Normal")
+      (LibraryName
+         "C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_V1_0\LIBRARY\SMA_PERP_SMAFST_PCBN\SMAFST_PCBN.OLB")
+      (DeviceIndex "0"))
+    (SMA-R-RA
+      (FullPartName "SMA-R-RA.Normal")
+      (LibraryName
+         "C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_V1_0\LIBRARY\SMA_SIDE_SMA-R-RA\SMA-R-RA.OLB")
+      (DeviceIndex "0"))
     (GND
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -122,26 +136,36 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\pmod2simple.dsn")
       (Path "Design Resources" ".\pmod2simple.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
       (Path "Outputs")
       (Select "Design Resources" ".\pmod2simple.dsn" "SCHEMATIC1" "JA"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 0 0 0 200 0 421"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 418 0 866"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 655 24 760")
+        (Placement "44 2 3 -1 -1 -8 -31 78 1454 78 534")
+        (Scroll "0 0")
+        (Zoom "174")
+        (Occurrence "/"))
+      (Path "C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_V1_0\PMOD2SIMPLE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "JA"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 978 130 590")
         (Scroll "0 0")
         (Zoom "100")
         (Occurrence "/"))
-      (Path
-         "C:\JEONGHYUN\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_V1_0\PMOD2SIMPLE.DSN")
+      (Path "C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_V1_0\PMOD2SIMPLE.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "JA")))
-  (MPSSessionName "alexi")
+      (Page "JB")))
+  (MPSSessionName "ece")
   (ISPCBBASICLICENSE "false")
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")

@@ -1,30 +1,8 @@
-\t (00:39:57) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:39:57)     Journal start - Sat Nov 04 19:22:27 2023
-\t (00:39:57)         Host=DESKTOP-KCLED0O User=ece Pid=844 CPUs=6
-\t (00:39:57) 
-\d (00:39:57) Database opened: C:/GIT/PMOD2BNC/16_6/PMOD2BNC_SIMPLE_v1_0/Library/LIB_538-71764-0112_PIN/717640112.dra
-\i (00:39:58) generaledit 
-\i (00:40:41) drag_start grid -0.7023 -0.1280
-\i (00:40:42) drag_stop -0.0931 -0.3293
-\i (00:40:45) move 
-\i (00:40:46) pick 0 0 
-\t (00:40:46) last pick:  0.0000  0.0000
-\t (00:40:46) Pick new location for the element(s).
-\i (00:40:50) pick 0 0.035 
-\t (00:40:50) last pick:  0.0000  0.0350
-\i (00:40:50) generaledit 
-\i (00:40:53) pick grid -0.9349 -0.2469
-\t (00:40:53) last pick:  -0.9350  -0.2470
-\i (00:40:54) save 
-\i (00:40:55) fillin yes 
-\t (00:40:56) Symbol '717640112.psm' created.
-\i (00:40:56) generaledit 
-\i (00:40:59) open 
-\i (00:41:08) fillin "C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_v1_0\PMOD2BNCSIMPLE.brd"
-\i (00:41:08) cd "C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_v1_0"
-\t (00:41:08) Opening existing design...
-\i (00:41:08) trapsize 184
-\i (00:41:08) trapsize 178
-\i (00:41:08) trapsize 184
-\i (00:41:09) trapsize 184
-\t (00:41:09)     Journal end - Sat Nov 04 19:23:39 2023
+\t (00:00:17) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:17)     Journal start - Wed Nov 15 21:26:47 2023
+\t (00:00:17)         Host=DESKTOP-KCLED0O User=ece Pid=12888 CPUs=6
+\t (00:00:17) 
+\d (00:00:17) Database opened: C:/GIT/PMOD2BNC/16_6/PMOD2BNC_SIMPLE_v1_0/Library/LIB_538-71764-0112_PIN/717640112.dra
+\i (00:00:18) generaledit 
+\i (00:00:23) exit 
+\t (00:00:23)     Journal end - Wed Nov 15 21:26:52 2023
