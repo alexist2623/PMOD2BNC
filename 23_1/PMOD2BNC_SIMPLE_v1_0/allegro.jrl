@@ -1,20 +1,77 @@
-\t (00:00:05) allegro 22.1 S003 Windows SPB 64-bit Edition
-\t (00:00:05)     Journal start - Thu Nov  9 13:42:17 2023
-\t (00:00:05)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=27424 CPUs=20
-\t (00:00:05) CmdLine= C:\Cadence\SPB_22.1\tools\bin\allegro.exe -product OrCAD_Signal_Explorer
-\t (00:00:05) 
-   (00:00:05) Loading axlcore.cxt 
-\e (00:00:07) Retrieval of 'OrCAD_Signal_Explorer' license failed: 'ERROR (LMF-13005): License call failed for feature OrCAD_Signal_Explorer. The bundle name is defined as SPB. The FLEXnet error message is as follows,
-    FLEXnet ERROR(-5, 234, 0): No such feature exists.
-
-'. Report the licenses in use log via the menu item File->Viewlog: license_use.log
-\i (00:00:20) fillin confirm
-\t (00:00:20) Opening existing design...
-\e (00:00:20) ERROR(SPMHDB-180): Design revision 18.x is newer than current program version.
-\e (00:00:20) ERROR(SPMHDB-180): Design revision 18.x is newer than current program version.
-\i (00:00:21) fillin confirm
-\t (00:00:21) Starting new design...
-\i (00:00:21) trapsize 116667
-\i (00:00:21) generaledit 
-\i (00:00:22) exit 
-\t (00:00:33)     Journal end - Thu Nov  9 13:42:45 2023
+\t (00:00:08) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:08)     Journal start - Fri Nov 10 14:24:09 2023
+\t (00:00:08)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=26252 CPUs=20
+\t (00:00:08) CmdLine= C:\Cadence\OrCADX_23.1\tools\bin\allegro.exe
+\t (00:00:08) 
+   (00:00:08) Loading axlcore.cxt 
+\t (00:00:09) Opening existing design...
+\i (00:00:09) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged PMOD2BNC
+\d (00:00:09) Design opened: C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/PMOD2BNC.brd
+\i (00:00:09) trapsize 44
+\i (00:00:09) trapsize 46
+\i (00:00:10) trapsize 44
+\i (00:00:10) trapsize 37
+\i (00:00:10) trapsize 37
+\i (00:00:10) generaledit 
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 0.3098 1.0674
+\i (00:00:12) trapsize 75
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 0.3097 1.0690
+\i (00:00:12) trapsize 150
+\i (00:00:15) open 
+\i (00:00:17) fillin "PMOD2BNCSIMPLE_v1_03.brd"
+\t (00:00:17) Opening existing design...
+\t (00:00:20) Grids are drawn 3.2000, 3.2000 apart for enhanced viewing.
+\t (00:00:20) Grids are drawn 0.0500, 0.0500 apart for enhanced viewing.
+\i (00:00:20) trapsize 507
+\d (00:00:20) Design opened: C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/PMOD2BNCSIMPLE_v1_03.brd
+\i (00:00:20) generaledit 
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in 1.0015 -0.1638
+\i (00:00:21) trapsize 254
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in 1.0065 -0.1638
+\i (00:00:21) trapsize 127
+\i (00:00:23) roam x 96 
+\i (00:00:23) roam x 96
+\i (00:00:23) roam y -96 
+\i (00:00:23) roam y -96
+\i (00:00:23) roam y -96 
+\i (00:00:23) roam y -96
+\i (00:00:24) roam y -96 
+\i (00:00:24) roam y -96
+\i (00:00:24) roam y -96 
+\i (00:00:24) roam y -96
+\i (00:00:24) roam x 96 
+\i (00:00:24) roam x 96
+\i (00:00:25) roam x 96 
+\i (00:00:25) roam x 96
+\i (00:00:25) roam y -96 
+\i (00:00:25) roam y -96
+\i (00:00:25) roam y -96 
+\i (00:00:25) roam y -96
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out 1.7451 1.2787
+\i (00:00:25) trapsize 254
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 1.6741 1.2888
+\i (00:00:27) trapsize 507
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in 1.6742 1.2888
+\i (00:00:27) trapsize 254
+\i (00:00:28) roam y 96 
+\i (00:00:28) roam y 96
+\i (00:00:31) roam y -96 
+\i (00:00:31) roam y -96
+\i (00:00:32) roam y 96 
+\i (00:00:32) roam y 96
+\i (00:03:47) exit 
+\t (00:03:47)     Journal end - Fri Nov 10 14:27:48 2023

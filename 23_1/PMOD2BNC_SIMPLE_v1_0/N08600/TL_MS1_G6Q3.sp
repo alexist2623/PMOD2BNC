@@ -3,7 +3,7 @@
 .subckt TL_MS1 1 2 ngnd length=0.00643382
 
 
-WTL1 1 0 2 0 n=1 RLGCfile=G6Q3.rlc l='length'
+WTL1 1 ngnd 2 ngnd n=1 RLGCfile=G6Q3.rlc l='length'
 
 
 
