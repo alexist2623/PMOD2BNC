@@ -37,3 +37,5 @@ https://m.blog.naver.com/kingreddrake/221160535854
 
 Change trace width -> DRC(Physical Constraint) should be fixed
 
+Crosstalk Simulation
+https://ansan-survivor.tistory.com/473
