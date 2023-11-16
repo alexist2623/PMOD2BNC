@@ -39,3 +39,6 @@ Change trace width -> DRC(Physical Constraint) should be fixed
 
 Crosstalk Simulation
 https://ansan-survivor.tistory.com/473
+
+Stitch Via 배치
+https://www.youtube.com/watch?v=mvpRV-i5Xcs
