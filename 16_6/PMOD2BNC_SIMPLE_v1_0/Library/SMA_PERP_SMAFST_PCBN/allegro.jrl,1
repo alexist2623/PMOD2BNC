@@ -1,19 +1,104 @@
-\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:02)     Journal start - Wed Nov 15 21:26:31 2023
-\t (00:00:02)         Host=DESKTOP-KCLED0O User=ece Pid=12888 CPUs=6
-\t (00:00:02) 
-\t (00:00:05) Starting new design...
-\i (00:00:05) trapsize 653
-\i (00:00:05) trapsize 641
-\i (00:00:05) trapsize 655
-\i (00:00:06) trapsize 568
-\i (00:00:06) trapsize 1201
-\i (00:00:06) generaledit 
-\i (00:00:08) open 
-\i (00:00:16) fillin "C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_v1_0\Library\LIB_538-71764-0112_PIN\717640112.dra"
-\i (00:00:16) cd "C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_v1_0\Library\LIB_538-71764-0112_PIN"
-\t (00:00:16) Opening existing design...
-\i (00:00:17) trapsize 30
-\i (00:00:17) trapsize 36
-\i (00:00:17) trapsize 36
-\t (00:00:17)     Journal end - Wed Nov 15 21:26:47 2023
+\t (00:19:39) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:19:39)     Journal start - Thu Nov 16 15:39:30 2023
+\t (00:19:39)         Host=DESKTOP-KCLED0O User=ece Pid=8852 CPUs=6
+\t (00:19:39) 
+\d (00:19:39) Database opened: C:/GIT/PMOD2BNC/16_6/PMOD2BNC_SIMPLE_v1_0/Library/SMA_PERP_SMAFST_PCBN/SMAFST_PCBN.dra
+\i (00:19:40) generaledit 
+\i (00:19:42) pick grid 4.75 0.03
+\t (00:19:42) last pick:  5.08  0.00
+\i (00:19:45) prepopup 4.77 -0.12
+\i (00:19:48) pop dyn_option_select @:@Delete 
+\i (00:19:48) delete 
+\i (00:19:48) generaledit 
+\i (00:19:50) pick grid 4.01 4.02
+\t (00:19:50) last pick:  5.08  5.08
+\i (00:19:52) pick grid 4.44 4.17
+\t (00:19:52) last pick:  5.08  5.08
+\i (00:19:54) prepopup 4.24 4.68
+\i (00:19:55) pop dyn_option_select @:@Delete 
+\i (00:19:55) delete 
+\i (00:19:55) generaledit 
+\i (00:19:57) prepopup 4.43 -4.76
+\i (00:19:58) pop dyn_option_select @:@Delete 
+\i (00:19:58) delete 
+\i (00:19:58) generaledit 
+\i (00:20:00) prepopup -4.78 0.27
+\i (00:20:01) pop dyn_option_select @:@Delete 
+\i (00:20:01) delete 
+\i (00:20:01) generaledit 
+\i (00:20:08) pick grid 6.53 -3.76
+\t (00:20:08) last pick:  7.62  -2.54
+\i (00:20:13) pick 3 3 
+\t (00:20:13) last pick:  3.00  3.00
+\i (00:20:15) pick grid 6.34 -3.91
+\t (00:20:15) last pick:  5.08  -5.08
+\i (00:20:18) pick 4 4 
+\t (00:20:18) last pick:  4.00  4.00
+\i (00:20:20) pick grid 6.60 -3.78
+\t (00:20:20) last pick:  7.62  -2.54
+\i (00:20:23) pick 4.2 4.2 
+\t (00:20:23) last pick:  4.20  4.20
+\i (00:20:26) pick 4.1 4.1 
+\t (00:20:26) last pick:  4.10  4.10
+\i (00:20:30) pick 4.05 4.05 
+\t (00:20:30) last pick:  4.05  4.05
+\i (00:20:32) pick grid 4.89 4.28
+\t (00:20:32) last pick:  5.08  5.08
+\i (00:20:37) pick grid 4.01 3.99
+\t (00:20:37) last pick:  5.08  5.08
+\i (00:20:42) prepopup 4.01 4.01
+\i (00:20:51) pop dyn_option_select '@:@Show element' 
+\i (00:20:51) show element 
+\i (00:20:52) generaledit 
+\i (00:20:56) setwindow text
+\i (00:20:56) close 
+\i (00:20:58) setwindow pcb
+\i (00:20:58) pick grid 9.26 -0.89
+\t (00:20:58) last pick:  10.16  0.00
+\i (00:21:03) add line 
+\i (00:21:12) setwindow form.mini
+\i (00:21:12) FORM mini subclass SILKSCREEN_TOP 
+\i (00:21:18) FORM mini line_width 0.02 
+\i (00:21:23) setwindow pcb
+\i (00:21:23) pick 4 4 
+\t (00:21:23) last pick:  4.00  4.00
+\i (00:21:28) pick 4 -4 
+\t (00:21:28) last pick:  4.00  -4.00
+\i (00:21:31) pick -4 -4 
+\t (00:21:31) last pick:  -4.00  -4.00
+\i (00:21:33) pick -4 4 
+\t (00:21:33) last pick:  -4.00  4.00
+\i (00:21:35) pick 4 4 
+\t (00:21:35) last pick:  4.00  4.00
+\i (00:21:36) done 
+\i (00:21:37) generaledit 
+\i (00:21:37) roam x -96 
+\i (00:21:37) roam x -96
+\i (00:21:38) roam x -96 
+\i (00:21:38) roam x -96
+\i (00:21:38) zoom in 
+\i (00:21:38) setwindow pcb
+\i (00:21:38) zoom in 2.88 1.05
+\i (00:21:38) trapsize 3
+\i (00:21:39) zoom in 
+\i (00:21:39) setwindow pcb
+\i (00:21:39) zoom in 2.88 1.06
+\i (00:21:39) trapsize 2
+\i (00:21:40) zoom out 
+\i (00:21:40) setwindow pcb
+\i (00:21:40) zoom out 2.88 1.06
+\i (00:21:40) trapsize 3
+\i (00:21:40) zoom out 
+\i (00:21:40) setwindow pcb
+\i (00:21:40) zoom out 2.88 1.07
+\i (00:21:40) trapsize 6
+\i (00:21:44) save 
+\i (00:21:45) fillin yes 
+\t (00:21:45) Symbol 'smafst_pcbn.psm' created.
+\i (00:21:45) generaledit 
+\i (00:21:48) open 
+\i (00:21:53) fillin "C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_v1_0\Library\LIB_538-71764-0112_PIN\717640112.dra"
+\i (00:21:53) cd "C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_v1_0\Library\LIB_538-71764-0112_PIN"
+\t (00:21:53) Opening existing design...
+\i (00:21:54) trapsize 36
+\t (00:21:54)     Journal end - Thu Nov 16 15:41:45 2023

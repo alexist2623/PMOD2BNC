@@ -1,12 +1,46 @@
-\t (00:00:34) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:34)     Journal start - Wed Nov 15 22:00:36 2023
-\t (00:00:34)         Host=DESKTOP-KCLED0O User=ece Pid=4304 CPUs=6
-\t (00:00:34) 
-\d (00:00:34) Database opened: C:/GIT/PMOD2BNC/16_6/PMOD2BNC_SIMPLE_v1_0/Library/SMA_PERP_SMAFST_PCBN/SMAFST_PCBN.dra
-\i (00:00:34) generaledit 
-\i (00:00:35) save 
-\i (00:00:35) fillin yes 
-\t (00:00:36) Symbol 'smafst_pcbn.psm' created.
-\i (00:00:36) generaledit 
-\i (00:00:37) exit 
-\t (00:00:37)     Journal end - Wed Nov 15 22:00:39 2023
+\t (00:25:49) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:25:49)     Journal start - Thu Nov 16 15:45:40 2023
+\t (00:25:49)         Host=DESKTOP-KCLED0O User=ece Pid=8852 CPUs=6
+\t (00:25:49) 
+\d (00:25:49) Database opened: C:/GIT/PMOD2BNC/16_6/PMOD2BNC_SIMPLE_v1_0/Library/SMA_PERP_SMAFST_PCBN/SMAFST_PCBN.dra
+\i (00:25:49) generaledit 
+\i (00:25:51) pick grid 4.04 1.04
+\t (00:25:51) last pick:  5.08  0.00
+\i (00:25:52) pick grid ext 0.68 3.98
+\t (00:25:52) last pick:  0.00  5.08
+\i (00:25:55) pick grid 4.43 -0.15
+\t (00:25:55) last pick:  5.08  0.00
+\i (00:25:57) pick grid -4.05 -2.97
+\t (00:25:57) last pick:  -5.08  -2.54
+\i (00:25:58) pick grid ext -2.83 -4.05
+\t (00:25:58) last pick:  -2.54  -5.08
+\i (00:25:59) pick grid ext 0.80 4.02
+\t (00:25:59) last pick:  0.00  5.08
+\i (00:26:01) pick grid ext 4.01 3.01
+\t (00:26:01) last pick:  5.08  2.54
+\i (00:26:01) prepopup 4.01 3.01
+\i (00:26:03) pop dyn_option_select '@:@Change Width...' 
+\i (00:26:03) change width 
+\i (00:26:09) setwindow form.chgwidth
+\i (00:26:09) FORM chgwidth chgwidth 0.06 
+\i (00:26:09) FORM chgwidth done  
+\t (00:26:09) No DRC errors detected.
+\t (00:26:09) Changed 4 items out of 4 items found.
+\i (00:26:09) setwindow pcb
+\i (00:26:09) generaledit 
+\i (00:26:10) pick grid 9.46 -1.09
+\t (00:26:10) last pick:  10.16  0.00
+\i (00:26:11) save 
+\i (00:26:11) fillin yes 
+\t (00:26:12) Symbol 'smafst_pcbn.psm' created.
+\i (00:26:12) generaledit 
+\i (00:26:17) open 
+\i (00:26:27) fillin "C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_v1_0\PMOD2BNCSIMPLE_v1_04.brd"
+\i (00:26:27) cd "C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_v1_0"
+\t (00:26:27) Opening existing design...
+\i (00:26:27) trapsize 159
+\i (00:26:27) trapsize 155
+\i (00:26:27) trapsize 159
+\i (00:26:28) trapsize 135
+\i (00:26:28) trapsize 135
+\t (00:26:28)     Journal end - Thu Nov 16 15:46:19 2023

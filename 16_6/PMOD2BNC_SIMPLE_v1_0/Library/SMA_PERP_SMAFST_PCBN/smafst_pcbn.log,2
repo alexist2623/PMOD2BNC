@@ -2,16 +2,16 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : 717640112.dra                                 )
+(    Drawing          : SMAFST_PCBN.dra                               )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Sat Nov 04 19:23:25 2023                      )
+(    Date/Time        : Thu Nov 16 15:41:36 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = C:/GIT/PMOD2BNC/16_6/PMOD2BNC_SIMPLE_v1_0/Library/LIB_538-71764-0112_PIN
-    Name      = 717640112.psm
+    Directory = C:/GIT/PMOD2BNC/16_6/PMOD2BNC_SIMPLE_v1_0/Library/SMA_PERP_SMAFST_PCBN
+    Name      = smafst_pcbn.psm
     User      = ece
     Machine   = DESKTOP-KCLED0O
 

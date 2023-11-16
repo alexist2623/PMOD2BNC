@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Nov-04-2023 at 16:39:53}
+{ Using PSTWRITER 16.6.0 d001Nov-04-2023 at 16:50:11}
 primitive 'MP-13-22-1_MP-13-22-1_MP-13-22-';
   pin
     'GND1':
@@ -24,7 +24,7 @@ primitive 'MP-13-22-1_MP-13-22-1_MP-13-22-';
     VALUE='MP-13-22-1';
   end_body;
 end_primitive;
-primitive '71764_0114_HDRRA14W64P254_2X7_1';
+primitive '71764_0114_717640112_71764_0114';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -65,7 +65,7 @@ primitive '71764_0114_HDRRA14W64P254_2X7_1';
   end_pin;
   body
     PART_NAME='71764_0114';
-    JEDEC_TYPE='HDRRA14W64P254_2X7_1778X229X864P';
+    JEDEC_TYPE='717640112';
     VALUE='71764_0114';
   end_body;
 end_primitive;

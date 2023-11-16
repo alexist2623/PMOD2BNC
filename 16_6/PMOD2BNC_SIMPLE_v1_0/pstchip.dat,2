@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Nov-04-2023 at 16:50:11}
+{ Using PSTWRITER 16.6.0 d001Nov-05-2023 at 15:44:13}
 primitive 'MP-13-22-1_MP-13-22-1_MP-13-22-';
   pin
     'GND1':
@@ -67,6 +67,21 @@ primitive '71764_0114_717640112_71764_0114';
     PART_NAME='71764_0114';
     JEDEC_TYPE='717640112';
     VALUE='71764_0114';
+  end_body;
+end_primitive;
+primitive 'RES_0805_RES_0805_RES_0805';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RES_0805';
+    JEDEC_TYPE='RES_0805';
+    VALUE='RES_0805';
   end_body;
 end_primitive;
 END.

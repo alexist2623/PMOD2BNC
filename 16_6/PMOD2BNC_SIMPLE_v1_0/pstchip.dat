@@ -1,29 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Nov-05-2023 at 17:08:07}
-primitive 'MP-13-22-1_MP-13-22-1_MP-13-22-';
-  pin
-    'GND1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    'GND2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    'GND3':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    'GND4':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    'IO':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='MP-13-22-1';
-    JEDEC_TYPE='MP-13-22-1';
-    VALUE='MP-13-22-1';
-  end_body;
-end_primitive;
+{ Using PSTWRITER 16.6.0 d001Nov-16-2023 at 15:19:43}
 primitive '71764_0114_717640112_71764_0114';
   pin
     '1':
@@ -82,6 +58,54 @@ primitive 'RES_0805_RES_0805_RES_0805';
     PART_NAME='RES_0805';
     JEDEC_TYPE='RES_0805';
     VALUE='RES_0805';
+  end_body;
+end_primitive;
+primitive 'SMA-R-RA_SMA-R-RA_SMA-R-RA';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SMA-R-RA';
+    JEDEC_TYPE='SMA-R-RA';
+    VALUE='SMA-R-RA';
+  end_body;
+end_primitive;
+primitive 'SMAFST_PCBN_SMAFST_PCBN_SMAFST_';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SMAFST_PCBN';
+    JEDEC_TYPE='SMAFST_PCBN';
+    VALUE='SMAFST_PCBN';
   end_body;
 end_primitive;
 END.
