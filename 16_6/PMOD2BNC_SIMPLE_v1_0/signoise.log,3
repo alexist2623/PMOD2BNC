@@ -1,7 +1,3 @@
 INFO: Loaded existing interconnect file 'C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_v1_0\interconn.iml'
 INFO: Loaded existing interconnect file 'C:\Cadence\SPB_16.6\share\pcb\signal\cds_interconn.iml'
 INFO: Finished loading SigNoise interconnect libraries
-INFO: Field Solver bem2d for STL_1S_1R_52
-INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaaat14228.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_53
-INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaaco14228.in" 0.00127
