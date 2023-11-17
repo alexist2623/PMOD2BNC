@@ -1,33 +1,3 @@
 INFO: Loaded existing interconnect file 'C:\GIT\PMOD2BNC\16_6\PMOD2BNC_SIMPLE_v1_0\interconn.iml'
 INFO: Loaded existing interconnect file 'C:\Cadence\SPB_16.6\share\pcb\signal\cds_interconn.iml'
 INFO: Finished loading SigNoise interconnect libraries
-INFO: Field Solver bem2d for STL_1S_1R_54
-INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaadj10972.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_55
-INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaadk10972.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_56
-INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaadl10972.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_57
-INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaadm10972.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_58
-INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaadn10972.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_59
-INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaado10972.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_60
-INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaadp10972.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_61
-INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaadq10972.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_62
-INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaadr10972.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_63
-INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaads10972.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_64
-INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaadt10972.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_65
-INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaahu10972.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_66
-INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaahv10972.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_67
-INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaahw10972.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_68
-INFO: Executing command: bem2d 2e+010 "C:/Users/ece/AppData/Local/Temp/#Taaaahx10972.in" 0.00127
