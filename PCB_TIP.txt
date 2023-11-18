@@ -54,3 +54,6 @@ https://ansan-survivor.tistory.com/737
 
 Return Path Constraints
 https://www.youtube.com/watch?v=YMfBbiguoY4
+
+make 16_6 to 23_1 version
+C:\Cadence\OrCADX_23.1\tools\bin\dbdotctor_ui.exe

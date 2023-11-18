@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : PMOD2BNCSIMPLE_v1_02.brd                      )
+(    Drawing          : PMOD2BNCSIMPLE_v1_03.brd                      )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Tue Nov  7 20:54:49 2023                      )
+(    Date/Time        : Fri Nov 10 14:23:37 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -23,7 +23,7 @@
  ..... Total number of DRC errors  0
 
 
-WARNING: 2 dynamic shape(s) out of date; checking skipped on these elements.
+WARNING: 4 dynamic shape(s) out of date; checking skipped on these elements.
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************
