@@ -57,3 +57,9 @@ https://www.youtube.com/watch?v=YMfBbiguoY4
 
 make 16_6 to 23_1 version
 C:\Cadence\OrCADX_23.1\tools\bin\dbdotctor_ui.exe
+
+Step File Dir
+C:\Cadence\OrCADX_23.1\share\local\pcb\step
+
+Increase distance between Ground plane and Trace
+https://community.cadence.com/cadence_technology_forums/pcb-design/f/allegro-x-pcb-editor/43938/increasing-distance-between-traces-and-planes

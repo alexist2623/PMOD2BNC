@@ -1,58 +1,14 @@
 \t (00:00:00) padstack_editor 23.1 P001 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Sat Nov 18 19:39:41 2023
-\t (00:00:00)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=28412 CPUs=20
-\t (00:00:00) CmdLine= padstack_editor -mpssession alexi -file C:/Users/alexi/AppData/Local/Temp/#Taaaair22140.tmp -pname TOP_GND1 -data C:/Users/alexi/AppData/Local/Temp/#Taaaaiu22140.tmp
+\t (00:00:00)     Journal start - Sun Nov 19 16:30:15 2023
+\t (00:00:00)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=24072 CPUs=20
+\t (00:00:00) CmdLine= padstack_editor -mpssession alexi -file C:/Users/alexi/AppData/Local/Temp/#Taaaabb20144.tmp -pname VIA -data C:/Users/alexi/AppData/Local/Temp/#Taaaabe20144.tmp
 \t (00:00:00) 
-\d (00:00:01) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:00:02) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
-\d (00:00:02) QtSignal 1
-\d (00:00:04) QtSignal GuidedMaskLayersTab PadDiameter editingFinished "0.0500"
-\d (00:00:04) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:04) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
-\d (00:00:08) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:08) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:08) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
 \d (00:00:09) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
-\d (00:00:09) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
-\d (00:00:10) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
-\d (00:00:11) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:11) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:00:12) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 "Regular Pad"
-\d (00:00:12) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 "Regular Pad" 1 1
-\d (00:00:13) QtSignal GuidedMaskLayersTab LayersTable customContextMenuRequest 1 "Regular Pad"
-\d (00:00:14) QtFillin ""
-\d (00:00:14) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged
-\d (00:00:15) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 "Regular Pad"
-\d (00:00:15) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 "Regular Pad" 1 1
-\d (00:00:16) QtSignal GuidedMaskLayersTab PadShape CurrentIndexChanged None
-\d (00:00:18) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 "Layer Name" 0 0
-\d (00:00:18) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 0 "Regular Pad"
-\d (00:00:18) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 "Regular Pad" 0 1
-\d (00:00:20) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
-\d (00:00:20) QtSignal 1
-\d (00:00:20) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 83 67108864 false 1 ""
-\d (00:00:20) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 83 67108864 false 1 ""
-\d (00:00:20) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 83 67108864 false 1 ""
-\d (00:00:21) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 83 67108864 false 1 ""
-\d (00:00:21) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 83 67108864 false 1 ""
-\d (00:00:21) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 83 67108864 false 1 ""
-\d (00:00:21) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 83 67108864 false 1 ""
-\d (00:00:21) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 83 67108864 false 1 ""
-\d (00:00:22) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 83 67108864 false 1 ""
-\d (00:00:22) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 83 67108864 false 1 ""
-\d (00:00:22) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 83 67108864 false 1 ""
-\d (00:00:22) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 83 67108864 false 1 ""
-\d (00:00:22) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:23) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:00:24) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
-\d (00:00:24) QtSignal GuidedTabsParent GuidedTabs currentChanged Summary
-\d (00:00:31) QtSignal GuidedSummaryTab Save clicked
-\d (00:00:33) QtFillin ""
-\d (00:00:34) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
-\d (00:00:34) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
-\d (00:00:37) QtSignal MainWindow SaveAs triggered
-\d (00:00:38) QtSignal pseCheckBrowser Close clicked
-\d (00:00:39) QtFillin Yes
-\d (00:01:00) QtSignal MainWindow AQFileDialog finished 1
-\d (00:01:00) QtFillin "Library/VIA/BB_TOP_GND1.pad"
-\d (00:01:02) QtSignal MainWindow Exit triggered
-\t (00:01:02)     Journal end - Sat Nov 18 19:40:43 2023
+\d (00:00:09) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\d (00:00:10) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:16) QtSignal MainWindow SaveAs triggered
+\d (00:00:18) QtSignal MainWindow pseCheckBrowser closed
+\d (00:00:24) QtSignal MainWindow Exit triggered
+\t (00:00:24)     Journal end - Sun Nov 19 16:30:39 2023
