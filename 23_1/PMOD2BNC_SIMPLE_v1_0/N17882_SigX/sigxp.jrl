@@ -1,0 +1,34 @@
+\t (00:00:00) sigxp 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sun Nov 19 19:55:04 2023
+\t (00:00:00)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=16064 CPUs=20
+\t (00:00:00) CmdLine= c:\cadence\orcadx_23.1\tools\bin\sigxp.exe C:\Jeonghyun\GIT\PMOD2BNC\23_1\PMOD2BNC_SIMPLE_v1_0\N17882_SigX\N17882.top
+\t (00:00:00) 
+\t (00:00:00) Starting new design...
+\i (00:00:00) trapsize 2328
+\i (00:00:00) trapsize 2178
+\i (00:00:00) trapsize 1241
+\i (00:00:01) trapsize 6501
+\i (00:00:01) trapsize 1241
+\t (00:00:01) Starting new design...
+\i (00:00:01) trapsize 6501
+\i (00:00:01) trapsize 6501
+\i (00:00:01) trapsize 6501
+   (00:00:01) Loading sigxp.cxt 
+   (00:00:01) Loading signal.cxt 
+   (00:00:01) Loading sxutil.cxt 
+   (00:00:01) Loading axlcore.cxt 
+   (00:00:01) Loading fputil.cxt 
+   (00:00:02) Already Placed Circuit
+\i (00:00:02) trapsize 28
+   (00:00:02) Loading skillExt.cxt 
+\i (00:00:02) sigxp background 
+\i (00:00:04) drag_start grid 5500.38 4222.36
+\i (00:00:05) drag_stop grid 5503.94 4209.11
+\i (00:00:07) prepopup 5503.49 4218.18
+\i (00:00:08) pop dyn_option_select @:@Delete 
+\i (00:00:09) signal simulate 
+\i (00:00:11) sigxp background 
+\i (00:00:35) exit 
+\e (00:00:35) Would you like to save the changes made in  N17882.top
+\i (00:00:38) fillin no 
+\t (00:00:38)     Journal end - Sun Nov 19 19:55:43 2023
