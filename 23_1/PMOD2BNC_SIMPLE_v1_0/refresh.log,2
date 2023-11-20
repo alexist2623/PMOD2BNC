@@ -1,0 +1,91 @@
+Mon Nov 20 21:48:59 2023				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Mon Nov 20 21:48:59 2023
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : PMOD2BNCSIMPLE_v1_05.brd                      )
+(    Software Version : 23.1P001                                      )
+(    Date/Time        : Mon Nov 20 21:48:59 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Mon Nov 20 21:48:59 2023				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/PMOD2BNCSIMPLE_v1_05.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'NO'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'NO'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+Symbol list file                       = 'C:/Users/alexi/AppData/Local/Temp/#Taaaaal12624.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/OrCADX_23.1/share/local/pcb/symbols 
+           C:/Cadence/OrCADX_23.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/OrCADX_23.1/share/pcb/allegrolib/symbols 
+           C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Library/LIB_538-71764-0112_PIN 
+           C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Library/SMA_PERP_SMAFST_PCBN 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/OrCADX_23.1/share/local/pcb/padstacks 
+           C:/Cadence/OrCADX_23.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/OrCADX_23.1/share/pcb/allegrolib/symbols 
+           C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Library/LIB_538-71764-0112_PIN 
+           C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Library/VIA 
+           C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Library/SMA_PERP_SMAFST_PCBN 
+
+
+------ Symbol Refresh Messages ------
+
+
+'SMAFST_PCBN'  symbol starting to refresh:
+     ERROR(SPMHNI-270): 1 pins found in the symbol in the physical design, but missing from library symbol. They are:
+            1
+
+     ERROR(SPMHNI-271): 1 pins found in library symbol, but missing from the symbol in the physical design. They are:
+            6
+
+
+
+------ Updating padstacks referring to the refreshed shapes and flash symbols.  ------
+
+
+
+----- Symbol Update Summary ----
+
+Refresh symbol errors; due to these errors this design is NOT updated.
+       2  errors detected.
+       0  warnings detected.

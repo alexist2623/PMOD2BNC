@@ -1,15 +1,10 @@
 
 
-.subckt resistorPack_850 G1 S1 S2 S3 S4 S5 S6 S7
+.subckt TL_1 1 2 ngnd length=0.0020447
 
 
-R1 S1 G1 50
-R2 S2 G1 50
-R3 S3 G1 50
-R4 S4 G1 50
-R5 S5 G1 50
-R6 S6 G1 50
-R7 S7 G1 50
+WTL1 1 0 2 0 n=1 RLGCfile=w6l2.rlc l='length'
 
 
-.ends resistorPack_850
+
+.ends TL_1

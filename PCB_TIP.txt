@@ -1,3 +1,6 @@
+TOTAL
+https://m.blog.naver.com/narabaljeon/220948373428
+
 HOW DO WE MAKE HIERARCHICAL MODULE?
 https://ansan-survivor.tistory.com/1259
 
@@ -69,3 +72,9 @@ https://community.cadence.com/cadence_technology_forums/pcb-design/f/pcb-design/
 
 SigXPlore is in C:\Cadence\OrCADX_23.1\tools\bin
 Extract Tolpology manullay(Tools-> Extract Topology-> Save as *.top -> Open top file with SigXplore
+
+How to solve HFSS import error
+Add "C:\Cadence\OrCADX_23.1\tools\bin" to Window Path 
+
+Capture 변경사항 pcb editor에 적용
+https://npit.co.kr/html/dh_board/views/2721

@@ -1,0 +1,24 @@
+\t (00:00:04) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Mon Nov 20 21:47:41 2023
+\t (00:00:04)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=12624 CPUs=20
+\t (00:00:04) CmdLine= C:\Cadence\OrCADX_23.1\tools\bin\allegro.exe
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "SMAFST_PCBN"
+\d (00:00:07) Design opened: C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Library/SMA_PERP_SMAFST_PCBN/SMAFST_PCBN.dra
+\i (00:00:07) trapsize 6
+\i (00:00:07) trapsize 7
+\i (00:00:07) trapsize 6
+\i (00:00:08) trapsize 6
+\i (00:00:08) generaledit 
+\i (00:00:10) open 
+\i (00:00:16) fillin "C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/PMOD2BNCSIMPLE_v1_05.brd"
+\i (00:00:16) cd "C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0"
+\t (00:00:16) Opening existing design...
+\i (00:00:20) fillin yes 
+\i (00:00:20) trapsize 124
+\i (00:00:20) trapsize 126
+\i (00:00:20) trapsize 124
+\i (00:00:20) trapsize 124
+\t (00:00:20)     Journal end - Mon Nov 20 21:47:58 2023
