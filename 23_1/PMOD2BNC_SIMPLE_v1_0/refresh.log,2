@@ -1,9 +1,9 @@
-Mon Nov 20 21:55:17 2023				Page     1
+Tue Nov 21 14:29:34 2023				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Mon Nov 20 21:55:17 2023
+	Tue Nov 21 14:29:34 2023
 
 ------ Module Refresh Messages ------
 
@@ -17,19 +17,19 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Refresh Symbol                                                   )
 (                                                                     )
-(    Drawing          : PMOD2BNCSIMPLE_v1_06.brd                      )
+(    Drawing          : PMOD2BNCSIMPLE_v1_06_65mil.brd                )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Mon Nov 20 21:55:17 2023                      )
+(    Date/Time        : Tue Nov 21 14:29:34 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Mon Nov 20 21:55:17 2023				Page     1
+Tue Nov 21 14:29:34 2023				Page     1
 
 
 ------ Symbol Refresh Directives ------
 
-Input design  = 'C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/PMOD2BNCSIMPLE_v1_06.brd'
+Input design  = 'C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/PMOD2BNCSIMPLE_v1_06_65mil.brd'
 Output design = ''
 
 Update mechanical symbols              = 'NO'
@@ -42,7 +42,7 @@ Reset symbol text and size locations   = 'NO'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/alexi/AppData/Local/Temp/#Taaaaai10472.tmp'
+Symbol list file                       = 'C:/Users/alexi/AppData/Local/Temp/#Taaaaai23956.tmp'
 
 
 ------ Library Paths ------
@@ -66,11 +66,12 @@ PADPATH =  .
            C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Library/LIB_538-71764-0112_PIN 
            C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Library/VIA 
            C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Library/SMA_PERP_SMAFST_PCBN 
+           C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/symbols 
 
 
 ------ Symbol Refresh Messages ------
 
-'SMAFST_PCBN'  symbol refreshed successfully.
+'RES_0805'  symbol refreshed successfully.
 
 
 ------ Updating padstacks referring to the refreshed shapes and flash symbols.  ------

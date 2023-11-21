@@ -1,0 +1,388 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : PMOD2BNCSIMPLE_v1_06_65mil.brd                )
+(    Software Version : 23.1P001                                      )
+(    Date/Time        : Tue Nov 21 15:58:02 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                5.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00650                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.09450                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  SQUARE     0.08860                     0.000 NO     DARK 
+  RECTANGLE  0.04530     x 0.05120      90.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < GND1 >
+     TO FILE < C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/GND1.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00650                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.09450                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  SQUARE     0.08860                     0.000 NO     DARK 
+
+     GND1 created.
+
+
+================================================================
+     PROCESSING FILM < GND2 >
+     TO FILE < C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/GND2.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00650                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.09450                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  SQUARE     0.08860                     0.000 NO     DARK 
+
+     GND2 created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00650                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.09450                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  SQUARE     0.08860                     0.000 NO     DARK 
+  RECTANGLE  0.04530     x 0.05120      90.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < Soldermask_Top >
+     TO FILE < C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Soldermask_Top.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  RECTANGLE  0.04530     x 0.05120      90.000 NO     DARK 
+
+     Soldermask_Top created.
+
+
+================================================================
+     PROCESSING FILM < Soldermask_Bottom >
+     TO FILE < C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Soldermask_Bottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  RECTANGLE  0.04530     x 0.05120      90.000 NO     DARK 
+
+     Soldermask_Bottom created.
+
+
+================================================================
+     PROCESSING FILM < Silkscreen_Bottom >
+     TO FILE < C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Silkscreen_Bottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0100
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (0.4628 0.2000)
+           ... using undefined line width of 0.0100
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.0100
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01000                                  DARK 
+
+     Silkscreen_Bottom created with warnings
+
+
+================================================================
+     PROCESSING FILM < Drill_Drawing_1-2 >
+     TO FILE < C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Drill_Drawing_1-2.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0100
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (0.0000 -3.1250)
+           ... using undefined line width of 0.0100
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.0100
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01000                                  DARK 
+
+     Drill_Drawing_1-2 created with warnings
+
+
+================================================================
+     PROCESSING FILM < Drill_Drawing_1-4 >
+     TO FILE < C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Drill_Drawing_1-4.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0100
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01000                                  DARK 
+
+     Drill_Drawing_1-4 created.
+
+
+================================================================
+     PROCESSING FILM < Drill_Drawing_3-4 >
+     TO FILE < C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Drill_Drawing_3-4.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0100
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01000                                  DARK 
+
+     Drill_Drawing_3-4 created.
+
+
+================================================================
+     PROCESSING FILM < Silkscreen_Top >
+     TO FILE < C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Silkscreen_Top.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0100
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00240                                  DARK 
+  CIRCLE     0.00310                                  DARK 
+  CIRCLE     0.00390                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00790                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+
+     Silkscreen_Top created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created.
+        GND1 created.
+        GND2 created.
+        BOTTOM created.
+        Soldermask_Top created.
+        Soldermask_Bottom created.
+        Silkscreen_Bottom created with warnings
+        Drill_Drawing_1-2 created with warnings
+        Drill_Drawing_1-4 created.
+        Drill_Drawing_3-4 created.
+        Silkscreen_Top created.
+
+ ARTWORK had warnings

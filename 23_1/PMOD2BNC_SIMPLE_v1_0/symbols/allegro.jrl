@@ -1,6 +1,6 @@
 \t (00:00:05) allegro 23.1 P001 Windows SPB 64-bit Edition
-\t (00:00:05)     Journal start - Tue Nov 21 13:23:43 2023
-\t (00:00:05)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=19416 CPUs=20
+\t (00:00:05)     Journal start - Tue Nov 21 14:40:25 2023
+\t (00:00:05)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=26964 CPUs=20
 \t (00:00:05) CmdLine= c:\cadence\orcadx_23.1\tools\bin\allegro.exe C:\Jeonghyun\GIT\PMOD2BNC\23_1\PMOD2BNC_SIMPLE_v1_0\symbols\res_0805.dra
 \t (00:00:05) 
    (00:00:05) Loading axlcore.cxt 
@@ -13,59 +13,34 @@
 \i (00:00:08) trapsize 11
 \i (00:00:08) trapsize 11
 \i (00:00:09) generaledit 
-\i (00:00:13) pick grid 0.0459 -0.0034
-\t (00:00:13) last pick:  0.0000 0.0000
-\i (00:00:14) pick grid ext -0.0430 -0.0032
-\t (00:00:14) last pick:  0.0000 0.0000
-\i (00:00:14) prepopup -0.0432 -0.0032
-\i (00:00:15) pop dyn_option_select @:@Delete 
-\i (00:00:15) delete 
-\i (00:00:15) generaledit 
-\i (00:00:16) add pin 
-\t (00:00:16) Using '0805RES.pad'.
-\i (00:00:17) prepopup 0.0998 0.0658
-\i (00:00:19) cancel 
-\t (00:00:19) Exiting from Add Pin.
-\i (00:00:19) generaledit 
-\i (00:00:19) undo 
-\i (00:00:19) trapsize 11
-\i (00:00:19) generaledit 
-\i (00:00:19) undo 
-\i (00:00:19) trapsize 11
-\i (00:00:19) generaledit 
-\i (00:00:20) pick grid 0.0312 0.0054
-\t (00:00:20) last pick:  0.0000 0.0000
-\i (00:00:22) prepopup 0.0323 0.0076
-\i (00:00:24) pop dyn_option_select '@:@Show element' 
-\i (00:00:24) show element 
-\i (00:00:24) generaledit 
-\i (00:00:27) setwindow text
-\i (00:00:27) close
-\i (00:00:28) setwindow pcb
-\i (00:00:28) pick grid ext -0.0373 0.0067
-\t (00:00:28) last pick:  0.0000 0.0000
-\i (00:00:28) prepopup -0.0373 0.0067
-\i (00:00:29) pop dyn_option_select @:@Delete 
-\i (00:00:29) delete 
-\i (00:00:29) generaledit 
-\i (00:00:31) add pin 
-\t (00:00:31) Using '0805RES.pad'.
-\i (00:00:40) setwindow form.mini
-\i (00:00:40) FORM mini next_pin_number 1 
-\i (00:00:44) setwindow pcb
-\i (00:00:44) pick 0.0465 0.0000 
-\t (00:00:44) last pick:  0.0465 0.0000
-\t (00:00:44) Using '0805RES.pad'.
-\i (00:00:51) pick -0.0465 0.0000 
-\t (00:00:51) last pick:  -0.0465 0.0000
-\t (00:00:51) Using '0805RES.pad'.
-\i (00:00:52) prepopup 0.0897 0.1044
-\i (00:00:52) done 
-\t (00:00:52) Exiting from Add Pin.
-\i (00:00:52) generaledit 
-\i (00:00:53) save 
-\i (00:00:54) fillin yes 
-\t (00:00:55) Symbol 'res_0805.psm' created.
-\i (00:00:55) generaledit 
-\i (00:00:55) exit 
-\t (00:00:56)     Journal end - Tue Nov 21 13:24:34 2023
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 0.0945 0.0259
+\i (00:00:10) trapsize 22
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 0.0946 0.0260
+\i (00:00:10) trapsize 11
+\i (00:00:11) add pin 
+\t (00:00:11) Using '0805RES.pad'.
+\i (00:00:14) setwindow form.mini
+\i (00:00:14) FORM mini next_pin_number 1 
+\i (00:00:14) FORM mini pad_browse  
+\i (00:00:28) fillin "Res_0805_New"
+\t (00:00:28) Using 'RES_0805_NEW.pad'.
+\i (00:00:40) setwindow pcb
+\i (00:00:40) pick 0.0465 0.0000 
+\t (00:00:40) last pick:  0.0465 0.0000
+\t (00:00:40) Using 'RES_0805_NEW.pad'.
+\i (00:00:43) pick -0.0465 0.0000 
+\t (00:00:43) last pick:  -0.0465 0.0000
+\t (00:00:43) Using 'RES_0805_NEW.pad'.
+\i (00:00:44) done 
+\t (00:00:44) Exiting from Add Pin.
+\i (00:00:44) generaledit 
+\i (00:00:45) save 
+\i (00:00:46) fillin yes 
+\t (00:00:46) Symbol 'res_0805.psm' created.
+\i (00:00:46) generaledit 
+\i (00:00:47) exit 
+\t (00:00:48)     Journal end - Tue Nov 21 14:41:08 2023

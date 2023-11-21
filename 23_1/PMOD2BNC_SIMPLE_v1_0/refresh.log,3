@@ -1,9 +1,9 @@
-Tue Nov 21 13:16:57 2023				Page     1
+Tue Nov 21 14:40:08 2023				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Tue Nov 21 13:16:57 2023
+	Tue Nov 21 14:40:08 2023
 
 ------ Module Refresh Messages ------
 
@@ -19,12 +19,12 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Drawing          : PMOD2BNCSIMPLE_v1_06_65mil.brd                )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Tue Nov 21 13:16:57 2023                      )
+(    Date/Time        : Tue Nov 21 14:40:08 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Tue Nov 21 13:16:57 2023				Page     1
+Tue Nov 21 14:40:08 2023				Page     1
 
 
 ------ Symbol Refresh Directives ------
@@ -42,7 +42,7 @@ Reset symbol text and size locations   = 'NO'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/alexi/AppData/Local/Temp/#Taaaaai21204.tmp'
+Symbol list file                       = 'C:/Users/alexi/AppData/Local/Temp/#Taaaadx27144.tmp'
 
 
 ------ Library Paths ------
@@ -55,6 +55,7 @@ PSMPATH =  .
            C:/Cadence/OrCADX_23.1/share/pcb/allegrolib/symbols 
            C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Library/LIB_538-71764-0112_PIN 
            C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Library/SMA_PERP_SMAFST_PCBN 
+           C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/symbols 
 
 PADPATH =  . 
            symbols 
@@ -66,11 +67,16 @@ PADPATH =  .
            C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Library/LIB_538-71764-0112_PIN 
            C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Library/VIA 
            C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Library/SMA_PERP_SMAFST_PCBN 
+           C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/symbols 
 
 
 ------ Symbol Refresh Messages ------
 
-'RES_0805'  symbol refreshed successfully.
+
+'RES_0805'  symbol starting to refresh:
+     ERROR(SPMHNI-270): 2 pins found in the symbol in the physical design, but missing from library symbol. They are:
+            2,1
+
 
 
 ------ Updating padstacks referring to the refreshed shapes and flash symbols.  ------
@@ -79,6 +85,6 @@ PADPATH =  .
 
 ----- Symbol Update Summary ----
 
-Updated symbols: 1 out 1
-    Design updated.
-
+Refresh symbol errors; due to these errors this design is NOT updated.
+       1  errors detected.
+       0  warnings detected.

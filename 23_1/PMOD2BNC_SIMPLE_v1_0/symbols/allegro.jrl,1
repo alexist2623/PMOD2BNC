@@ -1,182 +1,36 @@
 \t (00:00:05) allegro 23.1 P001 Windows SPB 64-bit Edition
-\t (00:00:05)     Journal start - Tue Nov 21 13:14:59 2023
-\t (00:00:05)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=4304 CPUs=20
+\t (00:00:05)     Journal start - Tue Nov 21 14:38:23 2023
+\t (00:00:05)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=24648 CPUs=20
 \t (00:00:05) CmdLine= c:\cadence\orcadx_23.1\tools\bin\allegro.exe C:\Jeonghyun\GIT\PMOD2BNC\23_1\PMOD2BNC_SIMPLE_v1_0\symbols\res_0805.dra
 \t (00:00:05) 
    (00:00:05) Loading axlcore.cxt 
 \t (00:00:07) Opening existing design...
 \i (00:00:08) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "res_0805"
 \d (00:00:08) Design opened: C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/symbols/res_0805.dra
-\i (00:00:08) trapsize 41
-\i (00:00:08) trapsize 42
-\i (00:00:08) trapsize 41
-\i (00:00:08) trapsize 36
-\i (00:00:08) trapsize 44
+\i (00:00:08) trapsize 12
+\i (00:00:08) trapsize 13
+\i (00:00:08) trapsize 12
+\i (00:00:08) trapsize 11
+\i (00:00:08) trapsize 11
 \i (00:00:09) generaledit 
-\i (00:00:10) save 
-\i (00:00:13) fillin no 
-\i (00:00:14) fillin "menu_cancel"
-\i (00:00:14) generaledit 
-\i (00:00:16) pick grid -0.0501 -0.0072
-\t (00:00:16) last pick:  -0.1000 0.0000
-\i (00:00:17) zoom in 1 
-\i (00:00:17) setwindow pcb
-\i (00:00:17) zoom in 0.0471 -0.0124
-\i (00:00:17) trapsize 22
-\i (00:00:17) zoom in 1 
-\i (00:00:17) setwindow pcb
-\i (00:00:17) zoom in 0.0471 -0.0124
-\i (00:00:17) trapsize 11
-\i (00:00:17) zoom in 1 
-\i (00:00:17) setwindow pcb
-\i (00:00:17) zoom in 0.0064 -0.0056
-\i (00:00:17) trapsize 5
-\i (00:00:18) roam start
-\i (00:00:18) roam x -16
-\i (00:00:18) roam x -80
-\i (00:00:18) roam y -16
-\i (00:00:18) roam x -32
-\i (00:00:18) roam y -16
-\i (00:00:18) roam x -16
-\i (00:00:18) roam y -16
-\i (00:00:18) roam x -16
-\i (00:00:18) roam x -32
-\i (00:00:18) roam y -16
-\i (00:00:18) roam x -16
-\i (00:00:18) roam x -16
-\i (00:00:18) roam x -32
-\i (00:00:18) roam end
-\i (00:00:19) prepopup -0.0383 -0.0002
-\i (00:00:22) pick grid 0.0944 0.0139
-\t (00:00:22) last pick:  0.1000 0.0000
-\i (00:00:26) prepopup 0.0389 -0.0022
-\i (00:00:27) pick grid 0.0362 -0.0001
-\t (00:00:27) last pick:  0.0000 0.0000
-\i (00:00:27) prepopup 0.0422 0.0006
-\i (00:00:30) pop dyn_option_select '@:@Show element' 
-\i (00:00:30) show element 
-\i (00:00:30) generaledit 
-\i (00:00:33) setwindow text
-\i (00:00:33) close
-\i (00:00:34) setwindow pcb
-\i (00:00:34) pick grid -0.0431 0.0121
-\t (00:00:34) last pick:  0.0000 0.0000
-\i (00:00:34) prepopup -0.0431 0.0121
-\i (00:00:35) pop dyn_option_select '@:@Show element' 
-\i (00:00:35) show element 
-\i (00:00:35) generaledit 
-\i (00:00:36) setwindow text
-\i (00:00:36) close
-\i (00:00:36) setwindow pcb
-\i (00:00:36) pick grid 0.0547 0.0352
-\t (00:00:36) last pick:  0.1000 0.0000
-\i (00:00:38) pick grid 0.0570 0.0184
-\t (00:00:38) last pick:  0.1000 0.0000
-\i (00:00:39) pick grid ext -0.0461 0.0133
-\t (00:00:39) last pick:  0.0000 0.0000
-\i (00:00:39) prepopup -0.0457 0.0140
-\i (00:00:40) pop dyn_option_select @:@Delete 
-\i (00:00:40) delete 
-\i (00:00:40) generaledit 
-\i (00:00:44) add pin 
-\i (00:00:50) add pin 
-\t (00:00:50) Exiting from Add Pin.
-\i (00:00:53) setwindow form.mini
-\i (00:00:53) FORM mini pad_browse  
-\i (00:00:56) fillin "0805Res"
-\t (00:00:56) Using '0805RES.pad'.
-\i (00:01:03) setwindow pcb
-\i (00:01:03) pick 0.0465 0.0000) 
-\t (00:01:03) last pick:  0.0465 0.0000
-\t (00:01:03) Using '0805RES.pad'.
-\i (00:01:11) pick -0.0465 0.0000 
-\t (00:01:11) last pick:  -0.0465 0.0000
-\t (00:01:11) Using '0805RES.pad'.
-\i (00:01:12) prepopup -0.0095 0.0534
-\i (00:01:13) done 
-\t (00:01:13) Exiting from Add Pin.
-\i (00:01:13) generaledit 
-\i (00:01:14) roam start
-\i (00:01:14) roam x -16
-\i (00:01:14) roam x -80
-\i (00:01:14) roam x -48
-\i (00:01:14) roam x -48
-\i (00:01:14) roam x -48
-\i (00:01:14) roam x -32
-\i (00:01:14) roam y -16
-\i (00:01:14) roam x -16
-\i (00:01:14) roam y -16
-\i (00:01:14) roam x -16
-\i (00:01:14) roam x -16
-\i (00:01:14) roam x -16
-\i (00:01:14) roam end
-\i (00:01:15) drag_start grid -0.0120 0.0214
-\i (00:01:15) move 
-\t (00:01:15) last pick:  -0.0035 0.0000
-\t (00:01:15) Pick new location for the element(s).
-\i (00:01:17) drag_stop grid 0.0153 0.0389
-\i (00:01:17) generaledit 
-\i (00:01:18) pick grid 0.0050 0.0392
-\t (00:01:18) last pick:  0.0000 0.0000
-\i (00:01:18) zoom out 1 
-\i (00:01:18) setwindow pcb
-\i (00:01:18) zoom out 0.0086 0.0366
-\i (00:01:18) trapsize 11
-\i (00:01:18) roam start
-\i (00:01:18) roam y -16
-\i (00:01:18) roam x 16
-\i (00:01:18) roam y -16
-\i (00:01:18) roam x 16
-\i (00:01:18) roam y -16
-\i (00:01:19) roam y -16
-\i (00:01:19) roam x 16
-\i (00:01:19) roam y -16
-\i (00:01:19) roam x 16
-\i (00:01:19) roam x 16
-\i (00:01:19) roam y -16
-\i (00:01:19) roam x 16
-\i (00:01:19) roam x 48
-\i (00:01:19) roam y -32
-\i (00:01:19) roam x 32
-\i (00:01:19) roam y -16
-\i (00:01:19) roam x 16
-\i (00:01:19) roam x 80
-\i (00:01:19) roam y -32
-\i (00:01:19) roam x 16
-\i (00:01:19) roam y -16
-\i (00:01:19) roam x 64
-\i (00:01:19) roam y -32
-\i (00:01:19) roam x 32
-\i (00:01:19) roam y -16
-\i (00:01:19) roam end
-\i (00:01:19) save 
-\i (00:01:21) fillin yes 
-\t (00:01:22) Symbol 'res_0805.psm' created.
-\i (00:01:22) generaledit 
-\i (00:01:25) zoom in 1 
-\i (00:01:25) setwindow pcb
-\i (00:01:25) zoom in 0.0525 -0.0030
-\i (00:01:25) trapsize 5
-\i (00:01:25) zoom in 1 
-\i (00:01:25) setwindow pcb
-\i (00:01:25) zoom in 0.0503 -0.0047
-\i (00:01:25) trapsize 3
-\i (00:01:25) pick grid 0.0565 0.0058
-\t (00:01:25) last pick:  0.1000 0.0000
-\i (00:01:26) prepopup 0.0548 0.0046
-\i (00:01:27) pick grid 0.0515 0.0056
-\t (00:01:27) last pick:  0.1000 0.0000
-\i (00:01:27) pick grid dbl 0.0515 0.0056
-\t (00:01:27) last pick:  0.1000 0.0000
-\i (00:01:28) pick grid 0.0515 0.0056
-\t (00:01:28) last pick:  0.1000 0.0000
-\i (00:01:28) zoom out 1 
-\i (00:01:28) setwindow pcb
-\i (00:01:28) zoom out 0.0582 0.0076
-\i (00:01:28) trapsize 5
-\i (00:01:29) zoom out 1 
-\i (00:01:29) setwindow pcb
-\i (00:01:29) zoom out 0.0859 -0.0343
-\i (00:01:29) trapsize 11
-\i (00:01:31) exit 
-\t (00:01:32)     Journal end - Tue Nov 21 13:16:26 2023
+\i (00:00:10) pick grid 0.0492 -0.0126
+\t (00:00:10) last pick:  0.0000 0.0000
+\i (00:00:11) prepopup 0.0492 -0.0126
+\i (00:00:16) pop dyn_option_select '@:@Show element' 
+\i (00:00:16) show element 
+\i (00:00:16) generaledit 
+\i (00:00:21) setwindow text
+\i (00:00:21) close
+\i (00:00:22) setwindow pcb
+\i (00:00:22) pick grid ext -0.0382 0.0001
+\t (00:00:22) last pick:  0.0000 0.0000
+\i (00:00:22) prepopup -0.0382 0.0001
+\i (00:00:24) pop dyn_option_select @:@Delete 
+\i (00:00:24) delete 
+\i (00:00:24) generaledit 
+\i (00:00:24) save 
+\i (00:00:26) fillin yes 
+\t (00:00:26) Symbol 'res_0805.psm' created.
+\i (00:00:26) generaledit 
+\i (00:00:33) exit 
+\t (00:00:33)     Journal end - Tue Nov 21 14:38:52 2023
