@@ -1,77 +1,10 @@
-INFO: Loaded existing device file 'C:\Jeonghyun\GIT\PMOD2BNC\23_1\PMOD2BNC_SIMPLE_v1_0\devices.dml'
-INFO: Finished loading SigNoise device libraries
 INFO: Loaded existing interconnect file 'C:\Jeonghyun\GIT\PMOD2BNC\23_1\PMOD2BNC_SIMPLE_v1_0\interconn.iml'
 INFO: Loaded existing interconnect file 'C:\Cadence\OrCADX_23.1\share\pcb\signal\cds_interconn.iml'
 INFO: Finished loading SigNoise interconnect libraries
-INFO: Field Solver bem2d for STL_1S_1R_130
-INFO: Executing command: bem2d 0 "C:/Users/alexi/AppData/Local/Temp/#Taaaaao29740.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_131
-INFO: Executing command: bem2d 0 "C:/Users/alexi/AppData/Local/Temp/#Taaaaap29740.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_132
-INFO: Executing command: bem2d 0 "C:/Users/alexi/AppData/Local/Temp/#Taaaaaq29740.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_133
-INFO: Executing command: bem2d 0 "C:/Users/alexi/AppData/Local/Temp/#Taaaaar29740.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_134
-INFO: Executing command: bem2d 0 "C:/Users/alexi/AppData/Local/Temp/#Taaaaas29740.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_135
-INFO: Executing command: bem2d 0 "C:/Users/alexi/AppData/Local/Temp/#Taaaaat29740.in" 0.00127
-INFO: Simulation (PMOD2BNCSIMPLE_V1_04 N17882) PMOD2BNCSIMPLE_V1_04 U1 1 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_04 N17882 Drvr PMOD2BNCSIMPLE_V1_04 U1 1
-ANNOTATION: Tlsim Command used :  tlsim  -AutoRiseFallStopTime -dl "C:/Users/alexi/AppData/Local/Temp/#Taaaaav29740.tmp" -dst "C:/Users/alexi/AppData/Local/Temp/#Taaaaaw29740.tmp" -log "C:/Users/alexi/AppData/Local/Temp/#Taaaaax29740.tmp" -ocycle "C:/Users/alexi/AppData/Local/Temp/#Taaaaay29740.tmp" "main.spc"\
-INFO: Simulation (PMOD2BNCSIMPLE_V1_04 N17882) PMOD2BNCSIMPLE_V1_04 U1 1 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_04 N17882 Drvr PMOD2BNCSIMPLE_V1_04 U1 1 finished
-INFO: Field Solver bem2d for STL_1S_1R_136
-INFO: Executing command: bem2d 0 "C:/Users/alexi/AppData/Local/Temp/#Taaaaaz29740.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_137
-INFO: Executing command: bem2d 0 "C:/Users/alexi/AppData/Local/Temp/#Taaaaba29740.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_138
-INFO: Executing command: bem2d 0 "C:/Users/alexi/AppData/Local/Temp/#Taaaabb29740.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_139
-INFO: Executing command: bem2d 0 "C:/Users/alexi/AppData/Local/Temp/#Taaaabc29740.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_140
-INFO: Executing command: bem2d 0 "C:/Users/alexi/AppData/Local/Temp/#Taaaabd29740.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_141
-INFO: Executing command: bem2d 0 "C:/Users/alexi/AppData/Local/Temp/#Taaaabe29740.in" 0.00127
-INFO: Simulation (PMOD2BNCSIMPLE_V1_04 N17882) PMOD2BNCSIMPLE_V1_04 U1 1 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_04 N17882 Drvr PMOD2BNCSIMPLE_V1_04 U1 1
-ANNOTATION: Tlsim Command used :  tlsim  -AutoRiseFallStopTime -dl "C:/Users/alexi/AppData/Local/Temp/#Taaaabf29740.tmp" -dst "C:/Users/alexi/AppData/Local/Temp/#Taaaabg29740.tmp" -log "C:/Users/alexi/AppData/Local/Temp/#Taaaabh29740.tmp" -ocycle "C:/Users/alexi/AppData/Local/Temp/#Taaaabi29740.tmp" "main.spc"\
-INFO: Simulation (PMOD2BNCSIMPLE_V1_04 N17882) PMOD2BNCSIMPLE_V1_04 U1 1 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_04 N17882 Drvr PMOD2BNCSIMPLE_V1_04 U1 1 finished
-INFO: Simulation (PMOD2BNCSIMPLE_V1_04 N17882) PMOD2BNCSIMPLE_V1_04 U1 1 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_04 N17882 Drvr PMOD2BNCSIMPLE_V1_04 U1 1
-ANNOTATION: Tlsim Command used :  tlsim  -AutoRiseFallStopTime -dl "C:/Users/alexi/AppData/Local/Temp/#Taaaabj29740.tmp" -dst "C:/Users/alexi/AppData/Local/Temp/#Taaaabk29740.tmp" -log "C:/Users/alexi/AppData/Local/Temp/#Taaaabl29740.tmp" -ocycle "C:/Users/alexi/AppData/Local/Temp/#Taaaabm29740.tmp" "main.spc"\
-INFO: Simulation (PMOD2BNCSIMPLE_V1_04 N17882) PMOD2BNCSIMPLE_V1_04 U1 1 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_04 N17882 Drvr PMOD2BNCSIMPLE_V1_04 U1 1 finished
-INFO: Simulation (PMOD2BNCSIMPLE_V1_04 N17882) PMOD2BNCSIMPLE_V1_04 U1 1 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_04 N17882 Drvr PMOD2BNCSIMPLE_V1_04 U1 1
-ANNOTATION: Tlsim Command used :  tlsim  -AutoRiseFallStopTime -dl "C:/Users/alexi/AppData/Local/Temp/#Taaaabn29740.tmp" -dst "C:/Users/alexi/AppData/Local/Temp/#Taaaabo29740.tmp" -log "C:/Users/alexi/AppData/Local/Temp/#Taaaabp29740.tmp" -ocycle "C:/Users/alexi/AppData/Local/Temp/#Taaaabq29740.tmp" "main.spc"\
-INFO: Simulation (PMOD2BNCSIMPLE_V1_04 N17882) PMOD2BNCSIMPLE_V1_04 U1 1 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_04 N17882 Drvr PMOD2BNCSIMPLE_V1_04 U1 1 finished
-INFO: Simulation (PMOD2BNCSIMPLE_V1_04 N17882) PMOD2BNCSIMPLE_V1_04 U1 1 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_04 N17882 Drvr PMOD2BNCSIMPLE_V1_04 U1 1
-ANNOTATION: Tlsim Command used :  tlsim  -AutoRiseFallStopTime -dl "C:/Users/alexi/AppData/Local/Temp/#Taaaabr29740.tmp" -dst "C:/Users/alexi/AppData/Local/Temp/#Taaaabs29740.tmp" -log "C:/Users/alexi/AppData/Local/Temp/#Taaaabt29740.tmp" -ocycle "C:/Users/alexi/AppData/Local/Temp/#Taaaabu29740.tmp" "main.spc"\
-INFO: Simulation (PMOD2BNCSIMPLE_V1_04 N17882) PMOD2BNCSIMPLE_V1_04 U1 1 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_04 N17882 Drvr PMOD2BNCSIMPLE_V1_04 U1 1 finished
-INFO: Simulation (PMOD2BNCSIMPLE_V1_04 N17882) PMOD2BNCSIMPLE_V1_04 U1 1 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_04 N17882 Drvr PMOD2BNCSIMPLE_V1_04 U1 1
-ANNOTATION: Tlsim Command used :  tlsim  -AutoRiseFallStopTime -dl "C:/Users/alexi/AppData/Local/Temp/#Taaaabv29740.tmp" -dst "C:/Users/alexi/AppData/Local/Temp/#Taaaabw29740.tmp" -log "C:/Users/alexi/AppData/Local/Temp/#Taaaabx29740.tmp" -ocycle "C:/Users/alexi/AppData/Local/Temp/#Taaaaby29740.tmp" "main.spc"\
-INFO: Simulation (PMOD2BNCSIMPLE_V1_04 N17882) PMOD2BNCSIMPLE_V1_04 U1 1 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_04 N17882 Drvr PMOD2BNCSIMPLE_V1_04 U1 1 finished
-INFO: Simulation (PMOD2BNCSIMPLE_V1_04 N17882) PMOD2BNCSIMPLE_V1_04 U1 1 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_04 N17882 Drvr PMOD2BNCSIMPLE_V1_04 U1 1
-ANNOTATION: Tlsim Command used :  tlsim  -AutoRiseFallStopTime -dl "C:/Users/alexi/AppData/Local/Temp/#Taaaabz29740.tmp" -dst "C:/Users/alexi/AppData/Local/Temp/#Taaaaca29740.tmp" -log "C:/Users/alexi/AppData/Local/Temp/#Taaaacb29740.tmp" -ocycle "C:/Users/alexi/AppData/Local/Temp/#Taaaacc29740.tmp" "main.spc"\
-INFO: Simulation (PMOD2BNCSIMPLE_V1_04 N17882) PMOD2BNCSIMPLE_V1_04 U1 1 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_04 N17882 Drvr PMOD2BNCSIMPLE_V1_04 U1 1 finished
-INFO: Simulation (PMOD2BNCSIMPLE_V1_04 N17882) PMOD2BNCSIMPLE_V1_04 U1 1 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_04 N17882 Drvr PMOD2BNCSIMPLE_V1_04 U1 1
-ANNOTATION: Tlsim Command used :  tlsim  -AutoRiseFallStopTime -dl "C:/Users/alexi/AppData/Local/Temp/#Taaaacd29740.tmp" -dst "C:/Users/alexi/AppData/Local/Temp/#Taaaace29740.tmp" -log "C:/Users/alexi/AppData/Local/Temp/#Taaaacf29740.tmp" -ocycle "C:/Users/alexi/AppData/Local/Temp/#Taaaacg29740.tmp" "main.spc"\
-INFO: Simulation (PMOD2BNCSIMPLE_V1_04 N17882) PMOD2BNCSIMPLE_V1_04 U1 1 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_04 N17882 Drvr PMOD2BNCSIMPLE_V1_04 U1 1 finished
-INFO: Simulation (PMOD2BNCSIMPLE_V1_04 N17882) PMOD2BNCSIMPLE_V1_04 U1 1 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_04 N17882 Drvr PMOD2BNCSIMPLE_V1_04 U1 1
-ANNOTATION: Tlsim Command used :  tlsim  -AutoRiseFallStopTime -dl "C:/Users/alexi/AppData/Local/Temp/#Taaaach29740.tmp" -dst "C:/Users/alexi/AppData/Local/Temp/#Taaaaci29740.tmp" -log "C:/Users/alexi/AppData/Local/Temp/#Taaaacj29740.tmp" -ocycle "C:/Users/alexi/AppData/Local/Temp/#Taaaack29740.tmp" "main.spc"\
-INFO: Simulation (PMOD2BNCSIMPLE_V1_04 N17882) PMOD2BNCSIMPLE_V1_04 U1 1 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_04 N17882 Drvr PMOD2BNCSIMPLE_V1_04 U1 1 finished
-INFO: Simulation (PMOD2BNCSIMPLE_V1_04 N17882) PMOD2BNCSIMPLE_V1_04 U1 1 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_04 N17882 Drvr PMOD2BNCSIMPLE_V1_04 U1 1
-ANNOTATION: Tlsim Command used :  tlsim  -AutoRiseFallStopTime -dl "C:/Users/alexi/AppData/Local/Temp/#Taaaacl29740.tmp" -dst "C:/Users/alexi/AppData/Local/Temp/#Taaaacm29740.tmp" -log "C:/Users/alexi/AppData/Local/Temp/#Taaaacn29740.tmp" -ocycle "C:/Users/alexi/AppData/Local/Temp/#Taaaaco29740.tmp" "main.spc"\
-INFO: Simulation (PMOD2BNCSIMPLE_V1_04 N17882) PMOD2BNCSIMPLE_V1_04 U1 1 Fall Typ Odd Crosstalk XNet PMOD2BNCSIMPLE_V1_04 N17882 Drvr PMOD2BNCSIMPLE_V1_04 U1 1 finished
-INFO: Field Solver bem2d for STL_1S_1R_142
-INFO: Executing command: bem2d 0 "C:/Users/alexi/AppData/Local/Temp/#Taaaact29740.in" 0.00127
+ERROR: This net cannot be extracted correctly. Some models are not set correctly or do not exist. Some more information about the source of the problem can be found in the warning messages that were displayed while doing the extraction. Correct this problem and try again.
+INFO: Loaded existing device file 'C:\Jeonghyun\GIT\PMOD2BNC\23_1\PMOD2BNC_SIMPLE_v1_0\devices.dml'
+INFO: Finished loading SigNoise device libraries
 ERROR: Spectre simulator cannot be run from the current product.
 tlsim will be used instead.
-INFO: 2 non-encrypted models saved to file C:\Jeonghyun\GIT\PMOD2BNC\23_1\PMOD2BNC_SIMPLE_v1_0\sigxp.dml
-INFO: 2 models saved in sigxp.dml
-INFO: 2 non-encrypted models saved to file C:\Jeonghyun\GIT\PMOD2BNC\23_1\PMOD2BNC_SIMPLE_v1_0\sigxp.dml
-INFO: 2 models saved in sigxp.dml
-INFO: 2 non-encrypted models saved to file C:\Jeonghyun\GIT\PMOD2BNC\23_1\PMOD2BNC_SIMPLE_v1_0\sigxp.dml
-INFO: 2 models saved in sigxp.dml
-INFO: 2 non-encrypted models saved to file C:\Jeonghyun\GIT\PMOD2BNC\23_1\PMOD2BNC_SIMPLE_v1_0\sigxp.dml
-INFO: 2 models saved in sigxp.dml
-INFO: 2 non-encrypted models saved to file C:\Jeonghyun\GIT\PMOD2BNC\23_1\PMOD2BNC_SIMPLE_v1_0\sigxp.dml
-INFO: 2 models saved in sigxp.dml
-INFO: 2 non-encrypted models saved to file C:\Jeonghyun\GIT\PMOD2BNC\23_1\PMOD2BNC_SIMPLE_v1_0\sigxp.dml
-INFO: 2 models saved in sigxp.dml
-INFO: 2 non-encrypted models saved to file C:\Jeonghyun\GIT\PMOD2BNC\23_1\PMOD2BNC_SIMPLE_v1_0\sigxp.dml
-INFO: 2 models saved in sigxp.dml
+INFO: 1 non-encrypted models saved to file C:\Jeonghyun\GIT\PMOD2BNC\23_1\PMOD2BNC_SIMPLE_v1_0\sigxp.dml
+INFO: 1 models saved in sigxp.dml

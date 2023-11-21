@@ -1,9 +1,9 @@
-Mon Nov 20 21:54:04 2023				Page     1
+Tue Nov 21 13:16:57 2023				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Mon Nov 20 21:54:04 2023
+	Tue Nov 21 13:16:57 2023
 
 ------ Module Refresh Messages ------
 
@@ -17,19 +17,19 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Refresh Symbol                                                   )
 (                                                                     )
-(    Drawing          : PMOD2BNCSIMPLE_v1_06.brd                      )
+(    Drawing          : PMOD2BNCSIMPLE_v1_06_65mil.brd                )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Mon Nov 20 21:54:05 2023                      )
+(    Date/Time        : Tue Nov 21 13:16:57 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Mon Nov 20 21:54:05 2023				Page     1
+Tue Nov 21 13:16:57 2023				Page     1
 
 
 ------ Symbol Refresh Directives ------
 
-Input design  = 'C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/PMOD2BNCSIMPLE_v1_06.brd'
+Input design  = 'C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/PMOD2BNCSIMPLE_v1_06_65mil.brd'
 Output design = ''
 
 Update mechanical symbols              = 'NO'
@@ -42,7 +42,7 @@ Reset symbol text and size locations   = 'NO'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/alexi/AppData/Local/Temp/#Taaaabi07332.tmp'
+Symbol list file                       = 'C:/Users/alexi/AppData/Local/Temp/#Taaaaai21204.tmp'
 
 
 ------ Library Paths ------
@@ -70,14 +70,7 @@ PADPATH =  .
 
 ------ Symbol Refresh Messages ------
 
-
-'SMAFST_PCBN'  symbol starting to refresh:
-     ERROR(SPMHNI-270): 1 pins found in the symbol in the physical design, but missing from library symbol. They are:
-            1
-
-     ERROR(SPMHNI-271): 1 pins found in library symbol, but missing from the symbol in the physical design. They are:
-            6
-
+'RES_0805'  symbol refreshed successfully.
 
 
 ------ Updating padstacks referring to the refreshed shapes and flash symbols.  ------
@@ -86,6 +79,6 @@ PADPATH =  .
 
 ----- Symbol Update Summary ----
 
-Refresh symbol errors; due to these errors this design is NOT updated.
-       2  errors detected.
-       0  warnings detected.
+Updated symbols: 1 out 1
+    Design updated.
+

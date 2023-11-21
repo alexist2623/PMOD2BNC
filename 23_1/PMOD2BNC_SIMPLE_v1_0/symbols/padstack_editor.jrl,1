@@ -1,0 +1,25 @@
+\t (00:00:00) padstack_editor 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Tue Nov 21 13:18:42 2023
+\t (00:00:00)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=22344 CPUs=20
+\t (00:00:00) CmdLine= c:\cadence\orcadx_23.1\tools\bin\padstack_editor.exe C:\Jeonghyun\GIT\PMOD2BNC\23_1\PMOD2BNC_SIMPLE_v1_0\symbols\0805res.pad
+\t (00:00:00) 
+\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:16) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:17) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\d (00:00:20) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:21) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:21) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:22) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:01:11) QtSignal GuidedMaskLayersTab LayersTable customContextMenuRequest 0 "Regular Pad"
+\d (00:01:11) QtFillin Copy
+\d (00:01:12) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 "Regular Pad"
+\d (00:01:12) QtSignal GuidedMaskLayersTab LayersTable customContextMenuRequest 1 "Regular Pad"
+\d (00:01:12) QtFillin Paste
+\d (00:01:13) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged
+\d (00:01:14) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:01:14) QtSignal 1
+\d (00:01:14) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 83 67108864 false 1 ""
+\d (00:01:14) QtSignal MainWindow Exit triggered
+\d (00:01:15) QtFillin Yes
+\t (00:01:15)     Journal end - Tue Nov 21 13:19:57 2023
