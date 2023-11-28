@@ -79,3 +79,14 @@ Add "C:\Cadence\OrCADX_23.1\tools\bin" to Window Path
 
 Capture 변경사항 pcb editor에 적용
 https://npit.co.kr/html/dh_board/views/2721
+
+Orcad island 없애기
+https://ansan-survivor.tistory.com/883
+
+Drill Customization -> Validate -> Auto generate Symbols (https://kdharchive.tistory.com/774)
+
+Orcad BOM 만들기
+https://m.blog.naver.com/howtoorcad/221868552195
+
+온라인 거버 뷰어
+https://www.samplepcb.co.kr/gerberview/

@@ -2,9 +2,9 @@
 (                                                                     )
 (    NC DRILL Log                                                     )
 (                                                                     )
-(    Drawing          : PMOD2BNCSIMPLE_v1_06_62mil.brd                )
+(    Drawing          : PMOD2BNCSIMPLE_v1_06_65mil.brd                )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Tue Nov 28 22:07:55 2023                      )
+(    Date/Time        : Tue Nov 21 15:50:07 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,9 +22,9 @@
  OUTPUT-UNITS		ENGLISH
  TOOL-ORDER		INCREASING
  REPEAT-CODES		YES
- SUPPRESS-LEAD-ZEROES	YES
+ SUPPRESS-LEAD-ZEROES	NO
  SUPPRESS-TRAIL-ZEROES	NO
- SUPPRESS-EQUAL		YES
+ SUPPRESS-EQUAL		NO
  TOOL-SELECT		NO
  HEADER			none
  LEADER			12
@@ -41,7 +41,7 @@
 
 
 
-     'PMOD2BNCSIMPLE_v1_06_62mil-3-4.drl' created for holes connecting GND2 and BOTTOM
+     'PMOD2BNCSIMPLE_v1_06_65mil-3-4.drl' created for holes connecting GND2 and BOTTOM
      ---------------------------------------------------------------------------------
 
            Num     Size      +/- Tolerance     Plating   Quantity
@@ -50,12 +50,12 @@
 
      ---- Total holes:                                          8
 
-     ---- Total head travel:              0.20 feet (0.06 meters)
+     ---- Total head travel:              0.16 feet (0.05 meters)
 
 
 
 
-     'PMOD2BNCSIMPLE_v1_06_62mil-1-4.drl' created for holes connecting TOP and BOTTOM
+     'PMOD2BNCSIMPLE_v1_06_65mil-1-4.drl' created for holes connecting TOP and BOTTOM
      --------------------------------------------------------------------------------
 
            Num     Size      +/- Tolerance     Plating   Quantity
@@ -67,12 +67,12 @@
 
      ---- Total holes:                                       1370
 
-     ---- Total head travel:              15.76 feet (4.80 meters)
+     ---- Total head travel:              19.41 feet (5.92 meters)
 
 
 
 
-     'PMOD2BNCSIMPLE_v1_06_62mil-1-2.drl' created for holes connecting TOP and GND1
+     'PMOD2BNCSIMPLE_v1_06_65mil-1-2.drl' created for holes connecting TOP and GND1
      ------------------------------------------------------------------------------
 
            Num     Size      +/- Tolerance     Plating   Quantity
@@ -81,5 +81,5 @@
 
      ---- Total holes:                                          8
 
-     ---- Total head travel:              0.12 feet (0.04 meters)
+     ---- Total head travel:              0.29 feet (0.09 meters)
 

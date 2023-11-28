@@ -1,0 +1,15 @@
+\t (00:00:04) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Wed Nov 22 15:11:38 2023
+\t (00:00:04)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=2584 CPUs=20
+\t (00:00:04) CmdLine= C:\Cadence\OrCADX_23.1\tools\bin\allegro.exe
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:07) Starting new design...
+\i (00:00:08) trapsize 116667
+\i (00:00:08) generaledit 
+\i (00:00:16) trapsize 591
+\i (00:00:16) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged unnamed
+\i (00:00:16) opencd 'C:/Users/alexi/Downloads/Eagle Environment/projects/AD9910/AD9910_Finished_3rd_allegro.brd' 
+\t (00:00:16) Opening existing design...
+\i (00:00:18) trapsize 5968
+\t (00:00:18)     Journal end - Wed Nov 22 15:11:52 2023

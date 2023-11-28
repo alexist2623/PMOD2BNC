@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : PMOD2BNCSIMPLE_v1_06_65mil.brd                )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Tue Nov 21 15:52:43 2023                      )
+(    Date/Time        : Tue Nov 21 15:54:44 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -197,7 +197,7 @@ Results from parameter file ...
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.0500
+  Undefined line width                0.0000
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.0000
@@ -226,7 +226,7 @@ Results from parameter file ...
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                10.0000
+  Undefined line width                0.0500
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.0000
@@ -236,10 +236,10 @@ Results from parameter file ...
   Draw holes only                     NO
 
     WARNING: text composed 0 width line found at (0.5000 0.5000)
-           ... using undefined line width of 10.0000
+           ... using undefined line width of 0.0500
 
     WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
-           ... using undefined line width of 10.0000
+           ... using undefined line width of 0.0500
 
 
 
@@ -252,7 +252,7 @@ Results from parameter file ...
   CIRCLE     0.00390                                  DARK 
   CIRCLE     0.00600                                  DARK 
   CIRCLE     0.00790                                  DARK 
-  CIRCLE     10.00000                                 DARK 
+  CIRCLE     0.05000                                  DARK 
 
      Silkscreen_Top created with warnings
 

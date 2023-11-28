@@ -4,12 +4,12 @@
 (                                                                     )
 (    Drawing          : PMOD2BNCSIMPLE_v1_06_65mil.brd                )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Tue Nov 21 14:16:06 2023                      )
+(    Date/Time        : Tue Nov 21 15:30:14 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Begin processing of drill legend template file 'C:/Cadence/OrCADX_23.1/share/pcb/text/nclegend/default-in.dlt' ...
+Begin processing of drill legend template file 'c:/cadence/orcadx_23.1/share/pcb/text/nclegend/default-in.dlt' ...
 WARNING(SPMHSK-47): Column type 'HoleSize' does not exist.
 WARNING(SPMHSK-47): Column type 'PlateStatus' does not exist.
 End of drill legend template file processing.
