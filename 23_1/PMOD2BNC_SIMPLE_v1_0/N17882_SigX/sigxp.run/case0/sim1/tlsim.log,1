@@ -1,10 +1,10 @@
 **** Tlsim Version 16.2 ****
 
 **** Tlsim command line ****
- tlsim -e 5.600000e+02 -r 0.200000 -o waveforms.sim -dl delay.dl -dst distortion.dst -log tlsim.log -ocycle cycle.msm main.spc
+ tlsim -e 2.612500e+02 -r 0.200000 -o waveforms.sim -dl delay.dl -dst distortion.dst -log tlsim.log -ocycle cycle.msm main.spc
 
 
-Number of Nodes in this circuit = 19
+Number of Nodes in this circuit = 20
 
 
 Statistics on N-line elements:
@@ -26,7 +26,7 @@ Statistics on N-line elements:
 
 
 
- Simulation will start at t=0 and end at t=5.60042e-07. 
+ Simulation will start at t=0 and end at t=2.61292e-07. 
 
 
 
@@ -35,12 +35,12 @@ Statistics on N-line elements:
 
 **** Transient Simulation Statistics ****
 
-    Number Of time step solutions = 13440
+    Number Of time step solutions = 6271
 
 **** Tlsim Run Times ****
 
-    Start time = Sun Nov 19 19:49:59 2023
+    Start time = Sun Nov 19 19:54:13 2023
 
-    Finish time = Sun Nov 19 19:50:00 2023
+    Finish time = Sun Nov 19 19:54:13 2023
 
-    Elapsed time = 0 hours, 0 minutes, and 1 seconds
+    Elapsed time = 0 hours, 0 minutes, and 0 seconds

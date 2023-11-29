@@ -12,4 +12,4 @@ INFO: Finished reading report definition file successfully.
 INFO: Simulation (PMOD2BNCSIMPLE_V1_04 J1 11) PMOD2BNCSIMPLE_V1_04 J1 11 Pulse Typ Reflection
 INFO: Using waveform resolution 0.200000 ns.
 INFO: Simulation (PMOD2BNCSIMPLE_V1_04 J1 11) PMOD2BNCSIMPLE_V1_04 J1 11 Pulse Typ Reflection finished
-ANNOTATION: Tlsim Command used :  tlsim  -e 5.600000e+02 -r 0.200000 -o "waveforms.sim" -dl "delay.dl" -dst "distortion.dst" -log "tlsim.log" -ocycle "cycle.msm" "main.spc"\n
+ANNOTATION: Tlsim Command used :  tlsim  -e 2.612500e+02 -r 0.200000 -o "waveforms.sim" -dl "delay.dl" -dst "distortion.dst" -log "tlsim.log" -ocycle "cycle.msm" "main.spc"\n

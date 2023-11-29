@@ -1,200 +1,192 @@
-\t (00:00:05) allegro 23.1 P001 Windows SPB 64-bit Edition
-\t (00:00:05)     Journal start - Tue Nov 28 22:12:01 2023
-\t (00:00:05)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=25288 CPUs=20
-\t (00:00:05) CmdLine= c:\cadence\orcadx_23.1\tools\bin\allegro.exe C:\Jeonghyun\GIT\PMOD2BNC\23_1\PMOD2BNC_SIMPLE_v1_0\PMOD2BNCSIMPLE_v1_06_62mil.brd
-\t (00:00:05) 
-   (00:00:05) Loading axlcore.cxt 
-\t (00:00:08) Opening existing design...
-\i (00:00:08) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "PMOD2BNCSIMPLE_v1_06_62mil"
-\d (00:00:08) Design opened: C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/PMOD2BNCSIMPLE_v1_06_62mil.brd
-\i (00:00:09) trapsize 569
-\i (00:00:09) trapsize 582
-\i (00:00:09) trapsize 569
-\i (00:00:09) trapsize 478
-\i (00:00:09) trapsize 478
-\i (00:00:09) generaledit 
+\t (00:00:08) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:08)     Journal start - Wed Nov 29 19:20:39 2023
+\t (00:00:08)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=1868 CPUs=20
+\t (00:00:08) CmdLine= C:\Cadence\OrCADX_23.1\tools\bin\allegro.exe
+\t (00:00:08) 
+   (00:00:08) Loading axlcore.cxt 
+\t (00:00:09) Opening existing design...
+\i (00:00:09) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "PMOD2BNCSIMPLE_v1_06_62mil"
+\d (00:00:09) Design opened: C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/PMOD2BNCSIMPLE_v1_06_62mil.brd
+\i (00:00:09) trapsize 120
+\i (00:00:09) trapsize 123
+\i (00:00:09) trapsize 120
+\i (00:00:09) trapsize 101
+\i (00:00:09) trapsize 101
+\i (00:00:10) generaledit 
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 0.4511 1.5720
+\i (00:00:11) trapsize 202
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 0.2777 1.6124
+\i (00:00:12) trapsize 403
 \i (00:00:13) roam start
-\i (00:00:13) roam x -16
-\i (00:00:13) roam x -48
-\i (00:00:13) roam x -48
-\i (00:00:13) roam x -32
-\i (00:00:13) roam x -16
-\i (00:00:13) roam x -32
-\i (00:00:14) roam x -32
-\i (00:00:14) roam y -16
-\i (00:00:14) roam x -32
-\i (00:00:14) roam x -16
-\i (00:00:14) roam x -16
-\i (00:00:14) roam x -16
-\i (00:00:14) roam x -16
-\i (00:00:14) roam x -16
-\i (00:00:14) roam x -64
-\i (00:00:14) roam y 16
-\i (00:00:14) roam x -32
-\i (00:00:14) roam y 16
-\i (00:00:14) roam x -32
-\i (00:00:14) roam y 16
-\i (00:00:14) roam x -64
-\i (00:00:14) roam y 16
-\i (00:00:14) roam x -96
-\i (00:00:14) roam y 16
-\i (00:00:14) roam x -96
-\i (00:00:14) roam x -128
-\i (00:00:14) roam x -96
-\i (00:00:14) roam y -32
-\i (00:00:14) roam x -64
-\i (00:00:14) roam y -32
-\i (00:00:14) roam x -16
-\i (00:00:14) roam y -16
-\i (00:00:14) roam x 16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam x 16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam x 48
-\i (00:00:14) roam y 64
-\i (00:00:14) roam x 64
-\i (00:00:14) roam y 64
-\i (00:00:14) roam x 32
-\i (00:00:14) roam y 32
-\i (00:00:14) roam x 32
-\i (00:00:14) roam y 16
-\i (00:00:14) roam x 16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam end
-\i (00:00:15) zoom in 1 
-\i (00:00:15) setwindow pcb
-\i (00:00:15) zoom in 2.9555 -3.1158
-\i (00:00:15) trapsize 239
-\i (00:00:15) roam start
-\i (00:00:15) roam y -16
-\i (00:00:15) roam x -32
-\i (00:00:15) roam y -112
-\i (00:00:15) roam x -80
-\i (00:00:15) roam y -224
-\i (00:00:15) roam x -80
-\i (00:00:15) roam y -208
-\i (00:00:15) roam x -16
-\i (00:00:15) roam y -32
-\i (00:00:16) roam y -16
-\i (00:00:16) roam end
-\i (00:00:16) save 
-\i (00:00:17) fillin yes 
-\i (00:00:17) generaledit 
-\i (00:00:17) zoom fit 
-\i (00:00:17) trapsize 101
-\i (00:00:19) zoom out 1 
-\i (00:00:19) setwindow pcb
-\i (00:00:19) zoom out 1.4589 1.2399
-\i (00:00:19) trapsize 202
-\i (00:00:20) save 
-\i (00:00:20) fillin yes 
-\i (00:00:21) generaledit 
-\i (00:01:04) zoom in 1 
-\i (00:01:04) setwindow pcb
-\i (00:01:04) zoom in 2.3178 -0.0624
-\i (00:01:04) trapsize 101
-\i (00:01:05) zoom out 1 
-\i (00:01:05) setwindow pcb
-\i (00:01:05) zoom out 2.3178 -0.0684
-\i (00:01:05) trapsize 202
-\i (00:01:06) zoom in 1 
-\i (00:01:06) setwindow pcb
-\i (00:01:06) zoom in 0.7857 -0.4676
-\i (00:01:06) trapsize 101
-\i (00:01:06) zoom in 1 
-\i (00:01:06) setwindow pcb
-\i (00:01:06) zoom in 0.7918 -0.4656
-\i (00:01:06) trapsize 50
-\i (00:01:07) roam start
-\i (00:01:07) roam y -16
-\i (00:01:07) roam y -32
-\i (00:01:07) roam y -48
-\i (00:01:07) roam y -16
-\i (00:01:07) roam x 16
-\i (00:01:07) roam y -112
-\i (00:01:07) roam x 16
-\i (00:01:07) roam y -112
-\i (00:01:08) roam x 16
-\i (00:01:08) roam y -80
-\i (00:01:08) roam x 32
-\i (00:01:08) roam x 208
-\i (00:01:08) roam y -64
-\i (00:01:08) roam x 288
-\i (00:01:08) roam y -112
-\i (00:01:08) roam x 96
-\i (00:01:08) roam y -32
-\i (00:01:08) roam x 48
-\i (00:01:08) roam y -16
-\i (00:01:08) roam x 16
-\i (00:01:08) roam x 16
-\i (00:01:08) roam x 16
-\i (00:01:09) roam x 32
-\i (00:01:09) roam x 32
-\i (00:01:09) roam x 48
-\i (00:01:09) roam y 16
-\i (00:01:09) roam x 16
-\i (00:01:09) roam x 16
-\i (00:01:09) roam x 32
-\i (00:01:09) roam y 16
-\i (00:01:09) roam x 16
-\i (00:01:09) roam y 16
-\i (00:01:09) roam x 16
-\i (00:01:09) roam x 16
-\i (00:01:09) roam y 16
-\i (00:01:09) roam x 16
-\i (00:01:09) roam y 16
-\i (00:01:09) roam end
-\i (00:01:10) zoom out 1 
-\i (00:01:10) setwindow pcb
-\i (00:01:10) zoom out 1.7349 0.2331
-\i (00:01:10) trapsize 101
-\i (00:01:11) roam start
-\i (00:01:11) roam x -16
-\i (00:01:11) roam x -64
-\i (00:01:11) roam y -48
-\i (00:01:11) roam x -64
-\i (00:01:11) roam y -64
-\i (00:01:11) roam x -32
-\i (00:01:11) roam y -64
-\i (00:01:11) roam x -64
-\i (00:01:11) roam y -96
-\i (00:01:11) roam x -16
-\i (00:01:11) roam y -48
-\i (00:01:11) roam x -16
-\i (00:01:11) roam y -16
-\i (00:01:11) roam x 16
-\i (00:01:11) roam y 32
-\i (00:01:12) roam x 16
-\i (00:01:12) roam y 16
-\i (00:01:12) roam y 16
-\i (00:01:12) roam end
-\i (00:01:12) zoom out 1 
-\i (00:01:12) setwindow pcb
-\i (00:01:12) zoom out 1.2192 0.8684
-\i (00:01:12) trapsize 202
-\i (00:01:13) zoom in 1 
-\i (00:01:13) setwindow pcb
-\i (00:01:13) zoom in 1.2192 0.8684
-\i (00:01:13) trapsize 101
-\i (00:01:14) roam start
-\i (00:01:14) roam y 16
-\i (00:01:14) roam y 16
-\i (00:01:14) roam y 16
-\i (00:01:15) roam y 16
-\i (00:01:15) roam end
-\i (00:03:34) reports 
-\i (00:03:34) QtSignal StdRep StdRepAvailableReports currentRowChanged 0
-\i (00:03:34) generaledit 
-\i (00:03:39) QtSignal StdRep StdRepAvailableReports currentRowChanged 3
-\i (00:03:39) QtSignal StdRep StdRepAvailableReports itemSelectionChanged "Bill of Material Report"
-\i (00:03:39) QtSignal StdRep StdRepAvailableReports itemDoubleClicked "Bill of Material Report"
-\i (00:03:42) QtSignal StdRep StdRepGenerateButton clicked
-\i (00:03:56) setwindow text
-\i (00:03:56) close
-\i (00:04:45) setwindow pcb
-\i (00:04:45) QtSignal StdRep StdRep closed
-\i (00:04:45) exit 
-\e (00:04:45) Do you want to save the changes you made to C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/PMOD2BNCSIMPLE_v1_06_62mil.brd?
-\i (00:04:47) fillin yes 
-\t (00:04:47)     Journal end - Tue Nov 28 22:16:43 2023
+\i (00:00:13) roam y 16
+\i (00:00:13) roam x 16
+\i (00:00:13) roam y 16
+\i (00:00:13) roam y 16
+\i (00:00:13) roam y 16
+\i (00:00:13) roam x 16
+\i (00:00:13) roam y 16
+\i (00:00:13) roam y 16
+\i (00:00:13) roam y 16
+\i (00:00:13) roam y 16
+\i (00:00:13) roam end
+\i (00:00:15) drag_start grid 10.4587 0.4431
+\i (00:00:15) roam y 16
+\i (00:00:15) roam y 16
+\i (00:00:15) roam y 32
+\i (00:00:15) roam y 16
+\i (00:00:15) roam y 32
+\i (00:00:15) roam y 16
+\i (00:00:15) drag_stop 3.0155 -6.1777
+\i (00:00:16) prepopup 4.1526 -1.0166
+\i (00:00:17) prepopup 3.8542 -0.2828
+\i (00:00:18) pop dyn_option_select @:@Delete 
+\i (00:00:18) delete 
+\i (00:00:18) generaledit 
+\i (00:00:19) roam start
+\i (00:00:19) roam x -16
+\i (00:00:19) roam x -32
+\i (00:00:19) roam x -32
+\i (00:00:19) roam x -16
+\i (00:00:19) roam x -32
+\i (00:00:19) roam y -16
+\i (00:00:19) roam x -32
+\i (00:00:19) roam x -16
+\i (00:00:19) roam y -16
+\i (00:00:19) roam x -16
+\i (00:00:19) roam y -16
+\i (00:00:19) roam x -16
+\i (00:00:19) roam y -16
+\i (00:00:19) roam y -32
+\i (00:00:19) roam x -16
+\i (00:00:19) roam y -16
+\i (00:00:19) roam y -16
+\i (00:00:19) roam y -16
+\i (00:00:19) roam y -16
+\i (00:00:19) roam y -16
+\i (00:00:19) roam x -16
+\i (00:00:19) roam y -16
+\i (00:00:19) roam y -32
+\i (00:00:19) roam y -16
+\i (00:00:20) roam x -16
+\i (00:00:20) roam y -16
+\i (00:00:20) roam x -16
+\i (00:00:20) roam y -32
+\i (00:00:20) roam x -16
+\i (00:00:20) roam y -16
+\i (00:00:20) roam y -16
+\i (00:00:20) roam end
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 0.7817 2.2817
+\i (00:00:20) trapsize 202
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 0.7817 2.2817
+\i (00:00:20) trapsize 101
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 0.8281 2.1466
+\i (00:00:21) trapsize 202
+\i (00:00:22) roam start
+\i (00:00:22) roam y -16
+\i (00:00:22) roam y -16
+\i (00:00:22) roam x 16
+\i (00:00:22) roam y 16
+\i (00:00:22) roam y 16
+\i (00:00:22) roam y 16
+\i (00:00:22) roam y 32
+\i (00:00:22) roam y 16
+\i (00:00:22) roam y 16
+\i (00:00:22) roam y 16
+\i (00:00:22) roam x -16
+\i (00:00:22) roam y 16
+\i (00:00:22) roam end
+\i (00:00:22) zoom in 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom in 0.7898 1.6768
+\i (00:00:22) trapsize 101
+\i (00:00:23) roam start
+\i (00:00:23) roam y 16
+\i (00:00:23) roam y 16
+\i (00:00:23) roam x 16
+\i (00:00:23) roam y 16
+\i (00:00:23) roam y 16
+\i (00:00:23) roam y 48
+\i (00:00:23) roam y 32
+\i (00:00:24) roam y 16
+\i (00:00:24) roam y -16
+\i (00:00:24) roam y -16
+\i (00:00:24) roam y -32
+\i (00:00:24) roam y -16
+\i (00:00:24) roam x 16
+\i (00:00:24) roam y 16
+\i (00:00:24) roam y 16
+\i (00:00:25) roam y -16
+\i (00:00:25) roam y -16
+\i (00:00:25) roam end
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 0.7314 1.8764
+\i (00:00:30) trapsize 202
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 0.7313 1.8765
+\i (00:00:30) trapsize 101
+\i (00:00:32) setwindow form.find
+\i (00:00:32) FORM find all_off  
+\i (00:00:32) FORM find all_off  
+\i (00:00:36) FORM find shapes YES 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) pick grid 0.0217 1.3564
+\t (00:00:38) last pick:  0.0250 1.3500
+\i (00:00:38) prepopup 0.0499 1.3524
+\i (00:00:39) pop dyn_option_select @:@Delete 
+\i (00:00:39) delete 
+\i (00:00:39) generaledit 
+\i (00:00:41) undo 
+\i (00:00:41) trapsize 101
+\i (00:00:41) generaledit 
+\i (00:00:44) pick grid 0.0177 1.5923
+\t (00:00:44) last pick:  0.0250 1.6000
+\i (00:00:44) pick grid 0.0257 1.5903
+\t (00:00:44) last pick:  0.0250 1.6000
+\i (00:00:45) pick grid dbl 0.0257 1.5903
+\t (00:00:45) last pick:  0.0250 1.6000
+\i (00:00:45) pick grid 0.0499 1.5761
+\t (00:00:45) last pick:  0.0500 1.5750
+\i (00:00:47) zoom in 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in -0.2263 1.2657
+\i (00:00:47) trapsize 50
+\i (00:00:47) zoom out 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out -0.0952 1.2475
+\i (00:00:48) trapsize 101
+\i (00:00:48) undo 
+\i (00:00:48) trapsize 403
+\i (00:00:48) generaledit 
+\i (00:00:49) prepopup 3.3462 -0.3715
+\i (00:00:50) pop dyn_option_select @:@Delete 
+\i (00:00:50) delete 
+\i (00:00:50) generaledit 
+\i (00:00:52) setwindow form.find
+\i (00:00:52) FORM find all_off  
+\i (00:00:52) FORM find shapes YES 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) save 
+\i (00:00:55) fillin no 
+\i (00:00:56) fillin "menu_cancel"
+\i (00:00:56) generaledit 
+\i (00:00:56) undo 
+\i (00:00:56) trapsize 403
+\i (00:00:57) generaledit 
+\i (00:00:57) undo 
+\i (00:00:57) generaledit 
+\i (00:00:57) exit 
+\e (00:00:57) Do you want to save the changes you made to PMOD2BNCSIMPLE_v1_06_62mil.brd?
+\i (00:00:58) fillin no 
+\t (00:00:58)     Journal end - Wed Nov 29 19:21:29 2023

@@ -1,28 +1,270 @@
-\t (00:00:00) sigxp 23.1 P001 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Sun Nov 19 19:54:08 2023
-\t (00:00:00)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=7848 CPUs=20
-\t (00:00:00) CmdLine= c:\cadence\orcadx_23.1\tools\bin\sigxp.exe C:\Jeonghyun\GIT\PMOD2BNC\23_1\PMOD2BNC_SIMPLE_v1_0\N17882_SigX\N17882.top
-\t (00:00:00) 
-\t (00:00:00) Starting new design...
-\i (00:00:00) trapsize 2328
-\i (00:00:00) trapsize 2178
-\i (00:00:00) trapsize 1241
-\i (00:00:01) trapsize 6501
-\i (00:00:01) trapsize 1241
-\t (00:00:01) Starting new design...
-\i (00:00:01) trapsize 6501
-\i (00:00:01) trapsize 6501
-\i (00:00:01) trapsize 6501
-   (00:00:01) Loading sigxp.cxt 
-   (00:00:01) Loading signal.cxt 
-   (00:00:01) Loading sxutil.cxt 
-   (00:00:01) Loading axlcore.cxt 
-   (00:00:01) Loading fputil.cxt 
-   (00:00:02) Already Placed Circuit
-\i (00:00:02) trapsize 28
-   (00:00:02) Loading skillExt.cxt 
-\i (00:00:02) sigxp background 
-\i (00:00:04) signal simulate 
-\i (00:00:06) sigxp background 
-\i (00:00:36) exit 
-\t (00:00:36)     Journal end - Sun Nov 19 19:54:45 2023
+\t (00:00:25) sigxp 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:25)     Journal start - Wed Nov 29 17:29:27 2023
+\t (00:00:25)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=30984 CPUs=20
+\t (00:00:25) CmdLine= C:\Cadence\OrCADX_23.1\tools\bin\sigxp.exe
+\t (00:00:25) 
+\t (00:00:25) Starting new design...
+\i (00:00:26) trapsize 5878
+\i (00:00:26) trapsize 5878
+\i (00:00:26) trapsize 5878
+   (00:00:26) Already Placed Circuit
+\i (00:00:26) trapsize 19
+\i (00:00:26) sigxp background 
+\i (00:00:28) roam start
+\i (00:00:28) roam end
+\i (00:00:33) pick grid 5481.95 4234.13
+\t (00:00:33) last pick:  5482.00 4234.00
+\i (00:00:33) pick grid dbl 5481.95 4234.13
+\t (00:00:33) last pick:  5482.00 4234.00
+\i (00:00:35) pick grid 5491.60 4234.09
+\t (00:00:35) last pick:  5491.50 4234.00
+\i (00:00:37) pick grid 5482.34 4227.01
+\t (00:00:37) last pick:  5482.50 4227.00
+\i (00:00:37) trapsize 25
+\i (00:00:37) pick grid dbl 5483.66 4231.90
+\t (00:00:37) last pick:  5483.50 4232.00
+\i (00:00:40) pick grid 5480.55 4235.50
+\t (00:00:40) last pick:  5480.50 4235.50
+\i (00:00:40) pick grid dbl 5480.55 4235.50
+\t (00:00:40) last pick:  5480.50 4235.50
+\i (00:00:43) setwindow form.sxstimulus
+\i (00:00:43) FORM sxstimulus cancel  
+   (00:00:43) *WARNING* (axlFormGetField): Form handle access attempted after form closed!
+\i (00:00:46) setwindow sigxp
+\i (00:00:46) signal simulate 
+\i (00:00:48) sigxp background 
+\i (00:00:50) trapsize 68
+\i (00:00:58) trapsize 42
+\i (00:00:59) roam start
+\i (00:00:59) roam x 96
+\i (00:00:59) roam y -64
+\i (00:00:59) roam x 32
+\i (00:00:59) roam y -48
+\i (00:00:59) roam x 16
+\i (00:00:59) roam y -16
+\i (00:00:59) roam end
+\i (00:01:00) roam start
+\i (00:01:00) roam x -64
+\i (00:01:00) roam y 48
+\i (00:01:00) roam x -32
+\i (00:01:00) roam y 48
+\i (00:01:00) roam x -48
+\i (00:01:00) roam y 32
+\i (00:01:00) roam x -16
+\i (00:01:00) roam y 32
+\i (00:01:00) roam x -32
+\i (00:01:00) roam y 32
+\i (00:01:00) roam x -48
+\i (00:01:00) roam y 32
+\i (00:01:00) roam x -16
+\i (00:01:00) roam y 16
+\i (00:01:00) roam end
+\i (00:01:00) zoom in 1 
+\i (00:01:00) setwindow sigxp
+\i (00:01:00) zoom in 5490.99 4221.14
+\i (00:01:00) trapsize 21
+\i (00:01:00) zoom in 1 
+\i (00:01:00) setwindow sigxp
+\i (00:01:00) zoom in 5491.03 4221.14
+\i (00:01:00) trapsize 11
+\i (00:01:01) zoom out 1 
+\i (00:01:01) setwindow sigxp
+\i (00:01:01) zoom out 5491.83 4223.46
+\i (00:01:01) trapsize 21
+\i (00:01:01) zoom out 1 
+\i (00:01:01) setwindow sigxp
+\i (00:01:01) zoom out 5492.09 4223.51
+\i (00:01:01) trapsize 42
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow sigxp
+\i (00:01:05) zoom in 5502.31 4220.65
+\i (00:01:05) trapsize 21
+\i (00:01:13) roam start
+\i (00:01:13) roam x 64
+\i (00:01:13) roam y -16
+\i (00:01:13) roam x 32
+\i (00:01:13) roam y -16
+\i (00:01:13) roam x 32
+\i (00:01:14) roam end
+\i (00:01:17) roam start
+\i (00:01:17) roam x -16
+\i (00:01:18) roam x -32
+\i (00:01:18) roam x -32
+\i (00:01:18) roam x -32
+\i (00:01:18) roam x -48
+\i (00:01:18) roam x -48
+\i (00:01:18) roam x -32
+\i (00:01:18) roam x -32
+\i (00:01:18) roam x -64
+\i (00:01:18) roam x -64
+\i (00:01:18) roam end
+\i (00:01:34) zoom in 1 
+\i (00:01:34) setwindow sigxp
+\i (00:01:34) zoom in 5488.51 4220.54
+\i (00:01:34) trapsize 11
+\i (00:01:34) zoom out 1 
+\i (00:01:34) setwindow sigxp
+\i (00:01:34) zoom out 5488.60 4220.58
+\i (00:01:34) trapsize 21
+\i (00:01:49) roam start
+\i (00:01:49) roam x 32
+\i (00:01:49) roam y -16
+\i (00:01:50) roam x 32
+\i (00:01:50) roam x 48
+\i (00:01:50) roam x 32
+\i (00:01:50) roam x 32
+\i (00:01:50) roam y 16
+\i (00:01:50) roam end
+\i (00:01:52) roam start
+\i (00:01:53) roam x 32
+\i (00:01:53) roam x 48
+\i (00:01:53) roam y -16
+\i (00:01:53) roam x 32
+\i (00:01:53) roam x 32
+\i (00:01:53) roam x 32
+\i (00:01:53) roam x 32
+\i (00:01:53) roam end
+\i (00:02:39) pick grid 5513.76 4218.64
+\t (00:02:39) last pick:  5514.00 4218.50
+\i (00:02:40) roam start
+\i (00:02:40) roam x -16
+\i (00:02:40) roam y 16
+\i (00:02:40) roam end
+\i (00:02:57) roam start
+\i (00:02:57) roam x -16
+\i (00:02:57) roam y 16
+\i (00:02:59) roam end
+\i (00:03:08) roam start
+\i (00:03:08) roam x -64
+\i (00:03:08) roam y 16
+\i (00:03:08) roam x -48
+\i (00:03:08) roam x -32
+\i (00:03:08) roam x -32
+\i (00:03:08) roam y 16
+\i (00:03:08) roam end
+\i (00:03:11) roam start
+\i (00:03:11) roam x 80
+\i (00:03:11) roam y -16
+\i (00:03:11) roam x 64
+\i (00:03:11) roam y -16
+\i (00:03:11) roam x 80
+\i (00:03:11) roam y -16
+\i (00:03:11) roam x 48
+\i (00:03:11) roam y -16
+\i (00:03:11) roam end
+\i (00:03:12) roam start
+\i (00:03:12) roam x 160
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x 96
+\i (00:03:12) roam x 64
+\i (00:03:12) roam x 64
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x -160
+\i (00:03:12) roam x -160
+\i (00:03:13) roam x -160
+\i (00:03:13) roam x -96
+\i (00:03:13) roam x -48
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x -32
+\i (00:03:13) roam x -48
+\i (00:03:13) roam end
+\i (00:03:36) roam start
+\i (00:03:36) roam x 32
+\i (00:03:36) roam x 32
+\i (00:03:36) roam y 16
+\i (00:03:36) roam y 32
+\i (00:03:36) roam x 32
+\i (00:03:36) roam y 16
+\i (00:03:36) roam end
+\i (00:04:37) roam start
+\i (00:04:37) roam x -32
+\i (00:04:37) roam x -32
+\i (00:04:37) roam x -32
+\i (00:04:37) roam y -16
+\i (00:04:37) roam x -48
+\i (00:04:38) roam end
+\i (00:04:38) roam start
+\i (00:04:38) roam x 16
+\i (00:04:38) roam x 128
+\i (00:04:38) roam x 80
+\i (00:04:39) roam x 64
+\i (00:04:39) roam end
+\i (00:04:45) roam start
+\i (00:04:45) roam x -48
+\i (00:04:45) roam x -16
+\i (00:04:45) roam x -32
+\i (00:04:45) roam y 16
+\i (00:04:45) roam x -16
+\i (00:04:45) roam y 16
+\i (00:04:45) roam x -32
+\i (00:04:45) roam y 32
+\i (00:04:45) roam x -32
+\i (00:04:45) roam y 16
+\i (00:04:45) roam x -32
+\i (00:04:45) roam y 16
+\i (00:04:45) roam x -48
+\i (00:04:46) roam x -16
+\i (00:04:46) roam y -16
+\i (00:04:46) roam x -32
+\i (00:04:46) roam y -64
+\i (00:04:46) roam x -16
+\i (00:04:46) roam y -32
+\i (00:04:46) roam end
+\i (00:05:13) roam start
+\i (00:05:13) roam x 32
+\i (00:05:13) roam x 48
+\i (00:05:13) roam y -16
+\i (00:05:13) roam x 32
+\i (00:05:14) roam x 16
+\i (00:05:14) roam y 16
+\i (00:05:14) roam x 16
+\i (00:05:14) roam x 16
+\i (00:05:14) roam y 32
+\i (00:05:14) roam x 16
+\i (00:05:14) roam y 16
+\i (00:05:14) roam end
+\i (00:05:23) pick grid 5481.92 4231.09
+\t (00:05:23) last pick:  5482.00 4231.00
+\i (00:05:24) pick grid 5482.39 4229.70
+\t (00:05:24) last pick:  5482.50 4229.50
+\i (00:05:24) pick grid dbl 5482.39 4229.70
+\t (00:05:24) last pick:  5482.50 4229.50
+\i (00:05:25) prepopup 5482.39 4229.70
+\i (00:05:27) pick grid 5484.67 4233.25
+\t (00:05:27) last pick:  5484.50 4233.50
+\i (00:05:27) roam start
+\i (00:05:27) roam x -32
+\i (00:05:27) roam x -48
+\i (00:05:27) roam x -48
+\i (00:05:27) roam x -32
+\i (00:05:28) roam end
+\i (00:05:28) pick grid 5481.34 4235.32
+\t (00:05:28) last pick:  5481.50 4235.50
+\i (00:05:29) pick grid dbl 5481.34 4235.32
+\t (00:05:29) last pick:  5481.50 4235.50
+\i (00:05:40) setwindow form.sxstimulus
+\i (00:05:40) FORM sxstimulus periodicpattern 000000000000000000001000000000000000000001000000000000000000001000000000000000000001000000000000000000001000000000000000000001000000000000000000001000000000000000000001000000000000000000001000000000000000000001000000000000000000001000000000000000000001000000000000000000001000000000000000000001000000000000000000001000000000000000000001000000000000000000001 
+\i (00:05:43) FORM sxstimulus apply  
+\i (00:05:43) FORM sxstimulus apply  
+\i (00:05:44) FORM sxstimulus ok  
+\i (00:05:45) setwindow sigxp
+\i (00:05:45) signal simulate 
+\i (00:05:46) sigxp background 
+\i (00:05:52) signal simulate 
+\i (00:05:54) sigxp background 
+\i (00:05:57) pick grid 5480.53 4234.35
+\t (00:05:57) last pick:  5480.50 4234.50
+\i (00:05:57) pick grid dbl 5480.53 4234.35
+\t (00:05:57) last pick:  5480.50 4234.50
+\i (00:05:57) pick grid 5481.55 4235.11
+\t (00:05:57) last pick:  5481.50 4235.00
+\i (00:05:58) pick grid dbl 5481.55 4235.11
+\t (00:05:58) last pick:  5481.50 4235.00
+\i (00:06:01) setwindow form.sxstimulus
+\i (00:06:01) FORM sxstimulus cancel  
+   (00:06:01) *WARNING* (axlFormGetField): Form handle access attempted after form closed!
+\i (00:06:01) setwindow sigxp
+\i (00:06:01) exit 
+\e (00:06:01) Would you like to save the changes made in  N17882.top
+\i (00:06:03) fillin yes 
+\t (00:06:03)     Journal end - Wed Nov 29 17:35:05 2023

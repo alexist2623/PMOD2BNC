@@ -1,17 +1,11 @@
 \t (00:00:00) sigwave 23.1 P001 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Sun Nov 19 19:54:14 2023
-\t (00:00:00)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=12536 CPUs=20
-\t (00:00:00) CmdLine= sigwave _NODOC_ -pid Waveform7848
+\t (00:00:00)     Journal start - Wed Nov 29 17:34:55 2023
+\t (00:00:00)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=30060 CPUs=20
+\t (00:00:00) CmdLine= sigwave _NODOC_ -pid Waveform30984
 \t (00:00:00) 
    (00:00:00) Loading sigwave.cxt 
-\i (00:00:01) setwindow main
-\i (00:00:01) deselect all
+\i (00:00:00) setwindow main
+\i (00:00:00) deselect all
 \i (00:00:01) zoom fit
-\i (00:00:08) select waveform "PMOD2BNCSIMPLE_V1_04 J1 11"
-\i (00:00:09) color index 4
-\i (00:00:09) select waveform "PMOD2BNCSIMPLE_V1_04 U1 1"
-\i (00:00:10) color index 1
-\i (00:00:10) deselect all
-\i (00:00:14) zoom set "0.000 s" "-1.271 V" "139.314 ns" "4.000 V"
-\i (00:00:30) exit
-\t (00:00:30)     Journal end - Sun Nov 19 19:54:43 2023
+\i (00:00:03) exit
+\t (00:00:03)     Journal end - Wed Nov 29 17:34:58 2023
