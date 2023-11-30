@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : PMOD2BNCSIMPLE_v1_06_65mil.brd                )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Thu Nov 30 16:24:50 2023                      )
+(    Date/Time        : Thu Nov 30 16:39:54 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -302,7 +302,7 @@ Results from parameter file ...
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
-    WARNING: 0 width line found at (-0.4000 -0.8400)
+    WARNING: 0 width line found at (-0.4000 -0.9500)
            ... using undefined line width of 0.0050
 
     WARNING: Multiple 0 width lines; all will be treated the same as the first.
