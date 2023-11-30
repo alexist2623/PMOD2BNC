@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : PMOD2BNCSIMPLE_v1_06_65mil.brd                )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Wed Nov 29 21:54:16 2023                      )
+(    Date/Time        : Wed Nov 29 21:59:56 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -373,6 +373,33 @@ Results from parameter file ...
      Drill_3-4 created.
 
 
+================================================================
+     PROCESSING FILM < Outline >
+     TO FILE < C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Outline.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0500
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.05000                                  DARK 
+
+     Outline created.
+
+
 ------------------------------------------------------
  SUMMARY:
         TOP created.
@@ -386,5 +413,6 @@ Results from parameter file ...
         Drill_1-2 created with warnings
         Drill_1-4 created.
         Drill_3-4 created.
+        Outline created.
 
  ARTWORK had warnings
