@@ -2,9 +2,9 @@
 (                                                                     )
 (    Shape Island Report                                              )
 (                                                                     )
-(    Drawing          : PMOD2BNCSIMPLE_v1_06_65mil.brd                )
+(    Drawing          : PMOD2BNCSIMPLE_v1_06_62mil_cheap.brd          )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Tue Nov 21 13:54:04 2023                      )
+(    Date/Time        : Sun Dec  3 18:07:11 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -15,5 +15,5 @@
   <<<  ETCH  >>>
 
     Layer = TOP
-	Point on shape: (1.7616 0.4225)  Net: GND
-	Point on shape: (0.8308 0.4238)  Net: GND
+	Point on shape: (1.7538 0.3888)  Net: GND
+	Point on shape: (0.8397 0.3953)  Net: GND

@@ -1,1 +1,1 @@
-PMOD2BNCSIMPLE_v1_06_65mil_cheap.brd
+PMOD2BNCSIMPLE_v1_06_62mil_cheap.brd

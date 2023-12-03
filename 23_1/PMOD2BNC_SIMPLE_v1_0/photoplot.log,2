@@ -2,12 +2,17 @@
 (                                                                     )
 (    ARTWORK LOG                                                      )
 (                                                                     )
-(    Drawing          : PMOD2BNCSIMPLE_v1_06_65mil.brd                )
+(    Drawing          : PMOD2BNCSIMPLE_v1_06_62mil_cheap.brd          )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Thu Nov 30 16:35:19 2023                      )
+(    Date/Time        : Sun Dec  3 19:53:29 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
 
  ---- Photoplot outline rectangle not found; using drawing extents.
 
@@ -49,7 +54,7 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.00650                                  DARK 
+  CIRCLE     0.01340                                  DARK 
   CIRCLE     0.02000                                  DARK 
   CIRCLE     0.05000                                  DARK 
   CIRCLE     0.06500                                  DARK 
@@ -58,7 +63,7 @@ Results from parameter file ...
   SQUARE     0.08860                     0.000 NO     DARK 
   RECTANGLE  0.04530     x 0.05120      90.000 NO     DARK 
 
-     TOP created.
+     TOP created with warnings
 
 
 ================================================================
@@ -83,7 +88,7 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.00650                                  DARK 
+  CIRCLE     0.01340                                  DARK 
   CIRCLE     0.02000                                  DARK 
   CIRCLE     0.05000                                  DARK 
   CIRCLE     0.06500                                  DARK 
@@ -91,7 +96,7 @@ Results from parameter file ...
   SQUARE     0.06500                     0.000 NO     DARK 
   SQUARE     0.08860                     0.000 NO     DARK 
 
-     GND1 created.
+     GND1 created with warnings
 
 
 ================================================================
@@ -116,7 +121,7 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.00650                                  DARK 
+  CIRCLE     0.01340                                  DARK 
   CIRCLE     0.02000                                  DARK 
   CIRCLE     0.05000                                  DARK 
   CIRCLE     0.06500                                  DARK 
@@ -124,7 +129,7 @@ Results from parameter file ...
   SQUARE     0.06500                     0.000 NO     DARK 
   SQUARE     0.08860                     0.000 NO     DARK 
 
-     GND2 created.
+     GND2 created with warnings
 
 
 ================================================================
@@ -149,7 +154,7 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.00650                                  DARK 
+  CIRCLE     0.01340                                  DARK 
   CIRCLE     0.02000                                  DARK 
   CIRCLE     0.05000                                  DARK 
   CIRCLE     0.06500                                  DARK 
@@ -158,7 +163,7 @@ Results from parameter file ...
   SQUARE     0.08860                     0.000 NO     DARK 
   RECTANGLE  0.04530     x 0.05120      90.000 NO     DARK 
 
-     BOTTOM created.
+     BOTTOM created with warnings
 
 
 ================================================================
@@ -184,11 +189,10 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.02000                                  DARK 
-  CIRCLE     0.05000                                  DARK 
   CIRCLE     0.30000                                  DARK 
   RECTANGLE  0.04530     x 0.05120      90.000 NO     DARK 
 
-     Soldermask_Top created.
+     Soldermask_Top created with warnings
 
 
 ================================================================
@@ -214,11 +218,10 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.02000                                  DARK 
-  CIRCLE     0.05000                                  DARK 
   CIRCLE     0.30000                                  DARK 
   RECTANGLE  0.04530     x 0.05120      90.000 NO     DARK 
 
-     Soldermask_Bottom created.
+     Soldermask_Bottom created with warnings
 
 
 ================================================================
@@ -283,12 +286,12 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.00500                                  DARK 
 
-     Silkscreen_Bottom created.
+     Silkscreen_Bottom created with warnings
 
 
 ================================================================
-     PROCESSING FILM < Drill_1-2 >
-     TO FILE < C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Drill_1-2.art > ...
+     PROCESSING FILM < Drill >
+     TO FILE < C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Drill.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -302,7 +305,7 @@ Results from parameter file ...
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
-    WARNING: 0 width line found at (-0.4000 -0.9500)
+    WARNING: 0 width line found at (-0.3500 -3.1750)
            ... using undefined line width of 0.0050
 
     WARNING: Multiple 0 width lines; all will be treated the same as the first.
@@ -316,61 +319,7 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.00500                                  DARK 
 
-     Drill_1-2 created with warnings
-
-
-================================================================
-     PROCESSING FILM < Drill_1-4 >
-     TO FILE < C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Drill_1-4.art > ...
-================================================================
-
-  FILM PARAMETERS :
-  ---------------------------------------------------------
-  Undefined line width                0.0050
-  Mirror code                         NONE
-  Rotate angle                        NONE
-  Offset x:                           0.0000
-  Offset y:                           0.0000
-  Plot negative                       NO
-  Suppress unconnected internal pads  NO
-  Draw holes only                     NO
-
-
-
-  APERTURES USED:
-  ---------------------------------------------------------
-  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
-  ---------------------------------------------------------
-  CIRCLE     0.00500                                  DARK 
-
-     Drill_1-4 created.
-
-
-================================================================
-     PROCESSING FILM < Drill_3-4 >
-     TO FILE < C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Drill_3-4.art > ...
-================================================================
-
-  FILM PARAMETERS :
-  ---------------------------------------------------------
-  Undefined line width                0.0050
-  Mirror code                         NONE
-  Rotate angle                        NONE
-  Offset x:                           0.0000
-  Offset y:                           0.0000
-  Plot negative                       NO
-  Suppress unconnected internal pads  NO
-  Draw holes only                     NO
-
-
-
-  APERTURES USED:
-  ---------------------------------------------------------
-  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
-  ---------------------------------------------------------
-  CIRCLE     0.00500                                  DARK 
-
-     Drill_3-4 created.
+     Drill created with warnings
 
 
 ================================================================
@@ -400,17 +349,15 @@ Results from parameter file ...
 
 ------------------------------------------------------
  SUMMARY:
-        TOP created.
-        GND1 created.
-        GND2 created.
-        BOTTOM created.
-        Soldermask_Top created.
-        Soldermask_Bottom created.
+        TOP created with warnings
+        GND1 created with warnings
+        GND2 created with warnings
+        BOTTOM created with warnings
+        Soldermask_Top created with warnings
+        Soldermask_Bottom created with warnings
         Silkscreen_Top created with warnings
-        Silkscreen_Bottom created.
-        Drill_1-2 created with warnings
-        Drill_1-4 created.
-        Drill_3-4 created.
+        Silkscreen_Bottom created with warnings
+        Drill created with warnings
         Outline created with warnings
 
  ARTWORK had warnings
