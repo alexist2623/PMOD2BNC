@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : PMOD2BNCSIMPLE_v1_06_62mil_cheap.brd          )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Sun Dec  3 21:01:37 2023                      )
+(    Date/Time        : Sun Dec 10 17:18:10 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -51,9 +51,9 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.01340                                  DARK 
   CIRCLE     0.02000                                  DARK 
-  CIRCLE     0.05000                                  DARK 
   CIRCLE     0.06500                                  DARK 
   CIRCLE     0.09450                                  DARK 
+  CIRCLE     0.25500                                  DARK 
   SQUARE     0.06500                     0.000 NO     DARK 
   SQUARE     0.08860                     0.000 NO     DARK 
   RECTANGLE  0.04530     x 0.05120      90.000 NO     DARK 
@@ -85,9 +85,9 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.01340                                  DARK 
   CIRCLE     0.02000                                  DARK 
-  CIRCLE     0.05000                                  DARK 
   CIRCLE     0.06500                                  DARK 
   CIRCLE     0.09450                                  DARK 
+  CIRCLE     0.25500                                  DARK 
   SQUARE     0.06500                     0.000 NO     DARK 
   SQUARE     0.08860                     0.000 NO     DARK 
 
@@ -118,9 +118,9 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.01340                                  DARK 
   CIRCLE     0.02000                                  DARK 
-  CIRCLE     0.05000                                  DARK 
   CIRCLE     0.06500                                  DARK 
   CIRCLE     0.09450                                  DARK 
+  CIRCLE     0.25500                                  DARK 
   SQUARE     0.06500                     0.000 NO     DARK 
   SQUARE     0.08860                     0.000 NO     DARK 
 
@@ -151,9 +151,9 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.01340                                  DARK 
   CIRCLE     0.02000                                  DARK 
-  CIRCLE     0.05000                                  DARK 
   CIRCLE     0.06500                                  DARK 
   CIRCLE     0.09450                                  DARK 
+  CIRCLE     0.25500                                  DARK 
   SQUARE     0.06500                     0.000 NO     DARK 
   SQUARE     0.08860                     0.000 NO     DARK 
   RECTANGLE  0.04530     x 0.05120      90.000 NO     DARK 
@@ -184,7 +184,8 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.02000                                  DARK 
-  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
   RECTANGLE  0.04530     x 0.05120      90.000 NO     DARK 
 
      Soldermask_Top created.
@@ -213,7 +214,8 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.02000                                  DARK 
-  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
   RECTANGLE  0.04530     x 0.05120      90.000 NO     DARK 
 
      Soldermask_Bottom created.
@@ -300,7 +302,7 @@ Results from parameter file ...
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
-    WARNING: 0 width line found at (-0.3750 -2.7500)
+    WARNING: 0 width line found at (-0.3450 -2.8100)
            ... using undefined line width of 0.0050
 
     WARNING: Multiple 0 width lines; all will be treated the same as the first.

@@ -90,3 +90,6 @@ https://m.blog.naver.com/howtoorcad/221868552195
 
 온라인 거버 뷰어
 https://www.samplepcb.co.kr/gerberview/
+
+별도의 region 설정
+https://blog.naver.com/kingreddrake/221680868057

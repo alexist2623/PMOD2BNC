@@ -4,15 +4,10 @@
 (                                                                     )
 (    Drawing          : PMOD2BNCSIMPLE_v1_06_62mil_cheap.brd          )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Sun Dec  3 19:53:29 2023                      )
+(    Date/Time        : Sun Dec 10 17:03:50 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
-
-
- ******************************************
- WARNING: DRC OUT OF DATE on this layout.
- ******************************************
 
  ---- Photoplot outline rectangle not found; using drawing extents.
 
@@ -56,14 +51,14 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.01340                                  DARK 
   CIRCLE     0.02000                                  DARK 
-  CIRCLE     0.05000                                  DARK 
   CIRCLE     0.06500                                  DARK 
   CIRCLE     0.09450                                  DARK 
+  CIRCLE     0.25500                                  DARK 
   SQUARE     0.06500                     0.000 NO     DARK 
   SQUARE     0.08860                     0.000 NO     DARK 
   RECTANGLE  0.04530     x 0.05120      90.000 NO     DARK 
 
-     TOP created with warnings
+     TOP created.
 
 
 ================================================================
@@ -90,13 +85,13 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.01340                                  DARK 
   CIRCLE     0.02000                                  DARK 
-  CIRCLE     0.05000                                  DARK 
   CIRCLE     0.06500                                  DARK 
   CIRCLE     0.09450                                  DARK 
+  CIRCLE     0.25500                                  DARK 
   SQUARE     0.06500                     0.000 NO     DARK 
   SQUARE     0.08860                     0.000 NO     DARK 
 
-     GND1 created with warnings
+     GND1 created.
 
 
 ================================================================
@@ -123,13 +118,13 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.01340                                  DARK 
   CIRCLE     0.02000                                  DARK 
-  CIRCLE     0.05000                                  DARK 
   CIRCLE     0.06500                                  DARK 
   CIRCLE     0.09450                                  DARK 
+  CIRCLE     0.25500                                  DARK 
   SQUARE     0.06500                     0.000 NO     DARK 
   SQUARE     0.08860                     0.000 NO     DARK 
 
-     GND2 created with warnings
+     GND2 created.
 
 
 ================================================================
@@ -156,14 +151,14 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.01340                                  DARK 
   CIRCLE     0.02000                                  DARK 
-  CIRCLE     0.05000                                  DARK 
   CIRCLE     0.06500                                  DARK 
   CIRCLE     0.09450                                  DARK 
+  CIRCLE     0.25500                                  DARK 
   SQUARE     0.06500                     0.000 NO     DARK 
   SQUARE     0.08860                     0.000 NO     DARK 
   RECTANGLE  0.04530     x 0.05120      90.000 NO     DARK 
 
-     BOTTOM created with warnings
+     BOTTOM created.
 
 
 ================================================================
@@ -189,10 +184,9 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.02000                                  DARK 
-  CIRCLE     0.30000                                  DARK 
   RECTANGLE  0.04530     x 0.05120      90.000 NO     DARK 
 
-     Soldermask_Top created with warnings
+     Soldermask_Top created.
 
 
 ================================================================
@@ -218,10 +212,9 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.02000                                  DARK 
-  CIRCLE     0.30000                                  DARK 
   RECTANGLE  0.04530     x 0.05120      90.000 NO     DARK 
 
-     Soldermask_Bottom created with warnings
+     Soldermask_Bottom created.
 
 
 ================================================================
@@ -286,7 +279,7 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.00500                                  DARK 
 
-     Silkscreen_Bottom created with warnings
+     Silkscreen_Bottom created.
 
 
 ================================================================
@@ -305,7 +298,7 @@ Results from parameter file ...
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
-    WARNING: 0 width line found at (-0.3500 -3.1750)
+    WARNING: 0 width line found at (-0.3700 -2.7850)
            ... using undefined line width of 0.0050
 
     WARNING: Multiple 0 width lines; all will be treated the same as the first.
@@ -349,14 +342,14 @@ Results from parameter file ...
 
 ------------------------------------------------------
  SUMMARY:
-        TOP created with warnings
-        GND1 created with warnings
-        GND2 created with warnings
-        BOTTOM created with warnings
-        Soldermask_Top created with warnings
-        Soldermask_Bottom created with warnings
+        TOP created.
+        GND1 created.
+        GND2 created.
+        BOTTOM created.
+        Soldermask_Top created.
+        Soldermask_Bottom created.
         Silkscreen_Top created with warnings
-        Silkscreen_Bottom created with warnings
+        Silkscreen_Bottom created.
         Drill created with warnings
         Outline created with warnings
 

@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : PMOD2BNCSIMPLE_v1_06_62mil_cheap.brd          )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Sun Dec  3 19:41:32 2023                      )
+(    Date/Time        : Sun Dec 10 16:23:26 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -46,14 +46,13 @@
 
            Num     Size      +/- Tolerance     Plating   Quantity
 
-            1.  10.0000    0.0000/  0.0000      PLATED         25
-            2.  13.0000    0.0000/  0.0000      PLATED        960
-            3.  43.3000    0.0000/  0.0000      PLATED         24
-            4.  59.1000    0.0000/  0.0000      PLATED         16
-            5.  63.0000    0.0000/  0.0000      PLATED         64
-            6. 250.0000    0.0000/  0.0000  NON_PLATED          4
+            1.  10.0000    0.0000/  0.0000      PLATED        986
+            2.  43.3000    0.0000/  0.0000      PLATED         24
+            3.  59.1000    0.0000/  0.0000      PLATED         16
+            4.  63.0000    0.0000/  0.0000      PLATED         64
+            5. 250.0000    0.0000/  0.0000  NON_PLATED          4
 
-     ---- Total holes:                                       1093
+     ---- Total holes:                                       1094
 
-     ---- Total head travel:              24.27 feet (7.40 meters)
+     ---- Total head travel:              22.87 feet (6.97 meters)
 

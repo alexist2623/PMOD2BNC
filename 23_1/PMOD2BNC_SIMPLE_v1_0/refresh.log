@@ -1,9 +1,9 @@
-Tue Nov 21 14:41:33 2023				Page     1
+Sun Dec 10 17:16:00 2023				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Tue Nov 21 14:41:33 2023
+	Sun Dec 10 17:16:00 2023
 
 ------ Module Refresh Messages ------
 
@@ -17,19 +17,19 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Refresh Symbol                                                   )
 (                                                                     )
-(    Drawing          : PMOD2BNCSIMPLE_v1_06_65mil.brd                )
+(    Drawing          : PMOD2BNCSIMPLE_v1_06_62mil_cheap.brd          )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Tue Nov 21 14:41:33 2023                      )
+(    Date/Time        : Sun Dec 10 17:16:00 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Tue Nov 21 14:41:33 2023				Page     1
+Sun Dec 10 17:16:00 2023				Page     1
 
 
 ------ Symbol Refresh Directives ------
 
-Input design  = 'C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/PMOD2BNCSIMPLE_v1_06_65mil.brd'
+Input design  = 'C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/PMOD2BNCSIMPLE_v1_06_62mil_cheap.brd'
 Output design = ''
 
 Update mechanical symbols              = 'NO'
@@ -42,7 +42,7 @@ Reset symbol text and size locations   = 'NO'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/alexi/AppData/Local/Temp/#Taaaaai22112.tmp'
+Symbol list file                       = 'C:/Users/alexi/AppData/Local/Temp/#Taaaajj29572.tmp'
 
 
 ------ Library Paths ------
@@ -50,29 +50,33 @@ PSMPATH =  .
            symbols 
            .. 
            ../symbols 
-           C:/Cadence/OrCADX_23.1/share/local/pcb/symbols 
-           C:/Cadence/OrCADX_23.1/share/pcb/pcb_lib/symbols 
-           C:/Cadence/OrCADX_23.1/share/pcb/allegrolib/symbols 
+           c:/cadence/orcadx_23.1/share/local/pcb/symbols 
+           c:/cadence/orcadx_23.1/share/pcb/pcb_lib/symbols 
+           c:/cadence/orcadx_23.1/share/pcb/allegrolib/symbols 
            C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Library/LIB_538-71764-0112_PIN 
            C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Library/SMA_PERP_SMAFST_PCBN 
            C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/symbols 
+           C:/SPB_DATA/cdssetup/OrCAD_Capture/23.1.0/downloaded_parts/allegropcb 
+           C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Library/MECH250_WO_SM 
 
 PADPATH =  . 
            symbols 
            .. 
            ../symbols 
-           C:/Cadence/OrCADX_23.1/share/local/pcb/padstacks 
-           C:/Cadence/OrCADX_23.1/share/pcb/pcb_lib/symbols 
-           C:/Cadence/OrCADX_23.1/share/pcb/allegrolib/symbols 
+           c:/cadence/orcadx_23.1/share/local/pcb/padstacks 
+           c:/cadence/orcadx_23.1/share/pcb/pcb_lib/symbols 
+           c:/cadence/orcadx_23.1/share/pcb/allegrolib/symbols 
            C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Library/LIB_538-71764-0112_PIN 
            C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Library/VIA 
            C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Library/SMA_PERP_SMAFST_PCBN 
            C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/symbols 
+           C:/SPB_DATA/cdssetup/OrCAD_Capture/23.1.0/downloaded_parts/allegropcb 
+           C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/Library/MECH250_WO_SM 
 
 
 ------ Symbol Refresh Messages ------
 
-'RES_0805'  symbol refreshed successfully.
+'717640112'  symbol refreshed successfully.
 
 
 ------ Updating padstacks referring to the refreshed shapes and flash symbols.  ------

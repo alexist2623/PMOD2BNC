@@ -4,16 +4,15 @@
 (                                                                     )
 (    Drawing          : PMOD2BNCSIMPLE_v1_06_62mil_cheap.brd          )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Sun Dec  3 18:07:11 2023                      )
+(    Date/Time        : Sun Dec 10 16:17:10 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-  Total islands on design: 2
+  Total islands on design: 1
 
 
   <<<  ETCH  >>>
 
     Layer = TOP
-	Point on shape: (1.7538 0.3888)  Net: GND
-	Point on shape: (0.8397 0.3953)  Net: GND
+	Point on shape: (0.8308 0.4238)  Net: GND
