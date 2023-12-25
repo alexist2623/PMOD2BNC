@@ -1,0 +1,11 @@
+<ValidationInfo>
+  <DesignValid>false</DesignValid>
+  <IgnoreUnclassifiedObjects>false</IgnoreUnclassifiedObjects>
+  <SkipIntersectionChecks>false</SkipIntersectionChecks>
+  <EntityCheckLevel>Strict</EntityCheckLevel>
+  <ValidationLevel>Perform full validations with standard port validations</ValidationLevel>
+  <Messages>
+    <Message>[warning] Warning - Boundary &apos;PerfE1&apos; and Boundary &apos;Rad1&apos; overlap.  </Message>
+    <Message>[error] Solution Setup: No solution setups have been created.</Message>
+  </Messages>
+</ValidationInfo>
