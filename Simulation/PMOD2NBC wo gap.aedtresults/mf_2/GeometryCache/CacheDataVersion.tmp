@@ -1,5 +1,9 @@
 $begin 'CacheDataVersion'
+<<<<<<< HEAD
 	DataVersion=-1
+=======
+	DataVersion=23
+>>>>>>> 76b0d23ad957036b16c52ad289ee747f438b8a4f
 $end 'CacheDataVersion'
 $begin 'VariableValues'
 $end 'VariableValues'

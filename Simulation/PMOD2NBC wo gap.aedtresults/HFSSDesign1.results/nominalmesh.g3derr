@@ -3548,6 +3548,7 @@ BEGIN_ERR
            1.5000000000000000e+01   4.5000000000000000e+01  -2.0000000000000000e+00 -1 373 #xyz ev1 fid bid
    0   0.000000000000e+00   0.000000000000e+00   0.000000000000e+00 #flag location
 END_ERR 
+<<<<<<< HEAD
 G3dErrFileVersion 2018P3.1
 FlagFileMetaData Begin
    Mesh Size - Setup1, Refinement, Pass #1, Freq. 5.500000e+08 :Title    
@@ -4376,3 +4377,5 @@ BEGIN_ERR
            9.9349999999999987e+00   1.2500000000000000e+00   2.3200000000000015e-01 -1 373 #xyz ev1 fid bid
    0   0.000000000000e+00   0.000000000000e+00   0.000000000000e+00 #flag location
 END_ERR 
+=======
+>>>>>>> 76b0d23ad957036b16c52ad289ee747f438b8a4f

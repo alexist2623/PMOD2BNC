@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \t (00:00:07) allegro 23.1 P001 Windows SPB 64-bit Edition
 \t (00:00:07)     Journal start - Thu Dec 28 13:13:18 2023
 \t (00:00:07)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=27572 CPUs=20
@@ -2168,3 +2169,74 @@
 \e (00:43:02) Do you want to save the changes you made to PMOD2BNCSIMPLE_v1_06_62mil_cheap.brd?
 \i (00:43:07) fillin no 
 \t (00:43:07)     Journal end - Thu Dec 28 13:56:19 2023
+=======
+\t (00:00:02) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Dec 25 20:00:41 2023
+\t (00:00:02)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=17852 CPUs=20
+\t (00:00:02) CmdLine= C:\Cadence\OrCADX_23.1\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\w (00:00:02) WARNING(SPMHDB-213): DRC set to "out of date". The current product selection supports a different DRC capability than what is saved in the design.
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "PMOD2BNCSIMPLE_v1_06_62mil_cheap"
+\d (00:00:02) Design opened: C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/PMOD2BNCSIMPLE_v1_06_62mil_cheap.brd
+\t (00:00:02) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:00:02) trapsize 221
+\i (00:00:02) trapsize 226
+\i (00:00:02) trapsize 221
+\t (00:00:03) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:00:03) trapsize 186
+\i (00:00:03) trapsize 186
+\i (00:00:03) generaledit 
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 2.2669 1.5618
+\t (00:00:05) Grids are drawn 0.0100, 0.0100 apart for enhanced viewing.
+\i (00:00:05) trapsize 93
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 2.2669 1.5618
+\i (00:00:05) trapsize 46
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 2.2669 1.5618
+\i (00:00:05) trapsize 23
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 2.2669 1.5618
+\i (00:00:05) trapsize 12
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 2.2669 1.5618
+\i (00:00:05) trapsize 6
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 2.2670 1.5618
+\i (00:00:05) trapsize 3
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 2.2670 1.5618
+\i (00:00:06) trapsize 6
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 2.2670 1.5618
+\i (00:00:06) trapsize 12
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 2.2670 1.5619
+\i (00:00:06) trapsize 23
+\i (00:00:07) pick grid 2.1756 1.5832
+\t (00:00:07) last pick:  2.1750 1.5850
+\i (00:00:10) pick grid 2.2777 1.5618
+\t (00:00:10) last pick:  2.2800 1.5600
+\i (00:00:13) pick grid 2.1738 1.5818
+\t (00:00:13) last pick:  2.1750 1.5800
+\i (00:00:13) pick grid 2.1738 1.6839
+\t (00:00:13) last pick:  2.1750 1.6850
+\i (00:00:14) pick grid 2.1780 1.5795
+\t (00:00:14) last pick:  2.1800 1.5800
+\i (00:00:16) pick grid 2.1752 1.6890
+\t (00:00:16) last pick:  2.1750 1.6900
+\i (00:00:18) exit 
+\t (00:00:18)     Journal end - Mon Dec 25 20:00:57 2023
+>>>>>>> 76b0d23ad957036b16c52ad289ee747f438b8a4f
