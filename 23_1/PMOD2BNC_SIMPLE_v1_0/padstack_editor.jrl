@@ -1,19 +1,9 @@
 \t (00:00:00) padstack_editor 23.1 P001 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Tue Nov 21 13:55:27 2023
-\t (00:00:00)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=1632 CPUs=20
-\t (00:00:00) CmdLine= padstack_editor -mpssession alexi -file C:/Users/alexi/AppData/Local/Temp/#Taaaaak19324.tmp -pname BB_TOP_GND1 -data C:/Users/alexi/AppData/Local/Temp/#Taaaaan19324.tmp
+\t (00:00:00)     Journal start - Mon Dec 25 20:04:53 2023
+\t (00:00:00)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=28436 CPUs=20
+\t (00:00:00) CmdLine= padstack_editor -mpssession alexi -file C:/Users/alexi/AppData/Local/Temp/#Taaaaam08164.tmp -pname VIA_25_30_W_SOLDER-1 -data C:/Users/alexi/AppData/Local/Temp/#Taaaaap08164.tmp
 \t (00:00:00) 
-\d (00:00:05) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:00:07) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:07) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:00:08) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:12) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
-\d (00:00:13) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
-\d (00:00:13) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
-\d (00:00:14) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
-\d (00:00:16) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:18) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
-\d (00:00:20) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
-\d (00:00:21) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:27) QtSignal MainWindow Exit triggered
-\t (00:00:27)     Journal end - Tue Nov 21 13:55:54 2023
+\d (00:00:05) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:05) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:07) QtSignal MainWindow Exit triggered
+\t (00:00:07)     Journal end - Mon Dec 25 20:05:00 2023

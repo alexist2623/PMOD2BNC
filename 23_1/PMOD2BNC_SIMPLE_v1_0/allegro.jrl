@@ -1,278 +1,163 @@
-\t (00:36:13) allegro 23.1 P001 Windows SPB 64-bit Edition
-\t (00:36:13)     Journal start - Sun Dec 10 17:15:21 2023
-\t (00:36:13)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=29572 CPUs=20
-\t (00:36:13) CmdLine= C:\Cadence\OrCADX_23.1\tools\bin\allegro.exe
-\t (00:36:13) 
-\d (00:36:13) Design opened: C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/PMOD2BNCSIMPLE_v1_06_62mil_cheap.brd
-\i (00:36:13) generaledit 
-\i (00:36:14) zoom out 1 
-\i (00:36:14) setwindow pcb
-\i (00:36:14) zoom out 0.7314 0.2585
-\i (00:36:14) trapsize 23
-\i (00:36:47) refresh symbol 
-\i (00:36:49) setwindow form.upd_element
-\i (00:36:49) FORM upd_element tree  'Package symbols' 
-\i (00:36:49) FORM upd_element tree  717640112 'Package symbols' 
-\i (00:36:49) FORM upd_element tree 'MULTISEL YES' 717640112 'Package symbols' 
-\i (00:36:52) FORM upd_element refresh  
-\t (00:36:52) Starting Refresh Symbol...
-\t (00:36:52) Opening existing design...
-\t (00:36:52) Grids are drawn 0.3200, 0.3200 apart for enhanced viewing.
-\i (00:36:52) setwindow pcb
-\i (00:36:52) trapsize 23
-\t (00:36:53) Updating dynamic shape (1 of 4) Gnd, Boundary/Gnd2 @ (-0.3000 4.5799) ...
-\t (00:36:53) Updating dynamic shape (2 of 4) Gnd, Boundary/Gnd1 @ (-0.3000 4.5799) ...
-\t (00:36:53) Updating dynamic shape (3 of 4) Gnd, Boundary/Top @ (-0.3000 4.5799) ...
-\t (00:36:53) Updating dynamic shape (4 of 4) Gnd, Boundary/Bottom @ (-0.3000 4.5799) ...
-\i (00:36:54) zoom out 1 
-\i (00:36:54) setwindow pcb
-\i (00:36:54) zoom out 0.8243 -0.0059
-\i (00:36:54) trapsize 46
-\i (00:36:55) setwindow form.upd_element
-\i (00:36:55) FORM upd_element close  
-\i (00:36:55) setwindow pcb
-\i (00:36:55) generaledit 
-\i (00:36:56) roam start
-\i (00:36:56) roam x -16
-\i (00:36:56) roam x -48
-\i (00:36:56) roam x -32
-\i (00:36:56) roam y -16
-\i (00:36:56) roam x -16
-\i (00:36:56) roam y -16
-\i (00:36:56) roam x -16
-\i (00:36:56) roam x -16
-\i (00:36:56) roam y -16
-\i (00:36:56) roam x -32
-\i (00:36:56) roam x -16
-\i (00:36:56) roam y -16
-\i (00:36:56) roam x -32
-\i (00:36:56) roam y -16
-\i (00:36:56) roam y -16
-\i (00:36:56) roam x -16
-\i (00:36:57) roam y -16
-\i (00:36:57) roam x -16
-\i (00:36:57) roam y -16
-\i (00:36:57) roam y -16
-\i (00:36:57) roam y -16
-\i (00:36:57) roam y -16
-\i (00:36:57) roam end
-\i (00:37:29) color192 
-\i (00:37:29) generaledit 
-\i (00:37:33) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Package geometry"
-\i (00:37:34) QtSignal CVDLayerContainer CVDVisibilityOff clicked
-\i (00:37:39) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up" "Non-Conductor" +
-\i (00:37:39) QtSignal Pin
-\i (00:37:42) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Soldermask_Bottom" Pin 1
-\i (00:37:42) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
-\i (00:37:42) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
-\i (00:37:43) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Soldermask_Bottom" Pin 0
-\i (00:37:43) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
-\i (00:37:43) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
-\i (00:37:46) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Soldermask_Top" Pin 1
-\i (00:37:46) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:37:46) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
-\i (00:37:48) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Soldermask_Top" Pin 0
-\i (00:37:48) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:37:48) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
-\i (00:37:49) QtSignal ColorVisibilityDialog CVDOkButton clicked
-\i (00:37:52) color192 
-\i (00:37:52) generaledit 
-\i (00:37:53) QtSignal CVDLayerContainer CVDVisibilityOn clicked
-\i (00:37:55) QtFillin Yes
-\i (00:37:55) zoom out 1 
-\i (00:37:55) setwindow pcb
-\i (00:37:55) zoom out 1.5338 0.3637
-\t (00:37:55) Grids are drawn 0.0100, 0.0100 apart for enhanced viewing.
-\i (00:37:55) trapsize 93
-\i (00:37:55) zoom out 1 
-\i (00:37:55) setwindow pcb
-\i (00:37:55) zoom out 1.4966 0.3674
-\t (00:37:55) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
-\i (00:37:55) trapsize 186
-\i (00:37:55) roam start
-\i (00:37:56) roam x 32
-\i (00:37:56) roam y -16
-\i (00:37:56) roam x 48
-\i (00:37:56) roam y -16
-\i (00:37:56) roam x 80
-\i (00:37:56) roam y -32
-\i (00:37:56) roam x 48
-\i (00:37:56) roam y -16
-\i (00:37:56) roam x 64
-\i (00:37:56) roam y -16
-\i (00:37:56) roam x 144
-\i (00:37:56) roam y -80
-\i (00:37:56) roam x 32
-\i (00:37:56) roam y -16
-\i (00:37:56) roam x 16
-\i (00:37:56) roam y -16
-\i (00:37:56) roam x 32
-\i (00:37:56) roam y -16
-\i (00:37:56) roam x 32
-\i (00:37:56) roam y -16
-\i (00:37:56) roam x 16
-\i (00:37:56) roam y -16
-\i (00:37:56) roam y -16
-\i (00:37:56) roam y -16
-\i (00:37:56) roam y -16
-\i (00:37:56) roam x -32
-\i (00:37:56) roam y -64
-\i (00:37:56) roam x -32
-\i (00:37:56) roam y -80
-\i (00:37:56) roam x -32
-\i (00:37:56) roam y -80
-\i (00:37:56) roam x -64
-\i (00:37:56) roam y -144
-\i (00:37:56) roam x -16
-\i (00:37:56) roam y -80
-\i (00:37:56) roam x -16
-\i (00:37:56) roam y -16
-\i (00:37:56) roam y -16
-\i (00:37:56) roam y -16
-\i (00:37:56) roam x 16
-\i (00:37:56) roam x 96
-\i (00:37:56) roam y 64
-\i (00:37:56) roam x 160
-\i (00:37:56) roam y 128
-\i (00:37:56) roam x 128
-\i (00:37:56) roam y 128
-\i (00:37:56) roam x 176
-\i (00:37:56) roam y 176
-\i (00:37:56) roam x 96
-\i (00:37:56) roam y 96
-\i (00:37:56) roam x 80
-\i (00:37:56) roam y 80
-\i (00:37:56) roam x 16
-\i (00:37:56) roam y 16
-\i (00:37:56) roam y 16
-\i (00:37:56) roam y 16
-\i (00:37:56) roam y 16
-\i (00:37:56) roam end
-\i (00:37:57) drag_start grid 5.1880 0.5411
-\i (00:37:57) drag_stop 4.3418 -1.7119
-\i (00:37:57) pick grid 4.4494 -0.2012
-\t (00:37:57) last pick:  4.4500 -0.2000
-\i (00:37:58) pick grid 4.0708 -0.4054
-\t (00:37:58) last pick:  4.0700 -0.4050
-\i (00:37:59) setwindow form.find
-\i (00:37:59) FORM find all_off  
-\i (00:38:00) FORM find groups YES 
-\i (00:38:01) setwindow pcb
-\i (00:38:01) pick grid 2.8942 -0.3349
-\t (00:38:01) last pick:  2.8950 -0.3350
-\i (00:38:01) prepopup 2.8979 -0.3349
-\i (00:38:02) pop dyn_option_select @:@Delete 
-\i (00:38:02) delete 
-\i (00:38:02) generaledit 
-\i (00:38:19) roam start
-\i (00:38:19) roam x -16
-\i (00:38:19) roam x -64
-\i (00:38:19) roam y -32
-\i (00:38:19) roam x -32
-\i (00:38:19) roam y -32
-\i (00:38:19) roam x -48
-\i (00:38:19) roam y -32
-\i (00:38:19) roam x -48
-\i (00:38:19) roam y -32
-\i (00:38:19) roam x -32
-\i (00:38:19) roam y -48
-\i (00:38:19) roam x -48
-\i (00:38:19) roam y -32
-\i (00:38:19) roam x -16
-\i (00:38:19) roam y -16
-\i (00:38:19) roam x -16
-\i (00:38:19) roam y -32
-\i (00:38:19) roam x -16
-\i (00:38:19) roam y -16
-\i (00:38:19) roam y -16
-\i (00:38:19) roam x -16
-\i (00:38:19) roam y -16
-\i (00:38:19) roam y -16
-\i (00:38:19) roam y -32
-\i (00:38:19) roam x -16
-\i (00:38:19) roam y -16
-\i (00:38:19) roam y -16
-\i (00:38:19) roam y -16
-\i (00:38:19) roam y -16
-\i (00:38:19) roam y -16
-\i (00:38:19) roam y -16
-\i (00:38:20) roam end
-\i (00:38:20) save 
-\i (00:38:20) fillin yes 
-\i (00:38:20) generaledit 
-\i (00:38:28) ncdrill customization 
-\i (00:38:28) generaledit 
-\i (00:38:30) setwindow form.nc_drillcustomization
-\i (00:38:30) FORM nc_drillcustomization cancel  
-\i (00:38:35) setwindow pcb
-\i (00:38:35) status 
-\i (00:38:35) generaledit 
-\i (00:38:36) setwindow form.status
-\i (00:38:36) FORM status force_update  
-\t (00:38:36) Updating dynamic shape (1 of 4) Gnd, Boundary/Gnd2 @ (-0.3000 4.5799) ...
-\t (00:38:36) Updating dynamic shape (2 of 4) Gnd, Boundary/Gnd1 @ (-0.3000 4.5799) ...
-\t (00:38:36) Updating dynamic shape (3 of 4) Gnd, Boundary/Top @ (-0.3000 4.5799) ...
-\t (00:38:36) Updating dynamic shape (4 of 4) Gnd, Boundary/Bottom @ (-0.3000 4.5799) ...
-\i (00:38:37) FORM status drc_update  
-\t (00:38:37) Running DRC, wait...
-\t (00:38:37) Performing DRC...
-\t (00:38:37) The number of threads for DRC checking is reduced from 20 to the maximum supported (16).
-\t (00:38:37) Multithreaded DRC update (16 threads).
-\t (00:38:37) No DRC errors detected.
-\t (00:38:37) DRC done.
-\i (00:38:38) FORM status done  
-\i (00:38:46) setwindow pcb
-\i (00:38:46) ncdrill customization 
-\i (00:38:46) generaledit 
-\i (00:38:47) setwindow form.nc_drillcustomization
-\i (00:38:47) FORM nc_drillcustomization validate  
-\i (00:38:47) FORM nc_drillcustomization auto_symbols  
-\i (00:38:48) fillin yes 
-\i (00:38:49) FORM nc_drillcustomization done  
-\i (00:38:50) fillin yes 
-\i (00:38:52) setwindow pcb
-\i (00:38:52) ncdrill legend 
-\i (00:38:53) setwindow form.nc_drilllegend
-\i (00:38:53) FORM nc_drilllegend done  
-\i (00:38:55) setwindow pcb
-\i (00:38:55) pick grid -0.3461 -0.1827
-\t (00:38:55) last pick:  -0.3450 -0.1850
-\t (00:38:55) NC Drill Legend generation successful
-\i (00:38:55) generaledit 
-\i (00:38:55) prepopup 3.4064 2.1668
-\i (00:38:56) pick grid 3.4992 2.5379
-\t (00:38:56) last pick:  3.5000 2.5400
-\i (00:38:58) artwork 
-\i (00:39:00) setwindow form.film_control
-\i (00:39:00) FORM film_control select_all  
-\i (00:39:01) FORM film_control create  
-\i (00:39:01) fillin yes 
-\t (00:39:01) Checking db records
-\t (00:39:01)     checking for orphans...
-\t (00:39:01)     Checked  69 percent
-\t (00:39:01)     Checked 100 percent
-\t (00:39:01) Done dbdoctor.
-\t (00:39:01) Starting Create artwork films...
-\w (00:39:02) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:39:03) Artwork generated with warnings.
-\i (00:39:03) setwindow text
-\i (00:39:03) close
-\i (00:39:04) setwindow form.film_control
-\i (00:39:04) FORM film_control ok  
-\i (00:39:04) setwindow pcb
-\i (00:39:04) generaledit 
-\i (00:39:08) nctape_full 
-\i (00:39:09) setwindow form.nc_drill
-\i (00:39:09) FORM nc_drill parameters  
-\i (00:39:10) setwindow form.nc_parameters
-\i (00:39:10) FORM nc_parameters cancel  
-\i (00:39:12) setwindow form.nc_drill
-\i (00:39:12) FORM nc_drill execute  
-\t (00:39:12) Starting Generating NC Drill...
-\i (00:39:14) FORM nc_drill cancel  
-\i (00:39:14) setwindow pcb
-\i (00:39:14) generaledit 
-\i (00:39:16) exit 
-\e (00:39:16) Do you want to save the changes you made to C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/PMOD2BNCSIMPLE_v1_06_62mil_cheap.brd?
-\i (00:39:17) fillin yes 
-\t (00:39:17)     Journal end - Sun Dec 10 17:18:25 2023
+\t (00:00:03) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Dec 28 14:11:34 2023
+\t (00:00:03)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=28896 CPUs=20
+\t (00:00:03) CmdLine= C:\Cadence\OrCADX_23.1\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\w (00:00:06) WARNING(SPMHDB-213): DRC set to "out of date". The current product selection supports a different DRC capability than what is saved in the design.
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "PMOD2BNCSIMPLE_v1_06_62mil_cheap"
+\d (00:00:06) Design opened: C:/Jeonghyun/GIT/PMOD2BNC/23_1/PMOD2BNC_SIMPLE_v1_0/PMOD2BNCSIMPLE_v1_06_62mil_cheap.brd
+\t (00:00:07) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:00:07) trapsize 221
+\i (00:00:07) trapsize 226
+\i (00:00:07) trapsize 221
+\t (00:00:07) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:00:07) trapsize 186
+\i (00:00:07) trapsize 186
+\i (00:00:07) generaledit 
+\i (00:00:10) pick grid -0.1568 3.5698
+\t (00:00:10) last pick:  -0.1550 3.5700
+\i (00:00:11) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:00:25) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "PMOD2BNCSIMPLE_v1_06_62mil_cheap"
+\i (00:00:25) opencd 'C:/Users/alexi/Downloads/Eagle Environment/projects/AD9910/AD9910_Finished_3rd_allegro.brd' 
+\i (00:00:28) fillin confirm
+\i (00:00:48) fillin "menu_cancel"
+\i (00:00:48) generaledit 
+\i (00:00:51) zoom out 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom out 3.1911 1.7102
+\t (00:00:51) Grids are drawn 0.0400, 0.0400 apart for enhanced viewing.
+\i (00:00:51) trapsize 371
+\i (00:00:51) zoom out 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom out 3.1911 1.7029
+\t (00:00:51) Grids are drawn 0.0800, 0.0800 apart for enhanced viewing.
+\i (00:00:51) trapsize 742
+\i (00:00:51) zoom in 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom in 6.7620 1.7326
+\t (00:00:51) Grids are drawn 0.0400, 0.0400 apart for enhanced viewing.
+\i (00:00:51) trapsize 371
+\i (00:00:51) zoom in 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom in 6.7694 1.7623
+\t (00:00:51) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:00:51) trapsize 186
+\i (00:00:52) roam start
+\i (00:00:52) roam x 48
+\i (00:00:52) roam x 192
+\i (00:00:52) roam x 96
+\i (00:00:52) roam x 192
+\i (00:00:52) roam x 64
+\i (00:00:52) roam y 16
+\i (00:00:52) roam x 128
+\i (00:00:52) roam x 112
+\i (00:00:52) roam y 16
+\i (00:00:52) roam x 80
+\i (00:00:52) roam x 80
+\i (00:00:52) roam x 80
+\i (00:00:52) roam x 144
+\i (00:00:52) roam y 16
+\i (00:00:52) roam x 48
+\i (00:00:52) roam y 16
+\i (00:00:52) roam x 48
+\i (00:00:52) roam x 32
+\i (00:00:52) roam y 16
+\i (00:00:52) roam x 16
+\i (00:00:52) roam x 32
+\i (00:00:52) roam y 16
+\i (00:00:52) roam x 32
+\i (00:00:52) roam x 16
+\i (00:00:52) roam x -208
+\i (00:00:52) roam x -192
+\i (00:00:52) roam x -144
+\i (00:00:52) roam y -16
+\i (00:00:52) roam x -240
+\i (00:00:52) roam y -32
+\i (00:00:52) roam x -272
+\i (00:00:52) roam y -48
+\i (00:00:52) roam x -288
+\i (00:00:52) roam y -64
+\i (00:00:52) roam x -160
+\i (00:00:52) roam y -16
+\i (00:00:52) roam x -192
+\i (00:00:52) roam y -32
+\i (00:00:52) roam x -160
+\i (00:00:52) roam y -32
+\i (00:00:52) roam x -224
+\i (00:00:52) roam y -32
+\i (00:00:52) roam x -224
+\i (00:00:52) roam y -32
+\i (00:00:52) roam x -144
+\i (00:00:52) roam y -32
+\i (00:00:52) roam x -96
+\i (00:00:52) roam y -16
+\i (00:00:52) roam x -80
+\i (00:00:52) roam x -32
+\i (00:00:52) roam x -80
+\i (00:00:52) roam y -16
+\i (00:00:52) roam x -32
+\i (00:00:52) roam x -144
+\i (00:00:52) roam y -16
+\i (00:00:52) roam x -48
+\i (00:00:52) roam x -16
+\i (00:00:52) roam x 128
+\i (00:00:52) roam y 16
+\i (00:00:52) roam x 272
+\i (00:00:52) roam y 32
+\i (00:00:52) roam x 208
+\i (00:00:52) roam y 48
+\i (00:00:53) roam x 112
+\i (00:00:53) roam y 16
+\i (00:00:53) roam x 16
+\i (00:00:53) roam x 32
+\i (00:00:53) roam y 16
+\i (00:00:53) roam x 16
+\i (00:00:53) roam y 16
+\i (00:00:53) roam x 16
+\i (00:00:53) roam x 16
+\i (00:00:53) roam x 16
+\i (00:00:53) roam x 32
+\i (00:00:53) roam y 16
+\i (00:00:53) roam x 32
+\i (00:00:53) roam y 16
+\i (00:00:53) roam x -32
+\i (00:00:53) roam x -80
+\i (00:00:53) roam x -48
+\i (00:00:53) roam x -80
+\i (00:00:53) roam y -32
+\i (00:00:53) roam x -64
+\i (00:00:53) roam y -16
+\i (00:00:53) roam x -32
+\i (00:00:53) roam y -16
+\i (00:00:53) roam x -16
+\i (00:00:53) roam y -16
+\i (00:00:53) roam x -16
+\i (00:00:53) roam y -16
+\i (00:00:53) roam x -32
+\i (00:00:53) roam y -32
+\i (00:00:53) roam x -16
+\i (00:00:53) roam y -16
+\i (00:00:53) roam x -16
+\i (00:00:53) roam y -16
+\i (00:00:53) roam y -16
+\i (00:00:53) roam y -16
+\i (00:00:53) roam x 16
+\i (00:00:53) roam x 16
+\i (00:00:53) roam y 16
+\i (00:00:53) roam x 32
+\i (00:00:53) roam y 16
+\i (00:00:53) roam x 16
+\i (00:00:53) roam x 16
+\i (00:00:53) roam y 16
+\i (00:00:53) roam y 16
+\i (00:00:53) roam x 16
+\i (00:00:53) roam y 16
+\i (00:00:53) roam x 16
+\i (00:00:53) roam y 16
+\i (00:00:53) roam y 16
+\i (00:00:53) roam y 16
+\i (00:00:54) roam end
+\i (00:00:55) exit 
+\t (00:00:55)     Journal end - Thu Dec 28 14:12:26 2023

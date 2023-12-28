@@ -1,0 +1,12 @@
+<ValidationInfo>
+  <DesignValid>true</DesignValid>
+  <IgnoreUnclassifiedObjects>false</IgnoreUnclassifiedObjects>
+  <SkipIntersectionChecks>false</SkipIntersectionChecks>
+  <EntityCheckLevel>Strict</EntityCheckLevel>
+  <ValidationLevel>Perform full validations with standard port validations</ValidationLevel>
+  <Messages>
+    <Message>[warning] Warning - Boundary &apos;PerfE1&apos; and Boundary &apos;Rad1&apos; overlap.  </Message>
+    <Message>[warning] Warning - Boundary &apos;PerfE2&apos; and Boundary &apos;Rad1&apos; overlap.  </Message>
+    <Message>[warning] For broadband frequency models it is recommended to set &apos;Automatically use causal materials&apos; in the HFSS Design Settings for Lossy Dielectrics.  See &apos;Design Settings for HFSS&apos; in the help for more information.</Message>
+  </Messages>
+</ValidationInfo>
