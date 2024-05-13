@@ -1,0 +1,11 @@
+INFO: Reading report definition file 'c:/cadence/orcadx_23.1/share/pcb/signal/reports.dat'.
+INFO: Finished reading report definition file successfully.
+INFO: Reading report definition file 'c:/cadence/orcadx_23.1/share/pcb/signal/custom_rep.dat'.
+INFO: Finished reading report definition file successfully.
+INFO: Loaded existing interconnect file 'C:\Jeonghyun\Lab\PMOD2BNC_v2\allegro\interconn.iml'
+INFO: Loaded existing interconnect file 'c:\cadence\orcadx_23.1\share\pcb\signal\cds_interconn.iml'
+INFO: Finished loading SigNoise interconnect libraries
+INFO: Field Solver bem2d for STL_1S_1R_1
+INFO: Executing command: bem2d 0 "C:/Users/alexi/AppData/Local/Temp/#Taaaadl30976.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2
+INFO: Executing command: bem2d 0 "C:/Users/alexi/AppData/Local/Temp/#Taaaadm30976.in" 0.00127

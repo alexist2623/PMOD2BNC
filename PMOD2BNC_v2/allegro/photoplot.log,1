@@ -1,0 +1,383 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : PMOD2BNC.brd                                  )
+(    Software Version : 23.1S003                                      )
+(    Date/Time        : Tue Apr  2 16:51:03 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                5.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Jeonghyun/Lab/PMOD2BNC_v2/allegro/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01350                                  DARK 
+  CIRCLE     0.01970                                  DARK 
+  CIRCLE     0.05910                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.21650                                  DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+  RECTANGLE  0.04750     x 0.06700       0.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < LAYER_1 >
+     TO FILE < C:/Jeonghyun/Lab/PMOD2BNC_v2/allegro/LAYER_1.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01970                                  DARK 
+  CIRCLE     0.05910                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.21650                                  DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+
+     LAYER_1 created.
+
+
+================================================================
+     PROCESSING FILM < LAYER_2 >
+     TO FILE < C:/Jeonghyun/Lab/PMOD2BNC_v2/allegro/LAYER_2.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01970                                  DARK 
+  CIRCLE     0.05910                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.21650                                  DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+
+     LAYER_2 created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Jeonghyun/Lab/PMOD2BNC_v2/allegro/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01350                                  DARK 
+  CIRCLE     0.01970                                  DARK 
+  CIRCLE     0.05910                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.21650                                  DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < Soldermask_TOP >
+     TO FILE < C:/Jeonghyun/Lab/PMOD2BNC_v2/allegro/Soldermask_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.05910                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.21650                                  DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+  RECTANGLE  0.04750     x 0.06700       0.000 NO     DARK 
+
+     Soldermask_TOP created.
+
+
+================================================================
+     PROCESSING FILM < Soldermask_BOTTOM >
+     TO FILE < C:/Jeonghyun/Lab/PMOD2BNC_v2/allegro/Soldermask_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.05910                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.21650                                  DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+
+     Soldermask_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < Pastemask_TOP >
+     TO FILE < C:/Jeonghyun/Lab/PMOD2BNC_v2/allegro/Pastemask_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  RECTANGLE  0.04750     x 0.06700       0.000 NO     DARK 
+
+     Pastemask_TOP created.
+
+
+================================================================
+     PROCESSING FILM < Pastemask_BOTTOM >
+     TO FILE < C:/Jeonghyun/Lab/PMOD2BNC_v2/allegro/Pastemask_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     Pastemask_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < Silkscreen_TOP >
+     TO FILE < C:/Jeonghyun/Lab/PMOD2BNC_v2/allegro/Silkscreen_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0010
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (0.4200 0.0500)
+           ... using undefined line width of 0.0010
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.0010
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00100                                  DARK 
+  CIRCLE     0.00310                                  DARK 
+  CIRCLE     0.00390                                  DARK 
+  CIRCLE     0.00790                                  DARK 
+
+     Silkscreen_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < Silkscreen_BOTTOM >
+     TO FILE < C:/Jeonghyun/Lab/PMOD2BNC_v2/allegro/Silkscreen_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0010
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     Silkscreen_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < DRILL >
+     TO FILE < C:/Jeonghyun/Lab/PMOD2BNC_v2/allegro/DRILL.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape composed 0 width line found at (0.0000 0.0000)
+           ... ignored.
+
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+    WARNING: 0 width line found at (0.0100 4.6600)
+           ... ignored.
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:  NONE
+     DRILL created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created.
+        LAYER_1 created.
+        LAYER_2 created.
+        BOTTOM created.
+        Soldermask_TOP created.
+        Soldermask_BOTTOM created.
+        Pastemask_TOP created.
+        Pastemask_BOTTOM created.
+        Silkscreen_TOP created with warnings
+        Silkscreen_BOTTOM created.
+        DRILL created with warnings
+
+ ARTWORK had warnings

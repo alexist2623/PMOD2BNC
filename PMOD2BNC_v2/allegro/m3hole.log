@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : M3Hole.dra                                    )
+(    Software Version : 23.1S003                                      )
+(    Date/Time        : Tue Apr  2 16:17:26 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = C:/Jeonghyun/Lab/PMOD2BNC_v2/allegro
+    Name      = m3hole.bsm
+    User      = alexi
+    Machine   = LAPTOP-ETOV1IS0
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

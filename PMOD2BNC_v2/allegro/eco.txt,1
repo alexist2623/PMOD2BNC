@@ -1,0 +1,168 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/PMOD2BNC_v2/allegro/pmod2bnc.brd                           |
+|                                                    Tue Apr  2 01:29:31 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  JA_0         pins MOVED FROM this net (to net name listed on right)
+                                 J5.5             0.4000  2.0000
+                                                                           JC_1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JA_1         pins MOVED FROM this net (to net name listed on right)
+                                 J9.5             0.4000  1.3000
+                                                                           JA_4
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JA_2         pins MOVED FROM this net (to net name listed on right)
+                                 J13.5            0.9000  2.0000
+                                                                           JC_3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JA_4         pins MOVED FROM this net (to net name listed on right)
+                                 J21.5            2.4000  0.8000
+                                                                           JB_0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JA_5         pins MOVED FROM this net (to net name listed on right)
+                                 J25.5            2.9000  1.3000
+                                                                           JB_1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JA_6         pins MOVED FROM this net (to net name listed on right)
+                                 J29.5            1.9000  2.0000
+                                                                           JC_6
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JA_7         pins MOVED FROM this net (to net name listed on right)
+                                 J33.5            1.9000  2.5000
+                                                                           JC_7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JB_0         pins MOVED FROM this net (to net name listed on right)
+                                 J6.5             0.4000  0.8000
+                                                                           JA_0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JB_1         pins MOVED FROM this net (to net name listed on right)
+                                 J10.5            2.4000  2.0000
+                                                                           JD_1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JB_2         pins MOVED FROM this net (to net name listed on right)
+                                 J14.5            0.9000  0.8000
+                                                                           JA_5
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JB_3         pins MOVED FROM this net (to net name listed on right)
+                                 J18.5            2.9000  2.0000
+                                                                           JD_2
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JB_4         pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/PMOD2BNC_v2/allegro/pmod2bnc.brd                           |
+|                                                    Tue Apr  2 01:29:31 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 J22.5            1.4000  2.0000
+                                                                           JC_4
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JB_5         pins MOVED FROM this net (to net name listed on right)
+                                 J26.5            3.4000  2.0000
+                                                                           JD_4
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JB_6         pins MOVED FROM this net (to net name listed on right)
+                                 J30.5            2.9000  2.5000
+                                                                           JD_3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JB_7         pins MOVED FROM this net (to net name listed on right)
+                                 J34.5            1.9000  1.3000
+                                                                           JA_3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JC_0         pins MOVED FROM this net (to net name listed on right)
+                                 J7.5             1.4000  0.8000
+                                                                           JA_6
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JC_1         pins MOVED FROM this net (to net name listed on right)
+                                 J11.5            0.9000  1.3000
+                                                                           JA_1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JC_2         pins MOVED FROM this net (to net name listed on right)
+                                 J15.5            1.9000  0.8000
+                                                                           JA_7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JC_3         pins MOVED FROM this net (to net name listed on right)
+                                 J19.5            3.4000  0.8000
+                                                                           JB_6
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JC_4         pins MOVED FROM this net (to net name listed on right)
+                                 J23.5            2.9000  0.8000
+                                                                           JB_5
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JC_5         pins MOVED FROM this net (to net name listed on right)
+                                 J27.5            3.9000  0.8000
+                                                                           JB_7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JC_6         pins MOVED FROM this net (to net name listed on right)
+                                 J31.5            3.4000  1.3000
+                                                                           JB_2
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JC_7         pins MOVED FROM this net (to net name listed on right)
+                                 J35.5            3.9000  2.0000
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/PMOD2BNC_v2/allegro/pmod2bnc.brd                           |
+|                                                    Tue Apr  2 01:29:31 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                           JD_6
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JD_0         pins MOVED FROM this net (to net name listed on right)
+                                 J8.5             0.4000  2.5000
+                                                                           JC_0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JD_1         pins MOVED FROM this net (to net name listed on right)
+                                 J12.5            3.9000  2.5000
+                                                                           JD_7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JD_2         pins MOVED FROM this net (to net name listed on right)
+                                 J16.5            0.9000  2.5000
+                                                                           JC_2
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JD_3         pins MOVED FROM this net (to net name listed on right)
+                                 J20.5            3.9000  1.3000
+                                                                           JB_3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JD_4         pins MOVED FROM this net (to net name listed on right)
+                                 J24.5            1.4000  2.5000
+                                                                           JC_5
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JD_6         pins MOVED FROM this net (to net name listed on right)
+                                 J32.5            1.4000  1.3000
+                                                                           JA_2
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JD_7         pins MOVED FROM this net (to net name listed on right)
+                                 J36.5            2.4000  2.5000
+                                                                           JD_0
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/Jeonghyun/Lab/PMOD2BNC_v2/allegro/pmod2bnc.brd                           |
+|                                                    Tue Apr  2 01:29:31 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      30                                        |
+|                                                                              |
+|   Total ECO changes reported:      30                                        |
+|------------------------------------------------------------------------------|

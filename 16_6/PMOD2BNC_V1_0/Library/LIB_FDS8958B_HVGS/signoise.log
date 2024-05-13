@@ -1,8 +1,0 @@
-INFO: Loaded existing device file 'C:\PJH\GIT\PMOD2BNC\16_6\PMOD2BNC_V1_0\Library\LIB_FDS8958B_HVGS\devices.dml'
-INFO: Loaded existing device file 'C:\PJH\spartan7\spartan7\spartan7.dml'
-INFO: Loaded existing device file 'C:\PJH\GIT\PMOD2BNC\IBIS\PSPICE\spartan7.dml'
-INFO: Finished loading SigNoise device libraries
-WARNING: Dml model SPARTAN7 is duplicated 2 times in libraries
-         ..\..\..\..\..\..\spartan7\spartan7\spartan7.dml ..\..\..\..\IBIS\PSPICE\spartan7.dml.
-WARNING: Dml model SPARTAN7_PKG is duplicated 2 times in libraries
-         ..\..\..\..\..\..\spartan7\spartan7\spartan7.dml ..\..\..\..\IBIS\PSPICE\spartan7.dml.

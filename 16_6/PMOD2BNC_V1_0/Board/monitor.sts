@@ -1,8 +1,0 @@
-#Allegro PCB Router v16-6-112 made 2012/09/12 at 23:00:45
-#Host 
-#ROUTING STATUS <<< C:/PJH/GIT/PMOD2BNC/16_6/PMOD2BNC_V1_0/Board\PMOD2BNC_V1_0_2.dsn >>>
-Start  Time: Report Time: Thu Jun 29 17:00:14 2023
-
-Nets         =      106   Connections         =      469
-Current Wire =        0   Reroute wires       =       48
-Completion   =    8.53%   Unconnections       =      429

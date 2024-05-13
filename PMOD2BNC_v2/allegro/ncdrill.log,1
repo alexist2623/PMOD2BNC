@@ -1,0 +1,58 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : PMOD2BNC.brd                                  )
+(    Software Version : 23.1S003                                      )
+(    Date/Time        : Tue Apr  2 16:47:29 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		5.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (inch)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+
+
+ Drill files being output to directory 'C:/Jeonghyun/Lab/PMOD2BNC_v2/allegro' ...
+
+
+
+     'PMOD2BNC-1-4.drl' created for holes connecting TOP and BOTTOM
+     --------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  11.8000    0.0000/  0.0000      PLATED       2518
+            2.  40.2000    0.0000/  0.0000      PLATED         48
+            3.  59.1000    0.0000/  0.0000      PLATED         32
+            4.  63.0000    0.0000/  0.0000      PLATED        128
+            5. 122.0000    0.0000/  0.0000  NON_PLATED          4
+
+     ---- Total holes:                                       2730
+
+     ---- Total head travel:              37.58 feet (11.45 meters)
+

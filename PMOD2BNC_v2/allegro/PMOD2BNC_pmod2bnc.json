@@ -1,0 +1,18 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [],
+	"Net" : [],
+	"Connection" : [
+		{
+			"Name" : "J17.5",
+			"C_PATH" : "@pmod2bnc.schematic1(sch_1):ins98@\\sma-ke-10\\.\\sma-ke-10.normal\\(chips):IO",
+			"Logical" : "JB_4",
+			"Physical" : "JA_3"
+		}
+	]
+}

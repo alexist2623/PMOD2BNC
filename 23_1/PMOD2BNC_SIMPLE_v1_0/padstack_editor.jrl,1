@@ -1,7 +1,0 @@
-\t (00:00:00) padstack_editor 23.1 P001 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Mon Dec 25 20:04:14 2023
-\t (00:00:00)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=28108 CPUs=20
-\t (00:00:00) CmdLine= padstack_editor -mpssession alexi -file C:/Users/alexi/AppData/Local/Temp/#Taaaaai08164.tmp -pname VIA_25_30_W_SOLDER-1 -data C:/Users/alexi/AppData/Local/Temp/#Taaaaal08164.tmp
-\t (00:00:00) 
-\d (00:00:05) QtSignal MainWindow Exit triggered
-\t (00:00:05)     Journal end - Mon Dec 25 20:04:19 2023

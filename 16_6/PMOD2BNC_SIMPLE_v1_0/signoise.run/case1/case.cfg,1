@@ -1,5 +1,0 @@
-(SISGlobals 
- (GeometryWindow "0.052437 IN" ) 
- (DefaultBIModel SPARTAN7_LVCMOS33_S_12_HR ) 
- (CutoffFrequency "20000 MHz" ) 
- (SelectedSimulator Spectre ) ) 

@@ -1,0 +1,45 @@
+\t (00:00:08) allegro 23.1 S003 Windows SPB 64-bit Edition
+\t (00:00:08)     Journal start - Fri Apr 19 14:40:34 2024
+\t (00:00:08)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=33324 CPUs=20
+\t (00:00:08) CmdLine= C:\Cadence\OrCADX_23.1\tools\bin\allegro.exe
+\t (00:00:08) 
+   (00:00:08) Loading axlcore.cxt 
+\t (00:00:11) Opening existing design...
+\i (00:00:17) fillin no 
+\e (00:00:17) Failed to open design since it is locked - C:/Jeonghyun/Lab/PMOD2BNC_v2/allegro/PMOD2BNC.brd
+\t (00:00:17) Starting new design...
+\i (00:00:19) trapsize 116667
+\i (00:00:19) generaledit 
+\i (00:02:32) trl altium2pcb 
+\i (00:02:32) helpcmd C:/Users/alexi/AppData/Local/Temp/#Taaaaae33324.tmp 
+\i (00:02:34) setwindow form.trl_altium2pcb
+\i (00:02:34) FORM trl_altium2pcb cancel  
+   (00:02:34) Loading translators.cxt 
+   (00:02:34) Loading toolbox.cxt 
+   (00:02:34) Initializing toolbox...
+\i (00:02:34) setwindow pcb
+\i (00:02:34) generaledit 
+\i (00:02:51) pads in 
+\i (00:02:53) setwindow form.pads_in
+\i (00:02:53) FORM pads_in filename_browse  
+\i (00:02:56) fillin "menu_cancel"
+\i (00:02:57) FORM pads_in cancel  
+\i (00:02:57) setwindow pcb
+\i (00:02:57) generaledit 
+\i (00:03:01) pcad in 
+\i (00:03:03) setwindow form.pcad_in
+\i (00:03:03) FORM pcad_in cancel  
+\i (00:03:03) setwindow pcb
+\i (00:03:03) generaledit 
+\i (00:03:07) pads lib in 
+\i (00:03:09) setwindow form.pads_lib_in
+\i (00:03:09) FORM pads_lib_in cancel  
+\i (00:03:09) setwindow pcb
+\i (00:03:09) generaledit 
+\i (00:03:12) ns_eagle2allegro 
+   (00:03:12) Loading eagle.cxt 
+\i (00:03:12) generaledit 
+\i (00:08:07) exit 
+\e (00:08:07) Do you want to save the changes you made to unnamed?
+\i (00:08:09) fillin no 
+\t (00:08:09)     Journal end - Fri Apr 19 14:48:36 2024
