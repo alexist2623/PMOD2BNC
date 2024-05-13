@@ -12,7 +12,7 @@ The PMOD2BNC board is a daughter board for the ArtyS7 that converts the PMOD to 
 <img width="616" alt="image" src="https://github.com/snu-quiqcl/PMOD2BNC/assets/49219392/8f47d709-ddd9-4472-88b3-1305d00631ff">
 </p>
 
-ANSYS SIwave shows good characteristic impedance property.
+ANSYS SIwave shows good impedance characteristics.
 
 <p align="center">
 <img width="1226" alt="image" src="https://github.com/snu-quiqcl/PMOD2BNC/assets/49219392/823fb6cd-2c5d-498c-b0fd-bf70dbbadfbe">
